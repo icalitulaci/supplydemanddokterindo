@@ -3,7 +3,7 @@
 A map and analysis tool that estimates which Indonesian hospitals need which specialist doctors, and explains why.
 Every hospital gets a **need score from 0 to 100 for each specialty. Higher means the hospital needs that doctor more.**
 
-- **Hosted read-only copy:** https://icalitulaci.github.io/lokerdokter/
+- **Hosted read-only copy:** https://icalitulaci.github.io/supplydemanddokterindo/
 - **Scoring rules:** [`specialist-demand-dashboard-prompt.md`](specialist-demand-dashboard-prompt.md), also explained in the app under "How the score works".
 
 > **Estimates, not facts.** All data is self-reported by hospitals and doctors in government systems and has not been checked on the ground.
