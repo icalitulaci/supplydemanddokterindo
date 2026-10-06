@@ -1,0 +1,31 @@
+stratum,hospital_id,hospital,kab_kota,province,ownership,specialty,sirs_count,dreams_count,score,verified_count,verdict,source_url,checked_on,note
+contradicted,7104027,RS Bergerak Kab.Kep.Talaud,Kepulauan Talaud,Sulawesi Utara,Government,Sp.An,0,1,56.0,,,,,
+contradicted,1505028,RS Umum Daerah Sungai Gelam,Muaro Jambi,Jambi,Government,Sp.B,0,1,62.0,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+contradicted,8109018,RS Umum Daerah dr. Salim Alkatiri,Buru Selatan,Maluku,Government,Sp.PD,0,1,100.0,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+contradicted,3522076,RS Umum Daerah Temayang,Bojonegoro,Jawa Timur,Government,Sp.Rad,0,1,50.0,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+contradicted,7201011,RS Umum Daerah Banggai,Banggai Laut,Sulawesi Tengah,Government,Sp.An,0,1,100.0,,,,,
+contradicted,2105005,RS Umum Daerah Tarempa,Kepulauan Anambas,Kepulauan Riau,Government,Sp.B,0,4,80.0,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+contradicted,9232011,RS Umum Daerah Er Dabi,Yalimo,Papua Pegunungan,Government,Sp.A,0,1,85,,,,,
+contradicted,7305026,RS Umum Daerah Galesong Kabupaten Takalar,Takalar,Sulawesi Selatan,Government,Sp.An,0,1,50.0,,inconclusive,https://www.metrotvnews.com/read/kM6CRa3V-terus-merugi-pemkab-takalar-tutup-rsud-galesong,2026-10-06,"Hospital suspended medical services from 1 May 2025, but SIRS and DREAMS still list it as staffed. The data is stale either way."
+contradicted,3202087,RS Umum Daerah Sagaranten,Sukabumi,Jawa Barat,Government,Sp.B,0,1,62.0,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+contradicted,7209002,RS Umum Daerah Wakai,Tojo Una-Una,Sulawesi Tengah,Government,Sp.B,0,1,62.0,,,,,
+contradicted,8107024,RS Umum Daerah Goran Riun,Seram Bagian Timur,Maluku,Government,Sp.PD,0,1,62.0,,,,,
+contradicted,8204012,RS Umum Obi,Halmahera Selatan,Maluku Utara,Government,Sp.OG,0,1,56.0,,,,,
+both_zero,7309055,Rumah Sakit Umum Daerah Camba,Maros,Sulawesi Selatan,Government,Sp.PD,0,0,56.0,,,,,
+both_zero,9202014,RS Umum Daerah Dekai,Yahukimo,Papua Pegunungan,Government,Sp.An,0,0,100.0,,,,,
+both_zero,9232011,RS Umum Daerah Er Dabi,Yalimo,Papua Pegunungan,Government,Sp.PD,0,0,85,,,,,
+both_zero,1225002,RS Umum Daerah Cerah Medika Kab. Nias Barat,Nias Barat,Sumatera Utara,Government,Sp.A,0,0,55,,,,,
+both_zero,1509042,RS Umum Daerah Rantau Ikil,Bungo,Jambi,Government,Sp.OG,0,0,35,,,,,
+both_zero,1202017,RS Umum Daerah dr. Husni Thamrin,Mandailing Natal,Sumatera Utara,Government,Sp.OG,0,0,56.0,,,,,
+both_zero,3206096,RSUD Tani dan Nelayan Tasikmalaya,Tasikmalaya,Jawa Barat,Government,Sp.An,0,0,62.0,,,,,
+both_zero,1509042,RS Umum Daerah Rantau Ikil,Bungo,Jambi,Government,Sp.PK,0,0,35,,,,,
+private,1208068,RS Seger Waras,Asahan,Sumatera Utara,Private,Sp.Rad,0,,50.0,,,,,
+private,3317042,RS Keluarga Sehat Rembang,Rembang,Jawa Tengah,Private,Sp.A,0,,56.0,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+private,6471087,RS Medika Utama Manggar,Kota Balikpapan,Kalimantan Timur,Private,Sp.OG,0,,50.0,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+private,6101135,RS Santa Elisabeth,Sambas,Kalimantan Barat,Private,Sp.Rad,0,,62.0,,,,,
+private,5206001,Rumah Sakit Rabita,Bima,Nusa Tenggara Barat,Private,Sp.An,0,,47,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+private,3216407,RS Cahaya Medika,Bekasi,Jawa Barat,Private,Sp.PD,0,,50.0,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+private,1111030,Rumah Sakit Diana Medical Center,Aceh Utara,Aceh,Private,Sp.OG,0,,47,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+private,1212174,RS Umum Keliat,Deli Serdang,Sumatera Utara,Private,Sp.Rad,0,,50.0,,,,,
+private,3173116,RS Umum YPK Mandiri,Kota Jakarta Pusat,DKI Jakarta,Private,Sp.PK,0,,50.0,,inconclusive,,2026-10-06,Desk check (web search): no doctor list published by the hospital or booking sites. Needs a phone call.
+private,7314025,RS Umum Anugrah Pangkajene,Sidenreng Rappang,Sulawesi Selatan,Private,Sp.PK,0,,56.0,,,,,

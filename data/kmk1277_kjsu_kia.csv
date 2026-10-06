@@ -1,0 +1,579 @@
+provinsi,no,nama_rs,kab_kota,kanker,jantung,stroke,uronefrologi,kia,halaman_pdf
+Aceh,1,Rumah Sakit Umum Daerah Dr. Zainoel Abidin,Kota Banda Aceh,Utama,Utama,Paripurna,Paripurna,Utama,7
+Aceh,2,Rumah Sakit Umum Daerah Dr. H. Yulidin Away,Aceh Selatan,Madya,Madya,Madya,Madya,Madya,7
+Aceh,3,Rumah Sakit Umum Daerah H. Sahudin Kutacane,Aceh Tenggara,Madya,Madya,Madya,Madya,Madya,7
+Aceh,4,Rumah Sakit Umum Daerah dr. Zubir Mahmud,Aceh Timur,Madya,Madya,Madya,Madya,Madya,7
+Aceh,5,Rumah Sakit Umum Daerah Datu Beru Takengon,Aceh Tengah,Madya,Madya,Madya,Madya,Madya,7
+Aceh,6,Rumah Sakit Umum Daerah Cut Nyak Dhien,Aceh Barat,Madya,Madya,Madya,Madya,Madya,8
+Aceh,7,Rumah Sakit Umum Daerah TGK Chik Ditiro Sigli,Pidie,Madya,Madya,Madya,Madya,Madya,8
+Aceh,8,Rumah Sakit Umum Daerah Dr. Fauziah Bireun,Bireuen,Madya,Madya,Madya,Madya,Madya,8
+Aceh,9,Rumah Sakit Umum Daerah Meuraxa,Kota Banda Aceh,Madya,Madya,Madya,Madya,Madya,8
+Aceh,10,Rumah Sakit Umum Daerah Langsa,Kota Langsa,Madya,Madya,Madya,Madya,Madya,8
+Aceh,11,Rumah Sakit Umum Cut Meutia Kab. Aceh Utara,Aceh Utara,Madya,Madya,Madya,Madya,Madya,8
+Aceh,12,Rumah Sakit Umum Daerah Simeulue,Simeulue,Madya,Madya,Madya,Madya,Madya,8
+Aceh,13,Rumah Sakit Umum Daerah Aceh Singkil,Aceh Singkil,Madya,Madya,Madya,Madya,Madya,8
+Aceh,14,Rumah Sakit Umum Daerah Kota Subulussalam,Kota Subulussalam,Madya,Madya,Madya,Madya,Madya,8
+Aceh,15,Rumah Sakit Umum Daerah Kabupaten Aceh Besar,Aceh Besar,Madya,Madya,Madya,Madya,Madya,8
+Aceh,16,Rumah Sakit Umum Daerah Teungku Peukan,Aceh Barat Daya,Madya,Madya,Madya,Madya,Madya,8
+Aceh,17,Rumah Sakit Umum Muhammad Ali Kasim,Gayo Lues,Madya,Madya,Madya,Madya,Madya,9
+Aceh,18,Rumah Sakit Umum Daerah Muda Sedia Kabupaten Aceh Tamiang,Aceh Tamiang,Madya,Madya,Madya,Madya,Madya,9
+Aceh,19,Rumah Sakit Umum Daerah Sultan Iskandar Muda Nagan Raya,Nagan Raya,Madya,Madya,Madya,Madya,Madya,9
+Aceh,20,Rumah Sakit Umum Daerah Teuku Umar Kabupaten Aceh Jaya,Aceh Jaya,Madya,Madya,Madya,Madya,Madya,9
+Aceh,21,Rumah Sakit Umum Daerah Muyang Kute Redelong Bener Meriah,Bener Meriah,Madya,Madya,Madya,Madya,Madya,9
+Aceh,22,Rumah Sakit Umum Daerah Pidie Jaya,Pidie Jaya,Madya,Madya,Madya,Madya,Madya,9
+Aceh,23,Rumah Sakit Umum Daerah Sabang,Kota Sabang,Madya,Madya,Madya,Madya,Madya,9
+Sumatera Utara,1,Rumah Sakit Umum Pusat H. Adam Malik Medan,Kota Medan,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,9
+Sumatera Utara,2,Rumah Sakit Umum Haji Medan,Deli Serdang,Utama,Utama,Utama,Utama,Utama,9
+Sumatera Utara,3,Rumah Sakit Umum Daerah dr. M. Thomsen Nias,Nias,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,4,Rumah Sakit Umum Daerah Panyabungan,Mandailing Natal,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,5,Rumah Sakit Umum Daerah Gunung Tua,Padang Lawas Utara,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,6,Rumah Sakit Umum Daerah Sibuhuan,Padang Lawas,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,7,Rumah Sakit Umum Daerah Pandan,Tapanuli Tengah,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,8,Rumah Sakit Umum Daerah Tarutung,Tapanuli Utara,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,9,Rumah Sakit Umum Daerah Rantau Prapat,Labuhan Batu,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,10,Rumah Sakit Umum Daerah H. Abdul Manan Simatupang,Asahan,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,11,Rumah Sakit Umum Daerah Parapat,Simalungun,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,12,Rumah Sakit Umum Daerah Kabupaten Karo,Karo,Madya,Madya,Madya,Madya,Madya,10
+Sumatera Utara,13,Rumah Sakit Umum Daerah Drs. H. Amri Tambunan,Deli Serdang,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,14,Rumah Sakit Umum Daerah Tanjung Pura,Langkat,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,15,Rumah Sakit Umum Daerah Sultan Sulaiman Syariful Alamsyah,Serdang Bedagai,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,16,Rumah Sakit Umum Daerah Batu Bara,Batu Bara,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,17,Rumah Sakit Umum Daerah Kota Pinang,Labuhan Batu Selatan,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,18,Rumah Sakit Umum Daerah Aek Kanopan,Labuhan Batu Utara,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,19,Rumah Sakit Umum Daerah Dr. Pirngadi,Kota Medan,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,20,Rumah Sakit Umum Daerah Dr. R. M. Djoelham Binjai,Kota Binjai,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,21,Rumah Sakit Umum Daerah Tapanuli Selatan,Tapanuli Selatan,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,22,Rumah Sakit Umum Daerah Dr. Hadrianus Sinaga,Samosir,Madya,Madya,Madya,Madya,Madya,11
+Sumatera Utara,23,Rumah Sakit Umum Daerah Dolok Sanggul,Humbang Hasundutan,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,24,Rumah Sakit Umum Daerah Porsea,Toba Samosir,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,25,Rumah Sakit Umum Daerah Sidikalang,Dairi,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,26,Rumah Sakit Umum Daerah Nias Selatan,Nias Selatan,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,27,Rumah Sakit Umum Daerah Salak,Pakpak Bharat,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,28,Rumah Sakit Umum Daerah Tafaeri,Nias Utara,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,29,Rumah Sakit Pratama Kab. Nias Barat,Nias Barat,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,30,Rumah Sakit Umum Daerah Dr. FL Tobing Sibolga,Kota Sibolga,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,31,Rumah Sakit Umum Daerah Dr. Tengku Mansyur,Kota Tanjung Balai,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,32,Rumah Sakit Umum Daerah Dr. Djasamen Saragih,Kota Pematang Siantar,Madya,Madya,Madya,Madya,Madya,12
+Sumatera Utara,33,Rumah Sakit Umum Daerah Dr. H. Kumpulan Pane,Kota Tebing Tinggi,Madya,Madya,Madya,Madya,Madya,13
+Sumatera Utara,34,Rumah Sakit Umum Daerah Padang Sidempuan,Kota Padang Sidempuan,Madya,Madya,Madya,Madya,Madya,13
+Sumatera Barat,1,Rumah Sakit Umum Pusat Dr. M. Djamil Padang,Kota Padang,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,13
+Sumatera Barat,2,Rumah Sakit Otak DR. drs. M. Hatta Bukittinggi,Kota Bukittinggi,,,Paripurna,,,13
+Sumatera Barat,3,Rumah Sakit Umum Daerah Dr. Achmad Mochtar,Kota Bukittinggi,Utama,Utama,Utama,Utama,Utama,13
+Sumatera Barat,4,Rumah Sakit Umum Daerah Dr. Muhammad Zein Painan,Pesisir Selatan,Madya,Madya,Madya,Madya,Madya,13
+Sumatera Barat,5,Rumah Sakit Umum Daerah Prof. Dr. M.A. Hanafiah,Tanah Datar,Madya,Madya,Madya,Madya,Madya,13
+Sumatera Barat,6,Rumah Sakit Umum Daerah Padang Pariaman,Padang Pariaman Lima Puluh,Madya,Madya,Madya,Madya,Madya,13
+Sumatera Barat,7,Rumah Sakit Umum Daerah dr. Achmad Darwis,Kota,Madya,Madya,Madya,Madya,Madya,13
+Sumatera Barat,8,Rumah Sakit Umum Daerah Lubuk Basung,Agam,Madya,Madya,Madya,Madya,Madya,14
+Sumatera Barat,9,Rumah Sakit Umum Daerah Tuanku Imam Bonjol,Pasaman,Madya,Madya,Madya,Madya,Madya,14
+Sumatera Barat,10,Rumah Sakit Umum Daerah Sungai Dareh,Dharmasraya,Madya,Madya,Madya,Madya,Madya,14
+Sumatera Barat,11,Rumah Sakit Umum Daerah Pasaman Barat,Pasaman Barat,Madya,Madya,Madya,Madya,Madya,14
+Sumatera Barat,12,Rumah Sakit Umum Daerah dr. Rasidin Padang,Kota Padang,Madya,Madya,Madya,Madya,Madya,14
+Sumatera Barat,13,Rumah Sakit Umum Daerah Mohammad Natsir,Kota Solok,Madya,Madya,Madya,Madya,,14
+Sumatera Barat,14,Rumah Sakit Umum Daerah Serambi Madinah Kota Solok,Kota Solok,,,,,Madya,14
+Sumatera Barat,15,Rumah Sakit Umum Daerah Kabupaten Kepulauan Mentawai,Kep. Mentawai,Madya,Madya,Madya,Madya,Madya,14
+Sumatera Barat,16,Rumah Sakit Umum Daerah Muara Labuh,Solok Selatan,Madya,Madya,Madya,Madya,Madya,14
+Sumatera Barat,17,Rumah Sakit Umum Daerah Arosuka Solok,Solok,Madya,Madya,Madya,Madya,Madya,14
+Sumatera Barat,18,Rumah Sakit Umum Daerah Ahmad Syafi'i Ma'arif,Sijunjung,Madya,Madya,Madya,Madya,Madya,15
+Sumatera Barat,19,Rumah Sakit Umum Daerah Sawah Lunto,Kota Sawah Lunto,Madya,Madya,Madya,Madya,Madya,15
+Sumatera Barat,20,Rumah Sakit Umum Daerah Padang Panjang,Kota Padang Panjang,Madya,Madya,Madya,Madya,Madya,15
+Sumatera Barat,21,Rumah Sakit Umum Daerah Kota Bukittinggi,Kota Bukittinggi,Madya,Madya,Madya,Madya,Madya,15
+Sumatera Barat,22,Rumah Sakit Umum Daerah Dr. Adnaan WD,Kota Payakumbuh,Madya,Madya,Madya,Madya,Madya,15
+Sumatera Barat,23,Rumah Sakit Umum Daerah Pariaman,Kota Pariaman,Madya,Madya,Madya,Madya,Madya,15
+Riau,1,Rumah Sakit Umum Pusat Pekanbaru,Kota Pekanbaru,Utama,Utama,Utama,Utama,Utama,15
+Riau,2,Rumah Sakit Umum Daerah Arifin Achmad,Kota Pekanbaru,Utama,Utama,Utama,Utama,Utama,15
+Riau,3,Rumah Sakit Umum Daerah Indrasari Rengat,Indragiri Hulu,Madya,Madya,Madya,Madya,Madya,15
+Riau,4,Rumah Sakit Umum Daerah Puri Husada Tembilahan,Indragiri Hilir,Madya,Madya,Madya,Madya,Madya,15
+Riau,5,Rumah Sakit Umum Daerah Bangkinang,Kampar,Madya,Madya,Madya,Madya,Madya,16
+Riau,6,Rumah Sakit Umum Daerah Dr. RM. Pratomo Bagansiapiapi,Rokan Hilir,Madya,Madya,Madya,Madya,Madya,16
+Riau,7,Rumah Sakit Umum Daerah Kota Dumai,Kota Dumai,Madya,Madya,Madya,Madya,Madya,16
+Riau,8,Rumah Sakit Umum Daerah Teluk Kuantan,Kuantan Singingi,Madya,Madya,Madya,Madya,Madya,16
+Riau,9,Rumah Sakit Umum Daerah Selasih Riau,Pelalawan,Madya,Madya,Madya,Madya,Madya,16
+Riau,10,Rumah Sakit Umum Daerah Tengku Rafi'an Siak Sri Indrapura,Siak,Madya,Madya,Madya,Madya,Madya,16
+Riau,11,Rumah Sakit Umum Daerah Rokan Hulu,Rokan Hulu,Madya,Madya,Madya,Madya,Madya,16
+Riau,12,Rumah Sakit Umum Daerah Kabupaten Kepulauan Meranti,Kep. Meranti,Madya,Madya,Madya,Madya,Madya,16
+Riau,13,Rumah Sakit Daerah Madani Kota Pekanbaru,Kota Pekanbaru,Madya,Madya,Madya,Madya,Madya,16
+Riau,14,Rumah Sakit Umum Daerah Bengkalis,Bengkalis,Madya,Madya,Madya,Madya,Madya,16
+Kepulauan Riau,1,Rumah Sakit Umum Daerah Raja Ahmad Tabib,Kota Tanjung Pinang,Utama,Utama,Utama,Utama,Utama,17
+Kepulauan Riau,2,Rumah Sakit Umum Daerah Muhammad Sani Kabupaten Karimun,Karimun,Madya,Madya,Madya,Madya,Madya,17
+Kepulauan Riau,3,Rumah Sakit Umum Daerah Kabupaten Bintan,Bintan,Madya,Madya,Madya,Madya,Madya,17
+Kepulauan Riau,4,Rumah Sakit Umum Daerah Natuna,Natuna,Madya,Madya,Madya,Madya,Madya,17
+Kepulauan Riau,5,Rumah Sakit Umum Daerah Embung Fatimah Kota Batam,Kota Batam,Madya,Madya,Madya,Madya,Madya,17
+Kepulauan Riau,6,Rumah Sakit Umum Daerah Dabo Kabupaten Lingga,Lingga,Madya,Madya,Madya,Madya,Madya,17
+Kepulauan Riau,7,Rumah Sakit Umum Daerah Kota Tanjung Pinang,Kota Tanjung Pinang,Madya,Madya,Madya,Madya,Madya,17
+Kepulauan Riau,8,Rumah Sakit Umum Daerah Tarempa,Kep. Anambas,Madya,Madya,Madya,Madya,Madya,17
+Jambi,1,Rumah Sakit Umum Daerah Raden Mattaher Jambi,Kota Jambi,Utama,Utama,Utama,Utama,Utama,18
+Jambi,2,Rumah Sakit Umum Daerah Kolonel Abundjani Bangko,Merangin,Madya,Madya,Madya,Madya,Madya,18
+Jambi,3,Rumah Sakit Umum Daerah Ahmad Ripin,Muaro Jambi,Madya,Madya,Madya,Madya,Madya,18
+Jambi,4,Rumah Sakit Umum Daerah KH. Daud Arif,Tanjung Jabung Barat,Madya,Madya,Madya,Madya,Madya,18
+Jambi,5,Rumah Sakit Umum Daerah Sultan Thaha Saifuddin,Tebo,Madya,Madya,Madya,Madya,Madya,18
+Jambi,6,Rumah Sakit Umum Daerah H. Hanafie,Bungo,Madya,Madya,Madya,Madya,Madya,18
+Jambi,7,Rumah Sakit Umum Daerah H. Abdul Manap,Kota Jambi,Madya,Madya,Madya,Madya,Madya,18
+Jambi,8,Rumah Sakit Umum Daerah Mayjen H. A. Thalib,Kota Sungai penuh,Madya,Madya,Madya,Madya,Madya,18
+Jambi,9,Rumah Sakit Umum Daerah Prof. Dr. H. Chatib Quzwain,Sarolangun,Madya,Madya,Madya,Madya,Madya,18
+Jambi,10,Rumah Sakit Umum Daerah Haji Abdoel Madjid Batoe,Batang Hari,Madya,Madya,Madya,Madya,Madya,19
+Jambi,11,Rumah Sakit Umum Daerah Nurdin Hamzah,Tanjung Jabung Timur,Madya,Madya,Madya,Madya,Madya,19
+Bengkulu,1,Rumah Sakit Umum Daerah Dr. M. Yunus Bengkulu,Kota Bengkulu,Utama,Utama,Utama,Utama,Utama,19
+Bengkulu,2,Rumah Sakit Umum Daerah Hasanuddin Damrah Manna,Bengkulu Selatan,Madya,Madya,Madya,Madya,Madya,19
+Bengkulu,3,Rumah Sakit Umum Daerah Kabupaten Rejang Lebong,Rejang Lebong,Madya,Madya,Madya,Madya,Madya,19
+Bengkulu,4,Rumah Sakit Umum Daerah Arga Makmur,Bengkulu Utara,Madya,Madya,Madya,Madya,Madya,19
+Bengkulu,5,Rumah Sakit Umum Daerah Mukomuko,Muko Muko,Madya,Madya,Madya,Madya,Madya,19
+Bengkulu,6,Rumah Sakit Umum Daerah Harapan dan Doa,Kota Bengkulu,Madya,Madya,Madya,Madya,Madya,19
+Bengkulu,7,Rumah Sakit Umum Daerah Kaur,Kaur,Madya,Madya,Madya,Madya,Madya,19
+Bengkulu,8,Rumah Sakit Umum Daerah Tais Kabupaten Seluma,Seluma,Madya,Madya,Madya,Madya,Madya,20
+Bengkulu,9,Rumah Sakit Umum Daerah Lebong,Lebong,Madya,Madya,Madya,Madya,Madya,20
+Bengkulu,10,Rumah Sakit Umum Daerah Kepahiang,Kepahiang,Madya,Madya,Madya,Madya,Madya,20
+Bengkulu,11,Rumah Sakit Umum Daerah Bengkulu Tengah,Bengkulu Tengah,Madya,Madya,Madya,Madya,Madya,20
+Sumatera Selatan,1,Rumah Sakit Umum Pusat Dr. Mohammad Hoesin Palembang,Kota Palembang,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,20
+Sumatera Selatan,2,Rumah Sakit Umum Pusat Dr. Rivai Abdullah Banyuasin,Banyuasin,Utama,Utama,Utama,Utama,Madya,20
+Sumatera Selatan,3,Rumah Sakit Umum Daerah Siti Fatimah Provinsi Sumatera Selatan,Kota Palembang,Utama,Utama,Utama,Utama,Utama,20
+Sumatera Selatan,4,Rumah Sakit Umum Daerah Dr. Ibnu Sutowo Baturaja,Ogan Komering Ulu,Madya,Madya,Madya,Madya,Madya,20
+Sumatera Selatan,5,Rumah Sakit Umum Daerah Kayuagung,Ogan Komering Ilir,Madya,Madya,Madya,Madya,Madya,20
+Sumatera Selatan,6,Rumah Sakit Umum Daerah dr. H. M. Rabain Muara Enim,Muara Enim,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,7,Rumah Sakit Umum Daerah Lahat,Lahat,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,8,Rumah Sakit Umum Daerah Sekayu,Musi Banyuasin,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,9,Rumah Sakit Umum Daerah Banyuasin,Banyuasin,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,10,Rumah Sakit Umum Daerah Ogan Komering Ulu Timur,Ogan Komering Ulu Timur,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,11,Rumah Sakit Umum Daerah Palembang Bari,Kota Palembang,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,12,Rumah Sakit Umum Daerah Kota Prabumulih,Kota Prabumulih,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,13,Rumah Sakit Umum Daerah Dr. Sobirin Kabupaten Musi Rawas,Musi Rawas,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,14,Rumah Sakit Umum Daerah Talang Ubi,Penukal Abab Lematang Ilir,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,15,Rumah Sakit Umum Daerah Rupit Kabupaten Musi Rawas Utara,Musi Rawas Utara,Madya,Madya,Madya,Madya,Madya,21
+Sumatera Selatan,16,Rumah Sakit Umum Daerah Muara Dua,Ogan Komering Ulu Selatan,Madya,Madya,Madya,Madya,Madya,22
+Sumatera Selatan,17,Rumah Sakit Umum Daerah Kabupaten Ogan Ilir,Ogan Ilir,Madya,Madya,Madya,Madya,Madya,22
+Sumatera Selatan,18,Rumah Sakit Umum Daerah Kabupaten Empat Lawang,Empat Lawang,Madya,Madya,Madya,Madya,Madya,22
+Sumatera Selatan,19,Rumah Sakit Umum Daerah Basemah Kota Pagar Alam,Kota Pagar Alam,Madya,Madya,Madya,Madya,Madya,22
+Sumatera Selatan,20,Rumah Sakit Umum Daerah Siti Aisyah Kota Lubuk Linggau,Kota Lubuk Linggau,Madya,Madya,Madya,Madya,Madya,22
+Kepulauan Bangka Belitung,1,Rumah Sakit Umum Daerah Dr. (HC) Ir. Soekarno,Bangka,Utama,Utama,Utama,Utama,Utama,22
+Kepulauan Bangka Belitung,2,Rumah Sakit Umum Daerah Depati Bahrin,Bangka,Madya,Madya,Madya,Madya,Madya,22
+Kepulauan Bangka Belitung,3,Rumah Sakit Umum Daerah dr. H. Marsidi Judono,Belitung,Madya,Madya,Madya,Madya,Madya,22
+Kepulauan Bangka Belitung,4,Rumah Sakit Umum Daerah Sejiran Setason,Bangka Barat,Madya,Madya,Madya,Madya,Madya,23
+Kepulauan Bangka Belitung,5,Rumah Sakit Umum Daerah Drs. H. Abu Hanifah,Bangka Tengah,Madya,Madya,Madya,Madya,Madya,23
+Kepulauan Bangka Belitung,6,Rumah Sakit Umum Daerah Depati Hamzah,Kota Pangkal Pinang,Madya,Madya,Madya,Madya,Madya,23
+Kepulauan Bangka Belitung,7,Rumah Sakit Umum Daerah Kab. Bangka Selatan,Bangka Selatan,Madya,Madya,Madya,Madya,Madya,23
+Kepulauan Bangka Belitung,8,Rumah Sakit Umum Daerah Muhammad Zein,Belitung Timur,Madya,Madya,Madya,Madya,Madya,23
+Lampung,1,Rumah Sakit Umum Daerah Dr. H. Abdul Moeloek,Kota Bandar Lampung,Utama,Utama,Utama,Utama,Utama,23
+Lampung,2,Rumah Sakit Umum Daerah Batin Mangunang,Tanggamus,Madya,Madya,Madya,Madya,Madya,23
+Lampung,3,"Rumah Sakit Umum Daerah Dr. H. Bob Bazar, SKM",Lampung Selatan,Madya,Madya,Madya,Madya,Madya,23
+Lampung,4,Rumah Sakit Umum Daerah Sukadana,Lampung Timur,Madya,Madya,Madya,Madya,Madya,23
+Lampung,5,Rumah Sakit Umum Daerah Demang Sepulau Raya,Lampung Tengah,Madya,Madya,Madya,Madya,Madya,24
+Lampung,6,Rumah Sakit Umum Daerah Mayjend. HM. Ryacudu Kotabumi,Lampung Utara,Madya,Madya,Madya,Madya,Madya,24
+Lampung,7,Rumah Sakit Umum Daerah Zainal Abidin Pagar Alam,Way Kanan,Madya,Madya,Madya,Madya,Madya,24
+Lampung,8,Rumah Sakit Umum Daerah Menggala Tulang Bawang,Tulang Bawang,Madya,Madya,Madya,Madya,Madya,24
+Lampung,9,Rumah Sakit Umum Daerah Dr. A. Dadi Tjokrodipo,Kota Bandar Lampung,Madya,Madya,Madya,Madya,Madya,24
+Lampung,10,Rumah Sakit Umum Daerah Alimuddin Umar,Lampung Barat,Madya,Madya,Madya,Madya,Madya,24
+Lampung,11,Rumah Sakit Umum Daerah Pringsewu,Pringsewu,Madya,Madya,Madya,Madya,Madya,24
+Lampung,12,Rumah Sakit Umum Daerah Pesawaran,Pesawaran,Madya,Madya,Madya,Madya,Madya,24
+Lampung,13,Rumah Sakit Umum Daerah Ragab Begawe Caram,Mesuji,Madya,Madya,Madya,Madya,Madya,24
+Lampung,14,Rumah Sakit Umum Daerah Tulang Bawang Barat,Tulang Bawang Barat,Madya,Madya,Madya,Madya,Madya,25
+Lampung,15,Rumah Sakit Umum Daerah KH. Muhammad Thohir KRUI,Pesisir Barat,Madya,Madya,Madya,Madya,Madya,25
+Lampung,16,Rumah Sakit Umum Daerah Ahmad Yani Metro,Kota Metro,Madya,Madya,Madya,Madya,Madya,25
+Banten,1,Rumah Sakit Umum Pusat Dr. Sitanala Tangerang,Kota Tangerang,Utama,Utama,Paripurna,Utama,Madya,25
+Banten,2,Rumah Sakit Umum Daerah Banten,Kota Serang,Utama,Madya,Utama,Utama,Utama,25
+Banten,3,Rumah Sakit Umum Daerah Kabupaten Tangerang,Tangerang,Madya,Utama,Madya,Madya,Paripurna,25
+Banten,4,Rumah Sakit Umum Daerah dr. Dradjat Prawiranegara,Serang,Madya,Madya,Madya,Madya,Utama,25
+Banten,5,Rumah Sakit Umum Daerah Berkah Pandeglang,Pandeglang,Madya,Madya,Madya,Madya,Madya,25
+Banten,6,Rumah Sakit Umum Daerah Dr. Adjidarmo,Lebak,Madya,Madya,Madya,Madya,Madya,25
+Banten,7,Rumah Sakit Umum Daerah Kota Cilegon,Kota Cilegon,Madya,Madya,Madya,Madya,Madya,26
+Banten,8,Rumah Sakit Umum Daerah Kota Tangerang,Kota Tangerang,Madya,Madya,Madya,Madya,Madya,26
+Banten,9,Rumah Sakit Umum Daerah Kota Serang,Kota Serang,Madya,Madya,Madya,Madya,Madya,26
+Banten,10,Rumah Sakit Umum Daerah Kota Tangerang Selatan,Kota Tangerang Selatan,Madya,Madya,Madya,Madya,Madya,26
+Daerah Khusus Jakarta,1,Rumah Sakit Umum Pusat Nasional Dr. Cipto Mangunkusumo Jakarta,Kota Jakarta Pusat,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,26
+Daerah Khusus Jakarta,2,Rumah Sakit Umum Pusat Fatmawati Jakarta,Kota Jakarta Selatan,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,26
+Daerah Khusus Jakarta,3,Rumah Sakit Umum Pusat Persahabatan Jakarta,Kota Jakarta Timur,Paripurna,Utama,Paripurna,Utama,Paripurna,26
+Daerah Khusus Jakarta,4,Rumah Sakit Kanker Dharmais Jakarta,Kota Jakarta Barat,Paripurna,,,,,26
+Daerah Khusus Jakarta,5,Rumah Sakit Jantung Dan Pembuluh Darah Harapan Kita Jakarta,Kota Jakarta Barat,,Paripurna,,,,26
+Daerah Khusus Jakarta,6,Rumah Sakit Pusat Otak Nasional Prof. Dr. dr. Mahar Mardjono,Kota Jakarta Timur,,,Paripurna,,,27
+Daerah Khusus Jakarta,7,Rumah Sakit Anak dan Bunda Harapan Kita Jakarta,Kota Jakarta Barat,,,,,Paripurna,27
+Daerah Khusus Jakarta,8,Rumah Sakit Umum Daerah Tarakan,Kota Jakarta Pusat,Madya,Utama,Utama,Utama,Madya,27
+Daerah Khusus Jakarta,9,Rumah Sakit Umum Daerah Pasar Minggu,Kota Jakarta Selatan,Utama,Madya,Madya,Madya,Madya,27
+Daerah Khusus Jakarta,10,Rumah Sakit Umum Daerah Koja,Kota Jakarta Utara,Madya,Madya,Madya,Madya,Utama,27
+Daerah Khusus Jakarta,11,Rumah Sakit Umum Daerah Budhi Asih,Kota Jakarta Timur,Madya,Madya,Madya,Madya,Madya,27
+Daerah Khusus Jakarta,12,Rumah Sakit Umum Daerah Pasar Rebo,Kota Jakarta Timur,Madya,Madya,Madya,Madya,Madya,27
+Daerah Khusus Jakarta,13,Rumah Sakit Umum Daerah Cengkareng,Kota Jakarta Barat,Madya,Madya,Madya,Madya,Madya,27
+Daerah Khusus Jakarta,14,Rumah Sakit Umum Daerah Kepulauan Seribu,Kep. Seribu,Madya,Madya,Madya,Madya,Madya,27
+Jawa Barat,1,Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung,Kota Bandung,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,27
+Jawa Barat,2,Rumah Sakit Umum Daerah Al Ihsan Provinsi Jawa Barat,Bandung,Utama,Utama,Utama,Utama,Utama,28
+Jawa Barat,3,Rumah Sakit Umum Daerah Cibinong,Bogor,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,4,Rumah Sakit Umum Daerah Sekarwangi,Sukabumi,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,5,Rumah Sakit Umum Daerah Sayang,Cianjur,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,6,Rumah Sakit Umum Daerah Majalaya,Bandung,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,7,Rumah Sakit Umum Daerah dr. Slamet Garut,Garut,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,8,Rumah Sakit Umum Daerah dr. Soekardjo,Kota Tasikmalaya,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,9,Rumah Sakit Umum Daerah Singaparna Medika Citrautama,Tasikmalaya,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,10,Rumah Sakit Umum Daerah Sumedang,Sumedang,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,11,Rumah Sakit Umum Daerah Kab. Indramayu,Indramayu,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,12,Rumah Sakit Umum Daerah Karawang,Karawang,Madya,Madya,Madya,Madya,Madya,28
+Jawa Barat,13,Rumah Sakit Umum Daerah Kab. Bekasi,Bekasi,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,14,Rumah Sakit Umum Daerah Pandega Pangandaran,Pangandaran,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,15,"Rumah Sakit Umum Daerah R. Syamsudin, SH",Kota Sukabumi,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,16,Rumah Sakit Umum Daerah Bandung Kiwari,Kota Bandung,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,17,Rumah Sakit Daerah Gunung Jati,Kota Cirebon,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,18,Rumah Sakit Umum Daerah dr. Chasbullah Abdulmadjid,Kota Bekasi,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,19,Rumah Sakit Umum Daerah Khidmat Sehat Afiat Kota Depok,Kota Depok,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,20,Rumah Sakit Umum Daerah Kab. Ciamis,Ciamis,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,21,Rumah Sakit Umum Daerah Banjar,Kota Banjar,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,22,Rumah Sakit Umum Daerah Kuningan,Kuningan,Madya,Madya,Madya,Madya,Madya,29
+Jawa Barat,23,Rumah Sakit Umum Daerah Waled,Cirebon,Madya,Madya,Madya,Madya,Madya,30
+Jawa Barat,24,Rumah Sakit Umum Daerah Cideres,Majalengka,Madya,Madya,Madya,Madya,Madya,30
+Jawa Barat,25,Rumah Sakit Umum Daerah Subang,Subang,Madya,Madya,Madya,Madya,Madya,30
+Jawa Barat,26,Rumah Sakit Umum Daerah Bayu Asih,Purwakarta,Madya,Madya,Madya,Madya,Madya,30
+Jawa Barat,27,Rumah Sakit Umum Daerah Cililin,Bandung Barat,Madya,Madya,Madya,Madya,Madya,30
+Jawa Barat,28,Rumah Sakit Umum Daerah Kota Bogor,Kota Bogor,Madya,Madya,Madya,Madya,Madya,30
+Jawa Barat,29,Rumah Sakit Umum Daerah Cibabat,Kota Cimahi,Madya,Madya,Madya,Madya,Madya,30
+Jawa Tengah,1,Rumah Sakit Umum Pusat Dr. Kariadi Semarang,Kota Semarang,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,30
+Jawa Tengah,2,Rumah Sakit Umum Pusat Dr. Soeradji Tirtonegoro Klaten,Klaten,Paripurna,Utama,Paripurna,Utama,Madya,30
+Jawa Tengah,3,Rumah Sakit Umum Pusat Surakarta,Kota Surakarta,Madya,Utama,Utama,Madya,Madya,30
+Jawa Tengah,4,Rumah Sakit Umum Daerah Dr. Moewardi Surakarta,Kota Surakarta,Utama,Utama,Utama,Paripurna,Paripurna,31
+Jawa Tengah,5,Rumah Sakit Umum Daerah Prof. Dr. Margono Soekarjo,Banyumas,,,,,Utama,31
+Jawa Tengah,6,Rumah Sakit Umum Daerah Cilacap,Cilacap,Madya,Madya,Madya,Madya,Madya,31
+Jawa Tengah,7,Rumah Sakit Umum Daerah dr. R. Goeteng Taroenadibrata,Purbalingga,Madya,Madya,Madya,Madya,Madya,31
+Jawa Tengah,8,Rumah Sakit Umum Daerah dr. Soedirman Kabupaten Kebumen,Kebumen,Madya,Madya,Madya,Madya,Madya,31
+Jawa Tengah,9,Rumah Sakit Umum Daerah Banyumas,Banyumas,Madya,Madya,Madya,Madya,Madya,31
+Jawa Tengah,10,Rumah Sakit Umum Daerah Pandan Arang Boyolali,Boyolali,Madya,Madya,Madya,Madya,Madya,31
+Jawa Tengah,11,Rumah Sakit Umum Daerah Bagas Waras,Klaten,Madya,Madya,Madya,Madya,Madya,31
+Jawa Tengah,12,Rumah Sakit Umum Daerah Dr. Soediran Mangun Sumarso Wonogiri,Wonogiri,Madya,Madya,Madya,Madya,Madya,31
+Jawa Tengah,13,Rumah Sakit Umum Daerah Dr. R. Soedjati Soemodiardjo Purwodadi,Grobogan,Madya,Madya,Madya,Madya,Madya,32
+Jawa Tengah,14,Rumah Sakit Umum Daerah dr. Soetijono Blora,Blora,Madya,Madya,Madya,Madya,Madya,32
+Jawa Tengah,15,Rumah Sakit Umum Daerah RAA Soewondo,Pati,Madya,Madya,Madya,Madya,Madya,32
+Jawa Tengah,16,Rumah Sakit Umum Daerah dr. Loekmono Hadi,Kudus,Madya,Madya,Madya,Madya,Madya,32
+Jawa Tengah,17,Rumah Sakit Umum Daerah R. A. Kartini,Jepara,Madya,Madya,Madya,Madya,Madya,32
+Jawa Tengah,18,Rumah Sakit Umum Daerah Sunan Kalijaga,Demak,Madya,Madya,Madya,Madya,Madya,32
+Jawa Tengah,19,Rumah Sakit Umum Daerah dr. Gunawan Mangunkusumo,Semarang,Madya,Madya,Madya,Madya,Madya,32
+Jawa Tengah,20,Rumah Sakit Umum Daerah Dr. H. Soewondo Kendal,Kendal,Madya,Madya,Madya,Madya,Madya,32
+Jawa Tengah,21,Rumah Sakit Umum Daerah Dr. M. Ashari Pemalang,Pemalang,Madya,Madya,Madya,Madya,Madya,32
+Jawa Tengah,22,Rumah Sakit Umum Daerah dr. Soeselo Slawi Kabupaten Tegal,Tegal,Madya,Madya,Madya,Madya,Madya,33
+Jawa Tengah,23,Rumah Sakit Umum Daerah Brebes,Brebes,Madya,Madya,Madya,Madya,Madya,33
+Jawa Tengah,24,Rumah Sakit Umum Daerah Tidar,Kota Magelang,Madya,Madya,Madya,Madya,Madya,33
+Jawa Tengah,25,Rumah Sakit Daerah K.R.M.T. Wongsonegoro Kota Semarang,Kota Semarang,Madya,Madya,Madya,Madya,Madya,33
+Jawa Tengah,26,Rumah Sakit Umum Daerah Hj. Anna Lasmanah Banjarnegara,Banjarnegara,Madya,Madya,Madya,Madya,Madya,33
+Jawa Tengah,27,Rumah Sakit Umum Daerah Dr. Tjitrowardojo Purworejo,Purworejo,Madya,Madya,Madya,Madya,Madya,33
+Jawa Tengah,28,Rumah Sakit Umum Setjonegoro Wonosobo,Wonosobo,Madya,Madya,Madya,Madya,Madya,33
+Jawa Tengah,29,Rumah Sakit Umum Daerah Muntilan Kab. Magelang,Magelang,Madya,Madya,Madya,Madya,Madya,33
+Jawa Tengah,30,Rumah Sakit Umum Daerah Ir. Soekarno Kabupaten Sukoharjo,Sukoharjo,Madya,Madya,Madya,Madya,Madya,33
+Jawa Tengah,31,Rumah Sakit Umum Daerah Kartini Karanganyar,Karanganyar,Madya,Madya,Madya,Madya,Madya,34
+Jawa Tengah,32,Rumah Sakit Umum Daerah dr. Soehadi Prijonegoro,Sragen,Madya,Madya,Madya,Madya,Madya,34
+Jawa Tengah,33,Rumah Sakit Umum Daerah dr. R. Soetrasno Rembang,Rembang,Madya,Madya,Madya,Madya,Madya,34
+Jawa Tengah,34,Rumah Sakit Umum Daerah Djojonegoro Temanggung,Temanggung,Madya,Madya,Madya,Madya,Madya,34
+Jawa Tengah,35,Rumah Sakit Umum Daerah Kab. Batang,Batang,Madya,Madya,Madya,Madya,Madya,34
+Jawa Tengah,36,Rumah Sakit Umum Daerah Kraton Kab. Pekalongan,Pekalongan,Madya,Madya,Madya,Madya,Madya,34
+Jawa Tengah,37,Rumah Sakit Umum Daerah Bendan Kota Pekalongan,Kota Pekalongan,Madya,Madya,Madya,Madya,Madya,34
+Jawa Tengah,38,Rumah Sakit Umum Daerah Ibu Fatmawati Soekarno,Kota Surakarta,Madya,Madya,Madya,Madya,Madya,34
+Jawa Tengah,39,Rumah Sakit Umum Daerah Kota Salatiga,Kota Salatiga,Madya,Madya,Madya,Madya,Madya,35
+Jawa Tengah,40,Rumah Sakit Umum Daerah Kardinah,Kota Tegal,Madya,Madya,Madya,Madya,Madya,35
+DI Yogyakarta,1,Rumah Sakit Umum Pusat Dr. Sardjito Yogyakarta,Sleman,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,35
+DI Yogyakarta,2,Rumah Sakit Umum Daerah Kota Yogyakarta,Kota Yogyakarta,Madya,Utama,Utama,Utama,Madya,35
+DI Yogyakarta,3,Rumah Sakit Umum Daerah Wates,Kulon Progo,Madya,Madya,Madya,Madya,Utama,35
+DI Yogyakarta,4,Rumah Sakit Umum Daerah Panembahan Senopati,Bantul,Madya,Madya,Madya,Madya,Madya,35
+DI Yogyakarta,5,Rumah Sakit Umum Daerah Wonosari,Gunung Kidul,Madya,Madya,Madya,Madya,Madya,35
+DI Yogyakarta,6,Rumah Sakit Umum Daerah Sleman,Sleman,Madya,Madya,Madya,Madya,Madya,35
+Jawa Timur,1,Rumah Sakit Umum Pusat Surabaya,Kota Surabaya,Utama,Utama,Utama,Utama,Utama,35
+Jawa Timur,2,Rumah Sakit Umum Daerah Dr. Soetomo,Kota Surabaya,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,35
+Jawa Timur,3,Rumah Sakit Umum Daerah Dr. Saiful Anwar,Kota Malang,Utama,Utama,Utama,Paripurna,Paripurna,36
+Jawa Timur,4,Rumah Sakit Umum Daerah R. T. Notopuro Sidoarjo,Sidoarjo,Madya,Madya,Madya,Madya,Utama,36
+Jawa Timur,5,Rumah Sakit Umum Daerah Dr. Soedono Madiun,Kota Madiun,Madya,Madya,Madya,Madya,Madya,36
+Jawa Timur,6,RS Umum Daerah Dr. Iskak Tulungagung,Tulungagung,Madya,Madya,Madya,Madya,Madya,36
+Jawa Timur,7,Rumah Sakit Umum Daerah Ngudi Waluyo Wlingi,Blitar,Madya,Madya,Madya,Madya,Madya,36
+Jawa Timur,8,Rumah Sakit Umum Daerah Kabupaten Kediri,Kediri,Madya,Madya,Madya,Madya,Madya,36
+Jawa Timur,9,Rumah Sakit Umum Daerah Kanjuruhan Kepanjen Kab. Malang,Malang,Madya,Madya,Madya,Madya,Madya,36
+Jawa Timur,10,Rumah Sakit Daerah Dr. Haryoto Kabupaten Lumajang,Lumajang,Madya,Madya,Madya,Madya,Madya,36
+Jawa Timur,11,Rumah Sakit Umum Daerah Dr. Soebandi,Jember,Madya,Madya,Madya,Madya,Madya,36
+Jawa Timur,12,Rumah Sakit Umum Daerah Blambangan,Banyuwangi,Madya,Madya,Madya,Madya,Madya,37
+Jawa Timur,13,Rumah Sakit Umum Daerah Waluyo Jati Kraksaan,Probolinggo,Madya,Madya,Madya,Madya,Madya,37
+Jawa Timur,14,Rumah Sakit Umum Daerah Bangil,Pasuruan,Madya,Madya,Madya,Madya,Madya,37
+Jawa Timur,15,Rumah Sakit Umum Daerah Prof. Dr. Soekandar,Mojokerto,Madya,Madya,Madya,Madya,Madya,37
+Jawa Timur,16,Rumah Sakit Umum Daerah Kabupaten Jombang,Jombang,Madya,Madya,Madya,Madya,Madya,37
+Jawa Timur,17,Rumah Sakit Umum Daerah Nganjuk,Nganjuk,Madya,Madya,Madya,Madya,Madya,37
+Jawa Timur,18,Rumah Sakit Umum Daerah Dr. R. Koesma Tuban,Tuban,Madya,Madya,Madya,Madya,Madya,37
+Jawa Timur,19,Rumah Sakit Umum Daerah dr. Soegiri Kabupaten Lamongan,Lamongan,Madya,Madya,Madya,Madya,Madya,37
+Jawa Timur,20,Rumah Sakit Umum Daerah Ibnu Sina Kab. Gresik,Gresik,Madya,Madya,Madya,Madya,Madya,37
+Jawa Timur,21,Rumah Sakit Umum Daerah Dr. H. Slamet Martodirdjo Pamekasan,Pamekasan,Madya,Madya,Madya,Madya,Madya,38
+Jawa Timur,22,Rumah Sakit Umum Daerah Bhakti Dharma Husada,Kota Surabaya,Madya,Madya,Madya,Madya,Madya,38
+Jawa Timur,23,Rumah Sakit Umum Daerah dr. Darsono,Pacitan,Madya,Madya,Madya,Madya,Madya,38
+Jawa Timur,24,Rumah Sakit Umum Daerah Dr. Harjono S. Kabupaten Ponorogo,Ponorogo,Madya,Madya,Madya,Madya,Madya,38
+Jawa Timur,25,Rumah Sakit Umum Daerah dr. Soedomo Trenggalek,Trenggalek,Madya,Madya,Madya,Madya,Madya,38
+Jawa Timur,26,Rumah Sakit Umum dr. H.Koesnadi Bondowoso,Bondowoso,Madya,Madya,Madya,Madya,Madya,38
+Jawa Timur,27,Rumah Sakit Umum Daerah dr. Abdoer Rahem Kabupaten Situbondo,Situbondo,Madya,Madya,Madya,Madya,Madya,38
+Jawa Timur,28,Rumah Sakit Umum Daerah Caruban,Madiun,Madya,Madya,Madya,Madya,Madya,38
+Jawa Timur,29,Rumah Sakit Umum Daerah dr. Sayidiman Magetan,Magetan,Madya,Madya,Madya,Madya,Madya,38
+Jawa Timur,30,Rumah Sakit Umum Daerah Dr. Soeroto Ngawi,Ngawi,Madya,Madya,Madya,Madya,Madya,39
+Jawa Timur,31,Rumah Sakit Umum Daerah Dr. R. Sosodoro Djatikoesoemo,Bojonegoro,Madya,Madya,Madya,Madya,Madya,39
+Jawa Timur,32,Rumah Sakit Umum Daerah Syarifah Ambami Rato Ebu,Bangkalan,Madya,Madya,Madya,Madya,Madya,39
+Jawa Timur,33,Rumah Sakit Umum Daerah dr. Mohammad Zyn Kab. Sampang,Sampang,Madya,Madya,Madya,Madya,Madya,39
+Jawa Timur,34,Rumah Sakit Umum Daerah dr. H. Moh. Anwar,Sumenep,Madya,Madya,Madya,Madya,Madya,39
+Jawa Timur,35,Rumah Sakit Umum Daerah Gambiran,Kota Kediri,Madya,Madya,Madya,Madya,Madya,39
+Jawa Timur,36,Rumah Sakit Umum Daerah Mardi Waluyo,Kota Blitar,Madya,Madya,Madya,Madya,Madya,39
+Jawa Timur,37,Rumah Sakit Umum Daerah Kota Malang,Kota Malang,Madya,Madya,Madya,Madya,Madya,39
+Jawa Timur,38,Rumah Sakit Umum Daerah dr. Mohamad Saleh Kota Probolinggo,Kota Probolinggo,Madya,Madya,Madya,Madya,Madya,39
+Jawa Timur,39,Rumah Sakit Umum Daerah Dr. R. Soedarsono Kota Pasuruan,Kota Pasuruan,Madya,Madya,Madya,Madya,Madya,40
+Jawa Timur,40,Rumah Sakit Umum Daerah dr. Wahidin Sudiro Husodo Kota Mojokerto,Kota Mojokerto,Madya,Madya,Madya,Madya,Madya,40
+Jawa Timur,41,Rumah Sakit Umum Karsa Husada Kota Batu,Kota Batu,Madya,Madya,Madya,Madya,Madya,40
+Bali,1,Rumah Sakit Umum Pusat Prof. Dr. I. G. N. G Ngoerah Denpasar,Kota Denpasar,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,40
+Bali,2,Rumah Sakit Umum Daerah Bali Mandara Provinsi Bali,Kota Denpasar,Utama,Utama,Utama,Utama,Utama,40
+Bali,3,Rumah Sakit Umum Daerah Tabanan,Tabanan,Madya,Madya,Madya,Madya,Madya,40
+Bali,4,Rumah Sakit Daerah Mangusada Kabupaten Badung,Badung,Madya,Madya,Madya,Madya,Madya,40
+Bali,5,Rumah Sakit Umum Daerah Sanjiwani Gianyar,Gianyar,Madya,Madya,Madya,Madya,Madya,40
+Bali,6,Rumah Sakit Umum Daerah Kab. Buleleng,Buleleng,Madya,Madya,Madya,Madya,Madya,40
+Bali,7,Rumah Sakit Umum Daerah Wangaya,Kota Denpasar,Madya,Madya,Madya,Madya,Madya,41
+Bali,8,Rumah Sakit Umum Daerah Negara,Jembrana,Madya,Madya,Madya,Madya,Madya,41
+Bali,9,Rumah Sakit Umum Daerah Klungkung,Klungkung,Madya,Madya,Madya,Madya,Madya,41
+Bali,10,Rumah Sakit Umum Daerah Bangli,Bangli,Madya,Madya,Madya,Madya,Madya,41
+Bali,11,Rumah Sakit Umum Daerah Karangasem,Karangasem,Madya,Madya,Madya,Madya,Madya,41
+Nusa Tenggara Barat,1,Rumah Sakit Umum Daerah Provinsi NTB,Kota Mataram,Utama,Utama,Utama,Utama,Paripurna,41
+Nusa Tenggara Barat,2,Rumah Sakit Umum Sumbawa Besar,Sumbawa,Madya,Madya,Madya,Madya,Madya,41
+Nusa Tenggara Barat,3,Rumah Sakit Umum Daerah Kota Mataram,Kota Mataram,Madya,Madya,Madya,Madya,Utama,41
+Nusa Tenggara Barat,4,Rumah Sakit Umum Daerah Patut Patuh Patju,Lombok Barat,Madya,Madya,Madya,Madya,Madya,41
+Nusa Tenggara Barat,5,Rumah Sakit Umum Daerah Praya Kabupaten Lombok Tengah,Lombok Tengah,Madya,Madya,Madya,Madya,Madya,41
+Nusa Tenggara Barat,6,Rumah Sakit Umum Daerah Dr. R. Soedjono Selong,Lombok Timur,Madya,Madya,Madya,Madya,Madya,42
+Nusa Tenggara Barat,7,Rumah Sakit Umum Daerah Kota Bima,Kota Bima,Madya,Madya,Madya,Madya,Madya,42
+Nusa Tenggara Barat,8,Rumah Sakit Umum Dompu,Dompu,Madya,Madya,Madya,Madya,Madya,42
+Nusa Tenggara Barat,9,Rumah Sakit Umum Bima,Bima,Madya,Madya,Madya,Madya,Madya,42
+Nusa Tenggara Barat,10,Rumah Sakit Umum Daerah Asy-Syifa Sumbawa Barat,Sumbawa Barat,Madya,Madya,Madya,Madya,Madya,42
+Nusa Tenggara Barat,11,Rumah Sakit Umum Kab. Lombok Utara,Lombok Utara,Madya,Madya,Madya,Madya,Madya,42
+Nusa Tenggara Timur,1,Rumah Sakit Umum Pusat dr. Ben Mboi Kupang,Kota Kupang,Utama,Utama,Paripurna,Utama,Utama,42
+Nusa Tenggara Timur,2,Rumah Sakit Umum Daerah Prof. DR. W. Z. Johannes Kupang,Kota Kupang,Utama,Utama,Utama,Utama,Utama,42
+Nusa Tenggara Timur,3,Rumah Sakit Umum Daerah Waikabubak,Sumba Barat,Madya,Madya,Madya,Madya,Madya,42
+Nusa Tenggara Timur,4,Rumah Sakit Umum Daerah Umbu Rara Meha Waingapu,Sumba Timur,Madya,Madya,Madya,Madya,Madya,42
+Nusa Tenggara Timur,5,Rumah Sakit Umum Daerah S.K. Lerik,Kota Kupang,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,6,Rumah Sakit Umum Daerah Soe,Timor Tengah Selatan,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,7,"Rumah Sakit Umum Daerah Mgr. Gabriel Manek, SVD Atambua",Belu,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,8,Rumah Sakit Umum Daerah Kalabahi,Alor,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,9,Rumah Sakit Umum Daerah dr. Hendrikus Fernandez Larantuka,Flores Timur,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,10,Rumah Sakit Umum Daerah dr. T.C. Hillers Maumere,Sikka,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,11,Rumah Sakit Umum Daerah Ende,Ende,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,12,Rumah Sakit Umum Daerah Bajawa,Ngada,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,13,Rumah Sakit Umum Daerah Ruteng,Manggarai Manggarai,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,14,Rumah Sakit Umum Daerah Komodo,Barat,Madya,Madya,Madya,Madya,Madya,43
+Nusa Tenggara Timur,15,Rumah Sakit Umum Daerah Rote Ndao Ba'a,Rote Ndao,Madya,Madya,Madya,Madya,Madya,44
+Nusa Tenggara Timur,16,Rumah Sakit Umum Daerah Naibonat,Kupang,Madya,Madya,Madya,Madya,Madya,44
+Nusa Tenggara Timur,17,Rumah Sakit Umum Daerah Kefamenanu,Timor Tengah Utara,Madya,Madya,Madya,Madya,Madya,44
+Nusa Tenggara Timur,18,Rumah Sakit Umum Penyangga Perbatasan Betun,Malaka,Madya,Madya,Madya,Madya,Madya,44
+Nusa Tenggara Timur,19,Rumah Sakit Umum Daerah Lewoleba,Lembata,Madya,Madya,Madya,Madya,Madya,44
+Nusa Tenggara Timur,20,Rumah Sakit Umum Daerah Waibakul,Sumba Tengah,Madya,Madya,Madya,Madya,Madya,44
+Nusa Tenggara Timur,21,Rumah Sakit Umum Daerah Reda Bolo,Sumba Barat Daya,Madya,Madya,Madya,Madya,Madya,44
+Nusa Tenggara Timur,22,Rumah Sakit Umum Daerah Aeramo Kabupaten Nagekeo,Nagekeo,Madya,Madya,Madya,Madya,Madya,44
+Nusa Tenggara Timur,23,Rumah Sakit Umum Daerah Borong,Manggarai Timur,Madya,Madya,Madya,Madya,Madya,44
+Nusa Tenggara Timur,24,Rumah Sakit Umum Daerah Sabu Raijua,Sabu Raijua,Madya,Madya,Madya,Madya,Madya,44
+Kalimantan Barat,1,Rumah Sakit Umum Daerah Dr. Soedarso Pontianak,Kota Pontianak,Utama,Utama,Utama,Utama,Utama,45
+Kalimantan Barat,2,Rumah Sakit Umum Daerah Dr. Rubini Mempawah,Mempawah (Pontianak),Madya,Madya,Madya,Madya,Madya,45
+Kalimantan Barat,3,Rumah Sakit Umum Daerah M. Th. Djaman Sanggau,Sanggau,Madya,Madya,Madya,Madya,Madya,45
+Kalimantan Barat,4,Rumah Sakit Umum Daerah Dr. Agoesdjam Ketapang,Ketapang,Madya,Madya,Madya,Madya,Madya,45
+Kalimantan Barat,5,Rumah Sakit Umum Daerah Ade Muhammad Djoen Sintang,Sintang,Madya,Madya,Madya,Madya,Madya,45
+Kalimantan Barat,6,Rumah Sakit Umum Daerah dr. A. Diponegoro Putussibau,Kapuas Hulu,Madya,Madya,Madya,Madya,Madya,45
+Kalimantan Barat,7,Rumah Sakit Umum Daerah Sultan Syarif Mohammad Alkadrie,Kota Pontianak,Madya,Madya,Madya,Madya,Madya,45
+Kalimantan Barat,8,Rumah Sakit Umum Daerah Dr. Abdul Aziz Singkawang,Kota Singkawang,Madya,Madya,Madya,Madya,Madya,46
+Kalimantan Barat,9,Rumah Sakit Umum Daerah Sambas,Sambas,Madya,Madya,Madya,Madya,Madya,46
+Kalimantan Barat,10,"Rumah Sakit Umum Daerah Drs. Jacobus Luna, M.Si",Bengkayang,Madya,Madya,Madya,Madya,Madya,46
+Kalimantan Barat,11,Rumah Sakit Umum Daerah Kabupaten Landak,Landak,Madya,Madya,Madya,Madya,Madya,46
+Kalimantan Barat,12,Rumah Sakit Umum Daerah Kabupaten Sekadau,Sekadau,Madya,Madya,Madya,Madya,Madya,46
+Kalimantan Barat,13,Rumah Sakit Umum Daerah Kabupaten Melawi,Melawi,Madya,Madya,Madya,Madya,Madya,46
+Kalimantan Barat,14,Rumah Sakit Umum Daerah Sultan Muhammad Jamaludin I,Kayong Utara,Madya,Madya,Madya,Madya,Madya,46
+Kalimantan Barat,15,Rumah Sakit Umum Daerah Kabupaten Kubu Raya,Kubu Raya,Madya,Madya,Madya,Madya,Madya,46
+Kalimantan Tengah,1,Rumah Sakit Umum Daerah dr. Doris Sylvanus Palangka Raya,Kota Palangka Raya,Utama,Utama,Utama,Utama,Utama,47
+Kalimantan Tengah,2,Rumah Sakit Umum Daerah Sultan Imanuddin,Kotawaringin Barat,Madya,Madya,Madya,Madya,Madya,47
+Kalimantan Tengah,3,Rumah Sakit Umum Daerah dr. Murjani Sampit,Kotawaringin Timur,Madya,Madya,Madya,Madya,Madya,47
+Kalimantan Tengah,4,Rumah Sakit Umum Daerah Dr. H. Soemarno Sosroaatmodjo Kab. Kapuas,Kapuas,Madya,Madya,Madya,Madya,Madya,47
+Kalimantan Tengah,5,Rumah Sakit Umum Daerah Jaraga Sasameh,Barito Selatan,Madya,Madya,Madya,Madya,Madya,47
+Kalimantan Tengah,6,Rumah Sakit Umum Daerah Kuala Pembuang,Seruyan,Madya,Madya,Madya,Madya,Madya,47
+Kalimantan Tengah,7,Rumah Sakit Umum Daerah Mas Amsyar Kasongan,Katingan,Madya,Madya,Madya,Madya,Madya,47
+Kalimantan Tengah,8,Rumah Sakit Umum Daerah Puruk Cahu,Murung Raya,Madya,Madya,Madya,Madya,Madya,47
+Kalimantan Tengah,9,Rumah Sakit Umum Daerah Muara Teweh,Barito Utara,Madya,Madya,Madya,Madya,Madya,47
+Kalimantan Tengah,10,Rumah Sakit Umum Daerah Kabupaten Lamandau,Lamandau,Madya,Madya,Madya,Madya,Madya,48
+Kalimantan Tengah,11,Rumah Sakit Umum Daerah Sukamara,Sukamara,Madya,Madya,Madya,Madya,Madya,48
+Kalimantan Tengah,12,Rumah Sakit Umum Daerah Pulang Pisau,Pulang Pisau,Madya,Madya,Madya,Madya,Madya,48
+Kalimantan Tengah,13,Rumah Sakit Umum Daerah Kuala Kurun,Gunung Mas,Madya,Madya,Madya,Madya,Madya,48
+Kalimantan Tengah,14,Rumah Sakit Umum Daerah Tamiang Layang,Barito Timur,Madya,Madya,Madya,Madya,Madya,48
+Kalimantan Tengah,15,Rumah Sakit Umum Daerah Kota Palangka Raya,Kota Palangka Raya,Madya,Madya,Madya,Madya,Madya,48
+Kalimantan Selatan,1,Rumah Sakit Umum Daerah Ulin Banjarmasin,Kota Banjarmasin,Utama,Utama,Utama,Paripurna,Paripurna,48
+Kalimantan Selatan,2,Rumah Sakit Umum Daerah H. Badaruddin Kasim,Tabalong,Madya,Madya,Madya,Madya,Utama,48
+Kalimantan Selatan,3,Rumah Sakit Umum Daerah H. Boejasin Pelaihari,Tanah Laut,Madya,Madya,Madya,Madya,Madya,48
+Kalimantan Selatan,4,Rumah Sakit Umum Daerah Pangeran Jaya Sumitra,Kotabaru,Madya,Madya,Madya,Madya,Madya,49
+Kalimantan Selatan,5,Rumah Sakit Umum Daerah Ratu Zalecha,Banjar,Madya,Madya,Madya,Madya,Madya,49
+Kalimantan Selatan,6,Rumah Sakit Umum Daerah Brigjend H. Hasan Basry Kandangan,Hulu Sungai Selatan,Madya,Madya,Madya,Madya,Madya,49
+Kalimantan Selatan,7,Rumah Sakit Umum Daerah dr. H. Andi Abdurrahman Noor,Tanah Bumbu,Madya,Madya,Madya,Madya,Madya,49
+Kalimantan Selatan,8,Rumah Sakit Umum Daerah Sultan Suriansyah Banjarmasin,Kota Banjarmasin,Madya,Madya,Madya,Madya,Madya,49
+Kalimantan Selatan,9,Rumah Sakit Umum Daerah H. Abdul Aziz Marabahan,Barito Kuala,Madya,Madya,Madya,Madya,Madya,49
+Kalimantan Selatan,10,Rumah Sakit Umum Daerah Datu Sanggul Rantau,Tapin,Madya,Madya,Madya,Madya,Madya,49
+Kalimantan Selatan,11,Rumah Sakit Umum Daerah H Damanhuri Barabai,Hulu Sungai Tengah,Madya,Madya,Madya,Madya,Madya,49
+Kalimantan Selatan,12,Rumah Sakit Umum Daerah Pambalah Batung,Hulu Sungai Utara,Madya,Madya,Madya,Madya,Madya,50
+Kalimantan Selatan,13,Rumah Sakit Umum Daerah Datu Kandang Haji,Balangan,Madya,Madya,Madya,Madya,Madya,50
+Kalimantan Selatan,14,Rumah Sakit Daerah Idaman Kota Banjarbaru,Kota Banjarbaru,Madya,Madya,Madya,Madya,Madya,50
+Kalimantan Timur,1,Rumah Sakit Umum Pusat IKN,IKN,Utama,Utama,Utama,Utama,Utama,50
+Kalimantan Timur,2,Rumah Sakit Umum Daerah Abdul Wahab Sjahranie,Kota Samarinda,Utama,Utama,Utama,Paripurna,Madya,50
+Kalimantan Timur,3,Rumah Sakit Umum Daerah Dr. Kanujoso Djatiwibowo,Kota Balikpapan,Madya,Madya,Madya,Madya,Utama,50
+Kalimantan Timur,4,Rumah Sakit Umum Daerah Panglima Sebaya,Paser,Madya,Madya,Madya,Madya,Madya,50
+Kalimantan Timur,5,Rumah Sakit Umum Daerah Aji Muhammad Parikesit,Kutai Kartanegara,Madya,Madya,Madya,Madya,Madya,50
+Kalimantan Timur,6,Rumah Sakit Umum Daerah Kudungga,Kutai Timur,Madya,Madya,Madya,Madya,Madya,50
+Kalimantan Timur,7,Rumah Sakit Umum Daerah Inche Abdoel Moeis,Kota Samarinda,Madya,Madya,Madya,Madya,Madya,50
+Kalimantan Timur,8,Rumah Sakit Umum Daerah Harapan Insan Sendawar,Kutai Barat,Madya,Madya,Madya,Madya,Madya,51
+Kalimantan Timur,9,Rumah Sakit Umum Daerah Dr. Abdul Rivai,Berau,Madya,Madya,Madya,Madya,Madya,51
+Kalimantan Timur,10,Rumah Sakit Umum Daerah Ratu Aji Putri Botung,Penajam Paser Utara,Madya,Madya,Madya,Madya,Madya,51
+Kalimantan Timur,11,Rumah Sakit Gerbang Sehat Mahulu,Mahakam Hulu,Madya,Madya,Madya,Madya,Madya,51
+Kalimantan Timur,12,Rumah Sakit Umum Daerah Taman Husada Bontang,Kota Bontang,Madya,Madya,Madya,Madya,Madya,51
+Kalimantan Utara,1,Rumah Sakit Umum Daerah dr. H. Jusuf SK,Kota Tarakan,Utama,Utama,Utama,Utama,Utama,51
+Kalimantan Utara,2,Rumah Sakit Umum Daerah dr. H. Soemarno Sosroatmodjo Kab. Bulungan,Bulungan,Madya,Madya,Madya,Madya,Madya,51
+Kalimantan Utara,3,Rumah Sakit Umum Daerah Kabupaten Malinau,Malinau,Madya,Madya,Madya,Madya,Madya,51
+Kalimantan Utara,4,Rumah Sakit Umum Daerah Kabupaten Nunukan,Nunukan,Madya,Madya,Madya,Madya,Madya,52
+Kalimantan Utara,5,Rumah Sakit Umum Daerah Akhmad Berahim,Tana Tidung,Madya,Madya,Madya,Madya,Madya,52
+Kalimantan Utara,6,Rumah Sakit Umum Kota Tarakan,Kota Tarakan,Madya,Madya,Madya,Madya,Madya,52
+Sulawesi Utara,1,Rumah Sakit Umum Pusat Prof. Dr. R. D. Kandou Manado,Kota Manado,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,52
+Sulawesi Utara,2,Rumah Sakit Umum Pusat Ratatotok Buyat,Minahasa Tenggara,Madya,Madya,Madya,Madya,Madya,52
+Sulawesi Utara,3,Rumah Sakit Umum Daerah ODSK Provinsi Sulawesi Utara,Kota Manado,Utama,Utama,Utama,Utama,Utama,52
+Sulawesi Utara,4,Rumah Sakit Umum Daerah DR. Sam Ratulangi Tondano,Minahasa,Madya,Madya,Madya,Madya,Madya,52
+Sulawesi Utara,5,Rumah Sakit Umum Daerah Kota Bitung,Kota Bitung Bolaang,Madya,Madya,Madya,Madya,Madya,52
+Sulawesi Utara,6,Rumah Sakit Umum Datoe Binangkang,Mongondow,Madya,Madya,Madya,Madya,Madya,52
+Sulawesi Utara,7,Rumah Sakit Umum Daerah Liun Kendage,Kep. Sangihe,Madya,Madya,Madya,Madya,Madya,53
+Sulawesi Utara,8,Rumah Sakit Umum Daerah Amurang,Minahasa Selatan,Madya,Madya,Madya,Madya,Madya,53
+Sulawesi Utara,9,Rumah Sakit Umum Daerah Maria Walanda Maramis,Minahasa Utara,Madya,Madya,Madya,Madya,Madya,53
+Sulawesi Utara,10,Rumah Sakit Umum Daerah Kota Kotamobagu,Kota Kotamobagu,Madya,Madya,Madya,Madya,Madya,53
+Sulawesi Utara,11,Rumah Sakit Umum Daerah Lapangan Sawang Kab. Sitaro,Kep. Siau Tagulandang Biaro,Madya,Madya,Madya,Madya,Madya,53
+Sulawesi Utara,12,Rumah Sakit Umum Daerah Talaud,Kep. Talaud,Madya,Madya,Madya,Madya,Madya,53
+Sulawesi Utara,13,Rumah Sakit Umum Daerah Bolaang Mongondow Utara,Bolaang Mongondow Utara,Madya,Madya,Madya,Madya,Madya,53
+Sulawesi Utara,14,Rumah Sakit Umum Daerah Mitra Sehat,Minahasa Tenggara,Madya,Madya,Madya,Madya,Madya,53
+Sulawesi Utara,15,Rumah Sakit Umum Daerah Bolaang Mongondow Selatan,Bolaang Mongondow Selatan,Madya,Madya,Madya,Madya,Madya,53
+Sulawesi Utara,16,Rumah Sakit Umum Daerah Bolaang Mongondow Timur,Bolaang Mongondow Timur,Madya,Madya,Madya,Madya,Madya,54
+Sulawesi Utara,17,Rumah Sakit Umum Daerah Kota Manado,Kota Manado,Madya,Madya,Madya,Madya,Madya,54
+Sulawesi Utara,18,Rumah Sakit Umum Daerah Anugerah,Kota Tomohon,Madya,Madya,Madya,Madya,Madya,54
+Gorontalo,1,Rumah Sakit Umum Daerah dr. Hasri Ainun Habibie,Gorontalo,Utama,,,,,54
+Gorontalo,2,Rumah Sakit Umum Daerah Prof. Dr. H. Aloei Saboe,Kota Gorontalo,Madya,Utama,Utama,Utama,Utama,54
+Gorontalo,3,Rumah Sakit Umum Daerah Tani dan Nelayan,Boalemo,Madya,Madya,Madya,Madya,Madya,54
+Gorontalo,4,Rumah Sakit Umum Daerah dr. M. Mohammad Dunda,Gorontalo,Madya,Madya,Madya,Madya,Madya,54
+Gorontalo,5,Rumah Sakit Umum Daerah Bumi Panua,Pohuwato,Madya,Madya,Madya,Madya,Madya,54
+Gorontalo,6,Rumah Sakit Umum Daerah Toto Kabila,Bone Bolango,Madya,Madya,Madya,Madya,Madya,54
+Gorontalo,7,Rumah Sakit Umum Daerah dr. Zainal Umar Sidiki,Gorontalo Utara,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,1,Rumah Sakit Umum Daerah Undata Palu,Kota Palu,Utama,Utama,Utama,Utama,Utama,55
+Sulawesi Tengah,2,Rumah Sakit Umum Anutapura Palu,Kota Palu,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,3,Rumah Sakit Umum Daerah Kabupaten Banggai,Banggai,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,4,Rumah Sakit Umum Daerah Morowali,Morowali,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,5,Rumah Sakit Umum Daerah Poso,Poso,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,6,Rumah Sakit Umum Daerah Mokopido Tolitoli,Toli-Toli,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,7,Rumah Sakit Umum Daerah Anuntaloko Parigi,Parigi Moutong,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,8,Rumah Sakit Umum Daerah Tora Belo,Sigi,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,9,Rumah Sakit Umum Daerah Banggai,Banggai Laut,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,10,Rumah Sakit Umum Daerah Trikora Salakan,Banggai Kepulauan,Madya,Madya,Madya,Madya,Madya,55
+Sulawesi Tengah,11,Rumah Sakit Umum Daerah Kolonodale,Morowali Utara,Madya,Madya,Madya,Madya,Madya,56
+Sulawesi Tengah,12,Rumah Sakit Umum Daerah Kabelota,Donggala,Madya,Madya,Madya,Madya,Madya,56
+Sulawesi Tengah,13,Rumah Sakit Umum Daerah Mokoyurli Buol,Buol,Madya,Madya,Madya,Madya,Madya,56
+Sulawesi Tengah,14,Rumah Sakit Umum Daerah Ampana,Tojo Una-Una,Madya,Madya,Madya,Madya,Madya,56
+Sulawesi Barat,1,Rumah Sakit Umum Daerah Provinsi Sulawesi Barat,Mamuju,Utama,Utama,Utama,Utama,Utama,56
+Sulawesi Barat,2,Rumah Sakit Umum Daerah Hajjah Andi Depu,Polewali Mandar,Madya,Madya,Madya,Madya,Madya,56
+Sulawesi Barat,3,Rumah Sakit Umum Daerah Kabupaten Pasangkayu,Pasangkayu,Madya,Madya,Madya,Madya,Madya,56
+Sulawesi Barat,4,Rumah Sakit Umum Daerah Kabupaten Mamuju,Mamuju,Madya,Madya,Madya,Madya,Madya,56
+Sulawesi Barat,5,Rumah Sakit Umum Daerah Kabupaten Majene,Majene,Madya,Madya,Madya,Madya,Madya,56
+Sulawesi Barat,6,Rumah Sakit Umum Daerah Kondosapata Kab. Mamasa,Mamasa,Madya,Madya,Madya,Madya,Madya,56
+Sulawesi Barat,7,Rumah Sakit Umum Daerah Kabupaten Mamuju Tengah,Mamuju Tengah,Madya,Madya,Madya,Madya,Madya,57
+Sulawesi Selatan,1,Rumah Sakit Umum Pusat Dr. Wahidin Sudirohusodo Makassar,Kota Makassar,Paripurna,Paripurna,Paripurna,Paripurna,Paripurna,57
+Sulawesi Selatan,2,Rumah Sakit Umum Pusat Dr. Tadjuddin Chalid Makassar,Kota Makassar,Utama,Utama,Paripurna,Madya,Madya,57
+Sulawesi Selatan,3,Rumah Sakit Umum Pusat Makassar,Kota Makassar,Utama,Utama,Utama,Utama,Utama,57
+Sulawesi Selatan,4,Rumah Sakit Umum Daerah Labuang Baji,Kota Makassar,Utama,Utama,Utama,Utama,Utama,57
+Sulawesi Selatan,5,Rumah Sakit Umum Daerah H.A. Sulthan Daeng Radja,Bulukumba,Madya,Madya,Madya,Madya,Madya,57
+Sulawesi Selatan,6,Rumah Sakit Umum Daerah Lanto Daeng Pasewang,Jeneponto,Madya,Madya,Madya,Madya,Madya,57
+Sulawesi Selatan,7,Rumah Sakit Umum Daerah Syekh Yusuf,Gowa,Madya,Madya,Madya,Madya,Madya,57
+Sulawesi Selatan,8,Rumah Sakit Umum Daerah Tenriawaru Bone,Bone,Madya,Madya,Madya,Madya,Madya,57
+Sulawesi Selatan,9,Rumah Sakit Umum Daerah dr. La Palaloi,Maros,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,10,Rumah Sakit Umum Daerah Batara Siang,Pangkajene dan Kepulauan,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,11,Rumah Sakit Umum Daerah Lamaddukkelleng Kabupaten Wajo,Wajo,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,12,Rumah Sakit Umum Daerah Batara Guru,Luwu,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,13,Rumah Sakit Umum Daerah Lakipadada,Tana Toraja,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,14,Rumah Sakit Umum Daerah I Lagaligo,Luwu Timur,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,15,Rumah Sakit Umum Daerah Daya Kota Makassar,Kota Makassar,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,16,Rumah Sakit dr. Hasri Ainun Habibie Parepare,Kota Pare-pare,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,17,Rumah Sakit Umum Daerah Sawerigading,Kota Palopo,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,18,Rumah Sakit Umum Daerah KH. Hayyung Kepulauan Selayar,Kep. Selayar,Madya,Madya,Madya,Madya,Madya,58
+Sulawesi Selatan,19,Rumah Sakit Umum Daerah Prof. Dr. H. Anwar Makkatutu,Bantaeng,Madya,Madya,Madya,Madya,Madya,59
+Sulawesi Selatan,20,Rumah Sakit Umum Daerah H. Padjonga Dg. Ngalle Takalar,Takalar,Madya,Madya,Madya,Madya,Madya,59
+Sulawesi Selatan,21,Rumah Sakit Umum Daerah Kabupaten Sinjai,Sinjai,Madya,Madya,Madya,Madya,Madya,59
+Sulawesi Selatan,22,Rumah Sakit Umum Daerah La Patarai,Barru,Madya,Madya,Madya,Madya,Madya,59
+Sulawesi Selatan,23,Rumah Sakit Umum Daerah Latemmamala Soppeng,Soppeng,Madya,Madya,Madya,Madya,Madya,59
+Sulawesi Selatan,24,Rumah Sakit Umum Daerah Nene Mallomo,Sidenreng Rappang,Madya,Madya,Madya,Madya,Madya,59
+Sulawesi Selatan,25,Rumah Sakit Umum Daerah Lasinrang Pinrang,Pinrang,Madya,Madya,Madya,Madya,Madya,59
+Sulawesi Selatan,26,Rumah Sakit Umum Daerah Massenrempulu Enrekang,Enrekang,Madya,Madya,Madya,Madya,Madya,59
+Sulawesi Selatan,27,Rumah Sakit Umum Daerah Andi Djemma Masamba,Luwu Utara,Madya,Madya,Madya,Madya,Madya,59
+Sulawesi Selatan,28,Rumah Sakit Umum Daerah Pongtiku,Toraja Utara,Madya,Madya,Madya,Madya,Madya,60
+Sulawesi Tenggara,1,Rumah Sakit Jantung dan Pembuluh Darah Oputa Yi Koo Sulawesi Tenggara,Kendari,,Utama,Utama,Madya,,60
+Sulawesi Tenggara,2,Rumah Sakit Umum Daerah Bahteramas Provinsi Sulawesi Tenggara,Kota Kendari,Utama,,Madya,Utama,Utama,60
+Sulawesi Tenggara,3,"Rumah Sakit Umum Daerah dr. L.M Baharuddin, M. Kes Kab. Muna",Muna,Madya,Madya,Madya,Madya,Madya,60
+Sulawesi Tenggara,4,Rumah Sakit Umum Daerah Konawe,Konawe,Madya,Madya,Madya,Madya,Madya,60
+Sulawesi Tenggara,5,Rumah Sakit Umum Daerah Konawe Selatan,Konawe Selatan,Madya,Madya,Madya,Madya,Madya,60
+Sulawesi Tenggara,6,Rumah Sakit Benyamin Guluh Kolaka,Kolaka,Madya,Madya,Madya,Madya,Madya,60
+Sulawesi Tenggara,7,Rumah Sakit Umum Daerah H.M. Djafar Harun,Kolaka Utara,Madya,Madya,Madya,Madya,Madya,60
+Sulawesi Tenggara,8,Rumah Sakit Umum Daerah Kabupaten Bombana,Bombana,Madya,Madya,Madya,Madya,Madya,61
+Sulawesi Tenggara,9,Rumah Sakit Umum Daerah Kabupaten Kolaka Timur,Kolaka Timur,Madya,Madya,Madya,Madya,Madya,61
+Sulawesi Tenggara,10,Rumah Sakit Umum Daerah Kota Kendari,Kota Kendari,Madya,Madya,Madya,Madya,Madya,61
+Sulawesi Tenggara,11,Rumah Sakit Umum Daerah Kota Baubau,Kota Bau-Bau,Madya,Madya,Madya,Madya,Madya,61
+Sulawesi Tenggara,12,Rumah Sakit Umum Daerah Kabupaten Buton Utara,Buton Utara,Madya,Madya,Madya,Madya,Madya,61
+Sulawesi Tenggara,13,Rumah Sakit Umum Daerah Kabupaten Buton,Buton,Madya,Madya,Madya,Madya,Madya,61
+Sulawesi Tenggara,14,Rumah Sakit Umum Daerah Kabupaten Buton Selatan,Buton Selatan,Madya,Madya,Madya,Madya,Madya,61
+Sulawesi Tenggara,15,Rumah Sakit Umum Daerah Kabupaten Muna Barat,Muna Barat,Madya,Madya,Madya,Madya,Madya,61
+Sulawesi Tenggara,16,Rumah Sakit Umum Daerah Kabupaten Wakatobi,Wakatobi,Madya,Madya,Madya,Madya,Madya,61
+Sulawesi Tenggara,17,Rumah Sakit Umum Daerah Kab.Konawe Utara,Konawe Utara,Madya,Madya,Madya,Madya,Madya,62
+Sulawesi Tenggara,18,Rumah Sakit Umum Daerah Kabupaten Konawe Kepulauan,Konawe Kepulauan,Madya,Madya,Madya,Madya,Madya,62
+Sulawesi Tenggara,19,Rumah Sakit Umum Daerah Kabupaten Buton Tengah,Buton Tengah,Madya,Madya,Madya,Madya,Madya,62
+Maluku,1,Rumah Sakit Umum Pusat Dr. Johannes Leimena Ambon,Kota Ambon,Utama,Paripurna,Paripurna,Utama,Utama,62
+Maluku,2,Rumah Sakit Umum Daerah Dr. M. Haulussy Ambon,Kota Ambon,Utama,Utama,Utama,Utama,Utama,62
+Maluku,3,Rumah Sakit Umum Daerah Karel Sadsuitubun,Maluku Tenggara,Madya,Madya,Madya,Madya,Madya,62
+Maluku,4,Rumah Sakit Umum Daerah Kabupaten Buru,Buru,Madya,Madya,Madya,Madya,Madya,62
+Maluku,5,Rumah Sakit Umum Daerah Masohi,Maluku Tengah,Madya,Madya,Madya,Madya,Madya,62
+Maluku,6,Rumah Sakit Umum Daerah Piru,Seram Bagian Barat,Madya,Madya,Madya,Madya,Madya,62
+Maluku,7,Rumah Sakit Umum Daerah Bula,Seram Bagian Timur,Madya,Madya,Madya,Madya,Madya,63
+Maluku,8,Rumah Sakit Umum Daerah Dr. P. P. Magretti Saumlaki,Maluku Tenggara Barat (Kep. Tanimbar),Madya,Madya,Madya,Madya,Madya,63
+Maluku,9,Rumah Sakit Umum Daerah Cendrawasih Dobo,Kep. Aru,Madya,Madya,Madya,Madya,Madya,63
+Maluku,10,Rumah Sakit Umum Daerah Tiakur,Maluku Barat Daya,Madya,Madya,Madya,Madya,Madya,63
+Maluku,11,Rumah Sakit Umum Daerah dr. Salim Alkatiri,Buru Selatan,Madya,Madya,Madya,Madya,Madya,63
+Maluku,12,Rumah Sakit Umum Daerah Maren Hi. Noho Renuat Kota Tual,Kota Tual,Madya,Madya,Madya,Madya,Madya,63
+Maluku Utara,1,Rumah Sakit Umum Daerah Dr. H. Chasan Boesoirie Ternate,Kota Ternate,Utama,Utama,Utama,Utama,Utama,63
+Maluku Utara,2,Rumah Sakit Umum Daerah Tobelo,Halmahera Utara,Madya,Madya,Madya,Madya,Madya,63
+Maluku Utara,3,Rumah Sakit Umum Daerah Jailolo,Halmahera Barat,Madya,Madya,Madya,Madya,Madya,63
+Maluku Utara,4,Rumah Sakit Umum Daerah Sanana,Kep. Sula,Madya,Madya,Madya,Madya,Madya,63
+Maluku Utara,5,Rumah Sakit Umum Daerah Labuha,Halmahera Selatan,Madya,Madya,Madya,Madya,Madya,64
+Maluku Utara,6,Rumah Sakit Umum Daerah Ir. Soekarno Kab. Pulau Morotai,Pulau Morotai,Madya,Madya,Madya,Madya,Madya,64
+Maluku Utara,7,Rumah Sakit Umum Daerah Kota Tidore Kepulauan,Kota Tidore Kepulauan,Madya,Madya,Madya,Madya,Madya,64
+Maluku Utara,8,Rumah Sakit Umum Daerah Weda,Halmahera Tengah,Madya,Madya,Madya,Madya,Madya,64
+Maluku Utara,9,Rumah Sakit Umum Daerah Maba,Halmahera Timur,Madya,Madya,Madya,Madya,Madya,64
+Maluku Utara,10,Rumah Sakit Umum Daerah Bobong,Pulau Taliabu,Madya,Madya,Madya,Madya,Madya,64
+Maluku Utara,11,Rumah Sakit Umum Daerah Kota Ternate,Kota Ternate,Madya,Madya,Madya,Madya,Madya,64
+Papua Barat,1,Rumah Sakit Umum Daerah Provinsi Papua Barat,Manokwari,Utama,Madya,Utama,Utama,Utama,64
+Papua Barat,2,Rumah Sakit Umum Daerah Fakfak,Fakfak,Madya,Madya,Madya,Madya,Madya,64
+Papua Barat,3,Rumah Sakit Umum Daerah Manokwari,Manokwari,Madya,Madya,Madya,Madya,Madya,64
+Papua Barat,4,Rumah Sakit Umum Daerah Kaimana,Kaimana,Madya,Madya,Madya,Madya,Madya,65
+Papua Barat,5,Rumah Sakit Umum Daerah Teluk Bintuni,Teluk Bintuni,Madya,Madya,Madya,Madya,Madya,65
+Papua Barat,6,Rumah Sakit Umum Daerah Dr. Alberth H. Torey,Teluk Wondama,Madya,Madya,Madya,Madya,Madya,65
+Papua Barat,7,Rumah Sakit Umum Elia Waran,Manokwari Selatan,Madya,Madya,Madya,Madya,Madya,65
+Papua Barat,8,Rumah Sakit Umum Daerah Pratama Pegunungan Arfak,Pegunungan Arfak,Madya,Madya,Madya,Madya,Madya,65
+Papua Barat Daya,1,Rumah Sakit Umum Daerah Kabupaten Sorong,Sorong,Madya,Utama,Madya,Madya,Madya,65
+Papua Barat Daya,2,Rumah Sakit Umum Daerah Scholoo Keyen,Sorong Selatan,Madya,Madya,Madya,Madya,Madya,65
+Papua Barat Daya,3,Rumah Sakit Umum Daerah Raja Ampat,Raja Ampat,Madya,Madya,Madya,Madya,Madya,65
+Papua Barat Daya,4,Rumah Sakit Umum Kelas D Pratama Kab. Tambrauw,Tambrauw,Madya,Madya,Madya,Madya,Madya,65
+Papua Barat Daya,5,Rumah Sakit Umum Pratama Tipe D Kab. Maybrat,Maybrat,Madya,Madya,Madya,Madya,Madya,65
+Papua Barat Daya,6,Rumah Sakit Umum Daerah Sele Be Solu,Kota Sorong,Madya,Madya,Madya,Madya,Madya,66
+Papua,1,Rumah Sakit Umum Pusat Jayapura,Kota Jayapura,Utama,Utama,Utama,Utama,Utama,66
+Papua,2,Rumah Sakit Umum Daerah Jayapura,Kota Jayapura,Utama,Utama,Utama,Utama,Utama,66
+Papua,3,Rumah Sakit Umum Daerah Abepura,Kota Jayapura,Madya,Madya,Madya,Madya,,66
+Papua,4,Rumah Sakit Umum Daerah Ramela Muara Tami,Kota Jayapura,,,,,Madya,66
+Papua,5,Rumah Sakit Umum Daerah Biak,Biak Numfor,Madya,Madya,Madya,Madya,Madya,66
+Papua,6,Rumah Sakit Umum Daerah Yowari Sentani,Jayapura,Madya,Madya,Madya,Madya,Madya,66
+Papua,7,Rumah Sakit Umum Daerah Serui,Kep. Yapen,Madya,Madya,Madya,Madya,Madya,66
+Papua,8,Rumah Sakit Hendrik Fintay Kabupaten Sarmi,Sarmi,Madya,Madya,Madya,Madya,Madya,66
+Papua,9,Rumah Sakit Umum Daerah Kwaingga Kabupaten Keerom,Keerom,Madya,Madya,Madya,Madya,Madya,66
+Papua,10,Rumah Sakit Umum Daerah Rumah Rodo Fabo,Waropen,Madya,Madya,Madya,Madya,Madya,67
+Papua,11,Rumah Sakit Umum Daerah Supiori,Supiori,Madya,Madya,Madya,Madya,Madya,67
+Papua,12,Rumah Sakit Umum Daerah Kawera,Mamberamo Raya,Madya,Madya,Madya,Madya,Madya,67
+Papua Tengah,1,Rumah Sakit Umum Daerah Nabire,Nabire,Madya,Madya,Madya,Madya,Madya,67
+Papua Tengah,2,Rumah Sakit Umum Daerah Paniai,Paniai,Madya,Madya,Madya,Madya,Madya,67
+Papua Tengah,3,Rumah Sakit Umum Daerah Mulia,Puncak Jaya,Madya,Madya,Madya,Madya,Madya,67
+Papua Tengah,4,Rumah Sakit Umum Daerah Kabupaten Mimika,Mimika,Madya,Madya,Madya,Madya,Madya,67
+Papua Tengah,5,Rumah Sakit Umum Daerah Ilaga,Puncak,Madya,Madya,Madya,Madya,Madya,67
+Papua Tengah,6,Rumah Sakit Umum Daerah Kabupaten Dogiyai,Dogiyai,Madya,Madya,Madya,Madya,Madya,67
+Papua Tengah,7,Rumah Sakit Umum Daerah Kabupaten Intan Jaya,Intan Jaya,Madya,Madya,Madya,Madya,Madya,67
+Papua Tengah,8,Rumah Sakit Umum Daerah Pratama Waghete,Deiyai,Madya,Madya,Madya,Madya,Madya,67
+Papua Pegunungan,1,Rumah Sakit Umum Daerah Wamena,Jayawijaya,Madya,Madya,Madya,Madya,Madya,68
+Papua Pegunungan,2,Rumah Sakit Umum Daerah Dekai,Yahukimo,Madya,Madya,Madya,Madya,Madya,68
+Papua Pegunungan,3,Rumah Sakit Umum Daerah Karubaga,Tolikara,Madya,Madya,Madya,Madya,Madya,68
+Papua Pegunungan,4,Rumah Sakit Umum Daerah Tiom,Lanny Jaya,Madya,Madya,Madya,Madya,Madya,68
+Papua Pegunungan,5,Rumah Sakit Umum Daerah Oksibil,Pegunungan Bintang,Madya,Madya,Madya,Madya,Madya,68
+Papua Pegunungan,6,Rumah Sakit Pratama Elvrida Sara,Nduga,Madya,Madya,Madya,Madya,Madya,68
+Papua Pegunungan,7,Rumah Sakit Umum Daerah Lukas Enembe Kab. Memberamo Tengah,Mamberamo Tengah,Madya,Madya,Madya,Madya,Madya,68
+Papua Pegunungan,8,Rumah Sakit Umum Daerah Er Dabi,Yalimo,Madya,Madya,Madya,Madya,Madya,68
+Papua Selatan,1,Rumah Sakit Umum Daerah Merauke,Merauke,Madya,Madya,Madya,Madya,Madya,68
+Papua Selatan,2,Rumah Sakit Umum Daerah Kabupaten Mappi,Mappi,Madya,Madya,Madya,Madya,Madya,68
+Papua Selatan,3,Rumah Sakit Umum Daerah Perpetua J. Safanpo,Asmat,Madya,Madya,Madya,Madya,Madya,69
+Papua Selatan,4,Rumah Sakit Umum Daerah Boven Digoel,Boven Digoel,Madya,Madya,Madya,Madya,Madya,69

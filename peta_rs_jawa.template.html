@@ -1,0 +1,270 @@
+<title>Java Hospital Specialists</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/*__LEAFLET_CSS__*/
+/* Layout: a working tool — control + detail rail on the left, the island map filling the rest. */
+:root {
+  --bg: #eef3f1;
+  --panel: #ffffff;
+  --ink: #13221e;
+  --muted: #5a6a65;
+  --line: #d5dfdb;
+  --accent: #0e6b60;
+  --accent-soft: #dcefeb;
+  --sea: #cbdadc;
+  --land: #e6ece9;
+  --none: #c4402c;
+  --one: #d4931a;
+  --few: #62ad97;
+  --many: #0e6b60;
+  --approx: #7a5bc4;
+  --font-body: "Public Sans", "Segoe UI", system-ui, sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1615; --panel: #151f1d; --ink: #e2ebe8; --muted: #93a59f; --line: #283633;
+    --accent: #4fc2ad; --accent-soft: #19332e; --sea: #0b1211; --land: #1b2725;
+    --none: #e5634d; --one: #e6aa3a; --few: #4f9c86; --many: #6fd8c3; --approx: #a68cf0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1615; --panel: #151f1d; --ink: #e2ebe8; --muted: #93a59f; --line: #283633;
+  --accent: #4fc2ad; --accent-soft: #19332e; --sea: #0b1211; --land: #1b2725;
+  --none: #e5634d; --one: #e6aa3a; --few: #4f9c86; --many: #6fd8c3; --approx: #a68cf0;
+  color-scheme: dark;
+}
+html, body { height: 100%; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 14px; }
+.app { height: 100%; display: grid; grid-template-columns: minmax(300px, 380px) 1fr; }
+aside { background: var(--panel); border-right: 1px solid var(--line); display: flex; flex-direction: column; min-height: 0; min-width: 0; }
+.head { padding: 16px 16px 12px; border-bottom: 1px solid var(--line); display: grid; gap: 4px; }
+.head h1 { margin: 0; font-size: 19px; font-weight: 700; letter-spacing: -0.01em; text-wrap: balance; }
+.head p { margin: 0; color: var(--muted); font-size: 12.5px; line-height: 1.45; }
+.controls { padding: 12px 16px; display: grid; gap: 10px; border-bottom: 1px solid var(--line); }
+.row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+label.f { display: grid; gap: 4px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+input, select { font: inherit; font-size: 13.5px; text-transform: none; letter-spacing: 0; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 7px 9px; width: 100%; min-width: 0; }
+input:focus-visible, select:focus-visible, button:focus-visible, .res:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.stats { display: flex; flex-wrap: wrap; gap: 6px 12px; font-size: 12.5px; color: var(--muted); }
+.stats b { color: var(--ink); font-family: var(--font-data); font-weight: 500; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 12px; font-size: 12px; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 5px; }
+.dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; border: 1px solid var(--panel); box-shadow: 0 0 0 1px var(--line); }
+.scroll { overflow-y: auto; min-height: 0; flex: 1; }
+.results { display: grid; }
+.res { all: unset; cursor: pointer; padding: 8px 16px; border-bottom: 1px solid var(--line); display: grid; gap: 2px; }
+.res:hover { background: var(--accent-soft); }
+.res small { color: var(--muted); font-size: 12px; }
+.detail { padding: 14px 16px 24px; display: grid; gap: 12px; }
+.detail h2 { margin: 0; font-size: 17px; line-height: 1.3; text-wrap: balance; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-size: 11.5px; padding: 2px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--ink); }
+.chip.warn { background: transparent; border: 1px solid var(--approx); color: var(--approx); }
+.meta { font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+.meta a { color: var(--accent); }
+.kpis { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.kpi { border: 1px solid var(--line); border-radius: 6px; padding: 8px; display: grid; gap: 2px; }
+.kpi b { font-family: var(--font-data); font-size: 18px; font-weight: 500; }
+.kpi span { font-size: 11px; color: var(--muted); }
+.sec h3 { margin: 6px 0 4px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); display: flex; justify-content: space-between; }
+.sp { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; padding: 4px 6px; border-radius: 4px; font-size: 13px; }
+.sp .n { font-family: var(--font-data); font-variant-numeric: tabular-nums; }
+.sp .bar { grid-column: 1 / -1; height: 3px; background: var(--line); border-radius: 2px; overflow: hidden; margin-top: -2px; }
+.sp .bar i { display: block; height: 100%; background: var(--accent); }
+.sp.hl { background: var(--accent-soft); font-weight: 600; }
+.missing { font-size: 12.5px; padding: 8px 10px; border: 1px solid var(--none); border-radius: 6px; color: var(--none); }
+.empty { color: var(--muted); font-size: 13px; line-height: 1.5; padding: 14px 16px; }
+#map { height: 100%; width: 100%; background: var(--sea); }
+.leaflet-container { font-family: var(--font-body); }
+.leaflet-tooltip { font-family: var(--font-body); font-size: 12px; background: var(--panel); color: var(--ink); border-color: var(--line); }
+.leaflet-control-zoom a { background: var(--panel) !important; color: var(--ink) !important; border-color: var(--line) !important; }
+.leaflet-control-attribution { background: color-mix(in srgb, var(--panel) 80%, transparent) !important; color: var(--muted) !important; }
+.leaflet-control-attribution a { color: var(--accent) !important; }
+@media (max-width: 760px) {
+  .app { grid-template-columns: 1fr; grid-template-rows: 55vh auto; height: auto; }
+  .mapwrap { order: -1; height: 55vh; }
+  aside { border-right: 0; }
+  .scroll { overflow: visible; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="app">
+  <aside>
+    <div class="head">
+      <h1>Java hospital specialists</h1>
+      <p id="sub">Specialist doctors per hospital, as reported to SIRS Kemenkes. Click a hospital to see its staff.</p>
+    </div>
+    <div class="controls">
+      <label class="f" for="q">Find a hospital or district
+        <input id="q" type="search" placeholder="e.g. Hasan Sadikin, Garut" autocomplete="off">
+      </label>
+      <div class="row2">
+        <label class="f" for="prov">Province
+          <select id="prov"><option value="">All of Java</option></select>
+        </label>
+        <label class="f" for="jenis">Hospital type
+          <select id="jenis">
+            <option value="">All types</option>
+            <option value="RSU">General (RSU)</option>
+            <option value="RSIA">Mother &amp; child (RSIA)</option>
+            <option value="RSK">Specialty (RSK)</option>
+          </select>
+        </label>
+      </div>
+      <label class="f" for="sp">Color by
+        <select id="sp"></select>
+      </label>
+      <div class="legend" id="legend"></div>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div class="scroll">
+      <div class="results" id="results"></div>
+      <div id="detail"><p class="empty">Select a hospital on the map, or search above. Pin color follows the "Color by" choice; pin size follows bed count.</p></div>
+    </div>
+  </aside>
+  <div class="mapwrap"><div id="map"></div></div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const D = /*__DATA__*/null;
+const CAT_LABEL = { dasar: "Basic specialists", lain: "Other specialists", sub: "Subspecialists", gigi: "Dental specialists", umum: "General practitioners" };
+const CAT_ORDER = ["dasar", "lain", "sub", "gigi", "umum"];
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const short = t => t.replace(/^Dokter Spesialis\s+/i, "").replace(/^Dokter Gigi Spesialis\s+/i, "Gigi: ");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+const H = D.rows.map(r => {
+  const c = new Map();
+  for (let i = 0; i < r[13].length; i += 2) c.set(r[13][i], r[13][i + 1]);
+  let sp = 0, sub = 0, gp = 0;
+  c.forEach((n, t) => { const k = D.cats[t]; if (k === "dasar" || k === "lain") sp += n; else if (k === "sub") sub += n; else if (k === "umum") gp += n; });
+  return { kode: r[0], nama: r[1], prov: r[2], kab: r[3], own: r[4], kelas: r[5], jenis: r[6], beds: r[7], lat: r[8], lng: r[9], approx: r[10], alamat: r[11], telp: r[12], c, sp, sub, gp };
+});
+
+// Specialty menu: grouped by category, most widespread first, with how many hospitals report it.
+const spSel = document.getElementById("sp");
+const hasCount = new Map();
+H.forEach(h => h.c.forEach((n, t) => hasCount.set(t, (hasCount.get(t) || 0) + 1)));
+spSel.innerHTML = '<option value="total">Total specialists (all types)</option>' + CAT_ORDER.filter(k => k !== "umum").map(k => {
+  const ts = D.types.map((t, i) => i).filter(i => D.cats[i] === k).sort((a, b) => hasCount.get(b) - hasCount.get(a));
+  return `<optgroup label="${CAT_LABEL[k]}">` + ts.map(i => `<option value="${i}">${esc(short(D.types[i]))} · ${hasCount.get(i)} RS</option>`).join("") + "</optgroup>";
+}).join("");
+
+const provSel = document.getElementById("prov");
+[...new Set(H.map(h => h.prov))].sort().forEach(p => provSel.insertAdjacentHTML("beforeend", `<option>${esc(p)}</option>`));
+
+const map = L.map("map", { preferCanvas: true, zoomControl: true, minZoom: 6 }).fitBounds([[-8.85, 105.1], [-5.85, 114.6]]);
+const tiles = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 18, attribution: "&copy; OpenStreetMap · data: SIRS Kemenkes" }).addTo(map);
+const provLayer = L.geoJSON(D.prov, { interactive: false, style: () => ({ color: css("--muted"), weight: 1, fillColor: css("--land"), fillOpacity: 1 }) }).addTo(map);
+// Street tiles are unavailable inside a published artifact; the province outlines carry the map then.
+tiles.once("tileload", () => provLayer.setStyle({ fillOpacity: 0, weight: 1.2 }));
+
+const renderer = L.canvas({ padding: 0.3 });
+let selected = null;
+H.forEach(h => {
+  if (h.lat == null) return;
+  h.m = L.circleMarker([h.lat, h.lng], { renderer, radius: 4, weight: 1 })
+    .bindTooltip(() => `${esc(h.nama)}`, { direction: "top", offset: [0, -4] })
+    .on("click", () => select(h));
+});
+
+function bucket(h, sp) {
+  if (sp === "total") {
+    const n = h.sp;
+    return n === 0 ? "--none" : n < 10 ? "--one" : n < 30 ? "--few" : "--many";
+  }
+  const n = h.c.get(+sp) || 0;
+  return n === 0 ? "--none" : n === 1 ? "--one" : n <= 3 ? "--few" : "--many";
+}
+function legendHTML(sp) {
+  const L4 = sp === "total" ? ["0", "1–9", "10–29", "30+"] : ["None", "1", "2–3", "4+"];
+  return ["--none", "--one", "--few", "--many"].map((v, i) => `<span><i class="dot" style="background:var(${v})"></i>${L4[i]}</span>`).join("")
+    + `<span><i class="dot" style="background:transparent;border:2px solid var(--approx)"></i>Approx. location</span>`;
+}
+
+function visible(h) {
+  const p = provSel.value, j = document.getElementById("jenis").value, q = document.getElementById("q").value.trim().toLowerCase();
+  if (p && h.prov !== p) return false;
+  if (j === "RSK" ? !h.jenis.startsWith("RSK") : j && h.jenis !== j) return false;
+  if (q && !(h.nama.toLowerCase().includes(q) || h.kab.toLowerCase().includes(q))) return false;
+  return true;
+}
+
+function redraw() {
+  const sp = spSel.value;
+  document.getElementById("legend").innerHTML = legendHTML(sp);
+  const panel = css("--panel"), approx = css("--approx");
+  const colors = Object.fromEntries(["--none", "--one", "--few", "--many"].map(v => [v, css(v)]));
+  let shown = 0, tally = { "--none": 0, "--one": 0, "--few": 0, "--many": 0 };
+  H.forEach(h => {
+    const on = visible(h);
+    if (on) { shown++; tally[bucket(h, sp)]++; }
+    if (!h.m) return;
+    if (!on) { h.m.remove(); return; }
+    const b = bucket(h, sp);
+    h.m.setStyle({ fillColor: colors[b], fillOpacity: 0.9, color: h === selected ? css("--ink") : h.approx ? approx : panel, weight: h === selected ? 3 : h.approx ? 2 : 1 });
+    h.m.setRadius(Math.max(3.5, Math.min(13, Math.sqrt(h.beds || 0) / 2)));
+    h.m.addTo(map);
+  });
+  if (selected?.m && visible(selected)) selected.m.bringToFront();
+  const lbl = sp === "total" ? ["no specialists", "1–9", "10–29", "30+"] : ["none", "1", "2–3", "4+"];
+  document.getElementById("stats").innerHTML = `<span><b>${shown}</b> hospitals</span>` +
+    Object.values(tally).map((n, i) => `<span><b>${n}</b> ${lbl[i]}</span>`).join("");
+  renderResults();
+}
+
+function renderResults() {
+  const q = document.getElementById("q").value.trim();
+  const box = document.getElementById("results");
+  if (!q) { box.innerHTML = ""; return; }
+  const hits = H.filter(visible).slice(0, 25);
+  box.innerHTML = hits.length ? hits.map(h => `<button class="res" data-k="${h.kode}">${esc(h.nama)}<small>${esc(h.kab)} · ${esc(h.jenis)} · Kelas ${esc(h.kelas)}</small></button>`).join("")
+    : `<p class="empty">No hospital matches "${esc(q)}" with the current filters.</p>`;
+}
+document.getElementById("results").addEventListener("click", e => {
+  const b = e.target.closest(".res"); if (!b) return;
+  const h = H.find(x => x.kode === b.dataset.k); select(h, true);
+});
+
+function select(h, fly) {
+  const prev = selected; selected = h;
+  if (fly && h.m) map.flyTo([h.lat, h.lng], Math.max(map.getZoom(), 12), { duration: 0.6 });
+  redraw();
+  const sp = spSel.value;
+  const groups = {};
+  h.c.forEach((n, t) => (groups[D.cats[t]] ||= []).push([t, n]));
+  const max = Math.max(1, ...h.c.values());
+  const secs = CAT_ORDER.filter(k => groups[k]).map(k => {
+    const items = groups[k].sort((a, b) => b[1] - a[1]);
+    const total = items.reduce((s, x) => s + x[1], 0);
+    return `<div class="sec"><h3><span>${CAT_LABEL[k]}</span><span>${total}</span></h3>` + items.map(([t, n]) =>
+      `<div class="sp${String(t) === sp ? " hl" : ""}"><span>${esc(short(D.types[t]))}</span><span class="n">${n}</span><span class="bar"><i style="width:${(n / max) * 100}%"></i></span></div>`).join("") + "</div>";
+  }).join("");
+  const miss = sp !== "total" && !h.c.get(+sp) ? `<div class="missing">No ${esc(short(D.types[+sp]))} reported at this hospital.</div>` : "";
+  document.getElementById("detail").innerHTML = `<div class="detail">
+    <h2>${esc(h.nama)}</h2>
+    <div class="chips"><span class="chip">Kelas ${esc(h.kelas)}</span><span class="chip">${esc(h.jenis)}</span><span class="chip">${esc(h.own)}</span><span class="chip">${h.beds} beds</span>${h.approx ? '<span class="chip warn">Location approximate (district center)</span>' : ""}</div>
+    <div class="meta">${esc(h.alamat)}<br>${esc(h.kab)}, ${esc(h.prov)} · Tel ${esc(h.telp)}<br><a href="https://sirs.kemkes.go.id/fo/home/profile_rs/${h.kode}" target="_blank" rel="noopener">Open SIRS profile (${h.kode})</a></div>
+    <div class="kpis"><div class="kpi"><b>${h.sp}</b><span>Specialists</span></div><div class="kpi"><b>${h.sub}</b><span>Subspecialists</span></div><div class="kpi"><b>${h.gp}</b><span>GPs &amp; dentists</span></div></div>
+    ${miss}${secs || '<p class="empty">This hospital reported no doctors to SIRS.</p>'}
+  </div>`;
+  document.getElementById("q").value && (document.getElementById("results").innerHTML = "");
+}
+
+["q", "prov", "jenis", "sp"].forEach(id => document.getElementById(id).addEventListener("input", () => {
+  redraw();
+  if (selected && id === "sp") select(selected);
+}));
+document.getElementById("q").addEventListener("keydown", e => {
+  if (e.key === "Enter") { const h = H.find(visible); if (h) select(h, true); }
+});
+const unplaced = H.filter(h => h.lat == null).length;
+document.getElementById("sub").textContent = `${H.length} hospitals with ${D.types.length} doctor types, as reported to SIRS Kemenkes (downloaded ${D.meta.downloaded}). Click a hospital to see its staff.` + (unplaced ? ` ${unplaced} hospitals have no usable location and are listed only in search.` : "");
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => { provLayer.setStyle({ color: css("--muted"), fillColor: css("--land") }); redraw(); });
+redraw();
+</script>

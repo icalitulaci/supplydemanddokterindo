@@ -1,0 +1,515 @@
+kab_code,provinsi,kab_kota,population
+1101,Aceh,Aceh Selatan,239629
+1102,Aceh,Aceh Tenggara,235589
+1103,Aceh,Aceh Timur,461391
+1104,Aceh,Aceh Tengah,232606
+1105,Aceh,Aceh Barat,209220
+1106,Aceh,Aceh Besar,442987
+1107,Aceh,Pidie,451076
+1108,Aceh,Aceh Utara,641007
+1109,Aceh,Simeulue,96812
+1110,Aceh,Aceh Singkil,140461
+1111,Aceh,Bireuen,468696
+1112,Aceh,Aceh Barat Daya,156128
+1113,Aceh,Gayo Lues,107506
+1114,Aceh,Aceh Jaya,101407
+1115,Aceh,Nagan Raya,181103
+1116,Aceh,Aceh Tamiang,312061
+1117,Aceh,Bener Meriah,181376
+1118,Aceh,Pidie Jaya,166517
+1171,Aceh,Kota Banda Aceh,265310
+1172,Aceh,Kota Sabang,42793
+1173,Aceh,Kota Lhokseumawe,198705
+1174,Aceh,Kota Langsa,183914
+1175,Aceh,Kota Subulussalam,107185
+1201,Sumatera Utara,Tapanuli Tengah,369482
+1202,Sumatera Utara,Tapanuli Utara,331475
+1203,Sumatera Utara,Tapanuli Selatan,324565
+1204,Sumatera Utara,Nias,147989
+1205,Sumatera Utara,Langkat,1120709
+1206,Sumatera Utara,Karo,422495
+1207,Sumatera Utara,Deli Serdang,2080408
+1208,Sumatera Utara,Simalungun,1004303
+1209,Sumatera Utara,Asahan,799451
+1210,Sumatera Utara,Labuhanbatu,513010
+1211,Sumatera Utara,Dairi,333335
+1212,Sumatera Utara,Toba,220508
+1213,Sumatera Utara,Mandailing Natal,501618
+1214,Sumatera Utara,Nias Selatan,369817
+1215,Sumatera Utara,Pakpak Bharat,57280
+1216,Sumatera Utara,Humbang Hasundutan,211022
+1217,Sumatera Utara,Samosir,149875
+1218,Sumatera Utara,Serdang Bedagai,696845
+1219,Sumatera Utara,Batu Bara,474832
+1220,Sumatera Utara,Padang Lawas Utara,273586
+1221,Sumatera Utara,Padang Lawas,271274
+1222,Sumatera Utara,Labuhanbatu Selatan,332459
+1223,Sumatera Utara,Labuhanbatu Utara,399306
+1224,Sumatera Utara,Nias Utara,153338
+1225,Sumatera Utara,Nias Barat,97526
+1271,Sumatera Utara,Kota Medan,2546452
+1272,Sumatera Utara,Kota Pematangsiantar,279772
+1273,Sumatera Utara,Kota Sibolga,100282
+1274,Sumatera Utara,Kota Tanjung Balai,187939
+1275,Sumatera Utara,Kota Binjai,315609
+1276,Sumatera Utara,Kota Tebing Tinggi,184064
+1277,Sumatera Utara,Kota Padang Sidempuan,231982
+1278,Sumatera Utara,Kota Gunungsitoli,138297
+1301,Sumatera Barat,Pesisir Selatan,533786
+1302,Sumatera Barat,Solok,413075
+1303,Sumatera Barat,Sijunjung,247323
+1304,Sumatera Barat,Tanah Datar,382674
+1305,Sumatera Barat,Padang Pariaman,458310
+1306,Sumatera Barat,Agam,533254
+1307,Sumatera Barat,Lima Puluh Kota,402788
+1308,Sumatera Barat,Pasaman,313837
+1309,Sumatera Barat,Kepulauan Mentawai,97837
+1310,Sumatera Barat,Dharmasraya,242192
+1311,Sumatera Barat,Solok Selatan,181525
+1312,Sumatera Barat,Pasaman Barat,454053
+1371,Sumatera Barat,Kota Padang,946982
+1372,Sumatera Barat,Kota Solok,85553
+1373,Sumatera Barat,Kota Sawahlunto,68559
+1374,Sumatera Barat,Kota Padang Panjang,63895
+1375,Sumatera Barat,Kota Bukittinggi,141804
+1376,Sumatera Barat,Kota Payakumbuh,149077
+1377,Sumatera Barat,Kota Pariaman,103835
+1401,Riau,Kampar,898973
+1402,Riau,Indragiri Hulu,487039
+1403,Riau,Bengkalis,681884
+1404,Riau,Indragiri Hilir,713294
+1405,Riau,Pelalawan,446439
+1406,Riau,Rokan Hulu,586994
+1407,Riau,Rokan Hilir,688073
+1408,Riau,Siak,495760
+1409,Riau,Kuantan Singingi,365989
+1410,Riau,Kepulauan Meranti,211997
+1471,Riau,Kota Pekanbaru,1167599
+1472,Riau,Kota Dumai,355256
+1501,Jambi,Kerinci,268951
+1502,Jambi,Merangin,397461
+1503,Jambi,Sarolangun,313097
+1504,Jambi,Batanghari,307361
+1505,Jambi,Muaro Jambi,457238
+1506,Jambi,Tanjung Jabung Barat,336978
+1507,Jambi,Tanjung Jabung Timur,244905
+1508,Jambi,Bungo,380027
+1509,Jambi,Tebo,376541
+1571,Jambi,Kota Jambi,649656
+1572,Jambi,Kota Sungai Penuh,102224
+1601,Sumatera Selatan,Ogan Komering Ulu,390048
+1602,Sumatera Selatan,Ogan Komering Ilir,801059
+1603,Sumatera Selatan,Muara Enim,653731
+1604,Sumatera Selatan,Lahat,448141
+1605,Sumatera Selatan,Musi Rawas,427723
+1606,Sumatera Selatan,Musi Banyuasin,736897
+1607,Sumatera Selatan,Banyuasin,888324
+1608,Sumatera Selatan,Ogan Komering Ulu Timur,694832
+1609,Sumatera Selatan,Ogan Komering Ulu Selatan,406938
+1610,Sumatera Selatan,Ogan Ilir,446020
+1611,Sumatera Selatan,Empat Lawang,336783
+1612,Sumatera Selatan,Penukal Abab Lematang Ilir,214795
+1613,Sumatera Selatan,Musi Rawas Utara,203688
+1671,Sumatera Selatan,Kota Palembang,1801367
+1672,Sumatera Selatan,Kota Pagar Alam,153271
+1673,Sumatera Selatan,Kota Lubuklinggau,247550
+1674,Sumatera Selatan,Kota Prabumulih,213523
+1701,Bengkulu,Bengkulu Selatan,177137
+1702,Bengkulu,Rejang Lebong,288582
+1703,Bengkulu,Bengkulu Utara,309773
+1704,Bengkulu,Kaur,136533
+1705,Bengkulu,Seluma,216028
+1706,Bengkulu,Muko Muko,205602
+1707,Bengkulu,Lebong,115520
+1708,Bengkulu,Kepahiang,151910
+1709,Bengkulu,Bengkulu Tengah,126339
+1771,Bengkulu,Kota Bengkulu,400533
+1801,Lampung,Lampung Selatan,1124683
+1802,Lampung,Lampung Tengah,1394395
+1803,Lampung,Lampung Utara,675626
+1804,Lampung,Lampung Barat,313756
+1805,Lampung,Tulang Bawang,440040
+1806,Lampung,Tanggamus,641036
+1807,Lampung,Lampung Timur,1122605
+1808,Lampung,Way Kanan,495058
+1809,Lampung,Pesawaran,501047
+1810,Lampung,Pringsewu,444834
+1811,Lampung,Mesuji,241280
+1812,Lampung,Tulang Bawang Barat,312516
+1813,Lampung,Pesisir Barat,177430
+1871,Lampung,Kota Bandar Lampung,1077664
+1872,Lampung,Kota Metro,182293
+1901,Kep. Bangka Belitung,Bangka,337755
+1902,Kep. Bangka Belitung,Belitung,192405
+1903,Kep. Bangka Belitung,Bangka Selatan,216079
+1904,Kep. Bangka Belitung,Bangka Tengah,210684
+1905,Kep. Bangka Belitung,Bangka Barat,217859
+1906,Kep. Bangka Belitung,Belitung Timur,132495
+1971,Kep. Bangka Belitung,Kota Pangkal Pinang,242285
+2101,Kepulauan Riau,Bintan,180404
+2102,Kepulauan Riau,Karimun,273946
+2103,Kepulauan Riau,Natuna,84325
+2104,Kepulauan Riau,Lingga,101039
+2105,Kepulauan Riau,Kepulauan Anambas,50922
+2171,Kepulauan Riau,Kota Batam,1342038
+2172,Kepulauan Riau,Kota Tanjung Pinang,239216
+3101,Dki Jakarta,Kepulauan Seribu,30334
+3171,Dki Jakarta,Jakarta Pusat,1057270
+3172,Dki Jakarta,Jakarta Utara,1832032
+3173,Dki Jakarta,Jakarta Barat,2556752
+3174,Dki Jakarta,Jakarta Selatan,2331411
+3175,Dki Jakarta,Jakarta Timur,3230417
+3201,Jawa Barat,Bogor,5809790
+3202,Jawa Barat,Sukabumi,2868943
+3203,Jawa Barat,Cianjur,2638825
+3204,Jawa Barat,Bandung,3839721
+3205,Jawa Barat,Garut,2851877
+3206,Jawa Barat,Tasikmalaya,1996059
+3207,Jawa Barat,Ciamis,1297783
+3208,Jawa Barat,Kuningan,1239999
+3209,Jawa Barat,Cirebon,2489046
+3210,Jawa Barat,Majalengka,1369569
+3211,Jawa Barat,Sumedang,1226660
+3212,Jawa Barat,Indramayu,1980080
+3213,Jawa Barat,Subang,1677628
+3214,Jawa Barat,Purwakarta,1063932
+3215,Jawa Barat,Karawang,2612065
+3216,Jawa Barat,Bekasi,3387601
+3217,Jawa Barat,Bandung Barat,1911661
+3218,Jawa Barat,Pangandaran,447272
+3271,Jawa Barat,Kota Bogor,1144108
+3272,Jawa Barat,Kota Sukabumi,370096
+3273,Jawa Barat,Kota Bandung,2591763
+3274,Jawa Barat,Kota Cirebon,356629
+3275,Jawa Barat,Kota Bekasi,2572209
+3276,Jawa Barat,Kota Depok,2010912
+3277,Jawa Barat,Kota Cimahi,581994
+3278,Jawa Barat,Kota Tasikmalaya,770839
+3279,Jawa Barat,Kota Banjar,209317
+3301,Jawa Tengah,Cilacap,2059748
+3302,Jawa Tengah,Banyumas,1868446
+3303,Jawa Tengah,Purbalingga,1057750
+3304,Jawa Tengah,Banjarnegara,1071977
+3305,Jawa Tengah,Kebumen,1446833
+3306,Jawa Tengah,Purworejo,809651
+3307,Jawa Tengah,Wonosobo,945955
+3308,Jawa Tengah,Magelang,1345662
+3309,Jawa Tengah,Boyolali,1114070
+3310,Jawa Tengah,Klaten,1302648
+3311,Jawa Tengah,Sukoharjo,916472
+3312,Jawa Tengah,Wonogiri,1057495
+3313,Jawa Tengah,Karanganyar,953696
+3314,Jawa Tengah,Sragen,1023538
+3315,Jawa Tengah,Grobogan,1520974
+3316,Jawa Tengah,Blora,927961
+3317,Jawa Tengah,Rembang,665501
+3318,Jawa Tengah,Pati,1385904
+3319,Jawa Tengah,Kudus,877821
+3320,Jawa Tengah,Jepara,1283687
+3321,Jawa Tengah,Demak,1254204
+3322,Jawa Tengah,Semarang,1088729
+3323,Jawa Tengah,Temanggung,822880
+3324,Jawa Tengah,Kendal,1094214
+3325,Jawa Tengah,Batang,855878
+3326,Jawa Tengah,Pekalongan,1034241
+3327,Jawa Tengah,Pemalang,1601007
+3328,Jawa Tengah,Tegal,1745278
+3329,Jawa Tengah,Brebes,2066426
+3371,Jawa Tengah,Kota Magelang,128709
+3372,Jawa Tengah,Kota Surakarta,589242
+3373,Jawa Tengah,Kota Salatiga,198971
+3374,Jawa Tengah,Kota Semarang,1702379
+3375,Jawa Tengah,Kota Pekalongan,318221
+3376,Jawa Tengah,Kota Tegal,294477
+3401,Daerah Istimewa Yogyakarta,Kulon Progo,444994
+3402,Daerah Istimewa Yogyakarta,Bantul,980269
+3403,Daerah Istimewa Yogyakarta,Gunungkidul,776926
+3404,Daerah Istimewa Yogyakarta,Sleman,1125571
+3471,Daerah Istimewa Yogyakarta,Kota Yogyakarta,415605
+3501,Jawa Timur,Pacitan,588718
+3502,Jawa Timur,Ponorogo,979008
+3503,Jawa Timur,Trenggalek,753810
+3504,Jawa Timur,Tulungagung,1139224
+3505,Jawa Timur,Blitar,1261699
+3506,Jawa Timur,Kediri,1691976
+3507,Jawa Timur,Malang,2734623
+3508,Jawa Timur,Lumajang,1116231
+3509,Jawa Timur,Jember,2615874
+3510,Jawa Timur,Banyuwangi,1791789
+3511,Jawa Timur,Bondowoso,788007
+3512,Jawa Timur,Situbondo,691635
+3513,Jawa Timur,Probolinggo,1200931
+3514,Jawa Timur,Pasuruan,1665922
+3515,Jawa Timur,Sidoarjo,2027874
+3516,Jawa Timur,Mojokerto,1156144
+3517,Jawa Timur,Jombang,1378005
+3518,Jawa Timur,Nganjuk,1152575
+3519,Jawa Timur,Madiun,737875
+3520,Jawa Timur,Magetan,692800
+3521,Jawa Timur,Ngawi,907002
+3522,Jawa Timur,Bojonegoro,1366227
+3523,Jawa Timur,Tuban,1266396
+3524,Jawa Timur,Lamongan,1367503
+3525,Jawa Timur,Gresik,1327497
+3526,Jawa Timur,Bangkalan,1042031
+3527,Jawa Timur,Sampang,1033926
+3528,Jawa Timur,Pamekasan,904965
+3529,Jawa Timur,Sumenep,1143002
+3571,Jawa Timur,Kota Kediri,301424
+3572,Jawa Timur,Kota Blitar,161204
+3573,Jawa Timur,Kota Malang,889359
+3574,Jawa Timur,Kota Probolinggo,243746
+3575,Jawa Timur,Kota Pasuruan,213469
+3576,Jawa Timur,Kota Mojokerto,142272
+3577,Jawa Timur,Kota Madiun,201733
+3578,Jawa Timur,Kota Surabaya,3018022
+3579,Jawa Timur,Kota Batu,225408
+3601,Banten,Pandeglang,1437046
+3602,Banten,Lebak,1531564
+3603,Banten,Tangerang,3459706
+3604,Banten,Serang,1791795
+3671,Banten,Kota Tangerang,1957349
+3672,Banten,Kota Cilegon,480378
+3673,Banten,Kota Serang,759929
+3674,Banten,Kota Tangerang Selatan,1463607
+5101,Bali,Jembrana,330221
+5102,Bali,Tabanan,478393
+5103,Bali,Badung,537739
+5104,Bali,Gianyar,504845
+5105,Bali,Klungkung,223723
+5106,Bali,Bangli,260526
+5107,Bali,Karangasem,538390
+5108,Bali,Buleleng,828156
+5171,Bali,Kota Denpasar,673270
+5201,Nusa Tenggara Barat,Lombok Barat,762757
+5202,Nusa Tenggara Barat,Lombok Tengah,1128716
+5203,Nusa Tenggara Barat,Lombok Timur,1457591
+5204,Nusa Tenggara Barat,Sumbawa,527715
+5205,Nusa Tenggara Barat,Dompu,277837
+5206,Nusa Tenggara Barat,Bima,543582
+5207,Nusa Tenggara Barat,Sumbawa Barat,156059
+5208,Nusa Tenggara Barat,Lombok Utara,269989
+5271,Nusa Tenggara Barat,Kota Mataram,461936
+5272,Nusa Tenggara Barat,Kota Bima,165113
+5301,Nusa Tenggara Timur,Kupang,391539
+5302,Nusa Tenggara Timur,Timor Tengah Selatan,490642
+5303,Nusa Tenggara Timur,Timor Tengah Utara,276032
+5304,Nusa Tenggara Timur,Belu,232788
+5305,Nusa Tenggara Timur,Alor,229730
+5306,Nusa Tenggara Timur,Flores Timur,289881
+5307,Nusa Tenggara Timur,Sikka,346614
+5308,Nusa Tenggara Timur,Ende,283806
+5309,Nusa Tenggara Timur,Ngada,169445
+5310,Nusa Tenggara Timur,Manggarai,349836
+5311,Nusa Tenggara Timur,Sumba Timur,277290
+5312,Nusa Tenggara Timur,Sumba Barat,141760
+5313,Nusa Tenggara Timur,Lembata,149921
+5314,Nusa Tenggara Timur,Rote Ndao,154027
+5315,Nusa Tenggara Timur,Manggarai Barat,290688
+5316,Nusa Tenggara Timur,Nagekeo,164457
+5317,Nusa Tenggara Timur,Sumba Tengah,92138
+5318,Nusa Tenggara Timur,Sumba Barat Daya,355022
+5319,Nusa Tenggara Timur,Manggarai Timur,305268
+5320,Nusa Tenggara Timur,Sabu Raijua,94860
+5321,Nusa Tenggara Timur,Malaka,210908
+5371,Nusa Tenggara Timur,Kota Kupang,404120
+6101,Kalimantan Barat,Sambas,651246
+6102,Kalimantan Barat,Mempawah,314148
+6103,Kalimantan Barat,Sanggau,499074
+6104,Kalimantan Barat,Ketapang,583541
+6105,Kalimantan Barat,Sintang,457204
+6106,Kalimantan Barat,Kapuas Hulu,276988
+6107,Kalimantan Barat,Bengkayang,295966
+6108,Kalimantan Barat,Landak,415033
+6109,Kalimantan Barat,Sekadau,225494
+6110,Kalimantan Barat,Melawi,217600
+6111,Kalimantan Barat,Kayong Utara,126898
+6112,Kalimantan Barat,Kubu Raya,646091
+6171,Kalimantan Barat,Kota Pontianak,687031
+6172,Kalimantan Barat,Kota Singkawang,249954
+6201,Kalimantan Tengah,Kotawaringin Barat,294602
+6202,Kalimantan Tengah,Kotawaringin Timur,454515
+6203,Kalimantan Tengah,Kapuas,417854
+6204,Kalimantan Tengah,Barito Selatan,137914
+6205,Kalimantan Tengah,Barito Utara,159848
+6206,Kalimantan Tengah,Katingan,181963
+6207,Kalimantan Tengah,Seruyan,159849
+6208,Kalimantan Tengah,Sukamara,67234
+6209,Kalimantan Tengah,Lamandau,114257
+6210,Kalimantan Tengah,Gunung Mas,134482
+6211,Kalimantan Tengah,Pulang Pisau,144663
+6212,Kalimantan Tengah,Murung Raya,124291
+6213,Kalimantan Tengah,Barito Timur,118665
+6271,Kalimantan Tengah,Kota Palangkaraya,315153
+6301,Kalimantan Selatan,Tanah Laut,369818
+6302,Kalimantan Selatan,Kotabaru,332787
+6303,Kalimantan Selatan,Banjar,590393
+6304,Kalimantan Selatan,Barito Kuala,329799
+6305,Kalimantan Selatan,Tapin,202061
+6306,Kalimantan Selatan,Hulu Sungai Selatan,239471
+6307,Kalimantan Selatan,Hulu Sungai Tengah,271505
+6308,Kalimantan Selatan,Hulu Sungai Utara,238250
+6309,Kalimantan Selatan,Tabalong,267787
+6310,Kalimantan Selatan,Tanah Bumbu,357221
+6311,Kalimantan Selatan,Balangan,138950
+6371,Kalimantan Selatan,Kota Banjarmasin,681693
+6372,Kalimantan Selatan,Kota Banjarbaru,285546
+6401,Kalimantan Timur,Paser,309667
+6402,Kalimantan Timur,Kutai Kartanegara,806964
+6403,Kalimantan Timur,Berau,299005
+6407,Kalimantan Timur,Kutai Barat,186581
+6408,Kalimantan Timur,Kutai Timur,448850
+6409,Kalimantan Timur,Penajam Paser Utara,202067
+6411,Kalimantan Timur,Mahakam Ulu,39715
+6471,Kalimantan Timur,Kota Balikpapan,757418
+6472,Kalimantan Timur,Kota Samarinda,881225
+6474,Kalimantan Timur,Kota Bontang,191811
+6501,Kalimantan Utara,Bulungan,170239
+6502,Kalimantan Utara,Malinau,87582
+6503,Kalimantan Utara,Nunukan,227460
+6504,Kalimantan Utara,Tana Tidung,30036
+6571,Kalimantan Utara,Kota Tarakan,255310
+7101,Sulawesi Utara,Bolaang Mongondow,257378
+7102,Sulawesi Utara,Minahasa,330843
+7103,Sulawesi Utara,Kepulauan Sangihe,135860
+7104,Sulawesi Utara,Kepulauan Talaud,100376
+7105,Sulawesi Utara,Minahasa Selatan,243297
+7106,Sulawesi Utara,Minahasa Utara,229231
+7107,Sulawesi Utara,Minahasa Tenggara,121554
+7108,Sulawesi Utara,Bolaang Mongondow Utara,88002
+7109,Sulawesi Utara,Kep. Siau Tagulandang Biaro,70528
+7110,Sulawesi Utara,Bolaang Mongondow Timur,91344
+7111,Sulawesi Utara,Bolaang Mongondow Selatan,76105
+7171,Sulawesi Utara,Kota Manado,459409
+7172,Sulawesi Utara,Kota Bitung,216026
+7173,Sulawesi Utara,Kota Tomohon,103812
+7174,Sulawesi Utara,Kota Kotamobagu,121526
+7201,Sulawesi Tengah,Banggai,377804
+7202,Sulawesi Tengah,Poso,253350
+7203,Sulawesi Tengah,Donggala,318613
+7204,Sulawesi Tengah,Toli Toli,242783
+7205,Sulawesi Tengah,Buol,162273
+7206,Sulawesi Tengah,Morowali,198968
+7207,Sulawesi Tengah,Banggai Kepulauan,130008
+7208,Sulawesi Tengah,Parigi Moutong,461576
+7209,Sulawesi Tengah,Tojo Una Una,173534
+7210,Sulawesi Tengah,Sigi,273460
+7211,Sulawesi Tengah,Banggai Laut,77830
+7212,Sulawesi Tengah,Morowali Utara,154004
+7271,Sulawesi Tengah,Kota Palu,395291
+7301,Sulawesi Selatan,Kepulauan Selayar,143096
+7302,Sulawesi Selatan,Bulukumba,480672
+7303,Sulawesi Selatan,Bantaeng,217267
+7304,Sulawesi Selatan,Jeneponto,423005
+7305,Sulawesi Selatan,Takalar,332863
+7306,Sulawesi Selatan,Gowa,825369
+7307,Sulawesi Selatan,Sinjai,276269
+7308,Sulawesi Selatan,Bone,827372
+7309,Sulawesi Selatan,Maros,414406
+7310,Sulawesi Selatan,Pangkajene Kepulauan,361791
+7311,Sulawesi Selatan,Barru,196001
+7312,Sulawesi Selatan,Soppeng,241333
+7313,Sulawesi Selatan,Wajo,400699
+7314,Sulawesi Selatan,Sidenreng Rappang,332560
+7315,Sulawesi Selatan,Pinrang,423146
+7316,Sulawesi Selatan,Enrekang,234470
+7317,Sulawesi Selatan,Luwu,385361
+7318,Sulawesi Selatan,Tana Toraja,258934
+7322,Sulawesi Selatan,Luwu Utara,335161
+7324,Sulawesi Selatan,Luwu Timur,323422
+7326,Sulawesi Selatan,Toraja Utara,266513
+7371,Sulawesi Selatan,Kota Makassar,1482354
+7372,Sulawesi Selatan,Kota Pare Pare,163314
+7373,Sulawesi Selatan,Kota Palopo,182898
+7401,Sulawesi Tenggara,Kolaka,257733
+7402,Sulawesi Tenggara,Konawe,269128
+7403,Sulawesi Tenggara,Muna,233470
+7404,Sulawesi Tenggara,Buton,122024
+7405,Sulawesi Tenggara,Konawe Selatan,332389
+7406,Sulawesi Tenggara,Bombana,168055
+7407,Sulawesi Tenggara,Wakatobi,118793
+7408,Sulawesi Tenggara,Kolaka Utara,143604
+7409,Sulawesi Tenggara,Konawe Utara,83449
+7410,Sulawesi Tenggara,Buton Utara,74718
+7411,Sulawesi Tenggara,Kolaka Timur,130691
+7412,Sulawesi Tenggara,Konawe Kepulauan,44091
+7413,Sulawesi Tenggara,Muna Barat,91571
+7414,Sulawesi Tenggara,Buton Tengah,121745
+7415,Sulawesi Tenggara,Buton Selatan,102881
+7471,Sulawesi Tenggara,Kota Kendari,366454
+7472,Sulawesi Tenggara,Kota Bau Bau,163793
+7501,Gorontalo,Gorontalo,423981
+7502,Gorontalo,Boalemo,152851
+7503,Gorontalo,Bone Bolango,174788
+7504,Gorontalo,Pohuwato,162989
+7505,Gorontalo,Gorontalo Utara,131991
+7571,Gorontalo,Kota Gorontalo,204360
+7601,Sulawesi Barat,Pasangkayu,183376
+7602,Sulawesi Barat,Mamuju,288382
+7603,Sulawesi Barat,Mamasa,167611
+7604,Sulawesi Barat,Polewali Mandar,492339
+7605,Sulawesi Barat,Majene,190223
+7606,Sulawesi Barat,Mamuju Tengah,144810
+8101,Maluku,Maluku Tengah,432361
+8102,Maluku,Maluku Tenggara,129169
+8103,Maluku,Kepulauan Tanimbar,132337
+8104,Maluku,Buru,142347
+8105,Maluku,Seram Bagian Timur,140972
+8106,Maluku,Seram Bagian Barat,217389
+8107,Maluku,Kepulauan Aru,112531
+8108,Maluku,Maluku Barat Daya,97020
+8109,Maluku,Buru Selatan,81329
+8171,Maluku,Kota Ambon,359661
+8172,Maluku,Kota Tual,90470
+8201,Maluku Utara,Halmahera Barat,139764
+8202,Maluku Utara,Halmahera Tengah,106500
+8203,Maluku Utara,Halmahera Utara,206233
+8204,Maluku Utara,Halmahera Selatan,258564
+8205,Maluku Utara,Kepulauan Sula,100635
+8206,Maluku Utara,Halmahera Timur,100473
+8207,Maluku Utara,Pulau Morotai,82913
+8208,Maluku Utara,Pulau Taliabu,66361
+8271,Maluku Utara,Kota Ternate,210836
+8272,Maluku Utara,Kota Tidore Kepulauan,121952
+9103,Papua,Jayapura,203772
+9105,Papua,Kepulauan Yapen,116214
+9106,Papua,Biak Numfor,150318
+9110,Papua,Sarmi,45084
+9111,Papua,Keerom,74332
+9115,Papua,Waropen,38840
+9119,Papua,Supiori,27965
+9120,Papua,Mamberamo Raya,41036
+9171,Papua,Kota Jayapura,404799
+9202,Papua Barat,Manokwari,205212
+9203,Papua Barat,Fak Fak,93997
+9206,Papua Barat,Teluk Bintuni,84205
+9207,Papua Barat,Teluk Wondama,47494
+9208,Papua Barat,Kaimana,64938
+9211,Papua Barat,Manokwari Selatan,39026
+9212,Papua Barat,Pegunungan Arfak,41383
+9301,Papua Selatan,Merauke,255168
+9302,Papua Selatan,Boven Digoel,71997
+9303,Papua Selatan,Mappi,114153
+9304,Papua Selatan,Asmat,120902
+9401,Papua Tengah,Nabire,179174
+9402,Papua Tengah,Puncak Jaya,220393
+9403,Papua Tengah,Paniai,125763
+9404,Papua Tengah,Mimika,318679
+9405,Papua Tengah,Puncak,178072
+9406,Papua Tengah,Dogiyai,116706
+9407,Papua Tengah,Intan Jaya,137696
+9408,Papua Tengah,Deiyai,92629
+9501,Papua Pegunungan,Jayawijaya,276288
+9502,Papua Pegunungan,Pegunungan Bintang,114581
+9503,Papua Pegunungan,Yahukimo,356021
+9504,Papua Pegunungan,Tolikara,252031
+9505,Papua Pegunungan,Mamberamo Tengah,50128
+9506,Papua Pegunungan,Yalimo,105374
+9507,Papua Pegunungan,Lanny Jaya,203922
+9508,Papua Pegunungan,Nduga,112173
+9601,Papua Barat Daya,Sorong,129669
+9602,Papua Barat Daya,Sorong Selatan,56979
+9603,Papua Barat Daya,Raja Ampat,72865
+9604,Papua Barat Daya,Tambrauw,31041
+9605,Papua Barat Daya,Maybrat,46604
+9671,Papua Barat Daya,Kota Sorong,286028

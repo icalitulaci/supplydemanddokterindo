@@ -1,0 +1,844 @@
+prov_code,kab_code,kab_kota,nama,kelas,dtpk,blu,Sp.A_asn,Sp.A_blud,Sp.A_kontrak,Sp.A_total,Sp.B_asn,Sp.B_blud,Sp.B_kontrak,Sp.B_total,Sp.OG_asn,Sp.OG_blud,Sp.OG_kontrak,Sp.OG_total,Sp.PD_asn,Sp.PD_blud,Sp.PD_kontrak,Sp.PD_total,Sp.An_asn,Sp.An_blud,Sp.An_kontrak,Sp.An_total,Sp.Rad_asn,Sp.Rad_blud,Sp.Rad_kontrak,Sp.Rad_total,Sp.PK_asn,Sp.PK_blud,Sp.PK_kontrak,Sp.PK_total
+11,1109,SIMEULUE,RS Umum Daerah Simeulue,C,Ya,BLUD,1,0,1,2,1,1,0,2,2,0,0,2,1,1,1,3,1,0,0,1,0,1,0,1,1,0,0,1
+11,1110,ACEH SINGKIL,RS Umum Daerah Aceh Singkil,C,Ya,BLUD,3,0,0,3,0,1,0,1,2,0,0,2,4,0,0,4,0,1,1,2,1,0,0,1,1,0,0,1
+11,1175,KOTA SUBULUSSALAM,RS Umum Daerah Kota Subulussalam,C,,BLUD,1,0,1,2,3,0,0,3,1,0,1,2,2,0,1,3,1,0,0,1,0,0,1,1,0,0,1,1
+11,1101,ACEH SELATAN,RS Umum Daerah Dr. H. Yulidin Away,B,,BLUD,4,0,0,4,3,0,0,3,3,0,0,3,4,0,0,4,1,1,1,3,2,0,0,2,2,0,0,2
+11,1102,ACEH TENGGARA,RS Umum Daerah H. Sahudin Kutacane,C,,BLUD,2,0,0,2,2,0,0,2,1,0,1,2,3,0,0,3,3,0,0,3,1,0,0,1,2,0,0,2
+11,1103,ACEH TIMUR,RS Umum Daerah dr. Zubir Mahmud,B,,BLUD,2,0,0,2,2,1,0,3,2,0,0,2,3,1,0,4,2,2,0,4,1,1,0,2,2,0,0,2
+11,1103,ACEH TIMUR,RS Umum Daerah Sultan Abdul Aziz Syah Peureulak,C,,BLUD,2,0,0,2,2,0,0,2,0,1,1,2,1,1,0,2,0,1,1,2,1,0,0,1,0,0,1,1
+11,1104,ACEH TENGAH,RS Umum Daerah Datu Beru Takengon,B,,BLUD,3,0,2,5,3,0,0,3,2,0,0,2,3,0,1,4,2,0,0,2,0,1,1,2,3,0,0,3
+11,1105,ACEH BARAT,RS Umum Daerah Cut Nyak Dhien,B,,BLUD,2,1,0,3,2,2,0,4,3,0,0,3,5,1,0,6,2,0,0,2,0,0,1,1,2,0,0,2
+11,1106,ACEH BESAR,RS Umum Daerah Kabupaten Aceh Besar,C,,Non BLU/BLUD,3,0,0,3,1,1,1,3,0,0,2,2,4,0,0,4,2,0,0,2,0,0,0,0,1,0,0,1
+11,1107,PIDIE,RS Umum Daerah TGK Chik Ditiro Sigli,B,,BLUD,4,1,0,5,2,0,0,2,2,1,0,3,6,0,0,6,2,2,0,4,2,0,0,2,2,0,0,2
+11,1107,PIDIE,RS Umum Daerah TGK. Abdullah Syafii Beureuneun,C,,BLUD,2,0,2,4,2,1,0,3,2,0,0,2,3,0,0,3,0,1,0,1,0,1,0,1,0,1,0,1
+11,1111,BIREUEN,RS Umum Daerah Dr. Fauziah Bireun,B,,BLUD,6,0,0,6,4,0,0,4,7,0,0,7,9,1,0,10,7,0,0,7,2,1,0,3,2,1,0,3
+11,1112,ACEH BARAT DAYA,RS Umum Daerah Teungku Peukan,C,,BLUD,3,0,0,3,1,3,0,4,3,1,0,4,4,0,0,4,2,0,0,2,1,0,0,1,1,0,0,1
+11,1113,GAYO LUES,RS Umum Muhammad Ali Kasim,C,,BLUD,3,0,0,3,2,0,1,3,2,0,0,2,4,0,0,4,1,0,0,1,1,0,0,1,2,0,0,2
+11,1116,ACEH TAMIANG,RS Umum Daerah Muda Sedia Kabupaten Aceh Tamiang,C,,BLUD,2,0,1,3,3,0,0,3,4,0,0,4,4,0,0,4,3,1,0,4,1,0,0,1,2,1,0,3
+11,1115,NAGAN RAYA,RS Umum Daerah Sultan Iskandar Muda Nagan Raya,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,4,0,0,4,3,0,0,3,1,0,0,1,1,0,1,2
+11,1114,ACEH JAYA,RS Umum Daerah Teuku Umar Kabupaten Aceh Jaya,C,,BLUD,3,0,0,3,3,0,0,3,3,0,0,3,4,0,0,4,2,0,0,2,1,0,0,1,2,0,0,2
+11,1117,BENER MERIAH,RS Umum Daerah Muyang Kute Redelong Bener Meriah,C,,BLUD,4,0,0,4,1,0,0,1,1,0,0,1,4,0,0,4,1,0,0,1,1,0,0,1,2,0,0,2
+11,1118,PIDIE JAYA,RS Umum Daerah Pidie Jaya,B,,BLUD,3,0,0,3,1,0,0,1,1,0,0,1,4,0,0,4,2,1,0,3,1,0,0,1,1,0,0,1
+11,1171,KOTA BANDA ACEH,RS Umum Daerah Dr. Zainoel Abidin,A,,BLUD,14,0,1,15,6,0,2,8,11,0,2,13,22,0,17,39,18,0,2,20,8,1,0,9,6,1,0,7
+11,1171,KOTA BANDA ACEH,RS Umum Daerah Meuraxa,B,,BLUD,6,1,1,8,4,2,0,6,3,1,1,5,4,0,0,4,2,1,0,3,1,1,1,3,2,0,0,2
+11,1172,KOTA SABANG,RS Umum Daerah Sabang,C,,Non BLU/BLUD,2,0,0,2,1,0,1,2,2,0,0,2,2,0,3,5,1,0,0,1,0,0,0,0,1,0,0,1
+11,1174,KOTA LANGSA,RS Umum Daerah Langsa,B,,BLUD,3,2,0,5,3,1,0,4,4,2,0,6,4,3,0,7,3,0,1,4,1,0,1,2,3,0,0,3
+11,1173,KOTA LHOKSEUMAWE,RS Umum Cut Meutia Kab. Aceh Utara,B,,BLUD,4,1,1,6,5,0,0,5,1,0,0,1,8,0,1,9,2,3,0,5,2,0,0,2,1,0,0,1
+12,1278,KOTA GUNUNGSITOLI,RS Umum Daerah dr. M. Thomsen Nias,C,Ya,BLUD,2,0,0,2,3,0,0,3,1,1,0,2,3,0,1,4,2,0,0,2,2,0,0,2,1,0,0,1
+12,1213,MANDAILING NATAL,RS Umum Daerah dr. Husni Thamrin,D,,BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1213,MANDAILING NATAL,RS Umum Daerah Panyabungan,C,,BLUD,2,0,0,2,3,0,0,3,3,0,0,3,2,0,0,2,2,0,0,2,1,0,0,1,2,0,0,2
+12,1203,TAPANULI SELATAN,RS Umum Daerah Tapanuli Selatan,C,,Non BLU/BLUD,3,0,0,3,1,0,1,2,1,0,0,1,2,0,2,4,2,0,0,2,1,0,0,1,0,0,1,1
+12,1203,TAPANULI SELATAN,RS Umum Daerah Pintu Padang,D,,Non BLU/BLUD,2,0,0,2,2,0,0,2,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+12,1220,PADANG LAWAS UTARA,RS Umum Daerah Gunung Tua,C,,Non BLU/BLUD,0,0,2,2,2,0,1,3,1,0,1,2,2,0,1,3,0,0,1,1,0,0,1,1,1,0,2,3
+12,1221,PADANG LAWAS,RS Umum Daerah Sibuhuan,C,,BLUD,3,0,0,3,1,0,2,3,0,1,1,2,3,0,0,3,0,0,2,2,0,0,1,1,2,0,0,2
+12,1201,TAPANULI TENGAH,RS Umum Daerah Pandan,C,,BLUD,1,0,2,3,2,0,0,2,1,0,1,2,2,0,0,2,1,0,2,3,1,0,0,1,1,0,0,1
+12,1202,TAPANULI UTARA,RS Umum Daerah Tarutung,B,,BLUD,2,0,0,2,1,2,0,3,2,0,0,2,1,1,0,2,0,1,0,1,1,0,0,1,3,0,0,3
+12,1217,SAMOSIR,RS Umum Daerah Dr. Hadrianus Sinaga,C,,BLUD,2,0,0,2,1,0,0,1,1,0,2,3,0,0,5,5,1,0,2,3,1,0,0,1,2,0,0,2
+12,1216,HUMBANG HASUNDUTAN,RS Umum Daerah Dolok Sanggul,C,,BLUD,1,0,1,2,1,0,1,2,1,0,0,1,1,0,3,4,1,0,0,1,1,0,0,1,1,0,0,1
+12,1212,TOBA SAMOSIR,RS Umum Daerah Porsea,C,,BLUD,5,0,0,5,3,0,0,3,2,0,0,2,2,0,0,2,0,0,2,2,0,0,0,0,2,0,0,2
+12,1210,LABUHAN BATU,RS Umum Daerah Rantau Prapat,B,,BLUD,1,3,1,5,1,1,0,2,4,0,0,4,7,0,0,7,2,0,0,2,1,0,1,2,3,0,0,3
+12,1209,ASAHAN,RS Umum Daerah H. Abdul Manan Simatupang,C,,BLUD,4,0,0,4,2,0,0,2,4,0,0,4,3,0,0,3,2,0,0,2,1,0,0,1,2,0,0,2
+12,1208,SIMALUNGUN,RS Umum Daerah Parapat,D,,BLUD,1,0,1,2,0,1,1,2,0,0,1,1,0,0,2,2,0,0,2,2,0,0,1,1,1,0,0,1
+12,1208,SIMALUNGUN,RS Umum Daerah Perdagangan,C,,BLUD,3,0,0,3,0,0,2,2,1,0,0,1,1,0,2,3,1,0,1,2,1,0,0,1,0,0,1,1
+12,1208,SIMALUNGUN,RS Umum Daerah Tuan Rondahaim,C,,BLUD,2,0,0,2,1,0,2,3,0,1,1,2,1,0,2,3,0,1,1,2,1,0,0,1,1,0,0,1
+12,1211,DAIRI,RS Umum Daerah Sidikalang,C,,BLUD,2,0,0,2,3,0,0,3,1,0,1,2,2,1,2,5,1,0,0,1,0,0,1,1,2,0,0,2
+12,1206,KARO,RS Umum Daerah Kabupaten Karo,C,,BLUD,3,0,0,3,1,0,0,1,3,0,0,3,3,0,0,3,1,0,0,1,0,0,0,0,1,0,1,2
+12,1206,KARO,RS Umum Simalem,C,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,1
+12,1207,DELI SERDANG,RS Umum Daerah Drs. H. Amri Tambunan,B,,BLUD,4,0,0,4,0,1,1,2,3,0,2,5,2,1,1,4,2,2,0,4,1,1,0,2,4,0,0,4
+12,1207,DELI SERDANG,RS Umum Pancur Batu,C,,BLUD,2,0,0,2,0,0,1,1,2,0,1,3,2,0,1,3,1,0,0,1,0,1,0,1,2,0,0,2
+12,1207,DELI SERDANG,RS Umum Daerah Bangun Purba,D,,BLUD,2,0,0,2,0,0,1,1,2,0,0,2,1,0,1,2,0,0,0,0,0,1,0,1,1,0,0,1
+12,1207,DELI SERDANG,RS Umum Haji Medan,B,,BLUD,5,1,1,7,1,5,0,6,2,2,0,4,3,2,0,5,1,1,2,4,1,0,1,2,1,2,0,3
+12,1205,LANGKAT,RS Umum Daerah Tanjung Pura,C,,BLUD,6,0,0,6,0,0,1,1,1,0,0,1,2,0,1,3,0,0,1,1,1,0,0,1,2,0,0,2
+12,1214,NIAS SELATAN,RS Umum Daerah Lukas Hilisimaetano,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1214,NIAS SELATAN,RS Umum Daerah Nias Selatan,D,Ya,Non BLU/BLUD,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+12,1215,PAKPAK BHARAT,RS Umum Daerah Salak,C,,BLUD,0,0,0,0,0,0,1,1,1,0,1,2,1,0,0,1,0,0,1,1,0,0,1,1,1,0,0,1
+12,1218,SERDANG BEDAGAI,RS Umum Daerah Sultan Sulaiman Syariful Alamsyah,C,,BLUD,5,0,0,5,2,0,1,3,2,0,1,3,4,1,0,5,3,0,0,3,0,0,1,1,2,0,1,3
+12,1219,BATU BARA,RS Umum Daerah Batu Bara,C,,BLUD,3,0,1,4,3,0,0,3,3,0,0,3,3,0,0,3,0,1,1,2,1,0,0,1,1,1,0,2
+12,1222,LABUHAN BATU SELATAN,RS Umum Daerah Kota Pinang,C,,BLUD,1,1,0,2,2,0,0,2,2,1,0,3,1,0,1,2,1,0,0,1,0,0,0,0,0,0,1,1
+12,1223,LABUHAN BATU UTARA,RS Umum Daerah Aek Kanopan,C,,Non BLU/BLUD,3,0,0,3,1,0,1,2,2,0,0,2,5,0,0,5,0,0,1,1,0,0,1,1,1,0,1,2
+12,1224,NIAS UTARA,RS Umum Daerah Tafaeri,D,Ya,BLUD,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1
+12,1225,NIAS BARAT,RS Umum Daerah Cerah Medika Kab. Nias Barat,D,Ya,Non BLU/BLUD,0,0,0,0,1,0,0,1,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1273,KOTA SIBOLGA,RS Umum Daerah Dr. FL Tobing Sibolga,B,,BLUD,2,2,0,4,2,0,0,2,1,1,0,2,3,1,0,4,1,0,1,2,1,0,0,1,1,0,0,1
+12,1274,KOTA TANJUNG BALAI,RS Umum Daerah Dr. Tengku Mansyur,C,,BLUD,4,0,0,4,1,0,1,2,2,0,0,2,1,0,0,1,1,0,1,2,0,0,1,1,1,0,1,2
+12,1272,KOTA PEMATANG SIANTAR,RS Umum Daerah Dr. Djasamen Saragih,B,,BLUD,1,1,0,2,0,1,1,2,2,0,0,2,3,0,0,3,0,1,0,1,2,0,0,2,0,1,0,1
+12,1276,KOTA TEBING TINGGI,RS Umum Daerah Dr. H. Kumpulan Pane,B,,BLUD,3,0,0,3,2,0,0,2,2,0,0,2,4,0,0,4,2,1,0,3,2,0,0,2,2,1,0,3
+12,1271,KOTA MEDAN,RS Umum Daerah H. Bachtiar Djafar,C,,Non BLU/BLUD,1,0,0,1,1,0,0,1,2,0,0,2,3,0,0,3,3,0,0,3,1,0,0,1,2,0,0,2
+12,1271,KOTA MEDAN,RS Umum Daerah Dr. Pirngadi,B,,BLUD,4,0,0,4,6,4,0,10,4,3,0,7,10,1,2,13,3,1,0,4,1,0,1,2,5,0,1,6
+12,1275,KOTA BINJAI,RS Umum Daerah Dr. R. M. Djoelham Binjai,B,,BLUD,5,0,0,5,2,0,0,2,2,0,0,2,5,0,0,5,2,0,0,2,1,0,0,1,3,0,0,3
+12,1277,KOTA PADANGSIDIMPUAN,RS Umum Daerah Padang Sidempuan,C,,BLUD,2,0,0,2,1,0,0,1,0,0,1,1,4,0,0,4,0,0,1,1,1,0,0,1,1,0,0,1
+13,1309,KEPULAUAN MENTAWAI,RS Umum Daerah Kep. Mentawai,D,Ya,Non BLU/BLUD,1,0,0,1,0,0,1,1,1,0,1,2,0,0,1,1,1,0,1,2,0,0,0,0,1,0,0,1
+13,1301,PESISIR SELATAN,RS Umum Daerah Dr. Muhammad Zein Painan,C,,BLUD,2,0,0,2,2,0,0,2,3,0,0,3,4,0,0,4,1,1,0,2,0,1,0,1,1,0,0,1
+13,1301,PESISIR SELATAN,RS Umum Daerah Tapan,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,1
+13,1311,SOLOK SELATAN,RS Umum Daerah Solok Selatan,C,,BLUD,0,0,1,1,1,1,0,2,1,0,1,2,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1
+13,1311,SOLOK SELATAN,RS Umum Daerah Batang Sangir,D,,BLUD,1,0,0,1,0,0,0,0,1,0,1,2,0,1,1,2,0,0,1,1,0,0,0,0,0,0,1,1
+13,1302,SOLOK,RS Umum Daerah Arosuka Solok,C,,Non BLU/BLUD,0,2,1,3,1,0,0,1,2,1,0,3,2,0,0,2,0,1,3,4,1,0,0,1,2,0,0,2
+13,1303,SIJUNJUNG,RS Umum Daerah Ahmad Syafi'I Ma'arif,C,,BLUD,0,0,1,1,1,0,0,1,1,0,1,2,2,0,1,3,0,2,0,2,0,1,0,1,2,0,0,2
+13,1304,TANAH DATAR,RS Umum Daerah Prof. Dr. M.A. Hanafiah,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,3,0,0,3,1,0,0,1,1,0,0,1,2,0,0,2
+13,1377,KOTA PARIAMAN,"RS Umum Daerah Prof H Muhammad Yamin, SH",B,,BLU,3,0,0,3,3,0,0,3,2,0,2,4,5,0,0,5,2,0,0,2,1,0,0,1,3,0,0,3
+13,1377,KOTA PARIAMAN,RS Umum Daerah Dr Sadikin Kota Pariaman,D,,BLUD,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,2,0,0,2
+13,1305,PADANG PARIAMAN,RS Umum Daerah Muslim Kasim,C,,BLUD,3,0,0,3,3,0,0,3,1,1,1,3,2,0,0,2,1,0,0,1,1,0,0,1,2,0,0,2
+13,1307,LIMA PULUH KOTA,RS Umum Daerah dr. Achmad Darwis,C,,BLUD,1,0,1,2,2,0,0,2,2,0,0,2,4,0,0,4,1,0,0,1,1,0,0,1,1,0,0,1
+13,1306,AGAM,RS Umum Daerah Lubuk Basung,C,,BLUD,1,0,1,2,1,0,1,2,1,0,1,2,1,0,1,2,1,0,1,2,2,0,0,2,3,0,0,3
+13,1308,PASAMAN,RS Umum Daerah Tuanku Rao,D,,BLUD,0,0,0,0,0,0,2,2,0,1,1,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1
+13,1308,PASAMAN,RS Umum Daerah Tuanku Imam Bonjol,C,,BLUD,1,1,0,2,1,0,1,2,1,1,1,3,1,0,2,3,0,0,1,1,0,0,1,1,2,0,0,2
+13,1310,DHARMASRAYA,RS Umum Daerah Sungai Rumbai,D,,BLUD,0,1,0,1,0,1,0,1,0,0,0,0,0,2,2,4,0,1,0,1,0,1,0,1,0,1,0,1
+13,1310,DHARMASRAYA,RS Umum Daerah Sungai Dareh,C,,BLUD,2,0,0,2,2,0,0,2,3,0,1,4,3,0,0,3,1,1,0,2,1,0,0,1,2,0,0,2
+13,1312,PASAMAN BARAT,RS Umum Daerah Pasaman Barat,C,,BLUD,1,1,0,2,1,0,0,1,4,0,0,4,3,0,0,3,1,0,0,1,0,1,0,1,1,0,0,1
+13,1371,KOTA PADANG,RS Umum Daerah dr. Rasidin Padang,C,,BLUD,2,0,0,2,2,0,1,3,3,0,0,3,4,0,0,4,2,0,0,2,1,0,1,2,2,0,0,2
+13,1372,KOTA SOLOK,RS Umum Daerah Mohammad Natsir,B,,BLUD,3,0,0,3,3,0,0,3,2,0,0,2,5,0,0,5,4,0,0,4,1,0,0,1,3,0,0,3
+13,1372,KOTA SOLOK,RS Umum Daerah Serambi Madinah Kota Solok,C,,Non BLU/BLUD,1,0,0,1,0,0,1,1,1,1,0,2,1,0,1,2,1,0,1,2,0,0,1,1,0,0,1,1
+13,1373,KOTA SAWAH LUNTO,RS Umum Daerah Sawah Lunto,C,,BLUD,3,0,0,3,1,0,1,2,1,0,1,2,1,0,1,2,1,0,2,3,1,0,1,2,1,0,1,2
+13,1374,KOTA PADANG PANJANG,RS Umum Daerah Padang Panjang,C,,BLUD,2,0,0,2,2,0,1,3,2,0,0,2,2,0,0,2,1,0,1,2,0,0,1,1,2,0,0,2
+13,1375,KOTA BUKITTINGGI,RS Umum Daerah Dr. Achmad Mochtar,A,,BLUD,3,0,0,3,5,0,1,6,3,0,1,4,5,1,0,6,3,0,0,3,3,0,0,3,4,0,0,4
+13,1375,KOTA BUKITTINGGI,RS Umum Daerah Kota Bukittinggi,C,,BLUD,1,0,0,1,2,0,0,2,2,0,0,2,1,0,2,3,0,0,2,2,1,0,0,1,1,0,0,1
+13,1376,KOTA PAYAKUMBUH,RS Umum Daerah Dr. Adnaan WD,C,,BLUD,5,0,0,5,1,0,1,2,2,0,0,2,4,0,1,5,1,0,1,2,2,0,0,2,2,0,0,2
+14,1409,KUANTAN SINGINGI,RS Umum Daerah Teluk Kuantan,C,,BLUD,1,1,0,2,1,1,2,4,3,0,0,3,1,1,1,3,3,0,0,3,0,0,1,1,1,0,0,1
+14,1402,INDRAGIRI HULU,RS Umum Daerah Indrasari Rengat,C,,BLUD,2,0,0,2,2,0,0,2,1,0,0,1,3,0,0,3,1,0,0,1,1,0,0,1,1,0,0,1
+14,1404,INDRAGIRI HILIR,RS Umum Daerah Puri Husada Tembilahan,C,,BLUD,2,0,0,2,4,0,0,4,3,0,0,3,2,1,0,3,2,0,0,2,1,0,0,1,1,0,0,1
+14,1404,INDRAGIRI HILIR,RS Umum Daerah Raja Musa,D,,BLUD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,1,0,0,0,0
+14,1404,INDRAGIRI HILIR,RS Umum Daerah Tengku Sulung,D,,BLUD,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+14,1405,PELALAWAN,RS Umum Daerah Selasih Riau,C,,BLUD,4,0,0,4,4,0,0,4,2,0,0,2,2,1,0,3,1,0,0,1,2,0,0,2,2,0,0,2
+14,1408,S I A K,RS Umum Daerah Tengku Rafi'an Siak Sri Indrapura,C,,BLUD,5,0,0,5,1,1,1,3,4,0,1,5,3,0,0,3,1,0,0,1,1,0,0,1,1,0,0,1
+14,1408,S I A K,RS Umum Daerah Tualang,D,,BLUD,1,0,0,1,1,0,1,2,3,0,0,3,0,0,1,1,0,0,2,2,0,0,0,0,1,0,0,1
+14,1408,S I A K,RS Daerah Sungai Apit,D,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1408,S I A K,RS Umum Daerah Kelas D Kerinci Kanan,D,,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1408,S I A K,RS Umum Daerah Kelas D Kandis,D,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1408,S I A K,RS Umum Daerah Minas,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+14,1401,KAMPAR,RS Umum Daerah Bangkinang,C,,BLUD,3,0,0,3,2,0,1,3,4,0,0,4,3,1,0,4,2,0,0,2,1,0,0,1,2,0,0,2
+14,1406,ROKAN HULU,RS Umum Daerah Rokan Hulu,C,,BLUD,4,0,0,4,1,1,0,2,2,0,1,3,2,0,2,4,2,0,0,2,0,1,0,1,1,0,0,1
+14,1403,BENGKALIS,RS Umum Daerah Bengkalis,B,Ya,BLUD,3,0,0,3,2,0,0,2,3,0,0,3,1,3,0,4,1,0,0,1,0,0,0,0,1,0,0,1
+14,1403,BENGKALIS,RS Umum Daerah Kec.Mandau,C,,BLUD,2,0,1,3,3,0,0,3,4,0,0,4,2,1,1,4,2,0,0,2,1,0,0,1,1,0,0,1
+14,1407,ROKAN HILIR,RS Umum Daerah Dr. RM. Pratomo Bagansiapiapi,C,,BLUD,2,0,0,2,1,1,0,2,4,0,1,5,1,2,0,3,1,1,0,2,1,0,0,1,2,0,0,2
+14,1410,KEPULAUAN MERANTI,RS Umum Daerah Kabupaten Kepulauan Meranti,C,Ya,BLUD,0,1,1,2,1,0,0,1,0,1,0,1,2,0,0,2,2,0,0,2,0,1,0,1,2,0,0,2
+14,1471,KOTA PEKANBARU,RS Umum Daerah Arifin Achmad,A,,BLUD,3,2,0,5,3,4,1,8,1,4,1,6,6,4,0,10,3,3,2,8,5,0,0,5,3,0,0,3
+14,1471,KOTA PEKANBARU,RS Umum Daerah Petala Bumi,C,,BLUD,3,0,0,3,2,1,0,3,3,0,0,3,2,1,1,4,2,0,0,2,1,0,0,1,2,0,0,2
+14,1471,KOTA PEKANBARU,RS Daerah Madani Kota Pekanbaru,C,,BLUD,3,0,0,3,2,0,4,6,3,0,0,3,4,1,1,6,2,0,0,2,1,0,0,1,4,0,0,4
+14,1472,KOTA D U M A I,RS Umum Daerah Kota Dumai,B,,BLUD,3,0,1,4,2,1,0,3,4,0,1,5,4,1,0,5,2,0,0,2,2,0,0,2,1,1,0,2
+15,1572,KOTA SUNGAI PENUH,RS Umum Daerah Mayjen H. A. Thalib,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1
+15,1572,KOTA SUNGAI PENUH,RS Umum Daerah H. Bakri Kota Sungai Penuh,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+15,1501,KERINCI,RSUD BUKIT KERMAN,D,,Non BLU/BLUD,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1
+15,1502,MERANGIN,RS Umum Daerah Kolonel Abundjani/Bangko,C,,BLUD,2,0,0,2,2,1,0,3,3,0,0,3,3,0,0,3,2,1,0,3,1,0,0,1,2,0,0,2
+15,1503,SAROLANGUN,RS Umum Daerah Prof. Dr. H. Chatib Quzwain,C,,BLUD,2,0,0,2,2,0,0,2,3,0,0,3,1,0,0,1,1,0,1,2,1,0,0,1,2,0,1,3
+15,1504,BATANG HARI,RS Umum Daerah Haji Abdoel Madjid Batoe,C,,BLUD,2,0,0,2,2,0,0,2,3,0,0,3,3,0,0,3,1,0,0,1,1,0,0,1,1,0,0,1
+15,1505,MUARO JAMBI,RS Umum Daerah Ahmad Ripin,C,,BLUD,2,0,0,2,1,0,1,2,1,0,1,2,2,0,1,3,1,0,0,1,1,0,0,1,0,0,1,1
+15,1505,MUARO JAMBI,RS Umum Daerah Sungai Bahar,D,,BLUD,1,0,0,1,0,0,1,1,1,0,0,1,1,0,1,2,1,0,1,2,1,0,0,1,1,0,0,1
+15,1505,MUARO JAMBI,RS Umum Daerah Sungai Gelam,D,,BLUD,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,0,1,2,0,0,1,1,0,0,1,1
+15,1507,TANJUNG JABUNG TIMUR,RS Umum Daerah Nurdin Hamzah,C,,BLUD,1,0,1,2,2,0,0,2,2,0,0,2,2,0,1,3,1,0,1,2,1,0,0,1,1,0,0,1
+15,1506,TANJUNG JABUNG BARAT,RS Umum Daerah KH. Daud Arif,C,,BLUD,2,0,0,2,1,0,1,2,2,0,0,2,0,1,1,2,2,0,0,2,1,0,0,1,1,0,0,1
+15,1506,TANJUNG JABUNG BARAT,RS Umum Daerah Suryah Khairuddin,D,,BLUD,1,1,1,3,1,0,1,2,2,0,0,2,2,0,1,3,2,0,0,2,1,0,0,1,1,0,0,1
+15,1509,TEBO,RS Umum Daerah Sultan Thaha Saifuddin,C,,BLUD,2,0,0,2,2,0,0,2,4,0,0,4,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1
+15,1508,BUNGO,RS Umum Daerah H. Hanafie,B,,BLUD,2,0,0,2,3,0,0,3,2,0,0,2,2,1,0,3,2,0,0,2,1,0,0,1,1,1,0,2
+15,1508,BUNGO,RS Umum Daerah Rantau Ikil,D,,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,1508,BUNGO,RS Kuamang Kuning,D,,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,1571,KOTA JAMBI,RS Umum Daerah Raden Mattaher Jambi,B,,BLUD,3,0,1,4,2,2,0,4,2,1,0,3,4,0,1,5,4,0,1,5,1,1,0,2,3,0,1,4
+15,1571,KOTA JAMBI,RS Umum Daerah H. Abdul Manap,C,,BLUD,3,0,0,3,2,0,0,2,4,0,0,4,3,0,0,3,1,0,0,1,0,1,1,2,2,0,0,2
+15,1571,KOTA JAMBI,RS Umum Daerah H. Abdurrahman Sayoeti,D,,Non BLU/BLUD,0,0,2,2,0,1,1,2,0,0,2,2,1,0,1,2,1,0,0,1,0,0,2,2,0,0,1,1
+16,1601,OGAN KOMERING ULU,RS Umum Daerah Dr. Ibnu Sutowo Baturaja,C,,BLUD,2,1,1,4,2,0,1,3,4,0,0,4,2,0,0,2,1,0,0,1,0,1,0,1,0,0,1,1
+16,1602,OGAN KOMERING ILIR,RS Umum Daerah Kayuagung,C,,BLUD,2,0,0,2,3,0,0,3,4,1,0,5,4,0,0,4,1,0,0,1,1,1,0,2,1,0,0,1
+16,1602,OGAN KOMERING ILIR,RS Umum Daerah Tugu Jaya,D,,BLUD,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,1603,MUARA ENIM,RS Umum Daerah dr. H. M. Rabain Muara Enim,B,,BLUD,3,0,0,3,3,0,0,3,2,0,1,3,2,0,0,2,3,0,0,3,3,0,0,3,2,0,0,2
+16,1603,MUARA ENIM,RS Umum Daerah Semende Darat Laut,D,,Non BLU/BLUD,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,1603,MUARA ENIM,RS Umum Daerah Lubai Ulu,D,,BLUD,1,0,0,1,0,0,1,1,0,0,1,1,1,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0
+16,1603,MUARA ENIM,RS Umum Daerah Gelumbang,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,2,0,0,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+16,1612,PENUKAL ABAB LEMATANG ILIR,RS Umum Daerah Talang Ubi,D,,BLUD,1,0,0,1,2,0,0,2,2,0,0,2,2,0,0,2,0,0,1,1,0,0,1,1,1,0,0,1
+16,1604,LAHAT,RS Umum Daerah Lahat,C,,BLUD,1,0,1,2,2,0,0,2,1,0,1,2,5,0,0,5,1,0,0,1,0,0,1,1,2,0,0,2
+16,1604,LAHAT,RS Umum Daerah Tipe D Tanjung Tebat,D,,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0
+16,1613,MUSI RAWAS UTARA,RS Umum Daerah Rupit Kabupaten Musi Rawas Utara,D,Ya,BLUD,1,0,0,1,1,1,0,2,1,1,0,2,1,3,0,4,0,1,0,1,1,0,0,1,0,0,1,1
+16,1605,MUSI RAWAS,RS Umum Daerah Muara Beliti,D,,BLUD,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1,0,0,1,1,0,0,0,0
+16,1605,MUSI RAWAS,RS Umum Daerah Dr. Sobirin Kabupaten Musi Rawas,C,,BLUD,2,0,0,2,1,0,0,1,2,0,0,2,3,0,0,3,2,0,0,2,1,0,0,1,1,0,0,1
+16,1606,MUSI BANYUASIN,RS Umum Daerah Sekayu,B,,BLUD,1,1,0,2,2,1,0,3,1,0,0,1,2,2,0,4,2,0,0,2,1,0,1,2,2,0,0,2
+16,1606,MUSI BANYUASIN,RS Umum Daerah Sungai Lilin,C,,BLUD,2,0,0,2,1,1,0,2,1,1,0,2,0,2,0,2,1,0,0,1,0,1,0,1,1,0,0,1
+16,1606,MUSI BANYUASIN,RS Umum Daerah Bayung Lincir,C,,BLUD,1,1,1,3,2,2,0,4,1,0,1,2,1,0,3,4,1,1,0,2,0,1,0,1,0,0,1,1
+16,1607,BANYU ASIN,RS Umum Daerah Banyuasin,C,,BLUD,2,0,0,2,3,0,0,3,2,0,0,2,2,0,0,2,2,0,0,2,0,0,1,1,1,0,0,1
+16,1607,BANYU ASIN,RS Umum Daerah Sukajadi,D,,BLUD,1,0,0,1,1,1,0,2,1,0,0,1,0,1,1,2,0,0,0,0,0,0,1,1,0,0,1,1
+16,1609,OGAN KOMERING ULU SELATAN,RS Umum Daerah Muara Dua,D,,BLUD,1,0,0,1,2,0,1,3,3,0,0,3,3,0,0,3,0,0,0,0,0,1,0,1,1,0,0,1
+16,1608,OGAN KOMERING ULU TIMUR,RS Umum Daerah Martapura,D,,BLUD,1,0,0,1,0,0,1,1,1,0,2,3,1,0,1,2,0,0,1,1,0,0,1,1,1,0,0,1
+16,1608,OGAN KOMERING ULU TIMUR,RS Umum Daerah Ogan Komering Ulu Timur,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,1,0,0,1,0,0,1,1,0,0,1,1
+16,1610,OGAN ILIR,RS Umum Daerah Kabupaten Ogan Ilir,C,,BLUD,2,0,0,2,0,0,1,1,3,0,0,3,2,0,1,3,1,0,1,2,0,0,1,1,1,0,0,1
+16,1611,EMPAT LAWANG,RS Umum Daerah Kabupaten Empat Lawang,C,,BLUD,1,0,1,2,1,0,2,3,2,0,0,2,2,0,0,2,1,0,1,2,0,0,2,2,0,0,3,3
+16,1671,KOTA PALEMBANG,RS Umum Daerah Palembang Bari,B,,BLUD,3,1,0,4,2,1,0,3,2,2,0,4,4,1,0,5,3,1,0,4,1,1,0,2,0,1,0,1
+16,1671,KOTA PALEMBANG,RS Umum Daerah Siti Fatimah Provinsi Sumatera Sela,A,,BLUD,4,3,1,8,1,2,1,4,2,6,2,10,5,4,0,9,2,3,2,7,1,0,3,4,0,2,0,2
+16,1671,KOTA PALEMBANG,RS Umum Daerah Gandus Palembang,D,,BLUD,1,0,1,2,1,0,0,1,0,1,0,1,1,1,0,2,1,1,0,2,0,1,0,1,0,0,1,1
+16,1674,KOTA PRABUMULIH,RS Umum Daerah Kota Prabumulih,C,,BLUD,3,0,0,3,1,1,0,2,2,1,0,3,2,1,0,3,1,0,0,1,0,1,0,1,0,1,0,1
+16,1672,KOTA PAGAR ALAM,RS Umum Daerah Basemah Kota Pagar Alam,C,,BLUD,2,0,1,3,0,1,1,2,2,0,1,3,2,0,1,3,0,0,1,1,1,0,0,1,1,0,0,1
+16,1673,KOTA LUBUKLINGGAU,RS Umum Daerah Petanang,D,,BLUD,1,0,0,1,0,1,0,1,2,0,0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1
+16,1673,KOTA LUBUKLINGGAU,RS Umum Daerah Siti Aisyah Kota Lubuk Linggau,C,,BLUD,2,0,0,2,1,2,0,3,4,0,0,4,1,2,0,3,1,1,0,2,0,1,0,1,1,0,0,1
+17,1701,BENGKULU SELATAN,RS Umum Daerah Hasanuddin Damrah Manna,C,,BLUD,2,0,0,2,1,0,1,2,3,0,0,3,2,0,0,2,1,0,0,1,1,0,0,1,2,0,0,2
+17,1702,REJANG LEBONG,RS Umum Daerah Kabupaten Rejang Lebong,C,,BLUD,2,0,0,2,0,1,1,2,3,0,0,3,3,0,0,3,1,1,0,2,1,0,0,1,1,0,0,1
+17,1703,BENGKULU UTARA,RS Umum Daerah Arga Makmur,C,,Non BLU/BLUD,2,0,0,2,1,0,0,1,0,0,1,1,0,2,0,2,1,0,0,1,2,0,0,2,1,0,0,1
+17,1703,BENGKULU UTARA,RS Bergerak Enggano,D,,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,1703,BENGKULU UTARA,RS Umum Daerah Lagita,D,,BLUD,1,0,1,2,1,1,0,2,1,0,1,2,0,0,1,1,0,0,1,1,1,0,0,1,1,0,0,1
+17,1704,KAUR,RS Umum Daerah Kaur,C,,BLUD,1,0,1,2,0,0,2,2,1,0,0,1,1,0,1,2,1,0,0,1,0,0,1,1,0,0,1,1
+17,1705,SELUMA,RS Umum Daerah Tais Kabupaten Seluma,C,,BLUD,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,1
+17,1706,MUKOMUKO,RS Umum Daerah Mukomuko,C,,Non BLU/BLUD,1,0,0,1,1,0,0,1,1,0,0,1,2,0,0,2,1,0,0,1,0,0,0,0,1,0,0,1
+17,1707,LEBONG,RS Umum Daerah Lebong,C,,BLUD,0,1,1,2,1,0,1,2,1,0,0,1,1,0,1,2,0,0,1,1,0,0,1,1,1,0,0,1
+17,1708,KEPAHIANG,RS Umum Daerah Kepahiang,C,,BLUD,2,0,0,2,1,0,1,2,2,0,0,2,0,1,1,2,0,1,0,1,0,1,0,1,1,0,0,1
+17,1709,BENGKULU TENGAH,RS Umum Daerah Bengkulu Tengah,D,,BLUD,0,0,1,1,2,0,0,2,1,0,1,2,1,0,1,2,1,0,0,1,1,0,0,1,1,0,0,1
+17,1771,KOTA BENGKULU,RS Umum Daerah Harapan dan Doa,C,,BLUD,0,0,2,2,1,1,1,3,4,0,0,4,2,1,0,3,1,0,1,2,1,0,0,1,1,0,1,2
+17,1771,KOTA BENGKULU,RS Umum Daerah Dr. M. Yunus Bengkulu,B,,BLUD,4,0,0,4,1,0,1,2,6,0,0,6,4,0,0,4,2,0,0,2,2,1,0,3,4,0,0,4
+18,1804,LAMPUNG BARAT,RS Umum Daerah Alimuddin Umar,C,,BLUD,0,1,0,1,2,0,0,2,2,0,1,3,1,1,0,2,1,1,0,2,0,1,0,1,0,1,0,1
+18,1871,KOTA BANDAR LAMPUNG,RS Umum Daerah Dr H Abdul Moeloek,A,,BLUD,2,1,4,7,5,0,1,6,5,0,0,5,6,2,2,10,10,0,1,11,6,0,0,6,4,0,1,5
+18,1871,KOTA BANDAR LAMPUNG,RS Daerah Dr. A Dadi Tjokrodipo,C,,BLUD,2,1,0,3,2,1,1,4,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,3,0,0,3
+18,1806,TANGGAMUS,RS Umum Daerah Batin Mangunang,C,,BLUD,1,0,0,1,2,1,0,3,2,0,0,2,2,1,0,3,0,1,0,1,1,0,0,1,1,0,0,1
+18,1810,PRINGSEWU,RS Umum Daerah Pringsewu,C,,BLUD,1,0,0,1,2,0,0,2,2,2,0,4,1,3,0,4,2,0,0,2,1,0,0,1,0,0,0,0
+18,1801,LAMPUNG SELATAN,"RS Umum Daerah Dr. H. Bob Bazar, SKM",C,,BLUD,3,0,0,3,0,1,1,2,3,0,0,3,2,0,0,2,1,0,0,1,2,0,0,2,2,0,0,2
+18,1801,LAMPUNG SELATAN,RS Umum Daerah Bandar Negara Husada,C,,Non BLU/BLUD,1,0,0,1,1,0,0,1,1,0,1,2,1,0,2,3,0,0,1,1,0,0,0,0,1,0,0,1
+18,1807,LAMPUNG TIMUR,RS KH Ahmad Hanafiah,C,,BLUD,0,0,1,1,2,0,2,4,4,0,0,4,2,0,1,3,2,0,0,2,2,0,0,2,2,0,0,2
+18,1802,LAMPUNG TENGAH,RS Umum Daerah Demang Sepulau Raya,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,3,0,0,3,1,0,0,1,0,0,1,1,2,0,0,2
+18,1803,LAMPUNG UTARA,RS Umum Daerah May Jen HM Ryacudu,C,,BLUD,1,0,0,1,0,1,0,1,1,0,0,1,2,0,2,4,2,0,0,2,1,0,0,1,1,0,0,1
+18,1808,WAY KANAN,RS Umum Daerah Zainal Abidin Pagar Alam,C,,BLUD,1,0,0,1,2,0,0,2,3,0,0,3,2,0,0,2,1,0,0,1,1,0,0,1,0,1,1,2
+18,1805,TULANGBAWANG,RS Umum Daerah Menggala Tulang Bawang,B,,BLUD,2,0,0,2,2,0,0,2,4,0,0,4,1,2,0,3,2,0,0,2,1,0,0,1,2,0,0,2
+18,1809,PESAWARAN,RS Umum Daerah Pesawaran,C,,BLUD,1,0,1,2,2,0,0,2,2,0,0,2,3,0,0,3,2,0,0,2,2,0,0,2,2,1,0,3
+18,1811,MESUJI,RS Umum Daerah Ragab Begawe Caram,C,,BLUD,0,0,2,2,1,1,0,2,1,0,1,2,2,0,0,2,0,0,2,2,1,0,0,1,0,1,0,1
+18,1811,MESUJI,RUMAH SAKIT UMUM DAERAH RATU TARA KABUPATEN MESUJI,D,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+18,1812,TULANG BAWANG BARAT,RS Umum Daerah Tulang Bawang Barat,D,,BLUD,1,0,0,1,0,1,0,1,1,0,0,1,1,2,0,3,1,0,0,1,0,1,0,1,1,0,0,1
+18,1813,PESISIR BARAT,RS Umum Daerah KH. Muhammad Thohir KRUI,C,Ya,Non BLU/BLUD,2,0,0,2,0,0,1,1,0,0,2,2,1,0,1,2,0,0,1,1,0,0,0,0,1,0,0,1
+18,1872,KOTA METRO,RS Umum Daerah Ahmad Yani Metro,B,,BLUD,1,1,1,3,0,1,0,1,1,2,0,3,2,2,2,6,2,0,0,2,3,1,1,5,2,0,0,2
+18,1872,KOTA METRO,RS Umum Daerah Sumbersari Bantul,D,,BLUD,0,0,1,1,0,0,2,2,0,1,0,1,1,1,0,2,0,0,1,1,1,0,0,1,1,0,0,1
+19,1901,BANGKA,RS Umum Daerah Depati Bahrin,C,,BLUD,1,1,1,3,1,0,1,2,3,0,0,3,2,0,2,4,2,0,0,2,2,0,0,2,1,0,1,2
+19,1901,BANGKA,RS Umum Daerah Dr. (HC) Ir. Soekarno,B,,BLUD,1,0,0,1,3,1,0,4,2,0,1,3,1,0,1,2,1,0,2,3,2,0,0,2,2,0,1,3
+19,1901,BANGKA,RS Umum Daerah DR. Eko Maulana Ali,D,,Non BLU/BLUD,0,0,1,1,1,0,0,1,0,0,1,1,0,0,2,2,1,0,0,1,0,0,1,1,1,0,0,1
+19,1902,BELITUNG,RS Umum Daerah dr. H. Marsidi Judono,C,,BLUD,2,0,0,2,0,1,0,1,1,0,0,1,1,0,0,1,2,0,0,2,2,0,0,2,1,0,0,1
+19,1905,BANGKA BARAT,RS Umum Daerah Sejiran Setason,C,Ya,BLUD,3,0,0,3,2,0,0,2,2,0,0,2,1,1,1,3,1,0,1,2,0,0,1,1,1,0,0,1
+19,1904,BANGKA TENGAH,RS Umum Daerah Drs. H. Abu Hanifah,C,Ya,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1,2,0,0,2
+19,1904,BANGKA TENGAH,"RS Umum Daerah Dr. Ir. H. Ibnu Saleh, MM",D,,BLUD,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,2,0,0,1,1,0,0,1,1,0,0,1,1
+19,1903,BANGKA SELATAN,RS Umum Daerah Junjung Besaoh,C,Ya,BLUD,0,0,2,2,1,0,1,2,1,0,0,1,1,0,0,1,0,0,1,1,1,0,0,1,0,0,1,1
+19,1903,BANGKA SELATAN,RS Umum Daerah Kriopanting Payung,D,Ya,BLUD,1,0,1,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,1,1,0,0,1,1,0,0,1,1
+19,1906,BELITUNG TIMUR,RS Umum Daerah Muhammad Zein,C,Ya,BLUD,1,0,0,1,2,0,0,2,0,0,1,1,3,1,0,4,1,0,0,1,2,0,0,2,2,0,0,2
+19,1971,KOTA PANGKAL PINANG,RS Umum Daerah Depati Hamzah,C,,BLUD,2,1,0,3,1,1,2,4,2,0,0,2,0,2,1,3,1,0,1,2,1,0,0,1,2,0,0,2
+21,2102,KARIMUN,RS Umum Daerah Muhammad Sani Kabupaten Karimun,C,,BLUD,2,0,0,2,2,0,0,2,3,0,0,3,3,0,0,3,1,0,1,2,2,0,0,2,2,0,0,2
+21,2101,BINTAN,RS Umum Daerah Kabupaten Bintan,C,,BLUD,3,0,0,3,1,0,1,2,0,0,1,1,2,1,0,3,1,1,0,2,1,0,0,1,1,0,0,1
+21,2103,NATUNA,RS Umum Daerah Natuna,C,Ya,BLUD,1,0,0,1,0,0,1,1,1,0,2,3,0,0,2,2,0,0,2,2,2,0,0,2,2,0,0,2
+21,2105,KEPULAUAN ANAMBAS,RS Umum Daerah Palmatak,D,Ya,BLUD,1,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,2105,KEPULAUAN ANAMBAS,RS Umum Daerah Bergerak Jemaja,D,Ya,BLUD,1,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+21,2105,KEPULAUAN ANAMBAS,RS Umum Daerah Tarempa,C,Ya,BLUD,0,0,0,0,0,0,4,4,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1
+21,2104,LINGGA,RS Umum Daerah Dabo Kabupaten Lingga,C,Ya,BLUD,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+21,2104,LINGGA,RS Umum Daerah Encik Mariyam,D,Ya,BLUD,0,0,2,2,0,0,1,1,0,0,2,2,0,1,2,3,0,0,1,1,0,0,0,0,0,0,1,1
+21,2171,KOTA B A T A M,RS Umum Daerah Embung Fatimah Kota Batam,B,,BLUD,3,0,0,3,3,2,0,5,2,1,0,3,4,1,0,5,2,0,1,3,2,0,0,2,3,0,0,3
+21,2172,KOTA TANJUNG PINANG,RS Umum Daerah Raja Ahmad Tabib,B,,BLUD,2,0,0,2,1,1,1,3,3,0,0,3,2,2,1,5,3,1,0,4,3,1,0,4,4,0,0,4
+21,2172,KOTA TANJUNG PINANG,RS Umum Daerah Kota Tanjung Pinang,C,,BLUD,3,0,0,3,3,1,0,4,2,0,0,2,2,1,1,4,1,0,0,1,1,0,0,1,1,0,0,1
+31,3101,KEPULAUAN SERIBU,RS Umum Daerah Kepulauan Seribu,D,,BLUD,1,1,0,2,0,2,0,2,0,2,0,2,0,1,1,2,0,1,0,1,0,1,0,1,1,1,0,2
+31,3174,KOTA JAKARTA SELATAN,RS Umum Daerah Tebet,C,,BLUD,0,3,0,3,0,2,0,2,0,3,0,3,0,3,0,3,0,3,0,3,0,1,0,1,0,1,0,1
+31,3174,KOTA JAKARTA SELATAN,RS Umum Daerah Pesanggrahan,C,,BLUD,0,2,0,2,0,2,0,2,0,4,0,4,0,3,0,3,0,2,0,2,1,1,0,2,1,1,0,2
+31,3174,KOTA JAKARTA SELATAN,RS Umum Daerah Jagakarsa,D,,BLUD,1,2,0,3,1,1,0,2,1,2,0,3,0,2,0,2,0,2,0,2,0,3,0,3,0,1,0,1
+31,3174,KOTA JAKARTA SELATAN,RS Umum Daerah Mampang Prapatan,D,,BLUD,0,2,0,2,0,1,0,1,0,2,0,2,0,4,0,4,0,3,0,3,0,1,0,1,0,1,0,1
+31,3174,KOTA JAKARTA SELATAN,RS Umum Daerah Pasar Minggu,B,,BLUD,2,2,0,4,0,4,0,4,1,3,0,4,4,2,0,6,1,4,0,5,1,4,0,5,2,0,0,2
+31,3174,KOTA JAKARTA SELATAN,RS Umum Daerah Jati Padang,D,,Non BLU/BLUD,0,3,0,3,0,3,0,3,0,3,0,3,1,3,0,4,0,3,0,3,0,2,0,2,1,0,0,1
+31,3174,KOTA JAKARTA SELATAN,RS Umum Daerah Kebayoran Baru,D,,BLUD,0,3,0,3,0,2,0,2,1,1,0,2,0,3,0,3,0,3,0,3,0,1,0,1,0,1,0,1
+31,3174,KOTA JAKARTA SELATAN,RS Umum Daerah Kebayoran Lama,D,,BLUD,0,4,0,4,0,2,0,2,1,2,0,3,0,3,0,3,0,3,0,3,0,1,0,1,0,1,0,1
+31,3175,KOTA JAKARTA TIMUR,RS Umum Daerah Budhi Asih,B,,BLUD,1,4,0,5,2,2,0,4,0,4,0,4,1,5,1,7,0,1,0,1,1,2,0,3,2,0,0,2
+31,3175,KOTA JAKARTA TIMUR,RS Umum Daerah Pasar Rebo,B,,BLUD,1,2,0,3,1,1,0,2,1,3,0,4,1,2,0,3,2,2,0,4,1,2,0,3,2,0,0,2
+31,3175,KOTA JAKARTA TIMUR,RS Umum Daerah Kramat Jati,C,,BLUD,0,3,0,3,1,2,0,3,0,4,0,4,1,2,0,3,0,3,0,3,0,1,0,1,0,1,0,1
+31,3175,KOTA JAKARTA TIMUR,RS Umum Daerah Ciracas,D,,Non BLU/BLUD,0,3,0,3,0,3,0,3,0,4,0,4,0,5,0,5,1,2,0,3,0,2,0,2,0,1,0,1
+31,3175,KOTA JAKARTA TIMUR,RS Umum Daerah Cipayung,D,,BLUD,0,2,0,2,0,2,0,2,1,2,0,3,0,4,0,4,0,4,0,4,0,1,1,2,1,0,0,1
+31,3175,KOTA JAKARTA TIMUR,RS Umum Daerah Matraman,D,,Non BLU/BLUD,0,2,0,2,1,1,0,2,1,2,0,3,0,3,0,3,0,2,0,2,0,1,0,1,0,1,0,1
+31,3171,KOTA JAKARTA PUSAT,RS Umum Daerah Tarakan,A,,BLUD,1,4,0,5,2,1,0,3,1,1,0,2,2,3,0,5,1,3,0,4,0,2,0,2,1,1,0,2
+31,3171,KOTA JAKARTA PUSAT,RS Umum Daerah Sawah Besar,D,,BLUD,0,3,1,4,0,2,0,2,0,2,0,2,0,3,0,3,0,2,0,2,0,1,0,1,0,1,0,1
+31,3171,KOTA JAKARTA PUSAT,RS Umum Daerah Kemayoran,D,,BLUD,0,2,0,2,0,2,0,2,0,2,0,2,0,2,0,2,1,1,1,3,0,1,0,1,0,1,0,1
+31,3171,KOTA JAKARTA PUSAT,RS Umum Daerah Cempaka Putih,D,,BLUD,0,2,0,2,1,1,0,2,0,3,0,3,1,2,0,3,0,2,0,2,0,1,0,1,0,1,0,1
+31,3171,KOTA JAKARTA PUSAT,RS Umum Daerah Johar Baru,D,,BLUD,0,5,0,5,0,2,0,2,0,2,0,2,1,3,0,4,0,3,0,3,0,1,0,1,0,1,0,1
+31,3171,KOTA JAKARTA PUSAT,RS Umum Daerah Tanah Abang,D,,Non BLU/BLUD,0,2,0,2,0,2,0,2,0,2,0,2,0,3,0,3,0,1,1,2,1,1,0,2,0,1,0,1
+31,3173,KOTA JAKARTA BARAT,RS Umum Daerah Cengkareng,B,,BLUD,1,2,0,3,1,4,0,5,1,5,0,6,1,4,0,5,0,5,0,5,1,2,0,3,2,0,0,2
+31,3173,KOTA JAKARTA BARAT,RS Umum Daerah Kembangan,C,,Non BLU/BLUD,0,3,0,3,1,1,0,2,1,2,0,3,1,4,0,5,0,2,0,2,0,1,0,1,0,2,0,2
+31,3173,KOTA JAKARTA BARAT,RS Umum Daerah Kalideres,C,,BLUD,1,5,0,6,1,2,0,3,1,2,0,3,1,2,0,3,0,4,0,4,0,2,0,2,0,1,0,1
+31,3173,KOTA JAKARTA BARAT,RS Umum Daerah Taman Sari,D,,BLUD,0,3,0,3,0,4,0,4,0,2,0,2,0,3,0,3,0,3,0,3,0,1,0,1,0,1,0,1
+31,3172,KOTA JAKARTA UTARA,RS Umum Daerah Koja,B,,Non BLU/BLUD,2,1,0,3,1,3,0,4,0,1,0,1,1,3,0,4,1,4,0,5,1,2,0,3,1,2,0,3
+31,3172,KOTA JAKARTA UTARA,RS Umum Daerah Tugu Koja,C,,BLUD,0,2,0,2,0,2,0,2,0,2,0,2,0,4,0,4,0,3,0,3,0,1,0,1,0,1,0,1
+31,3172,KOTA JAKARTA UTARA,RS Umum Daerah Pademangan,D,,BLUD,0,2,1,3,0,2,0,2,0,2,0,2,0,2,0,2,0,3,0,3,0,1,0,1,0,1,0,1
+31,3172,KOTA JAKARTA UTARA,RS Umum Daerah Cilincing,C,,BLUD,0,3,0,3,0,2,0,2,1,2,0,3,0,2,0,2,1,1,0,2,1,0,0,1,0,1,0,1
+31,3172,KOTA JAKARTA UTARA,RS Umum Daerah Tanjung Priok,D,,BLUD,0,4,0,4,0,1,0,1,0,2,0,2,0,4,0,4,0,3,0,3,0,1,0,1,0,1,0,1
+32,3201,BOGOR,RS Umum Daerah Bakti Pajajaran,B,,BLUD,3,2,1,6,1,2,0,3,1,4,0,5,3,1,0,4,1,1,2,4,2,0,1,3,3,0,0,3
+32,3201,BOGOR,RS Umum Daerah Ciawi,B,,BLUD,3,1,0,4,3,1,1,5,0,2,3,5,3,3,0,6,2,4,0,6,2,1,0,3,2,0,0,2
+32,3201,BOGOR,RS Umum Daerah R. Moh. Noh Nur,B,,BLUD,2,1,1,4,1,1,1,3,3,0,1,4,2,1,1,4,2,0,0,2,3,0,0,3,2,0,1,3
+32,3201,BOGOR,RS Umum Daerah RH. Satibi,B,,BLUD,2,1,0,3,0,2,0,2,1,2,1,4,1,3,0,4,3,2,0,5,1,1,1,3,1,1,0,2
+32,3202,SUKABUMI,RS Umum Daerah Sekarwangi,B,,BLUD,2,0,1,3,2,2,0,4,3,1,0,4,4,0,0,4,1,2,0,3,1,0,0,1,1,0,0,1
+32,3202,SUKABUMI,RS Umum Daerah Palabuhanratu,C,,BLUD,3,0,0,3,1,0,0,1,0,1,0,1,3,0,0,3,2,1,0,3,2,0,0,2,1,0,0,1
+32,3202,SUKABUMI,RS Umum Daerah Jampang Kulon,C,,BLUD,1,0,1,2,2,0,0,2,0,2,0,2,1,2,0,3,0,1,1,2,0,1,0,1,0,1,0,1
+32,3202,SUKABUMI,RS Umum Daerah Sagaranten,D,,BLUD,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+32,3203,CIANJUR,RS Umum Daerah Sayang,B,,BLUD,2,3,0,5,2,0,0,2,4,0,2,6,3,2,0,5,1,3,0,4,1,1,0,2,1,1,0,2
+32,3203,CIANJUR,RS Umum Daerah Cimacan,C,,BLUD,1,1,0,2,1,2,0,3,1,1,1,3,2,2,0,4,0,3,0,3,0,2,0,2,1,0,0,1
+32,3203,CIANJUR,RS Umum Daerah Pagelaran,C,,BLUD,1,0,0,1,1,0,1,2,1,0,0,1,2,1,0,3,0,2,0,2,0,1,0,1,1,0,0,1
+32,3203,CIANJUR,RS Umum Daerah Sindangbarang,D,,Non BLU/BLUD,0,2,0,2,0,0,1,1,0,0,1,1,0,1,0,1,0,2,0,2,0,1,0,1,0,1,0,1
+32,3204,BANDUNG,RS Umum Daerah Majalaya,B,,BLUD,2,1,0,3,2,2,0,4,3,0,1,4,3,1,0,4,0,1,0,1,2,0,0,2,1,0,0,1
+32,3204,BANDUNG,RS Umum Daerah Welas Asih Provinsi Jawa Barat,B,,BLUD,2,2,0,4,2,2,1,5,3,1,3,7,2,2,2,6,1,2,1,4,1,2,3,6,2,1,1,4
+32,3204,BANDUNG,RS Umum Daerah Oto Iskandar Di Nata,B,,BLUD,2,1,0,3,2,0,2,4,3,0,1,4,0,4,0,4,1,1,0,2,2,0,0,2,2,0,0,2
+32,3204,BANDUNG,RS Umum Daerah Cicalengka,B,,BLUD,2,1,0,3,1,2,0,3,2,1,0,3,2,0,1,3,2,0,0,2,1,2,0,3,1,0,0,1
+32,3204,BANDUNG,RS Umum Daerah Kesehatan Kerja,D,,BLUD,1,0,1,2,1,0,1,2,1,0,1,2,2,0,0,2,3,0,0,3,1,0,0,1,2,0,0,2
+32,3204,BANDUNG,RS Umum Daerah Bedas Cimaung,D,,Non BLU/BLUD,0,1,0,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,1,0,0,1,0,0,1,1
+32,3204,BANDUNG,RS Umum Daerah Bedas Kertasari,D,,BLUD,0,1,0,1,0,2,0,2,0,1,0,1,0,1,0,1,0,1,1,2,0,1,0,1,1,0,0,1
+32,3204,BANDUNG,RS Umum Daerah Bedas Tegalluar,D,,BLUD,0,0,1,1,0,1,0,1,0,2,0,2,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,1
+32,3204,BANDUNG,RS Umum Daerah Bedas Arjasari,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1
+32,3204,BANDUNG,RS Umum Daerah Bedas Pacira,D,,,0,1,0,1,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1
+32,3205,GARUT,RS Umum Daerah dr. Slamet Garut,B,,BLU,2,1,0,3,2,0,1,3,3,1,0,4,3,1,1,5,2,0,1,3,2,0,0,2,2,0,0,2
+32,3205,GARUT,RS Umum Daerah Pameungpeuk Prov. Jabar,C,,BLUD,0,2,1,3,0,0,3,3,0,1,2,3,1,0,3,4,0,2,0,2,0,1,1,2,1,2,0,3
+32,3205,GARUT,RS Umum Daerah Malangbong,D,,BLUD,0,0,2,2,0,0,3,3,0,0,2,2,0,0,2,2,0,0,1,1,0,0,1,1,0,0,1,1
+32,3278,KOTA TASIKMALAYA,RS Umum Daerah dr. Soekardjo,B,,BLUD,3,0,1,4,0,2,1,3,2,1,0,3,2,0,0,2,2,0,1,3,1,1,0,2,1,0,0,1
+32,3278,KOTA TASIKMALAYA,Rumah Sakit Umum Daerah Dewi Sartika,D,,Non BLU/BLUD,1,0,1,2,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,0,0,1,0,0,1,1
+32,3206,TASIKMALAYA,RS Umum Daerah KHZ Musthafa Kabupaten Tasikmalaya,C,,BLUD,3,0,0,3,1,0,1,2,2,0,2,4,2,0,0,2,1,1,1,3,1,0,0,1,2,0,0,2
+32,3206,TASIKMALAYA,RSUD Tani dan Nelayan Tasikmalaya,D,,Non BLU/BLUD,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+32,3207,CIAMIS,RS Umum Daerah Kab. Ciamis,C,,BLUD,1,1,0,2,2,0,0,2,2,0,1,3,3,0,1,4,2,0,0,2,1,0,0,1,1,0,1,2
+32,3207,CIAMIS,RS Umum Daerah Kawali,D,,BLUD,1,1,0,2,0,1,0,1,0,1,0,1,0,2,0,2,1,1,0,2,1,0,0,1,1,0,0,1
+32,3279,KOTA BANJAR,RS Umum Daerah Banjar,B,,BLUD,3,0,0,3,2,0,0,2,4,0,0,4,2,0,1,3,2,0,0,2,1,1,0,2,1,0,0,1
+32,3279,KOTA BANJAR,RS Umum Daerah Asih Husada Langensari,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,1,1,0,0,2,2,0,0,1,1,0,0,1,1,0,0,1,1
+32,3208,KUNINGAN,RS Umum Daerah 45 Kuningan,B,,BLU,3,0,0,3,2,1,0,3,1,2,0,3,2,1,0,3,2,1,0,3,1,0,0,1,1,0,0,1
+32,3208,KUNINGAN,RS Umum Daerah Linggajati Kuningan,C,,BLUD,2,0,0,2,1,0,0,1,1,2,0,3,0,1,1,2,0,0,0,0,2,0,0,2,1,0,0,1
+32,3209,CIREBON,RS Umum Daerah Waled,B,,BLUD,2,1,0,3,2,0,0,2,1,0,1,2,2,2,1,5,3,0,0,3,3,0,0,3,2,0,0,2
+32,3209,CIREBON,RS Umum Daerah Arjawinangun,B,,BLUD,2,0,1,3,1,1,1,3,2,1,2,5,2,0,1,3,1,1,1,3,1,0,1,2,1,0,0,1
+32,3210,MAJALENGKA,RS Umum Daerah Majalengka,B,,BLUD,3,0,0,3,2,0,0,2,2,1,0,3,2,1,0,3,1,0,1,2,2,0,0,2,1,0,0,1
+32,3210,MAJALENGKA,RS Umum Daerah Cideres,B,,BLUD,2,0,0,2,3,1,0,4,0,1,1,2,3,1,0,4,1,0,0,1,1,1,0,2,1,0,0,1
+32,3210,MAJALENGKA,RS Umum Daerah Talaga,D,,Non BLU/BLUD,1,1,0,2,0,1,0,1,0,1,0,1,0,2,1,3,0,0,1,1,0,0,1,1,0,0,1,1
+32,3211,SUMEDANG,RS Umum Daerah Umar Wirahadikusumah,B,,BLUD,4,0,0,4,4,0,0,4,4,1,0,5,5,1,0,6,1,1,0,2,1,1,0,2,1,2,0,3
+32,3212,INDRAMAYU,RS Umum Daerah Indramayu,B,,BLUD,1,2,0,3,3,0,0,3,2,3,0,5,2,2,0,4,2,0,0,2,1,0,0,1,1,0,0,1
+32,3212,INDRAMAYU,RS Umum Daerah M. A. Sentot Patrol,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,0,0,1,1,1,0,0,1,1,0,0,1
+32,3212,INDRAMAYU,RS Umum Daerah Mursid Ibnu Syafiuddin,C,,BLUD,1,0,1,2,1,0,0,1,2,0,1,3,1,0,2,3,1,0,0,1,1,0,0,1,1,0,0,1
+32,3213,SUBANG,RS Umum Daerah Subang,B,,BLUD,1,3,0,4,2,2,0,4,3,2,0,5,2,2,2,6,1,2,0,3,0,2,0,2,1,1,0,2
+32,3214,PURWAKARTA,RS Umum Daerah Bayu Asih,B,,BLUD,2,2,0,4,1,2,0,3,2,1,0,3,3,0,1,4,2,0,0,2,2,2,0,4,1,0,0,1
+32,3215,KARAWANG,RS Umum Daerah Karawang,B,,BLUD,4,1,0,5,1,2,0,3,3,1,0,4,3,2,0,5,3,0,0,3,2,1,0,3,1,0,0,1
+32,3215,KARAWANG,RS Umum Daerah Jatisari Kabupaten Karawang,C,,BLUD,1,1,0,2,1,0,1,2,0,2,0,2,1,1,1,3,0,1,0,1,1,0,0,1,1,0,0,1
+32,3215,KARAWANG,RS Umum Daerah Rengasdengklok,C,,,0,2,0,2,0,1,0,1,1,2,0,3,0,2,0,2,1,1,0,2,0,0,1,1,0,1,0,1
+32,3216,BEKASI,RS Umum Daerah Kab.Bekasi,B,,BLUD,4,0,0,4,2,1,0,3,3,1,0,4,4,2,0,6,3,0,0,3,2,0,0,2,2,0,0,2
+32,3216,BEKASI,RS Umum Daerah Cabangbungin,D,,BLUD,0,1,0,1,1,1,1,3,0,1,1,2,2,1,0,3,0,1,1,2,0,0,1,1,1,0,0,1
+32,3217,BANDUNG BARAT,RS Umum Daerah Cililin,C,,BLUD,1,2,0,3,0,1,1,2,1,3,0,4,4,2,0,6,0,2,0,2,0,1,0,1,1,0,0,1
+32,3217,BANDUNG BARAT,RS Umum Daerah Lembang,C,,BLUD,2,0,0,2,1,1,0,2,2,0,0,2,1,1,0,2,1,1,0,2,1,0,0,1,1,0,0,1
+32,3217,BANDUNG BARAT,RS Umum Daerah Cikalongwetan,C,,BLUD,2,0,0,2,2,0,0,2,1,1,0,2,1,3,0,4,0,1,0,1,1,0,0,1,1,0,0,1
+32,3218,PANGANDARAN,RS Umum Daerah Pandega Pangandaran,C,,BLUD,1,1,1,3,0,0,2,2,3,0,0,3,1,0,2,3,1,1,1,3,0,0,1,1,1,0,0,1
+32,3271,KOTA BOGOR,RS Umum Daerah Kota Bogor,B,,BLUD,2,3,0,5,0,5,0,5,2,3,0,5,2,5,0,7,2,4,0,6,3,1,0,4,2,1,0,3
+32,3272,KOTA SUKABUMI,"RS Umum Daerah R. Syamsudin, SH",B,,BLUD,2,3,0,5,1,2,0,3,2,2,0,4,3,2,0,5,3,0,1,4,2,1,1,4,1,0,0,1
+32,3272,KOTA SUKABUMI,RS Umum Daerah Al-Mulk,D,,BLUD,1,0,0,1,1,1,0,2,0,1,1,2,0,2,0,2,0,0,1,1,0,1,0,1,1,0,0,1
+32,3273,KOTA BANDUNG,RS Umum Daerah Bandung Kiwari,B,,BLUD,1,2,2,5,2,0,2,4,5,0,0,5,2,1,3,6,4,0,0,4,4,0,1,5,2,0,1,3
+32,3273,KOTA BANDUNG,RS Umum Daerah Kota Bandung,B,,BLUD,2,0,1,3,3,0,1,4,5,0,0,5,3,0,3,6,3,0,0,3,2,0,0,2,2,0,0,2
+32,3274,KOTA CIREBON,RS Daerah Gunung Jati,B,,BLUD,4,0,1,5,1,4,1,6,2,3,0,5,5,2,1,8,1,4,0,5,1,1,2,4,4,0,0,4
+32,3275,KOTA BEKASI,RS Umum Daerah dr. Chasbullah Abdulmadjid,B,,BLUD,4,0,1,5,2,1,1,4,2,3,0,5,3,2,1,6,1,2,1,4,4,2,0,6,1,1,0,2
+32,3275,KOTA BEKASI,RS Umum Daerah Jatisampurna,D,,BLUD,1,0,2,3,1,0,1,2,1,0,2,3,0,0,3,3,0,0,3,3,0,1,0,1,1,0,0,1
+32,3275,KOTA BEKASI,RS Umum Daerah Pondokgede,D,,BLUD,1,0,1,2,0,1,1,2,1,1,0,2,0,2,0,2,1,1,0,2,0,2,0,2,1,0,0,1
+32,3275,KOTA BEKASI,RS Umum Daerah Bantar Gebang,D,,Non BLU/BLUD,1,0,0,1,1,1,0,2,0,1,1,2,0,0,2,2,1,0,1,2,0,0,1,1,1,0,0,1
+32,3275,KOTA BEKASI,RS umum Daerah Teluk Pucung,D,,BLUD,1,1,1,3,0,1,1,2,0,1,1,2,0,1,0,1,0,0,1,1,0,0,1,1,0,1,0,1
+32,3276,KOTA DEPOK,RS Umum Daerah Khidmat Sehat Afiat Kota Depok,C,,BLUD,2,2,0,4,0,3,0,3,3,0,0,3,2,2,0,4,2,1,0,3,2,1,0,3,2,1,0,3
+32,3276,KOTA DEPOK,RS Umum Daerah Anugerah Sehat Afiat,C,,BLUD,1,0,2,3,0,0,2,2,1,0,3,4,1,0,2,3,1,0,2,3,1,0,0,1,2,0,0,2
+32,3277,KOTA CIMAHI,RS Umum Daerah Cibabat,B,,BLUD,3,0,1,4,2,0,0,2,2,0,1,3,4,1,0,5,2,1,0,3,2,1,0,3,3,0,1,4
+33,3301,CILACAP,RS Umum Daerah Cilacap,B,,BLUD,2,1,0,3,2,0,0,2,2,1,0,3,4,0,0,4,3,0,0,3,2,0,0,2,0,2,0,2
+33,3301,CILACAP,RS Umum Daerah Majenang,C,,BLUD,2,0,0,2,2,0,0,2,1,0,1,2,3,0,0,3,2,0,0,2,1,0,0,1,1,0,0,1
+33,3302,BANYUMAS,RS umum Daerah Banyumas,B,,BLUD,2,1,0,3,2,1,0,3,2,2,0,4,2,3,0,5,3,2,0,5,1,0,0,1,2,0,0,2
+33,3302,BANYUMAS,RS Umum Daerah Prof Dr. Margono Soekarjo,A,,BLUD,2,3,0,5,2,1,0,3,2,3,0,5,1,1,0,2,3,2,0,5,6,0,0,6,2,3,0,5
+33,3302,BANYUMAS,RS Umum Daerah Ajibarang,C,,BLUD,2,0,1,3,3,0,0,3,1,2,1,4,2,4,0,6,2,0,0,2,1,1,0,2,2,0,0,2
+33,3303,PURBALINGGA,RS Umum Daerah dr. R. Goeteng Taroenadibrata,C,,BLUD,2,0,0,2,0,1,0,1,1,3,0,4,2,2,0,4,3,0,0,3,2,0,0,2,1,0,0,1
+33,3303,PURBALINGGA,RS Umum Daerah Panti Nugroho,C,,BLUD,1,1,0,2,0,2,0,2,2,1,0,3,0,3,0,3,4,0,0,4,0,1,0,1,0,1,0,1
+33,3304,BANJARNEGARA,RS Umum Daerah Hj. Anna Lasmanah Banjarnegara,C,,BLUD,3,0,0,3,1,1,0,2,2,1,0,3,1,2,0,3,3,0,0,3,2,0,0,2,1,0,0,1
+33,3305,KEBUMEN,RS Umum Daerah dr. Soedirman Kabupaten Kebumen,C,,BLUD,2,0,0,2,1,1,0,2,2,0,0,2,4,0,0,4,2,1,0,3,2,1,1,4,2,0,0,2
+33,3305,KEBUMEN,RS Umum Daerah Prembun,C,,BLUD,0,2,0,2,1,0,1,2,2,1,0,3,2,0,2,4,2,0,0,2,0,1,0,1,0,1,1,2
+33,3306,PURWOREJO,RS Umum Daerah Dr. Tjitrowardojo Purworejo,B,,BLUD,2,0,1,3,2,2,0,4,1,1,0,2,2,2,0,4,2,1,0,3,3,1,1,5,1,2,1,4
+33,3306,PURWOREJO,RS Umum Daerah R.A.A Tjokronegoro,C,,BLUD,1,1,0,2,1,1,0,2,2,0,0,2,1,2,0,3,0,3,0,3,2,0,0,2,1,0,0,1
+33,3307,WONOSOBO,RS Umum Setjonegoro Wonosobo,B,,BLUD,1,0,2,3,3,0,0,3,1,0,3,4,4,0,0,4,1,1,1,3,1,0,3,4,1,0,0,1
+33,3308,MAGELANG,RS Umum Daerah Muntilan Kab. Magelang,C,,BLUD,2,0,0,2,1,1,0,2,2,1,1,4,4,0,1,5,1,0,2,3,1,0,0,1,1,0,0,1
+33,3308,MAGELANG,RS Umum Daerah Merah Putih,C,,BLUD,2,0,0,2,2,0,1,3,2,1,0,3,3,0,2,5,2,0,0,2,1,0,0,1,1,0,0,1
+33,3308,MAGELANG,RS Umum Daerah Bukit Menoreh,D,,Non BLU/BLUD,1,0,0,1,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,1,1
+33,3308,MAGELANG,RS Umum Daerah Candi Umbul,D,,Non BLU/BLUD,1,0,0,1,0,0,1,1,0,0,1,1,1,0,0,1,0,0,2,2,0,0,1,1,0,1,0,1
+33,3309,BOYOLALI,RS Umum Daerah Pandan Arang Boyolali,B,,BLUD,3,0,0,3,1,1,0,2,1,2,1,4,3,0,1,4,3,0,0,3,2,0,0,2,0,1,1,2
+33,3309,BOYOLALI,RS Umum Daerah Waras Wiris,C,,BLUD,1,1,0,2,1,0,1,2,1,1,0,2,1,2,0,3,0,2,0,2,0,0,1,1,1,0,0,1
+33,3309,BOYOLALI,RS Umum Daerah Simo,D,,BLUD,1,0,1,2,2,0,0,2,1,0,1,2,2,0,1,3,1,0,0,1,1,0,0,1,1,0,0,1
+33,3310,KLATEN,RS Umum Daerah Bagas Waras,C,,BLUD,1,1,0,2,2,0,0,2,3,0,0,3,3,1,0,4,2,0,0,2,1,0,0,1,0,1,0,1
+33,3311,SUKOHARJO,RS Umum Daerah Ir. Soekarno Kabupaten Sukoharjo,B,,BLUD,3,0,0,3,1,2,0,3,2,0,0,2,2,1,0,3,2,0,2,4,2,1,0,3,2,1,0,3
+33,3312,WONOGIRI,RS Umum Daerah Dr. Soediran Mangun Sumarso Wonogi,B,,BLUD,3,0,0,3,1,0,0,1,4,0,0,4,3,0,0,3,3,0,0,3,2,0,0,2,1,1,0,2
+33,3313,KARANGANYAR,RS Umum Daerah Kartini Karanganyar,C,,BLUD,2,0,0,2,2,1,0,3,2,1,0,3,3,0,0,3,2,1,0,3,2,0,0,2,1,0,0,1
+33,3314,SRAGEN,RS Umum Daerah dr. Soehadi Prijonegoro,B,,BLUD,1,2,0,3,2,1,0,3,3,0,0,3,3,0,1,4,4,0,0,4,2,0,0,2,2,0,1,3
+33,3314,SRAGEN,RS Umum Daerah dr. Soeratno Gemolong,C,,BLUD,2,0,0,2,2,0,0,2,2,1,0,3,1,1,1,3,1,1,0,2,1,0,0,1,1,0,0,1
+33,3314,SRAGEN,RS Umum Daerah Sukowati Tangen,D,,BLUD,1,0,0,1,0,0,1,1,0,0,2,2,0,0,1,1,0,0,2,2,0,0,1,1,1,0,0,1
+33,3315,GROBOGAN,RS Umum Daerah Dr. R.Soedjati Soemodiardjo,B,,BLUD,3,0,0,3,2,1,0,3,2,2,0,4,2,3,0,5,2,0,0,2,2,0,0,2,1,0,0,1
+33,3315,GROBOGAN,RS Umum Daerah Ki Ageng Selo,D,,BLUD,1,0,1,2,0,1,0,1,0,0,2,2,1,0,1,2,0,0,1,1,0,0,1,1,0,0,1,1
+33,3315,GROBOGAN,RS Umum Daerah Ki Ageng Getas Pendowo Gubug,D,,Non BLU/BLUD,0,0,1,1,0,1,1,2,0,0,1,1,0,2,0,2,0,2,0,2,0,1,0,1,0,1,0,1
+33,3316,BLORA,RS Umum Daerah Dr. R. Soetijono Blora,C,,BLUD,2,0,0,2,2,0,0,2,3,0,0,3,3,1,0,4,4,0,1,5,2,1,0,3,1,0,0,1
+33,3316,BLORA,RS Umum Daerah Dr. R. Soeprapto Cepu,C,,BLUD,1,1,0,2,0,2,0,2,2,0,0,2,1,3,0,4,0,1,1,2,0,1,0,1,0,1,0,1
+33,3316,BLORA,RS Umum Daerah Samin Surosentiko Randublatung,D,,BLUD,0,1,0,1,0,1,0,1,0,0,1,1,0,2,0,2,0,1,0,1,0,2,0,2,0,1,0,1
+33,3317,REMBANG,RS Umum Daerah dr. R. Soetrasno Rembang,C,,BLUD,3,0,0,3,2,1,0,3,4,0,0,4,1,2,1,4,3,1,0,4,2,0,0,2,1,1,0,2
+33,3318,PATI,RS Umum Daerah RAA Soewondo,B,,BLUD,3,0,0,3,1,1,0,2,2,1,0,3,2,3,1,6,2,1,0,3,3,0,1,4,1,1,0,2
+33,3318,PATI,RS Umum Daerah Kayen Pati,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,2,1,1,4,3,0,0,3,1,0,0,1,1,0,0,1
+33,3319,KUDUS,RS Umum Daerah dr. Loekmono Hadi,B,,BLUD,3,1,0,4,2,2,0,4,3,1,0,4,2,4,0,6,3,1,0,4,2,1,0,3,2,0,0,2
+33,3320,JEPARA,RS Umum Daerah R. A. Kartini,B,,BLUD,4,0,0,4,3,0,0,3,4,0,0,4,2,0,0,2,2,1,0,3,3,0,0,3,2,0,0,2
+33,3320,JEPARA,RS Umum Daerah dr. Rehatta Provinsi Jawa Tengah,C,,BLUD,1,1,0,2,2,1,0,3,2,0,1,3,1,0,2,3,1,0,2,3,1,0,0,1,0,0,1,1
+33,3321,DEMAK,RS Umum Daerah Sunan Kalijaga,C,,BLUD,3,1,0,4,1,0,1,2,1,3,0,4,1,0,3,4,1,2,0,3,1,1,0,2,1,0,0,1
+33,3321,DEMAK,RS Umum Daerah Sultan Fatah Karangawen Demak,C,,BLUD,1,1,0,2,1,1,1,3,1,1,0,2,0,1,1,2,0,2,0,2,1,1,0,2,1,0,0,1
+33,3322,SEMARANG,RS Umum Daerah dr. Gunawan Mangunkusumo,C,,BLUD,1,0,1,2,2,0,0,2,2,1,0,3,1,4,0,5,1,1,0,2,0,1,0,1,1,0,0,1
+33,3322,SEMARANG,RS Umum Daerah dr. Gondo Suwarno,C,,BLUD,1,2,0,3,2,2,0,4,1,2,0,3,3,1,0,4,1,1,0,2,1,1,0,2,2,0,0,2
+33,3323,TEMANGGUNG,RS Umum Daerah Kabupaten Temanggung,B,,BLUD,3,1,0,4,2,2,0,4,0,3,0,3,2,1,0,3,3,1,0,4,2,0,0,2,1,1,0,2
+33,3324,KENDAL,RS Umum Daerah Dr. H. Soewondo Kendal,B,,BLUD,1,1,1,3,3,0,0,3,3,0,0,3,3,1,0,4,2,0,0,2,2,0,0,2,1,0,0,1
+33,3325,BATANG,RS Umum Daerah Batang,C,,BLUD,2,0,0,2,2,0,0,2,1,0,3,4,2,0,1,3,2,0,0,2,1,0,0,1,1,0,0,1
+33,3325,BATANG,RS Umum Daerah Limpung,C,,BLUD,1,0,0,1,1,0,1,2,0,0,2,2,0,0,2,2,0,1,1,2,0,0,1,1,0,0,1,1
+33,3375,KOTA PEKALONGAN,RS Umum Daerah Kraton Kab. Pekalongan,B,,BLUD,2,0,0,2,1,2,0,3,1,1,0,2,3,0,0,3,1,0,0,1,1,1,0,2,1,0,0,1
+33,3375,KOTA PEKALONGAN,RS Umum Daerah Bendan Kota Pekalongan,C,,BLUD,1,0,1,2,1,1,1,3,0,1,2,3,4,0,0,4,1,1,0,2,1,0,0,1,1,0,0,1
+33,3326,PEKALONGAN,RS Umum Daerah Kajen Kab. Pekalongan,C,,BLUD,2,0,1,3,0,3,1,4,3,1,0,4,2,1,1,4,2,1,0,3,1,0,0,1,1,1,0,2
+33,3326,PEKALONGAN,RS Umum Daerah Kesesi Pekalongan,D,,BLUD,0,0,1,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1
+33,3327,PEMALANG,RS Umum Daerah Dr. M. Ashari Pemalang,C,,BLUD,2,0,0,2,1,1,0,2,4,0,0,4,5,0,0,5,1,3,0,4,2,0,0,2,1,0,0,1
+33,3328,TEGAL,RS Umum Daerah dr. Soeselo Slawi Kabupaten Tegal,B,,BLUD,3,0,0,3,1,1,1,3,4,0,0,4,4,1,0,5,2,1,0,3,1,0,1,2,2,0,0,2
+33,3328,TEGAL,RS Umum Daerah Suradadi,C,,BLUD,1,0,0,1,1,0,1,2,1,1,0,2,1,2,0,3,2,1,0,3,1,1,0,2,0,1,0,1
+33,3329,BREBES,RS Umum Daerah Brebes,B,,BLUD,4,0,0,4,3,1,2,6,4,0,1,5,2,1,0,3,1,1,2,4,2,0,0,2,1,1,0,2
+33,3329,BREBES,RS Umum Daerah Bumiayu,C,,BLUD,1,0,0,1,1,0,0,1,1,0,0,1,2,1,0,3,0,2,0,2,0,1,0,1,0,1,0,1
+33,3329,BREBES,RS Umum Daerah Ir. Soekarno Kab. Brebes,D,,BLUD,1,0,1,2,1,2,0,3,0,1,1,2,1,1,0,2,0,2,0,2,0,0,1,1,0,0,0,0
+33,3371,KOTA MAGELANG,RS Umum Daerah Tidar,B,,BLUD,3,3,0,6,1,1,0,2,0,2,1,3,3,4,1,8,3,3,0,6,1,1,2,4,2,0,0,2
+33,3371,KOTA MAGELANG,RS Umum Daerah Budi Rahayu,D,,BLUD,0,0,4,4,0,1,1,2,1,0,2,3,0,0,6,6,1,0,1,2,0,1,0,1,0,0,1,1
+33,3372,KOTA SURAKARTA,RS Umum Daerah Dr. Moewardi Surakarta,A,,BLUD,3,4,6,13,1,0,1,2,2,2,11,15,3,1,10,14,2,1,5,8,5,0,1,6,2,0,2,4
+33,3372,KOTA SURAKARTA,RS Umum Daerah Ibu Fatmawati Soekarno,C,,BLUD,3,0,0,3,1,1,0,2,2,0,0,2,3,0,0,3,2,1,0,3,1,0,0,1,1,1,0,2
+33,3372,KOTA SURAKARTA,RS Umum Daerah Bung Karno Kota Surakarta,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,3,0,0,3,2,0,0,2,1,0,0,1,1,0,0,1
+33,3373,KOTA SALATIGA,RS Umum Daerah Kota Salatiga,B,,BLUD,3,0,1,4,1,0,2,3,2,0,2,4,2,0,3,5,2,0,0,2,1,0,1,2,2,0,0,2
+33,3374,KOTA SEMARANG,"RS Umum Daerah dr. Adhyatma, MPH",B,,BLUD,5,0,0,5,2,0,1,3,5,0,0,5,3,1,3,7,4,1,1,6,2,0,2,4,1,0,0,1
+33,3374,KOTA SEMARANG,RS Daerah KRMT Wongsonegoro,B,,BLUD,5,1,2,8,3,0,1,4,3,1,1,5,6,2,2,10,1,0,3,4,3,0,1,4,1,1,0,2
+33,3374,KOTA SEMARANG,RS Umum Daerah Mijen,D,,Non BLU/BLUD,0,0,1,1,1,0,1,2,0,0,1,1,0,1,3,4,0,0,1,1,0,0,2,2,0,0,1,1
+33,3376,KOTA TEGAL,RS Umum Daerah Kardinah,B,,BLUD,2,0,2,4,1,2,0,3,3,1,0,4,3,0,0,3,2,0,0,2,0,1,0,1,2,0,0,2
+34,3401,KULON PROGO,RS Umum Daerah Wates,B,,BLUD,3,1,0,4,1,2,0,3,2,2,0,4,3,3,0,6,0,2,0,2,0,1,0,1,0,2,0,2
+34,3401,KULON PROGO,RS Umum Daerah Nyi Ageng Serang,C,,BLUD,2,0,0,2,2,0,0,2,3,1,0,4,2,0,0,2,2,0,0,2,0,1,0,1,1,0,0,1
+34,3402,BANTUL,RS Umum Daerah Panembahan Senopati,B,,BLUD,3,0,1,4,1,0,2,3,2,1,1,4,4,0,0,4,2,0,1,3,1,0,0,1,4,0,0,4
+34,3402,BANTUL,RS Umum Daerah Saras Adyatma,D,,BLUD,1,0,0,1,1,0,0,1,0,0,1,1,1,0,0,1,0,0,1,1,0,1,0,1,1,1,0,2
+34,3403,GUNUNG KIDUL,RS Umum Daerah Wonosari,B,,BLUD,3,0,0,3,2,0,0,2,3,0,0,3,3,1,0,4,2,0,0,2,2,0,0,2,2,0,0,2
+34,3403,GUNUNG KIDUL,RS Umum Daerah Saptosari,D,,BLUD,1,0,0,1,1,0,0,1,2,0,1,3,0,0,1,1,0,2,0,2,1,1,0,2,1,1,0,2
+34,3404,SLEMAN,RS Umum Daerah Sleman,B,,BLUD,4,0,0,4,2,0,1,3,2,1,1,4,4,1,1,6,3,0,0,3,1,1,0,2,1,0,0,1
+34,3404,SLEMAN,RS Umum Daerah Prambanan,C,,BLUD,2,1,0,3,2,0,0,2,1,2,1,4,2,0,1,3,2,0,0,2,1,1,0,2,1,0,0,1
+34,3471,KOTA YOGYAKARTA,RS Umum Daerah Kota Yogyakarta,B,,BLUD,1,0,1,2,3,0,0,3,3,0,0,3,2,0,1,3,2,0,1,3,1,0,1,2,1,0,2,3
+34,3471,KOTA YOGYAKARTA,RS Pratama Kota Yogyakarta,D,,BLUD,2,0,1,3,1,0,1,2,1,0,2,3,1,2,0,3,0,0,1,1,1,0,0,1,1,0,0,1
+35,3501,PACITAN,RS Umum Daerah dr. Darsono,C,,BLUD,3,0,0,3,2,0,0,2,1,0,1,2,3,0,0,3,1,0,0,1,2,0,0,2,2,0,0,2
+35,3502,PONOROGO,RS Umum Daerah Dr. Harjono S. Kabupaten Ponorogo,B,,BLUD,3,1,0,4,3,0,0,3,4,0,0,4,1,1,0,2,3,0,0,3,1,1,0,2,2,0,0,2
+35,3502,PONOROGO,RS Umum Daerah Bantarangin,D,,BLUD,0,0,1,1,1,0,0,1,0,2,0,2,0,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1
+35,3503,TRENGGALEK,RS Umum Daerah dr. Soedomo Trenggalek,B,,BLUD,4,0,0,4,2,0,0,2,3,0,0,3,2,2,0,4,2,0,0,2,2,0,0,2,2,0,0,2
+35,3503,TRENGGALEK,RS Umum Daerah Panggul,D,,BLUD,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,0,1,1,0,1,0,1
+35,3504,TULUNGAGUNG,RS Umum Daerah Dr. Iskak,A,,BLUD,3,0,0,3,1,4,0,5,4,1,1,6,1,3,1,5,3,1,0,4,2,0,0,2,2,0,0,2
+35,3504,TULUNGAGUNG,RS Umum Daerah Campurdarat,C,,BLUD,1,0,0,1,1,1,0,2,1,0,0,1,2,0,0,2,1,0,1,2,0,0,1,1,1,0,0,1
+35,3505,BLITAR,RS Umum Daerah Ngudi Waluyo Wlingi,B,,BLUD,2,0,0,2,2,0,0,2,3,0,0,3,4,2,0,6,2,1,0,3,2,0,0,2,0,1,0,1
+35,3505,BLITAR,RS Umum Daerah Srengat Kab. Blitar,C,,BLUD,1,0,0,1,0,1,1,2,1,1,0,2,2,0,1,3,2,0,0,2,0,1,0,1,1,0,0,1
+35,3506,KEDIRI,RS Umum Daerah Kabupaten Kediri,B,,BLUD,2,0,0,2,2,1,0,3,3,0,1,4,2,2,0,4,3,0,0,3,1,0,0,1,1,1,0,2
+35,3506,KEDIRI,RS Umum Daerah Simpang Lima Gumul Kediri,C,,Non BLU/BLUD,3,0,0,3,1,0,1,2,4,0,0,4,2,0,1,3,2,0,0,2,1,0,0,1,1,0,0,1
+35,3507,MALANG,RS Umum Daerah Kanjuruhan Kepanjen Kab. Malang,B,,BLUD,3,1,0,4,3,0,0,3,4,0,0,4,4,0,0,4,3,0,0,3,3,0,0,3,1,0,0,1
+35,3507,MALANG,RS Umum Daerah Lawang,C,,BLUD,1,1,0,2,2,0,0,2,2,0,0,2,2,0,0,2,1,1,0,2,0,1,0,1,1,0,0,1
+35,3507,MALANG,RS Umum Daerah Ngantang,D,,Non BLU/BLUD,0,1,1,2,0,1,0,1,0,1,0,1,0,1,1,2,0,1,0,1,0,1,0,1,0,1,0,1
+35,3508,LUMAJANG,RS Umum Daerah Dr. Haryoto Kabupaten Lumajang,B,,BLUD,2,1,1,4,2,0,0,2,1,0,2,3,5,1,1,7,1,0,1,2,2,0,1,3,0,2,0,2
+35,3508,LUMAJANG,RS Umum Daerah Pasirian Kabupaten Lumajang,C,,BLUD,2,0,0,2,1,1,1,3,1,1,0,2,1,1,0,2,1,1,0,2,1,0,0,1,1,0,0,1
+35,3509,JEMBER,RS Umum Daerah Dr. Soebandi Jember,B,,BLUD,0,3,2,5,3,1,2,6,3,1,1,5,1,3,2,6,2,0,1,3,1,1,2,4,3,0,0,3
+35,3509,JEMBER,RS Daerah Kalisat Jember,C,,BLUD,0,1,0,1,0,3,0,3,1,1,0,2,0,1,1,2,0,2,0,2,0,1,0,1,1,0,0,1
+35,3509,JEMBER,RS Daerah Balung Jember,C,,BLUD,2,0,0,2,0,2,0,2,0,2,0,2,4,1,0,5,0,1,1,2,0,2,0,2,1,0,0,1
+35,3510,BANYUWANGI,RS Umum Daerah Blambangan,B,,BLUD,1,1,0,2,2,0,1,3,2,0,0,2,0,3,0,3,1,1,0,2,1,0,0,1,1,0,0,1
+35,3510,BANYUWANGI,RS Umum Daerah Genteng,C,,BLUD,2,0,0,2,1,2,0,3,2,0,0,2,1,0,0,1,6,0,0,6,1,0,0,1,1,0,0,1
+35,3511,BONDOWOSO,RS Umum dr. H.Koesnadi Bondowoso,B,,BLUD,1,2,0,3,2,0,0,2,2,1,0,3,3,0,0,3,0,2,0,2,2,0,1,3,1,0,0,1
+35,3512,SITUBONDO,RS Umum Daerah dr. Abdoer Rahem Situbondo,C,,BLUD,1,1,0,2,2,0,0,2,2,0,0,2,1,4,0,5,2,0,0,2,1,0,0,1,1,0,0,1
+35,3512,SITUBONDO,RS Umum Daerah Besuki Kabupaten Situbondo,D,,BLUD,0,0,1,1,0,1,0,1,0,0,1,1,0,1,1,2,0,0,1,1,0,1,0,1,0,0,1,1
+35,3512,SITUBONDO,RS Umum Daerah Asembagus Kabupaten Situbondo,D,,BLUD,0,0,1,1,0,1,0,1,0,0,2,2,0,0,2,2,0,0,2,2,0,1,1,2,0,0,1,1
+35,3513,PROBOLINGGO,RS Umum Daerah Waluyo Jati Kraksaan,B,,BLUD,1,1,0,2,2,1,0,3,3,1,0,4,1,2,1,4,2,2,0,4,2,1,0,3,1,0,1,2
+35,3513,PROBOLINGGO,RS Umum Daerah Tongas,C,,BLUD,2,0,0,2,0,0,1,1,1,2,0,3,2,1,0,3,1,0,0,1,0,1,1,2,0,1,0,1
+35,3514,PASURUAN,RS Umum Daerah Bangil,B,,BLU,1,3,0,4,0,2,0,2,4,1,0,5,3,4,0,7,3,0,0,3,1,3,1,5,1,0,0,1
+35,3514,PASURUAN,RS Umum Daerah Grati,C,,BLUD,1,2,0,3,0,2,0,2,3,0,0,3,3,0,0,3,0,3,0,3,0,2,1,3,0,1,0,1
+35,3515,SIDOARJO,RS Umum Daerah R. T. Notopuro Sidoarjo,A,,BLUD,5,1,1,7,4,0,0,4,1,2,2,5,4,5,0,9,2,5,0,7,5,2,0,7,1,1,0,2
+35,3515,SIDOARJO,RS Umum Daerah Sidoarjo Barat,C,,BLU,2,0,0,2,1,1,0,2,2,0,0,2,2,0,1,3,2,0,0,2,1,0,0,1,1,0,0,1
+35,3516,MOJOKERTO,RS Umum Daerah Sumberglagah,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,1,0,1,2,1,0,0,1,1,0,0,1
+35,3516,MOJOKERTO,RS Umum Daerah Prof. Dr. Soekandar,B,,BLUD,2,1,0,3,2,0,0,2,3,1,0,4,3,1,1,5,2,2,0,4,1,1,0,2,1,1,0,2
+35,3516,MOJOKERTO,RS Umum Daerah Raden Achmad Basoeni,C,,BLUD,2,1,0,3,1,1,0,2,1,1,0,2,1,2,0,3,2,0,0,2,1,0,0,1,1,0,0,1
+35,3517,JOMBANG,RS Umum Daerah Kab. Jombang,B,,BLUD,2,2,0,4,2,2,0,4,1,2,0,3,2,3,0,5,1,3,0,4,1,2,0,3,1,2,0,3
+35,3517,JOMBANG,RS Umum Daerah Ploso,C,,BLUD,1,1,0,2,0,1,1,2,2,0,0,2,0,1,2,3,1,1,1,3,0,1,0,1,0,1,0,1
+35,3518,NGANJUK,RS Umum Daerah Nganjuk,B,,BLUD,1,1,0,2,2,0,0,2,3,0,0,3,4,1,0,5,2,0,0,2,1,0,0,1,1,0,0,1
+35,3518,NGANJUK,RS Daerah Kertosono,C,,BLUD,3,0,0,3,1,2,0,3,1,2,0,3,1,1,0,2,0,2,0,2,0,1,0,1,1,0,0,1
+35,3519,MADIUN,RS Umum Daerah Dungus,C,,BLUD,1,0,0,1,0,2,0,2,1,1,0,2,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1
+35,3519,MADIUN,RS Umum Daerah Caruban,C,,BLUD,3,0,0,3,2,0,0,2,2,1,0,3,3,1,0,4,1,0,1,2,1,0,0,1,1,0,0,1
+35,3519,MADIUN,RS Umum Daerah Dolopo,C,,BLUD,2,0,0,2,1,0,0,1,1,1,0,2,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1
+35,3520,MAGETAN,RS Umum Daerah dr. Sayidiman Magetan,C,,BLUD,3,0,0,3,1,0,1,2,2,1,0,3,1,1,2,4,2,0,0,2,1,1,0,2,2,0,0,2
+35,3521,NGAWI,RS Umum Daerah Dr. Soeroto Ngawi,C,,BLUD,2,0,0,2,1,1,1,3,3,0,1,4,3,0,0,3,1,0,0,1,1,0,0,1,0,0,1,1
+35,3521,NGAWI,RS Umum Daerah Geneng,D,,Non BLU/BLUD,0,0,1,1,0,0,2,2,0,0,1,1,1,0,1,2,0,0,1,1,1,0,0,1,1,0,0,1
+35,3521,NGAWI,RS Umum Daerah Mantingan,D,,BLUD,1,0,0,1,0,0,1,1,1,0,0,1,0,1,1,2,0,0,1,1,0,1,0,1,0,1,1,2
+35,3522,BOJONEGORO,RS Umum Daerah Dr. R. Sosodoro Djatikoesoemo,B,,BLUD,3,0,0,3,3,0,0,3,2,1,0,3,5,0,1,6,3,0,0,3,2,2,0,4,0,2,0,2
+35,3522,BOJONEGORO,RS Umum Daerah Sumberrejo,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,1,0,1,2,2,0,0,2,0,0,1,1,1,0,0,1
+35,3522,BOJONEGORO,RS umum Daerah Padangan,C,,BLUD,1,0,0,1,1,0,1,2,0,1,2,3,2,0,0,2,0,1,1,2,1,0,0,1,1,0,0,1
+35,3522,BOJONEGORO,RS Umum Daerah Kepohbaru,D,,BLUD,1,0,0,1,0,0,1,1,0,0,2,2,1,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1
+35,3522,BOJONEGORO,RSUD TEMAYANG,D,,,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1
+35,3523,TUBAN,RS Umum Daerah Dr. R. Koesma Tuban,B,,BLUD,3,1,0,4,2,1,0,3,3,0,1,4,3,1,0,4,3,1,0,4,2,1,1,4,1,1,0,2
+35,3523,TUBAN,RS Umum Daerah R. Ali Manshur,C,,BLUD,0,2,0,2,0,1,1,2,1,1,1,3,1,1,0,2,0,2,1,3,0,2,0,2,0,0,1,1
+35,3524,LAMONGAN,RS Umum Daerah Dr. Soegiri Lamongan,B,,BLUD,3,0,1,4,1,2,0,3,4,0,0,4,2,1,0,3,2,0,0,2,2,1,0,3,2,0,0,2
+35,3524,LAMONGAN,RS Umum Daerah Ngimbang,C,,Non BLU/BLUD,0,1,0,1,1,0,1,2,0,2,0,2,1,2,1,4,2,0,0,2,0,0,1,1,1,0,0,1
+35,3524,LAMONGAN,RS Umum Daerah Karangkembang,D,,BLUD,0,0,1,1,1,0,1,2,1,0,0,1,0,1,1,2,0,0,1,1,0,0,1,1,0,1,1,2
+35,3524,LAMONGAN,RS Umum Daerah Ki Ageng Brondong,D,,,0,0,1,1,0,0,1,1,0,0,1,1,0,0,2,2,0,0,1,1,0,0,0,0,0,0,1,1
+35,3525,GRESIK,RS Umum Daerah Ibnu Sina Kab. Gresik,B,,BLUD,3,0,0,3,2,0,0,2,1,2,0,3,6,1,0,7,3,0,0,3,2,2,0,4,2,0,0,2
+35,3525,GRESIK,RS Umum Daerah Umar Mas'ud Bawean,D,,BLUD,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+35,3525,GRESIK,RS Umum Daerah Gresik Sehati,C,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,1,1
+35,3526,BANGKALAN,RS Umum Daerah Syarifah Ambami Rato Ebu,B,,BLUD,3,1,0,4,3,0,0,3,2,2,0,4,3,1,0,4,3,1,0,4,1,2,0,3,2,0,0,2
+35,3527,SAMPANG,RS Umum Daerah dr. Mohammad Zyn Kab. Sampang,B,,BLUD,2,1,0,3,2,1,0,3,3,0,0,3,2,0,1,3,0,1,1,2,2,1,0,3,1,0,0,1
+35,3527,SAMPANG,RS Umum Daerah Ketapang,D,,BLUD,1,0,1,2,0,1,0,1,0,0,2,2,0,1,0,1,1,0,1,2,0,1,0,1,0,0,1,1
+35,3528,PAMEKASAN,RS Umum Daerah Dr. H. Slamet Martodirdjo Pamekasan,B,,BLUD,1,1,0,2,4,0,0,4,2,1,0,3,2,2,0,4,2,1,0,3,2,1,0,3,2,0,0,2
+35,3528,PAMEKASAN,RS Umum Daerah Mohammad Noer Pamekasan,C,,Non BLU/BLUD,2,0,0,2,1,1,1,3,2,0,0,2,2,0,0,2,2,0,0,2,1,1,1,3,0,0,1,1
+35,3528,PAMEKASAN,RS Umum Daerah Waru Pamekasan,D,,BLUD,0,0,1,1,1,1,0,2,0,0,1,1,0,0,2,2,0,0,2,2,0,0,1,1,0,0,1,1
+35,3529,SUMENEP,RS Umum Daerah dr. H. Moh. Anwar,B,,BLUD,2,1,0,3,1,0,1,2,3,0,0,3,3,0,2,5,1,0,3,4,1,0,0,1,1,0,0,1
+35,3529,SUMENEP,RS Umum Daerah Abuya Kangean,D,Ya,Non BLU/BLUD,0,0,2,2,0,0,1,1,0,0,6,6,0,0,1,1,0,0,2,2,0,0,1,1,1,0,0,1
+35,3571,KOTA KEDIRI,RS Umum Daerah Gambiran,B,,BLUD,2,1,0,3,1,1,0,2,0,3,0,3,3,2,2,7,3,0,0,3,3,0,0,3,1,1,0,2
+35,3571,KOTA KEDIRI,RS Umum Daha Husada,D,,BLUD,1,1,0,2,1,1,1,3,1,0,0,1,2,0,0,2,1,0,1,2,0,0,1,1,0,1,0,1
+35,3571,KOTA KEDIRI,RS Umum Daerah Kilisuci,C,,Non BLU/BLUD,0,0,1,1,0,0,1,1,2,0,0,2,2,0,0,2,1,0,0,1,0,0,1,1,0,0,1,1
+35,3572,KOTA BLITAR,RS Umum Daerah Mardi Waluyo,B,,BLUD,3,0,0,3,2,0,0,2,3,0,0,3,4,0,0,4,2,0,0,2,2,0,0,2,2,0,0,2
+35,3573,KOTA MALANG,RS Umum Daerah Dr. Saiful Anwar,A,,BLUD,2,3,2,7,0,0,7,7,0,2,1,3,3,1,20,24,4,3,12,19,5,0,0,5,4,0,0,4
+35,3573,KOTA MALANG,RS Umum Daerah Kota Malang,C,,BLUD,3,0,0,3,0,1,0,1,2,0,0,2,3,0,0,3,1,0,0,1,2,0,0,2,1,0,0,1
+35,3574,KOTA PROBOLINGGO,RS Umum Daerah dr. Mohamad Saleh Kota Probolinggo,B,,BLUD,1,0,2,3,1,0,2,3,0,2,1,3,3,1,1,5,2,0,0,2,1,3,0,4,0,1,0,1
+35,3574,KOTA PROBOLINGGO,RS Umum Daerah Ar Rozy,C,,BLUD,1,0,0,1,3,0,0,3,1,0,0,1,2,1,0,3,1,1,0,2,1,0,0,1,1,0,0,1
+35,3575,KOTA PASURUAN,RS Umum Daerah Dr. R. Soedarsono Kota Pasuruan,C,,BLUD,3,0,0,3,1,1,0,2,1,1,0,2,1,2,0,3,1,1,0,2,1,0,0,1,1,0,0,1
+35,3576,KOTA MOJOKERTO,RSUD dr. Wahidin Sudiro Husodo Kota Mojokerto,B,,BLUD,3,0,1,4,3,0,0,3,2,0,1,3,2,0,1,3,2,1,0,3,1,1,0,2,2,0,0,2
+35,3577,KOTA MADIUN,RS Umum Daerah Dr. Soedono Madiun,B,,BLUD,3,0,0,3,3,0,2,5,2,0,1,3,6,0,3,9,3,0,0,3,2,1,1,4,3,0,0,3
+35,3577,KOTA MADIUN,RS Umum Daerah Kota Madiun,C,,BLUD,3,0,0,3,3,0,0,3,2,0,0,2,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1
+35,3578,KOTA SURABAYA,RS Umum Daerah Dr. Soetomo,A,,BLUD,12,5,34,51,5,1,18,24,8,4,37,49,6,8,47,61,18,3,57,78,4,2,15,21,4,2,15,21
+35,3578,KOTA SURABAYA,RS Umum Daerah Bhakti Dharma Husada,B,,BLUD,3,0,0,3,2,0,1,3,4,0,0,4,4,0,1,5,4,0,0,4,2,0,1,3,2,0,1,3
+35,3578,KOTA SURABAYA,RS Umum Daerah Husada Prima,C,,BLUD,2,0,0,2,3,0,0,3,1,0,1,2,1,1,1,3,1,0,1,2,1,0,0,1,1,0,0,1
+35,3578,KOTA SURABAYA,RS Umum Daerah Haji Provinsi Jawa Timur,B,,BLUD,1,1,1,3,3,0,0,3,4,0,0,4,3,2,0,5,5,0,0,5,3,1,0,4,3,1,0,4
+35,3578,KOTA SURABAYA,RS Umum Daerah dr. Mohamad Soewandhie,B,,BLUD,4,0,3,7,3,0,4,7,3,0,1,4,10,0,2,12,2,0,2,4,3,0,2,5,2,0,0,2
+35,3578,KOTA SURABAYA,RS Umum Daerah Eka Candrarini,C,,BLUD,3,0,1,4,2,0,2,4,2,0,1,3,3,0,2,5,3,0,2,5,1,0,2,3,2,0,1,3
+35,3579,KOTA BATU,RS Umum Karsa Husada Kota Batu,B,,BLUD,4,0,0,4,2,0,2,4,3,0,1,4,5,0,1,6,3,0,0,3,1,1,1,3,2,0,1,3
+36,3601,PANDEGLANG,RS Umum Daerah Berkah Pandeglang,B,,BLUD,2,0,0,2,3,2,0,5,3,2,0,5,3,1,0,4,3,0,1,4,0,1,1,2,1,0,0,1
+36,3601,PANDEGLANG,RS Umum Aulia Pandeglang,D,,BLUD,0,0,1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+36,3601,PANDEGLANG,RS Umum Daerah Labuan,C,,BLUD,0,1,1,2,0,2,0,2,0,1,1,2,0,0,2,2,0,2,0,2,0,1,0,1,0,1,1,2
+36,3602,LEBAK,RS Umum Daerah Dr. Adjidarmo,B,,BLUD,1,1,0,2,5,0,0,5,3,0,0,3,2,0,1,3,2,0,0,2,2,0,0,2,2,0,0,2
+36,3602,LEBAK,RS Umum Daerah Malingping,C,,BLUD,0,2,0,2,2,0,1,3,1,1,0,2,2,1,0,3,1,0,2,3,0,0,2,2,1,0,0,1
+36,3602,LEBAK,RS Umum Daerah Cilograng,C,,BLUD,0,1,1,2,0,2,0,2,0,0,2,2,0,1,1,2,0,2,0,2,0,1,0,1,0,0,1,1
+36,3603,TANGERANG,RS Umum Daerah Kabupaten Tangerang,B,,BLUD,6,1,0,7,2,1,0,3,3,1,0,4,4,1,0,5,3,1,0,4,3,3,1,7,3,0,0,3
+36,3603,TANGERANG,RS Umum Daerah Balaraja,B,,BLUD,3,1,0,4,1,3,0,4,5,0,0,5,3,4,0,7,2,3,0,5,1,2,1,4,1,1,0,2
+36,3603,TANGERANG,RS Umum Daerah Pakuhaji,C,,BLUD,1,1,0,2,1,1,0,2,2,0,1,3,0,1,3,4,3,0,0,3,0,0,1,1,1,0,0,1
+36,3603,TANGERANG,RS Umum Daerah Tigaraksa,C,,Non BLU/BLUD,0,1,0,1,2,0,0,2,3,0,0,3,2,0,0,2,2,0,0,2,0,0,1,1,1,0,0,1
+36,3604,SERANG,RS Umum Daerah dr. Drajat Prawiranegara,B,,BLUD,4,0,0,4,3,1,0,4,2,0,1,3,3,0,0,3,1,2,0,3,2,2,0,4,1,0,0,1
+36,3671,KOTA TANGERANG,RS Umum Daerah Kota Tangerang,C,,BLUD,2,1,0,3,4,0,1,5,4,0,0,4,2,2,1,5,4,0,0,4,3,0,0,3,2,0,0,2
+36,3671,KOTA TANGERANG,RSUD BENDA,D,,Non BLU/BLUD,0,1,0,1,1,0,0,1,2,0,0,2,0,1,0,1,1,1,0,2,1,0,0,1,1,0,0,1
+36,3671,KOTA TANGERANG,UPT RSUD Panunggangan Barat,D,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,3672,KOTA CILEGON,RS Umum Daerah Kota Cilegon,B,,BLUD,2,2,0,4,1,2,0,3,2,2,0,4,3,2,0,5,1,1,0,2,3,0,0,3,2,0,0,2
+36,3673,KOTA SERANG,RS Umum Daerah Banten,B,,BLUD,1,0,3,4,3,0,1,4,4,0,1,5,2,2,1,5,4,0,0,4,1,1,1,3,1,1,0,2
+36,3673,KOTA SERANG,RS Umum Daerah Kota Serang,C,,BLUD,2,0,0,2,1,0,1,2,3,0,1,4,1,2,1,4,2,1,0,3,2,0,0,2,1,0,0,1
+36,3674,KOTA TANGERANG SELATAN,RS Umum Daerah Serpong Utara,C,,BLUD,2,0,0,2,1,0,1,2,2,0,0,2,3,0,0,3,2,0,0,2,0,0,1,1,1,1,0,2
+36,3674,KOTA TANGERANG SELATAN,RS Umum Daerah Kota Tangerang Selatan,C,,BLUD,4,0,0,4,2,0,0,2,3,1,0,4,2,1,0,3,3,0,0,3,1,2,0,3,1,0,0,1
+36,3674,KOTA TANGERANG SELATAN,RS Umum Daerah Pondok Aren,C,,Non BLU/BLUD,3,0,0,3,3,0,0,3,1,0,0,1,3,0,0,3,1,0,0,1,0,0,1,1,2,0,0,2
+51,5101,JEMBRANA,RS Umum Negara,C,,BLUD,4,0,0,4,3,1,0,4,3,0,0,3,5,1,0,6,2,0,0,2,3,0,0,3,2,0,0,2
+51,5102,TABANAN,RS Umum Daerah Tabanan,B,,BLUD,4,0,0,4,1,0,2,3,3,0,1,4,2,0,4,6,3,0,1,4,3,0,1,4,1,0,0,1
+51,5102,TABANAN,RS Umum Daerah Singasana,C,,BLU,3,0,1,4,3,0,0,3,3,0,0,3,2,0,1,3,1,0,1,2,1,0,0,1,1,0,0,1
+51,5103,BADUNG,RS Daerah Mangusada,B,,BLUD,7,0,0,7,2,1,0,3,4,0,0,4,5,0,0,5,4,0,0,4,3,0,0,3,3,0,0,3
+51,5103,BADUNG,RSUD Giri Asih,C,,Non BLU/BLUD,2,0,0,2,3,0,0,3,1,0,0,1,3,0,0,3,1,0,0,1,1,0,0,1,2,0,0,2
+51,5103,BADUNG,RSUD Suwiti,D,,Non BLU/BLUD,1,0,0,1,2,0,0,2,0,0,0,0,3,0,0,3,0,0,0,0,1,0,0,1,0,0,0,0
+51,5104,GIANYAR,RS Umum Daerah Sanjiwani Gianyar,B,,BLUD,4,1,0,5,3,1,0,4,3,0,1,4,4,1,1,6,4,0,0,4,2,0,0,2,3,0,0,3
+51,5104,GIANYAR,RS Umum Payangan,C,,BLUD,2,1,0,3,1,1,0,2,3,0,0,3,3,0,1,4,2,0,0,2,1,0,2,3,2,0,0,2
+51,5105,KLUNGKUNG,RS Umum Daerah Klungkung,B,,BLUD,4,0,0,4,3,0,1,4,6,0,1,7,3,1,0,4,3,1,0,4,2,0,0,2,2,0,0,2
+51,5105,KLUNGKUNG,RS Umum Daerah Gema Santi Nusa Penida,D,Ya,BLUD,1,0,0,1,1,0,0,1,0,2,0,2,1,0,0,1,0,1,0,1,0,1,0,1,0,1,0,1
+51,5106,BANGLI,RS Umum Daerah Bangli,B,,BLUD,6,0,0,6,3,2,0,5,4,0,0,4,6,1,0,7,2,1,0,3,1,1,0,2,1,0,0,1
+51,5107,KARANG ASEM,RS Umum Daerah Karangasem,C,,BLUD,3,0,0,3,2,0,1,3,5,0,0,5,3,1,1,5,3,1,0,4,1,1,0,2,1,0,0,1
+51,5108,BULELENG,RS Umum Daerah Kab. Buleleng,B,,BLUD,3,1,0,4,4,0,0,4,5,1,0,6,3,2,0,5,7,0,0,7,2,3,0,5,1,1,0,2
+51,5108,BULELENG,RS Umum Daerah Tangguwisia,D,,Non BLU/BLUD,2,0,0,2,1,0,0,1,1,0,0,1,1,1,0,2,1,0,0,1,1,0,0,1,0,1,0,1
+51,5108,BULELENG,RS Umum Daerah Giri Emas,D,,BLUD,1,0,0,1,2,0,0,2,0,0,1,1,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,1
+51,5171,KOTA DENPASAR,RS Umum Daerah Wangaya,B,,BLUD,3,4,1,8,5,3,0,8,5,2,0,7,4,2,2,8,3,3,1,7,0,2,1,3,2,1,0,3
+51,5171,KOTA DENPASAR,RS Umum Dharma Yadnya,C,,Non BLU/BLUD,0,1,3,4,0,0,4,4,0,0,2,2,2,0,7,9,0,0,7,7,0,1,1,2,0,0,1,1
+51,5171,KOTA DENPASAR,RS Umum Daerah Bali Mandara Provinsi Bali,B,,Non BLU/BLUD,6,0,1,7,4,0,1,5,4,0,1,5,6,0,2,8,4,0,0,4,2,0,2,4,3,0,0,3
+52,5201,LOMBOK BARAT,RS Umum Daerah Patut Patuh Patju,B,,BLUD,0,1,1,2,2,1,0,3,1,2,0,3,2,2,1,5,0,3,0,3,1,0,1,2,1,1,0,2
+52,5201,LOMBOK BARAT,RS Umum Daerah Awet Muda Narmada,C,,BLUD,0,2,0,2,1,1,0,2,1,1,0,2,0,1,2,3,1,1,0,2,1,0,0,1,1,0,0,1
+52,5202,LOMBOK TENGAH,RS Umum Daerah Praya,B,,BLUD,2,0,1,3,2,0,0,2,4,0,0,4,2,0,1,3,3,0,0,3,3,0,0,3,2,0,0,2
+52,5202,LOMBOK TENGAH,RS Mandalika Provinsi Nusa Tenggara Barat,C,,BLUD,0,0,1,1,0,1,1,2,1,1,0,2,0,1,0,1,1,0,0,1,0,1,0,1,0,1,0,1
+52,5203,LOMBOK TIMUR,RS Umum Daerah Dr. R. Soedjono Selong,B,,BLUD,2,0,2,4,2,0,1,3,3,1,1,5,4,0,3,7,3,0,1,4,2,0,0,2,2,0,0,2
+52,5203,LOMBOK TIMUR,RS Umum Daerah Lombok Timur,D,,BLUD,1,0,0,1,2,0,0,2,0,0,1,1,1,0,0,1,2,1,0,3,0,0,1,1,0,0,1,1
+52,5203,LOMBOK TIMUR,RS Umum Daerah Patuh Karya,D,,BLUD,1,0,0,1,0,1,0,1,1,1,0,2,1,0,0,1,0,2,0,2,0,1,0,1,0,1,0,1
+52,5204,SUMBAWA,RS Umum Daerah Sumbawa,C,Ya,BLUD,2,0,0,2,2,0,0,2,1,1,0,2,1,3,0,4,2,0,0,2,2,0,0,2,1,0,0,1
+52,5204,SUMBAWA,RS H. L. Manambai Abdulkadir,B,Ya,BLUD,1,0,1,2,0,2,0,2,2,1,0,3,1,0,1,2,0,1,1,2,0,0,0,0,2,0,0,2
+52,5205,DOMPU,RS Umum Dompu,C,Ya,Non BLU/BLUD,1,0,0,1,1,1,0,2,1,1,0,2,2,0,0,2,0,1,0,1,1,0,0,1,0,0,0,0
+52,5205,DOMPU,RS Umum Daerah Manggelewa,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,0,0,0
+52,5206,BIMA,RS Umum Daerah Bima,C,Ya,BLUD,2,0,0,2,3,0,0,3,2,0,0,2,2,1,0,3,2,0,0,2,0,0,1,1,1,0,0,1
+52,5206,BIMA,RS Umum Daerah Sondosia Kab. Bima,D,Ya,BLUD,0,0,1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,1,1,2,0,0,0,0,0,0,0,0
+52,5207,SUMBAWA BARAT,RS Umum Daerah Asy-Syifa Sumbawa Barat,C,Ya,BLUD,1,0,0,1,0,1,0,1,1,0,0,1,3,0,1,4,1,0,0,1,1,0,0,1,2,0,0,2
+52,5208,LOMBOK UTARA,RS Umum Kab. Lombok Utara,C,Ya,BLUD,1,1,0,2,2,0,0,2,2,1,0,3,1,1,0,2,0,2,0,2,1,0,0,1,1,0,0,1
+52,5271,KOTA MATARAM,RS Umum Daerah Provinsi NTB,A,,BLUD,4,2,0,6,5,2,1,8,5,2,0,7,4,2,0,6,7,0,0,7,4,2,0,6,3,1,0,4
+52,5271,KOTA MATARAM,RS Umum Daerah Kota Mataram,B,,BLUD,4,1,1,6,2,0,0,2,2,0,2,4,3,0,2,5,3,0,1,4,3,0,0,3,2,0,0,2
+52,5272,KOTA BIMA,RS Umum Daerah Kota Bima,D,Ya,BLUD,1,0,1,2,0,0,2,2,1,0,1,2,1,1,0,2,0,0,2,2,2,0,0,2,0,0,1,1
+53,5312,SUMBA BARAT,RS Umum Waikabubak,C,Ya,BLUD,1,1,0,2,0,0,0,0,2,0,0,2,1,1,0,2,0,1,0,1,2,0,0,2,1,0,0,1
+53,5312,SUMBA BARAT,RS Umum Hoba Kalla,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,5311,SUMBA TIMUR,RS Umum Daerah Waingapu,C,Ya,BLUD,1,2,0,3,2,0,0,2,1,1,0,2,1,1,1,3,1,0,0,1,1,0,0,1,1,0,0,1
+53,5311,SUMBA TIMUR,RS Pratama Umbu Hunga Meha Nggongi,D Pratama,,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,5371,KOTA KUPANG,RS Umum Daerah S. K. Lerik,C,,BLUD,3,0,0,3,1,0,1,2,4,0,0,4,2,2,0,4,2,1,0,3,2,0,0,2,1,1,0,2
+53,5371,KOTA KUPANG,RS Umum Prof. Dr. WZ Johanes,B,,BLUD,6,0,0,6,4,0,2,6,4,0,0,4,5,2,1,8,5,0,1,6,4,1,1,6,2,0,0,2
+53,5314,ROTE NDAO,RS Umum Daerah Kabupaten Rote Ndao,C,Ya,Non BLU/BLUD,2,0,0,2,2,0,0,2,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1
+53,5301,KUPANG,RS Umum Daerah Naibonat,C,Ya,BLUD,0,0,2,2,0,0,2,2,1,0,0,1,0,0,0,0,0,0,2,2,1,0,0,1,1,0,0,1
+53,5302,TIMOR TENGAH SELATAN,RS Umum Soe,C,Ya,BLUD,2,0,1,3,2,0,0,2,1,0,1,2,0,0,0,0,1,0,0,1,0,1,0,1,0,0,1,1
+53,5303,TIMOR TENGAH UTARA,RS Umum Daerah Kefamenanu,C,Ya,BLUD,0,1,0,1,0,1,0,1,1,1,0,2,0,2,0,2,0,0,0,0,0,0,1,1,1,0,0,1
+53,5304,BELU,RS Umum Daerah MGR Gabriel Manek,C,Ya,BLUD,1,0,0,1,2,0,0,2,4,0,0,4,1,2,0,3,3,0,0,3,1,0,0,1,0,0,1,1
+53,5321,MALAKA,RS Umum Penyangga Perbatasan Betun,C,Ya,BLUD,1,0,0,1,0,1,1,2,4,0,0,4,0,2,0,2,1,1,0,2,0,0,0,0,1,1,0,2
+53,5305,ALOR,RS Daerah Kalabahi,C,Ya,Non BLU/BLUD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1
+53,5313,LEMBATA,RS Umum Daerah Lewoleba,C,Ya,Non BLU/BLUD,1,0,0,1,0,0,1,1,0,0,3,3,0,0,1,1,0,0,0,0,0,0,1,1,0,0,2,2
+53,5306,FLORES TIMUR,RS Umum Daerah dr. Hendrikus Fernandez Larantuka,C,Ya,BLUD,2,0,0,2,1,0,2,3,1,0,0,1,3,0,0,3,0,0,1,1,2,0,0,2,0,1,0,1
+53,5307,SIKKA,RS Umum Dr TC Hillers Maumere,C,Ya,BLUD,1,1,0,2,2,0,0,2,1,1,0,2,3,0,0,3,0,1,0,1,3,0,0,3,2,0,0,2
+53,5308,ENDE,RS Umum Daerah Ende,C,Ya,BLUD,1,0,0,1,0,2,1,3,1,0,0,1,1,1,0,2,0,2,0,2,1,0,0,1,1,0,0,1
+53,5309,NGADA,RS Umum Bajawa,C,Ya,BLUD,2,0,0,2,1,1,0,2,0,2,0,2,1,1,0,2,0,1,0,1,1,0,0,1,0,1,0,1
+53,5310,MANGGARAI,RS Umum Daerah Ruteng,C,Ya,BLUD,2,0,1,3,1,0,1,2,2,0,1,3,1,0,1,2,1,0,0,1,0,0,1,1,1,0,0,1
+53,5315,MANGGARAI BARAT,RS Umum Daerah Komodo,C,,Non BLU/BLUD,0,0,2,2,1,2,0,3,2,0,1,3,0,0,3,3,0,2,1,3,1,1,1,3,0,0,1,1
+53,5317,SUMBA TENGAH,RS Umum Daerah Waibakul,D,Ya,Non BLU/BLUD,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,1
+53,5318,SUMBA BARAT DAYA,RS Umum Daerah Reda Bolo,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,1
+53,5316,NAGEKEO,RS Umum Daerah Aeramo Kabupaten Nagekeo,C,Ya,BLUD,0,1,0,1,0,1,1,2,0,1,1,2,2,1,0,3,1,1,0,2,0,0,0,0,1,0,0,1
+53,5319,MANGGARAI TIMUR,RS Umum Daerah Borong,C,Ya,Non BLU/BLUD,0,1,1,2,1,1,0,2,1,0,1,2,1,0,2,3,0,0,1,1,0,0,2,2,0,1,0,1
+53,5320,SABU RAIJUA,RS Umum Daerah Sabu Raijua,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1
+61,6101,SAMBAS,RS Umum Daerah Sambas,C,Ya,BLUD,1,1,0,2,1,0,0,1,1,1,1,3,3,1,0,4,2,0,1,3,0,1,0,1,1,0,0,1
+61,6101,SAMBAS,RS Umum Daerah Pemangkat,C,Ya,BLUD,1,1,0,2,2,1,0,3,2,0,0,2,2,1,0,3,1,1,0,2,1,0,0,1,1,0,0,1
+61,6101,SAMBAS,RS Umum Daerah Teluk Keramat,D,Ya,Non BLU/BLUD,1,0,1,2,0,0,0,0,0,1,0,1,1,0,0,1,0,1,1,2,0,0,0,0,0,0,0,0
+61,6107,BENGKAYANG,"RS Umum Daerah Drs. Jacobus Luna, M.Si Kabupaten Bengkayang",C,Ya,BLUD,1,1,0,2,2,0,0,2,1,0,0,1,1,2,0,3,1,1,1,3,1,0,0,1,1,0,0,1
+61,6107,BENGKAYANG,Rumah Sakit Umum Daerah Jagoi Babang Kabupaten Bengkayang,D,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,6108,LANDAK,RS Umum Daerah Kabupaten Landak,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,1,0,0,1,2,0,0,2,1,0,0,1,1,0,1,2
+61,6102,MEMPAWAH,RS Umum Daerah Dr. Rubini Mempawah,C,,BLUD,2,0,0,2,1,0,0,1,1,1,0,2,2,1,0,3,1,0,0,1,1,1,0,2,1,0,0,1
+61,6103,SANGGAU,RS Umum Daerah M. Th. Djaman Sanggau,C,Ya,BLUD,2,1,0,3,3,0,0,3,3,0,0,3,0,2,0,2,1,2,1,4,1,0,0,1,2,0,0,2
+61,6103,SANGGAU,RS Umum Daerah Temenggung Gergaji,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,6104,KETAPANG,RS Umum Daerah Dr. Agoesdjam Ketapang,C,,BLUD,1,0,1,2,1,0,2,3,2,0,0,2,3,0,0,3,1,0,1,2,1,0,0,1,1,0,0,1
+61,6105,SINTANG,RS Umum Daerah Ade Muhammad Djoen Sintang,B,Ya,BLUD,1,2,0,3,2,0,0,2,4,0,0,4,1,3,2,6,2,0,1,3,1,0,0,1,2,0,0,2
+61,6105,SINTANG,RS Umum Daerah Serawai,D,Ya,BLUD,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+61,6106,KAPUAS HULU,RS Umum Daerah dr. Achmad Diponegoro Putussibau,C,Ya,BLUD,2,0,0,2,2,0,0,2,1,0,0,1,1,1,0,2,0,1,0,1,1,0,0,1,0,0,2,2
+61,6106,KAPUAS HULU,RS Umum Daerah Badau,D,Ya,Non BLU/BLUD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,6106,KAPUAS HULU,RS Umum Daerah Semitau,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+61,6109,SEKADAU,RS Umum Daerah Sekadau,C,,BLUD,3,0,0,3,1,0,0,1,1,0,0,1,2,0,0,2,1,0,1,2,1,0,0,1,1,0,0,1
+61,6110,MELAWI,RS Umum Daerah Kabupaten Melawi,C,,BLUD,0,1,1,2,1,0,1,2,1,0,1,2,0,2,0,2,1,0,1,2,0,0,0,0,0,0,0,0
+61,6110,MELAWI,RS Umum Daerah Belimbing,D,,BLUD,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+61,6111,KAYONG UTARA,RS Umum Daerah Sultan Muhammad Jamaludin I,C,,BLUD,1,0,1,2,0,0,1,1,0,0,1,1,0,0,2,2,0,0,1,1,0,0,1,1,0,0,1,1
+61,6112,KUBU RAYA,RS Umum Daerah Tuan Besar Syarif Idrus,C,,BLUD,0,1,0,1,1,0,1,2,0,2,0,2,0,1,0,1,2,0,0,2,1,0,0,1,0,1,0,1
+61,6171,KOTA PONTIANAK,RS Umum Daerah Dr. Soedarso Pontianak,A,,BLUD,4,1,0,5,3,1,0,4,2,1,1,4,3,1,0,4,2,3,0,5,1,2,1,4,4,1,0,5
+61,6171,KOTA PONTIANAK,RS Umum Daerah Sultan Syarif Mohammad Alkadrie,C,,BLUD,4,0,0,4,1,1,0,2,1,1,0,2,1,0,1,2,3,0,0,3,1,1,0,2,2,0,0,2
+61,6171,KOTA PONTIANAK,RS Umum Daerah Pontianak Utara,D,,BLUD,0,0,1,1,1,0,0,1,0,1,1,2,1,0,1,2,1,0,0,1,0,0,2,2,0,0,1,1
+61,6172,KOTA SINGKAWANG,RS Umum Daerah Dr. Abdul Aziz Singkawang,B,,BLUD,2,1,0,3,2,0,0,2,2,1,0,3,3,0,0,3,2,0,1,3,1,0,0,1,1,0,0,1
+62,6201,KOTAWARINGIN BARAT,RS Umum Daerah Sultan Imanuddin,B,,BLUD,2,1,0,3,2,1,0,3,5,0,0,5,4,1,0,5,4,0,0,4,2,1,0,3,2,0,0,2
+62,6202,KOTAWARINGIN TIMUR,RS Umum Daerah Dr Murjani Sampit,B,,BLUD,5,0,0,5,2,0,0,2,4,0,0,4,3,1,0,4,3,0,0,3,0,2,0,2,3,0,0,3
+62,6203,KAPUAS,RS Umum Daerah Dr. H. Soemarno Sosroaatmojo,C,,BLUD,0,0,2,2,1,0,1,2,2,0,0,2,3,0,0,3,1,0,1,2,2,0,0,2,1,0,2,3
+62,6204,BARITO SELATAN,RS Umum Daerah Jaraga Sasameh,C,,BLUD,1,0,0,1,1,0,0,1,0,0,1,1,2,0,0,2,1,0,0,1,0,0,9,9,1,1,0,2
+62,6205,BARITO UTARA,RS Umum Daerah Muara Teweh,C,,BLUD,1,0,0,1,2,0,0,2,2,0,0,2,1,1,0,2,0,1,0,1,0,0,0,0,0,0,1,1
+62,6209,LAMANDAU,RS Umum Daerah Gusti Abdul Gani,C,,BLUD,2,0,0,2,2,0,0,2,1,0,0,1,0,0,1,1,1,0,1,2,1,0,0,1,1,0,0,1
+62,6208,SUKAMARA,RS Umum Daerah Nawawi Mahmuda,C,,BLUD,2,0,0,2,1,0,1,2,0,0,0,0,2,0,0,2,2,0,0,2,1,0,0,1,0,0,1,1
+62,6207,SERUYAN,RS Umum Daerah Hanau,C,,BLUD,1,1,0,2,0,0,1,1,0,1,0,1,1,2,0,3,1,1,0,2,0,1,0,1,1,0,0,1
+62,6207,SERUYAN,RS Umum Daerah Kuala Pembuang,C,,BLUD,1,0,0,1,0,0,1,1,0,0,1,1,1,0,1,2,0,0,0,0,0,0,1,1,1,0,0,1
+62,6206,KATINGAN,RS Umum Daerah Mas Amsyar Kasongan,C,,BLUD,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1
+62,6211,PULANG PISAU,RS Umum Daerah Pulang Pisau,C,,BLUD,1,0,0,1,2,0,0,2,2,0,0,2,1,0,1,2,0,0,1,1,1,0,0,1,0,1,0,1
+62,6210,GUNUNG MAS,RS Umum Daerah Kuala Kurun,C,,BLUD,1,0,1,2,1,0,1,2,1,0,1,2,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1
+62,6213,BARITO TIMUR,RS Umum Daerah Tamiang Layang,C,,BLUD,1,0,0,1,2,0,0,2,2,0,0,2,0,1,0,1,1,0,0,1,1,0,0,1,1,0,0,1
+62,6212,MURUNG RAYA,RS Umum Daerah Puruk Cahu,C,,BLUD,2,0,0,2,2,0,0,2,0,0,1,1,1,0,0,1,1,1,0,2,1,0,0,1,1,0,0,1
+62,6271,KOTA PALANGKA RAYA,RS Umum Daerah Dr. Doris Sylvanus Palangka Raya,B,,BLUD,4,2,1,7,2,0,1,3,5,1,2,8,5,2,2,9,7,0,0,7,4,0,0,4,2,0,0,2
+62,6271,KOTA PALANGKA RAYA,RS Umum Daerah Palangka Raya,C,,BLUD,2,0,0,2,1,0,0,1,2,0,0,2,1,0,0,1,1,0,0,1,2,0,0,2,1,0,0,1
+63,6301,TANAH LAUT,RS Umum Daerah H. Boejasin Pelaihari,C,,BLUD,3,0,0,3,3,0,0,3,4,0,0,4,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1
+63,6301,TANAH LAUT,RS Umum Daerah KH. Mansyur,D,,BLUD,0,1,0,1,0,1,0,1,1,1,0,2,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1
+63,6301,TANAH LAUT,RS Umum Daerah Haji Darlan Ismail Bumi Makmur Tanah Laut,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+63,6302,KOTA BARU,RS Umum Daerah Pangeran Jaya Sumitra,C,,BLUD,2,0,0,2,0,0,1,1,1,0,1,2,1,0,1,2,2,0,0,2,2,0,0,2,2,0,0,2
+63,6302,KOTA BARU,RS Umum Daerah Sengayam,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,1,0,1,1,0,1,2,0,0,1,1,1,0,0,1,1,0,0,1
+63,6303,BANJAR,RS Umum Daerah Ratu Zalecha,B,,BLUD,4,1,0,5,2,0,0,2,3,0,0,3,3,2,0,5,2,1,0,3,1,0,0,1,1,1,0,2
+63,6304,BARITO KUALA,RS Umum Daerah H. Abdul Aziz Marabahan,C,,BLUD,2,0,0,2,1,0,1,2,1,1,0,2,1,1,1,3,1,0,1,2,1,1,0,2,1,0,0,1
+63,6305,TAPIN,RS Umum Daerah Datu Sanggul Rantau,C,,BLUD,1,0,1,2,2,0,0,2,2,0,1,3,3,0,0,3,2,0,0,2,1,0,0,1,1,0,0,1
+63,6306,HULU SUNGAI SELATAN,RS Umum Daerah Brigjed H. Hasan Basry Kandangan,B,,BLUD,2,0,0,2,1,1,0,2,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1,2,0,0,2
+63,6306,HULU SUNGAI SELATAN,RS Umum Daerah Daha Sejahtera,D,,BLUD,0,1,0,1,1,0,0,1,2,0,0,2,1,0,0,1,0,1,0,1,1,0,0,1,0,1,0,1
+63,6307,HULU SUNGAI TENGAH,RS Umum Daerah H Damanhuri Barabai,C,,BLUD,2,1,0,3,1,2,0,3,2,0,1,3,3,1,0,4,0,1,0,1,1,2,0,3,1,1,0,2
+63,6308,HULU SUNGAI UTARA,RS Umum Daerah Pambalah Batung,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,2,1,0,3,2,0,0,2,1,0,0,1,1,0,0,1
+63,6309,TABALONG,RS Umum Daerah H. Badaruddin Kasim,C,,BLUD,2,2,0,4,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1
+63,6310,TANAH BUMBU,RS Umum Daerah dr. H. Andi Abdurrahman Noor,B,,BLUD,2,0,0,2,1,1,1,3,3,1,0,4,2,0,0,2,1,0,1,2,1,0,0,1,1,0,0,1
+63,6311,BALANGAN,RS Umum Daerah Datu Kandang Haji,C,,BLUD,2,0,0,2,1,0,1,2,1,0,1,2,2,0,0,2,1,0,1,2,1,0,0,1,1,0,0,1
+63,6371,KOTA BANJARMASIN,RS Umum Daerah Ulin Banjarmasin,A,,BLUD,7,1,3,11,0,2,0,2,3,1,0,4,8,2,1,11,6,0,0,6,5,2,1,8,6,0,0,6
+63,6371,KOTA BANJARMASIN,RS Umum Daerah Dr. H. Moch. Ansari Saleh,B,,BLUD,2,0,1,3,3,0,0,3,4,0,0,4,4,1,1,6,1,1,0,2,1,1,0,2,1,0,0,1
+63,6371,KOTA BANJARMASIN,RS Umum Daerah Sultan Suriansyah Banjarmasin,C,,BLUD,2,0,0,2,2,1,0,3,1,0,0,1,2,2,1,5,1,1,2,4,2,0,0,2,1,0,0,1
+63,6372,KOTA BANJAR BARU,RSD Idaman Kota Banjarbaru,C,,BLUD,3,1,0,4,2,1,0,3,5,1,0,6,3,0,0,3,2,1,0,3,1,1,0,2,2,0,0,2
+64,6401,PASER,RS Umum Daerah Panglima Sebaya,B,,BLUD,3,0,0,3,4,0,0,4,4,0,0,4,3,1,0,4,4,1,0,5,1,0,0,1,2,0,0,2
+64,6401,PASER,RS Umum Daerah Kerang,D,,BLUD,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+64,6407,KUTAI BARAT,RS Umum Daerah Harapan Insan Sendawar,C,,BLUD,1,0,0,1,1,0,1,2,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1,3,0,0,3
+64,6407,KUTAI BARAT,RS Umum Daerah Mangku Jaya Linggang,D,,BLUD,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,1
+64,6402,KUTAI KARTANEGARA,RS Umum Daerah Aji Muhammad Parikesit,B,,BLUD,2,2,0,4,2,0,0,2,4,1,0,5,4,1,1,6,1,1,2,4,1,1,0,2,3,0,0,3
+64,6402,KUTAI KARTANEGARA,RS Umum Daerah Dayaku Raja,D,,BLUD,0,2,0,2,1,0,0,1,0,0,1,1,1,0,0,1,2,1,0,3,0,0,1,1,0,0,2,2
+64,6402,KUTAI KARTANEGARA,RS Umum Daerah Aji Batara Agung Dewa Sakti,C,,BLUD,2,0,0,2,1,0,1,2,1,1,0,2,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1
+64,6402,KUTAI KARTANEGARA,RS Umum Daerah Aji Muhammad Idris,D,,,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+64,6408,KUTAI TIMUR,RS Umum Daerah Kudungga,B,,BLUD,2,0,0,2,3,0,0,3,2,0,0,2,4,0,0,4,3,0,0,3,2,0,0,2,2,0,0,2
+64,6408,KUTAI TIMUR,RS Umum Daerah Sangkulirang,D,,BLUD,0,0,2,2,2,0,0,2,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1
+64,6408,KUTAI TIMUR,RS Umum Daerah Muara Bengkal,D,,Non BLU/BLUD,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,1,1,0,2,0,1,0,1,0,1,0,1
+64,6403,BERAU,RS Umum Daerah Dr. Abdul Rivai,C,Ya,BLUD,3,1,0,4,2,1,0,3,2,1,0,3,3,1,0,4,2,0,0,2,2,0,0,2,2,0,0,2
+64,6403,BERAU,RS Umum Daerah Talisayan,D,Ya,Non BLU/BLUD,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,6409,PENAJAM PASER UTARA,RS Umum Daerah Ratu Aji Putri Botung,C,,BLUD,2,0,0,2,2,0,0,2,3,0,0,3,1,0,0,1,1,0,0,1,2,0,0,2,2,0,0,2
+64,6409,PENAJAM PASER UTARA,RS Umum Daerah Sepaku Tipe D,D,,Non BLU/BLUD,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+64,6411,MAHAKAM HULU,RS Gerbang Sehat Mahulu,D,Ya,Non BLU/BLUD,0,1,0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,1
+64,6471,KOTA BALIKPAPAN,RS Umum Daerah Dr. Kanujoso Djatiwibowo,A,,BLUD,2,4,0,6,1,1,0,2,3,1,0,4,5,0,0,5,4,2,0,6,3,0,0,3,3,0,0,3
+64,6471,KOTA BALIKPAPAN,RS Umum Daerah Beriman,C,,BLUD,2,0,0,2,1,0,2,3,2,0,1,3,2,0,2,4,1,0,1,2,1,0,0,1,1,0,0,1
+64,6472,KOTA SAMARINDA,RS Umum Daerah Abdul Wahab Sjahranie,A,,BLUD,6,0,2,8,2,0,2,4,4,0,2,6,7,0,2,9,5,1,3,9,3,1,3,7,5,0,0,5
+64,6472,KOTA SAMARINDA,RS Umum Daerah Inche Abdoel Moeis,C,,BLUD,4,1,0,5,2,0,1,3,4,1,0,5,5,0,0,5,4,0,1,5,2,0,0,2,2,0,0,2
+64,6472,KOTA SAMARINDA,RS Umum Daerah Aji Muhammad Salehuddin II,D,,BLUD,1,0,1,2,1,0,1,2,0,1,0,1,1,0,2,3,0,0,0,0,0,1,0,1,0,0,1,1
+64,6474,KOTA BONTANG,RS Umum Daerah Taman Husada Bontang,B,,BLUD,3,0,0,3,2,0,0,2,1,2,0,3,3,0,0,3,2,1,0,3,2,0,1,3,3,0,0,3
+65,6501,BULUNGAN,RS Umum Daerah Dr.H Soemarno Sosroatmodjo,C,Ya,BLUD,4,0,0,4,3,0,0,3,2,0,0,2,2,1,0,3,1,0,0,1,1,0,0,1,2,0,0,2
+65,6502,MALINAU,RS Umum Daerah Kabupaten Malinau,C,Ya,BLUD,1,0,0,1,2,0,0,2,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1
+65,6503,NUNUKAN,RS Umum Daerah Kabupaten Nunukan,C,Ya,BLUD,2,0,0,2,3,1,0,4,4,0,0,4,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1
+65,6503,NUNUKAN,RS Umum Sebatik,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1
+65,6571,KOTA TARAKAN,RS Umum Daerah dr.H. Jusuf SK,B,,BLUD,5,2,0,7,2,1,1,4,3,0,0,3,2,3,0,5,2,1,1,4,1,1,0,2,1,0,0,1
+65,6571,KOTA TARAKAN,RS Umum Kota Tarakan,C,,BLUD,2,0,0,2,0,1,2,3,1,0,1,2,1,0,1,2,1,2,2,5,1,0,0,1,1,0,0,1
+65,6504,TANA TIDUNG,RS Umum Daerah Akhmad Berahim,C,Ya,BLUD,0,0,1,1,0,0,1,1,1,0,0,1,1,0,0,1,0,1,0,1,1,0,0,1,0,0,1,1
+71,7101,BOLAANG MONGONDOW,RS Umum Datoe Binangkang,C,Ya,Non BLU/BLUD,1,0,0,1,1,0,0,1,1,0,0,1,3,0,0,3,1,0,1,2,1,0,0,1,1,0,0,1
+71,7101,BOLAANG MONGONDOW,UPTD RSUD TIPE D PRATAMA DUMOGA,D,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,7102,MINAHASA,RS Umum Daerah Dr. Sam Ratulangi Tondano,C,,BLUD,1,0,2,3,1,0,1,2,1,0,2,3,1,2,1,4,1,1,1,3,0,1,0,1,1,0,0,1
+71,7102,MINAHASA,RS Umum Noongan,C,,Non BLU/BLUD,1,0,1,2,0,1,1,2,0,0,1,1,3,0,1,4,0,1,1,2,1,0,1,2,0,0,1,1
+71,7103,KEPULAUAN SANGIHE,RS Daerah Liun Kendage,C,Ya,BLUD,3,0,0,3,1,0,0,1,2,1,0,3,3,1,0,4,1,1,0,2,1,0,0,1,2,0,0,2
+71,7103,KEPULAUAN SANGIHE,RS Umum Liung Paduli,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+71,7109,SIAU TAGULANDANG BIARO,RS Umum Daerah Lapangan Sawang Kab. Sitaro,C,Ya,Non BLU/BLUD,2,0,0,2,1,0,0,1,1,0,1,2,2,0,0,2,0,0,1,1,1,0,0,1,1,0,0,1
+71,7109,SIAU TAGULANDANG BIARO,RS Umum Daerah Tagulandang,C,Ya,Non BLU/BLUD,0,0,1,1,0,0,1,1,2,0,0,2,1,0,1,2,0,0,1,1,0,0,1,1,0,0,1,1
+71,7104,KEPULAUAN TALAUD,RS Bergerak Kab.Kep.Talaud,D,Ya,Non BLU/BLUD,1,0,0,1,1,0,0,1,0,0,1,1,0,0,2,2,1,0,0,1,0,0,0,0,0,0,0,0
+71,7104,KEPULAUAN TALAUD,RS Umum Daerah Talaud,C,Ya,Non BLU/BLUD,1,0,0,1,2,0,0,2,1,0,0,1,1,0,1,2,1,0,0,1,1,0,0,1,1,0,0,1
+71,7105,MINAHASA SELATAN,RS Umum Daerah Amurang,C,Ya,Non BLU/BLUD,0,0,1,1,1,0,0,1,0,0,2,2,1,0,2,3,0,0,1,1,0,0,0,0,1,0,0,1
+71,7106,MINAHASA UTARA,RS Umum Daerah Maria Walanda Maramis,C,,BLUD,3,0,0,3,1,0,1,2,1,0,1,2,0,2,4,6,2,0,2,4,1,0,0,1,2,0,0,2
+71,7108,BOLAANG MONGONDOW UTARA,RS Umum Daerah Bolaang Mongondow Utara,D,Ya,Non BLU/BLUD,1,1,0,2,0,1,1,2,1,1,0,2,1,1,0,2,0,1,0,1,0,1,0,1,0,1,0,1
+71,7108,BOLAANG MONGONDOW UTARA,RS Umum Daerah Bintauna,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+71,7107,MINAHASA TENGGARA,RS Umum Daerah Mitra Sehat,D,,Non BLU/BLUD,0,0,1,1,2,0,0,2,0,0,1,1,1,0,1,2,1,0,0,1,0,0,1,1,1,0,1,2
+71,7111,BOLAANG MONGONDOW SELATAN,RS Umum Daerah Bolaang Mongondow Selatan,C,,Non BLU/BLUD,2,0,0,2,0,0,1,1,0,0,1,1,1,0,1,2,0,0,1,1,0,0,1,1,0,0,1,1
+71,7110,BOLAANG MONGONDOW TIMUR,RS Umum Daerah Bolaang Mongondow Timur,D,,Non BLU/BLUD,1,0,1,2,0,0,2,2,0,0,1,1,1,0,1,2,0,0,2,2,0,0,0,0,0,0,1,1
+71,7171,KOTA MANADO,RS Umum Daerah ODSK,B,,Non BLU/BLUD,5,1,1,7,1,1,1,3,4,0,1,5,2,0,5,7,0,0,4,4,0,0,4,4,1,0,1,2
+71,7171,KOTA MANADO,RS Umum Daerah Kota Manado,C,,Non BLU/BLUD,3,0,1,4,1,0,0,1,0,0,3,3,1,0,2,3,0,0,3,3,0,1,0,1,1,0,0,1
+71,7172,KOTA BITUNG,RS Umum Daerah Manembo-Nembo Bitung,C,,Non BLU/BLUD,3,0,0,3,1,0,2,3,2,0,1,3,3,0,4,7,0,0,1,1,0,0,1,1,1,0,0,1
+71,7172,KOTA BITUNG,RS Umum Daerah Kota Bitung,D,,Non BLU/BLUD,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+71,7173,KOTA TOMOHON,RS Umum Daerah Anugerah,C,,BLUD,2,1,0,3,0,1,2,3,0,0,1,1,1,0,2,3,2,0,1,3,0,1,1,2,0,0,1,1
+71,7174,KOTA KOTAMOBAGU,RS Umum Daerah Kota Kotamobagu,C,,BLUD,0,1,1,2,1,1,0,2,1,0,1,2,3,0,1,4,1,0,0,1,1,0,1,2,1,0,0,1
+72,7211,BANGGAI LAUT,RS Umum Daerah Banggai,C,Ya,BLUD,0,0,1,1,1,0,2,3,0,1,1,2,1,0,3,4,0,0,1,1,1,0,0,1,1,0,0,1
+72,7207,BANGGAI KEPULAUAN,RS Umum Daerah Trikora Salakan,C,,BLUD,0,0,2,2,1,0,1,2,0,0,2,2,0,0,2,2,0,0,1,1,1,0,0,1,1,0,0,1
+72,7201,BANGGAI,RS Umum Daerah Luwuk,B,,BLUD,1,0,1,2,1,1,0,2,2,0,2,4,2,0,2,4,0,1,2,3,2,0,0,2,3,0,0,3
+72,7201,BANGGAI,Rumah Sakit Umum Daerah dr. Abdul Chalik Masulili Pagimana,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+72,7206,MOROWALI,RS Umum Daerah Morowali,C,,BLUD,3,0,0,3,3,1,0,4,2,1,0,3,2,0,1,3,1,0,1,2,2,0,0,2,1,0,0,1
+72,7206,MOROWALI,RS Umum Daerah Salabangkapaku,D,,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+72,7202,POSO,RS Umum Daerah Poso,C,,BLUD,0,0,1,1,2,0,1,3,0,0,1,1,1,0,2,3,1,0,0,1,1,0,0,1,1,0,0,1
+72,7212,MOROWALI UTARA,RS Umum Daerah Kolonodale,C,,BLUD,1,0,1,2,0,0,2,2,1,0,1,2,3,0,0,3,0,0,2,2,1,0,0,1,0,0,1,1
+72,7203,DONGGALA,RS Umum Daerah Kabelota,C,Ya,BLUD,2,0,0,2,0,0,2,2,1,1,0,2,1,0,0,1,0,0,1,1,0,1,1,2,0,1,0,1
+72,7203,DONGGALA,RS Umum Daerah Pendau Tambu Kab Donggala,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+72,7204,TOLI-TOLI,RS Umum Mokopido Toli-Toli,C,Ya,BLUD,2,0,0,2,0,1,0,1,1,0,1,2,2,1,1,4,0,1,0,1,1,0,0,1,1,0,0,1
+72,7204,TOLI-TOLI,RS Umum Hj. Zubaeda Bantilan,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,7205,BUOL,RS Umum Daerah Mokoyurli Buol,C,Ya,BLUD,1,0,0,1,0,2,0,2,1,1,1,3,2,0,0,2,1,0,0,1,0,1,0,1,0,1,0,1
+72,7208,PARIGI MOUTONG,RS Umum Daerah Anuntaloko Parigi,B,,BLUD,1,2,0,3,1,0,0,1,2,0,0,2,2,0,1,3,1,1,0,2,2,0,0,2,1,1,0,2
+72,7208,PARIGI MOUTONG,RS Umum Daerah Raja Tombolotutu,C,,BLUD,0,0,1,1,0,1,0,1,0,0,0,0,0,0,2,2,0,0,1,1,0,0,1,1,0,0,1,1
+72,7208,PARIGI MOUTONG,RS Umum Daerah Buluye Napoae Moutong,D,,Non BLU/BLUD,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1
+72,7209,TOJO UNA-UNA,RS Umum Daerah Wakai,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,1,1
+72,7209,TOJO UNA-UNA,RS Umum Daerah Ampana,C,Ya,BLUD,1,0,1,2,1,0,1,2,1,0,0,1,2,0,0,2,1,0,0,1,1,0,0,1,1,1,0,2
+72,7210,SIGI,RS Umum Daerah Tora Belo,C,Ya,BLUD,0,2,0,2,0,2,0,2,0,3,0,3,1,1,2,4,0,2,0,2,0,1,0,1,1,0,1,2
+72,7271,KOTA PALU,RS Umum Daerah Undata Provinsi Sulawesi Tengah,B,,BLUD,4,0,0,4,3,1,0,4,3,1,0,4,5,0,0,5,3,2,0,5,2,0,1,3,1,1,1,3
+72,7271,KOTA PALU,RS Umum Anutapura Palu,B,,BLUD,3,1,0,4,1,0,1,2,3,1,0,4,3,0,0,3,2,1,0,3,4,0,0,4,2,0,1,3
+72,7271,KOTA PALU,RS Umum Daerah Madani Palu,C,,BLUD,1,1,0,2,2,0,0,2,1,0,0,1,3,0,0,3,1,0,0,1,0,1,0,1,1,0,0,1
+73,7301,KEPULAUAN SELAYAR,RS Umum Daerah KH. Hayyung Kepulauan Selayar,C,Ya,BLUD,0,1,0,1,1,0,0,1,1,1,0,2,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1
+73,7301,KEPULAUAN SELAYAR,Rumah Sakit Pratama Bonerate,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,7302,BULUKUMBA,RS Umum Daerah H.A. Sulthan Daeng Radja,B,,BLUD,3,0,0,3,3,0,0,3,2,0,1,3,2,1,0,3,2,0,0,2,2,0,0,2,2,0,0,2
+73,7302,BULUKUMBA,RSUD H. Andi Makkarodda,D,,Non BLU/BLUD,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,1
+73,7303,BANTAENG,RS Umum Daerah Prof. Dr. H. Anwar Makkatutu,B,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,2,0,0,2,3,0,0,3,1,0,0,1,2,0,0,2
+73,7303,BANTAENG,RS Umum Daerah Banyorang,D,,BLUD,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+73,7304,JENEPONTO,RS Umum Daerah Lanto Daeng Pasewang,B,,Non BLU/BLUD,2,1,0,3,2,0,0,2,1,0,0,1,1,0,1,2,1,1,0,2,1,0,0,1,1,1,0,2
+73,7304,JENEPONTO,RS Umum Daerah Rumbia,D,,Non BLU/BLUD,1,0,1,2,1,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+73,7305,TAKALAR,RS Umum Daerah H. Padjonga Dg. Ngalle Takalar,C,,BLUD,4,0,0,4,2,1,0,3,2,0,0,2,3,0,1,4,3,0,0,3,3,0,0,3,3,0,0,3
+73,7305,TAKALAR,RS Umum Daerah Galesong Kabupaten Takalar,C,,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0
+73,7306,GOWA,RS Umum Daerah Syehk Yusuf Gowa,B,,Non BLU/BLUD,2,0,0,2,4,0,1,5,4,0,0,4,5,0,0,5,3,0,0,3,2,0,0,2,1,0,0,1
+73,7307,SINJAI,RS Umum Daerah Kabupaten Sinjai,C,,BLUD,2,0,0,2,2,0,0,2,1,1,1,3,2,1,1,4,3,0,0,3,2,0,0,2,2,0,0,2
+73,7308,BONE,RS Umum Daerah Tenriawaru Bone,B,,BLUD,1,2,0,3,3,0,0,3,2,2,0,4,1,4,0,5,1,2,0,3,2,0,0,2,1,0,0,1
+73,7308,BONE,RS Umum Daerah Datu Pancaitana,C,,Non BLU/BLUD,0,2,0,2,1,1,1,3,1,0,0,1,2,1,0,3,0,1,1,2,0,1,0,1,1,1,0,2
+73,7308,BONE,RS Umum Daerah La Mappapenning,C,,BLUD,1,0,0,1,0,2,0,2,1,1,1,3,0,0,2,2,0,1,2,3,0,1,0,1,0,2,0,2
+73,7309,MAROS,RS Umum Daerah dr. La Palaloi,C,,BLUD,2,0,0,2,2,0,0,2,2,0,0,2,2,0,1,3,2,0,0,2,3,0,0,3,1,1,0,2
+73,7309,MAROS,Rumah Sakit Umum Daerah Camba,D,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,7310,PANGKAJENE DAN KEPULAUAN,RS Umum Batara Siang,C,,BLUD,2,0,0,2,3,0,0,3,2,1,0,3,3,0,0,3,1,1,0,2,1,0,0,1,2,0,0,2
+73,7310,PANGKAJENE DAN KEPULAUAN,RS Umum Daerah Batiling,D,Ya,BLU,1,0,0,1,1,0,0,1,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0
+73,7311,BARRU,RS Umum Daerah La Patarai,C,,BLUD,3,0,0,3,2,1,0,3,2,0,0,2,1,1,0,2,1,0,0,1,1,0,0,1,1,0,0,1
+73,7312,SOPPENG,RS Umum Daerah Latemmamala Soppeng,B,,BLUD,2,0,0,2,4,0,0,4,2,0,0,2,4,0,0,4,1,0,0,1,2,0,0,2,1,1,0,2
+73,7313,WAJO,RS Umum Daerah Lamaddukkelleng Kabupaten Wajo,C,,BLUD,2,0,0,2,3,0,0,3,3,0,0,3,3,0,0,3,2,0,0,2,2,0,0,2,1,0,0,1
+73,7313,WAJO,RS Umum Daerah Siwa,C,,BLUD,1,0,0,1,0,1,2,3,0,1,1,2,1,0,1,2,1,0,0,1,0,0,1,1,0,1,0,1
+73,7314,SIDENRENG RAPPANG,RS Umum Daerah Nene Mallomo,C,,BLUD,2,0,0,2,1,0,1,2,2,0,0,2,3,0,0,3,0,0,0,0,1,0,0,1,1,0,0,1
+73,7314,SIDENRENG RAPPANG,RS Umum Daerah Arifin Numang,C,,BLUD,1,0,0,1,2,0,0,2,1,0,0,1,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1
+73,7314,SIDENRENG RAPPANG,RSUD Dua Pitue,D,,Non BLU/BLUD,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,7315,PINRANG,RS Umum Daerah Lasinrang Pinrang,C,,BLUD,1,0,0,1,2,0,1,3,4,0,0,4,4,0,0,4,2,0,0,2,0,0,0,0,2,0,0,2
+73,7315,PINRANG,RS Umum Daerah Madising,D,,BLUD,0,1,1,2,1,1,0,2,1,0,0,1,1,1,1,3,0,1,0,1,1,0,0,1,0,0,0,0
+73,7316,ENREKANG,RS Umum Daerah Massenrempulu Enrekang,C,,BLUD,1,0,0,1,1,0,1,2,1,0,0,1,4,0,0,4,2,0,0,2,2,0,0,2,1,0,0,1
+73,7322,LUWU UTARA,RS Umum Daerah Andi Djemma Masamba,C,,BLUD,2,0,0,2,3,0,0,3,3,0,0,3,2,0,0,2,2,0,0,2,3,0,0,3,2,0,0,2
+73,7317,LUWU,RS Umum Daerah Batara Guru,C,,BLUD,2,0,0,2,2,1,2,5,2,0,0,2,3,1,0,4,2,0,0,2,2,0,0,2,1,0,0,1
+73,7318,TANA TORAJA,RS Umum Daerah Lakipadada,C,,BLUD,2,0,0,2,3,0,0,3,4,0,0,4,2,0,2,4,2,0,0,2,1,0,0,1,2,0,0,2
+73,7324,LUWU TIMUR,RS Umum Daerah I Lagaligo,C,,BLUD,2,1,0,3,2,0,1,3,2,1,0,3,5,0,0,5,1,1,0,2,2,0,0,2,1,0,0,1
+73,7326,TORAJA UTARA,RS Umum Daerah Pongtiku,D,,Non BLU/BLUD,0,0,1,1,1,0,2,3,1,0,0,1,2,0,0,2,0,0,1,1,1,0,0,1,0,0,1,1
+73,7371,KOTA MAKASSAR,RS Umum Daerah Sayang Rakyat,C,,Non BLU/BLUD,1,0,1,2,1,0,1,2,3,0,1,4,3,0,0,3,1,0,0,1,1,0,0,1,3,0,0,3
+73,7371,KOTA MAKASSAR,RS Umum Daerah Labuang Baji,B,,BLUD,1,2,0,3,1,1,1,3,1,0,1,2,3,0,0,3,1,0,0,1,1,0,0,1,2,0,0,2
+73,7371,KOTA MAKASSAR,RS Umum Daerah Haji Makassar,B,,BLUD,1,0,0,1,1,0,1,2,4,0,0,4,0,1,3,4,1,1,0,2,2,0,1,3,4,0,0,4
+73,7371,KOTA MAKASSAR,RS Umum Daerah Daya Kota Makassar,B,,BLUD,4,0,0,4,3,0,1,4,6,0,0,6,5,0,0,5,2,0,0,2,2,0,1,3,3,0,0,3
+73,7372,KOTA PAREPARE,RS Umum Daerah Andi Makkasau Parepare,B,,BLUD,2,1,0,3,2,2,0,4,2,1,0,3,2,0,2,4,2,1,0,3,2,0,2,4,1,1,0,2
+73,7372,KOTA PAREPARE,RS Dr. Hasri Ainun Habibie Parepare,B,,BLUD,2,0,1,3,2,0,0,2,1,0,2,3,1,0,2,3,1,0,1,2,1,0,0,1,1,0,0,1
+73,7373,KOTA PALOPO,RS Dokter Palemmai Tandi,C,,BLUD,1,0,1,2,2,0,0,2,3,0,0,3,1,2,0,3,2,0,0,2,1,0,2,3,0,0,1,1
+73,7373,KOTA PALOPO,RS Umum Daerah Sawerigading,B,,BLUD,2,0,0,2,3,0,0,3,3,1,0,4,3,2,0,5,2,1,0,3,2,1,0,3,1,0,0,1
+74,7410,BUTON UTARA,RS Umum Daerah Kabupaten Buton Utara,C,,Non BLU/BLUD,1,0,0,1,1,0,0,1,1,0,0,1,0,0,1,1,2,0,0,2,0,0,1,1,0,0,1,1
+74,7404,BUTON,RS Umum Daerah Kabupaten Buton,C,,BLUD,2,0,0,2,1,0,0,1,2,0,0,2,0,0,0,0,0,0,1,1,2,0,0,2,0,0,0,0
+74,7415,BUTON SELATAN,RS Umum Daerah Kabupaten Buton Selatan,C,Ya,Non BLU/BLUD,1,0,3,4,0,0,2,2,0,0,1,1,2,0,0,2,0,0,1,1,0,0,1,1,1,0,0,1
+74,7403,MUNA,"RS Umum Daerah dr. L.M Baharuddin, M. Kes Kab. Muna",C,,BLUD,2,0,0,2,0,0,0,0,3,0,0,3,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1
+74,7413,MUNA BARAT,RS Umum Daerah Kabupaten Muna Barat,D,Ya,Non BLU/BLUD,1,0,0,1,0,0,0,0,0,0,1,1,3,0,1,4,0,0,0,0,0,0,1,1,0,0,0,0
+74,7402,KONAWE,RS Umum Daerah Konawe,C,,BLUD,2,0,0,2,0,1,0,1,2,0,0,2,0,0,2,2,1,0,0,1,2,0,0,2,2,0,0,2
+74,7405,KONAWE SELATAN,RS Umum Daerah Konawe Selatan,C,,BLU,2,0,0,2,1,1,0,2,0,0,2,2,2,0,0,2,0,2,0,2,1,0,0,1,0,0,1,1
+74,7401,KOLAKA,RS Benyamin Guluh Kolaka,C,,BLUD,2,0,0,2,1,0,1,2,1,1,0,2,1,2,0,3,1,2,0,3,2,0,0,2,1,1,0,2
+74,7408,KOLAKA UTARA,RS Umum Daerah H.M.Djafar Harun,C,,BLUD,1,0,0,1,1,0,0,1,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1
+74,7406,BOMBANA,RS Umum Daerah Kabupaten Bombana,C,,BLUD,1,0,0,1,1,1,0,2,1,1,0,2,1,0,1,2,3,0,0,3,1,0,0,1,1,0,0,1
+74,7407,WAKATOBI,RS Umum Daerah Kabupaten Wakatobi,C,Ya,BLUD,1,0,0,1,1,0,0,1,2,0,0,2,0,0,1,1,0,0,1,1,1,0,0,1,1,0,1,2
+74,7409,KONAWE UTARA,RS Umum Daerah Kab.Konawe Utara,D,,BLUD,2,0,0,2,0,0,1,1,1,0,0,1,1,0,1,2,0,0,2,2,0,1,0,1,1,0,0,1
+74,7411,KOLAKA TIMUR,RS Umum Daerah Kabupaten Kolaka Timur,D,,Non BLU/BLUD,0,0,2,2,0,0,1,1,0,0,0,0,1,0,1,2,0,0,1,1,0,0,1,1,1,0,1,2
+74,7412,KONAWE KEPULAUAN,RS Umum Daerah Kabupaten Konawe Kepulauan,C,Ya,Non BLU/BLUD,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1
+74,7414,BUTON TENGAH,RS Umum Daerah Kabupaten Buton Tengah,C,Ya,Non BLU/BLUD,1,0,1,2,0,0,1,1,0,0,1,1,3,0,0,3,0,0,1,1,0,0,0,0,1,0,0,1
+74,7471,KOTA KENDARI,RS Bahteramas Provinsi Sultra,B,,BLUD,3,0,0,3,3,0,1,4,4,0,0,4,5,0,1,6,5,0,0,5,3,0,0,3,3,0,0,3
+74,7471,KOTA KENDARI,RS Umum Daerah Kota Kendari,B,,BLUD,3,0,1,4,2,0,1,3,3,0,1,4,4,0,0,4,1,1,0,2,1,0,1,2,1,0,0,1
+74,7471,KOTA KENDARI,RS Umum Daerah Antero Hamra Kota Kendari,D,,Non BLU/BLUD,1,0,0,1,0,0,2,2,0,0,1,1,1,0,1,2,1,1,1,3,0,0,1,1,1,0,0,1
+74,7472,KOTA BAUBAU,RS Umum Daerah Kota Bau Bau,C,,BLUD,3,0,0,3,2,1,0,3,4,0,0,4,3,0,0,3,1,1,0,2,2,0,0,2,2,0,0,2
+75,7502,BOALEMO,RS Umum Daerah drg. Clara Gobel,C,,BLUD,1,1,0,2,2,0,0,2,1,1,0,2,2,1,1,4,1,0,0,1,0,1,2,3,1,0,0,1
+75,7502,BOALEMO,RS Umum Daerah DR. Ir. Iwan Bokings Kab. Boalemo,D,,BLUD,0,0,1,1,0,0,2,2,0,0,1,1,0,0,2,2,0,0,2,2,0,0,0,0,0,0,1,1
+75,7571,KOTA GORONTALO,RS Umum Daerah Otanaha,C,,BLUD,1,1,0,2,1,0,1,2,0,1,1,2,0,1,1,2,1,0,1,2,0,2,0,2,0,1,0,1
+75,7571,KOTA GORONTALO,RS Umum Daerah Prof Dr. H. Aloei Saboe,B,,BLUD,3,0,0,3,3,1,0,4,0,1,0,1,4,0,1,5,2,1,1,4,3,0,0,3,3,1,1,5
+75,7501,GORONTALO,RS Umum Daerah dr. M. Mohammad Dunda,B,,Non BLU/BLUD,4,0,0,4,0,2,0,2,1,1,0,2,3,0,1,4,2,1,0,3,1,1,0,2,2,0,0,2
+75,7501,GORONTALO,RS Umum Daerah dr. Hasri Ainun Habibie,C,,BLUD,0,0,2,2,2,0,1,3,2,0,1,3,3,0,2,5,1,0,1,2,1,0,1,2,0,0,2,2
+75,7501,GORONTALO,RS Umum Daerah Boliyohuto,D,,Non BLU/BLUD,0,0,1,1,0,0,2,2,0,0,1,1,0,1,1,2,0,0,2,2,0,0,1,1,0,0,2,2
+75,7504,POHUWATO,RS Umum Daerah Bumi Panua,C,,BLUD,1,0,0,1,0,1,1,2,2,0,1,3,2,0,0,2,1,0,0,1,0,0,1,1,1,0,0,1
+75,7504,POHUWATO,Rumah Sakit Pratama Lemito,D,,Non BLU/BLUD,0,0,1,1,0,0,2,2,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+75,7503,BONE BOLANGO,RS Umum Daerah Tombulilato,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1
+75,7503,BONE BOLANGO,RS Umum Daerah Toto Kabila,C,,BLUD,1,1,0,2,2,1,0,3,1,0,0,1,1,5,0,6,2,1,0,3,1,1,0,2,1,1,0,2
+75,7505,GORONTALO UTARA,RS Umum Daerah dr. Zainal Umar Sidiki,C,Ya,BLUD,0,0,1,1,0,1,0,1,1,0,0,1,1,0,1,2,1,0,0,1,0,0,1,1,0,1,0,1
+76,7605,MAJENE,RS Umum Daerah Kabupaten Majene,C,,BLUD,2,1,0,3,2,0,0,2,2,0,0,2,3,0,0,3,1,0,0,1,1,0,0,1,1,0,0,1
+76,7604,POLEWALI MANDAR,RS Umum Daerah Hajjah Andi Depu,B,,BLUD,2,0,1,3,4,0,0,4,2,0,0,2,4,0,0,4,3,0,0,3,2,0,0,2,2,0,0,2
+76,7604,POLEWALI MANDAR,RS Umum Daerah Wonomulyo,D,,BLUD,1,1,0,2,0,2,3,5,1,1,0,2,0,0,2,2,1,1,1,3,0,1,1,2,0,2,1,3
+76,7603,MAMASA,RS Umum Daerah Kondosapata Kab. Mamasa,D,,Non BLU/BLUD,0,0,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,2,2,0,0,1,1
+76,7602,MAMUJU,RS Umum Daerah Kabupaten Mamuju,C,,BLUD,2,0,0,2,1,0,1,2,2,0,0,2,1,1,0,2,1,1,0,2,0,0,1,1,2,0,0,2
+76,7602,MAMUJU,RS Umum Daerah Provinsi Sulawesi Barat,C,,BLUD,3,0,0,3,2,0,0,2,1,0,0,1,3,0,0,3,1,0,0,1,1,0,0,1,1,0,0,1
+76,7606,MAMUJU TENGAH,RS Umum Daerah Kabupaten Mamuju Tengah,D,,BLUD,0,0,0,0,1,0,0,1,1,0,1,2,0,0,0,0,1,0,1,2,1,0,0,1,1,0,0,1
+76,7601,PASANGKAYU,RS Umum Daerah Pasangkayu,C,,BLUD,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,1,0,1,0,1,1,0,0,1,0,0,1,1
+81,8102,MALUKU TENGGARA,RS Umum Karel Sadsuitubun,C,Ya,BLUD,1,0,0,1,2,0,0,2,2,0,0,2,1,0,0,1,0,0,1,1,1,1,0,2,0,0,1,1
+81,8103,KEPULAUAN TANIMBAR,RS Umum Daerah Dr. P. P. Magretti Saumlaki,D,Ya,Non BLU/BLUD,1,0,0,1,2,0,0,2,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,1
+81,8103,KEPULAUAN TANIMBAR,RS Umum Daerah dr. D. Anatototi,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,8101,MALUKU TENGAH,RS Umum Daerah Banda,D,Ya,Non BLU/BLUD,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,8101,MALUKU TENGAH,RS Umum Saparua,D,Ya,Non BLU/BLUD,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+81,8101,MALUKU TENGAH,RS Umum Masohi,C,Ya,Non BLU/BLUD,1,0,0,1,1,0,0,1,2,0,0,2,3,0,0,3,1,0,0,1,1,0,0,1,1,0,0,1
+81,8101,MALUKU TENGAH,RS Umum Daerah dr. Ishak Umarella,C,,Non BLU/BLUD,1,0,1,2,1,0,0,1,1,0,0,1,2,0,0,2,1,0,0,1,0,1,0,1,1,0,0,1
+81,8104,BURU,RS Umum Daerah Kab. Buru,D,Ya,Non BLU/BLUD,1,0,0,1,1,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,1,1,1,0,0,1
+81,8107,KEPULAUAN ARU,RS Umum Daerah Cendrawasih Dobo,D,Ya,BLUD,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1
+81,8106,SERAM BAGIAN BARAT,RS Umum Piru,C,Ya,Non BLU/BLUD,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1
+81,8105,SERAM BAGIAN TIMUR,RS Umum Daerah Bula,C,Ya,Non BLU/BLUD,1,0,0,1,2,0,0,2,0,0,2,2,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1
+81,8105,SERAM BAGIAN TIMUR,RS Umum Daerah Goran Riun,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+81,8108,MALUKU BARAT DAYA,RS Umum Daerah Tiakur,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,8109,BURU SELATAN,RS Umum Daerah dr. Salim Alkatiri,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,0,0,1,1,0,0,1
+81,8171,KOTA AMBON,RSUD Dr. WEM TEHUPEIORY,D,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,8171,KOTA AMBON,RS Umum Dr. M. Haulussy Ambon,B,,BLUD,3,0,0,3,2,0,0,2,4,0,0,4,4,0,0,4,1,0,1,2,1,0,0,1,2,0,0,2
+81,8172,KOTA TUAL,RS Umum Daerah Maren H. Noho Renuat Kota Tual,D,Ya,Non BLU/BLUD,0,0,2,2,0,0,1,1,0,0,1,1,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,1
+82,8203,HALMAHERA UTARA,RS Umum Daerah Tobelo,B,Ya,BLUD,3,1,1,5,2,2,0,4,1,2,0,3,2,2,0,4,1,1,0,2,1,1,2,4,1,0,0,1
+82,8201,HALMAHERA BARAT,RS Umum Daerah Jailolo,C,Ya,BLUD,2,0,0,2,1,0,0,1,0,0,0,0,1,1,0,2,1,0,1,2,1,0,0,1,1,0,0,1
+82,8272,KOTA TIDORE KEPULAUAN,RS Umum Daerah Kota Tidore Kepulauan,B,Ya,BLUD,2,0,0,2,1,0,1,2,1,0,0,1,3,0,0,3,2,0,0,2,1,0,1,2,1,0,0,1
+82,8272,KOTA TIDORE KEPULAUAN,RS Umum Sofifi,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,1,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,0,0,1,1
+82,8205,KEPULAUAN SULA,RS Umum Daerah Sanana,C,Ya,Non BLU/BLUD,1,0,0,1,0,1,0,1,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1
+82,8204,HALMAHERA SELATAN,RS Umum Daerah Labuha,C,Ya,BLUD,0,1,2,3,1,1,0,2,1,2,0,3,1,2,0,3,0,2,0,2,0,0,1,1,0,1,0,1
+82,8204,HALMAHERA SELATAN,RS Umum Obi,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+82,8202,HALMAHERA TENGAH,RS Umum Daerah Weda,D,Ya,Non BLU/BLUD,0,0,1,1,1,0,2,3,1,0,0,1,0,0,2,2,1,0,0,1,0,0,0,0,1,0,0,1
+82,8207,PULAU MOROTAI,RS Umum Daerah Ir. Soekarno Kab. Pulau Morotai,C,Ya,Non BLU/BLUD,0,0,0,0,0,0,1,1,0,0,1,1,0,0,2,2,0,0,1,1,0,0,0,0,0,0,1,1
+82,8206,HALMAHERA TIMUR,RS Umum Daerah Maba,C,Ya,Non BLU/BLUD,0,0,1,1,1,0,0,1,0,0,2,2,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1
+82,8208,PULAU TALIABU,RS Umum Daerah Bobong,C,Ya,Non BLU/BLUD,1,0,0,1,0,0,1,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+82,8271,KOTA TERNATE,RS Umum Daerah Dr. H. Chasan Boesoirie Ternate,B,,BLUD,4,2,0,6,1,1,1,3,2,0,0,2,2,2,0,4,2,1,0,3,1,0,0,1,1,1,0,2
+82,8271,KOTA TERNATE,RS Umum Daerah Kota Ternate,D,,Non BLU/BLUD,1,0,0,1,1,0,0,1,2,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+91,9105,KEPULAUAN YAPEN,RS Umum Daerah Serui,C,Ya,Non BLU/BLUD,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1
+91,9106,BIAK NUMFOR,RS Umum Biak,C,Ya,BLUD,1,0,0,1,0,1,0,1,2,0,0,2,3,0,0,3,1,0,1,2,2,0,0,2,1,0,0,1
+91,9110,SARMI,RS Hendrik Fintay Kabupaten Sarmi,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,9111,KEEROM,RS Umum Daerah Kwaingga Kabupaten Keerom,D,Ya,Non BLU/BLUD,1,0,0,1,1,0,0,1,1,0,0,1,1,0,2,3,0,0,1,1,1,0,0,1,0,0,1,1
+91,9119,SUPIORI,RS Umum Daerah Supiori,D,Ya,Non BLU/BLUD,1,0,1,2,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1
+91,9171,KOTA JAYAPURA,RS Umum Jayapura,B,,BLUD,6,0,0,6,5,0,1,6,7,0,0,7,5,0,0,5,3,0,0,3,2,1,0,3,1,0,0,1
+91,9171,KOTA JAYAPURA,RS Umum Abepura,C,,BLUD,2,0,0,2,2,1,1,4,0,1,5,6,3,1,0,4,2,0,1,3,2,0,0,2,2,0,0,2
+91,9171,KOTA JAYAPURA,RS Umum Daerah Ramela Muara Tami,D,,Non BLU/BLUD,0,0,1,1,1,0,0,1,0,0,1,1,1,0,0,1,0,0,1,1,0,0,1,1,1,0,0,1
+91,9103,JAYAPURA,RS Umum Daerah Yowari Sentani,C,Ya,BLUD,3,0,0,3,2,0,0,2,2,0,0,2,2,1,0,3,1,1,0,2,1,1,0,2,1,0,0,1
+92,9203,FAKFAK,RS Umum Daerah Fakfak,C,,Non BLU/BLUD,0,0,2,2,0,0,1,1,1,0,1,2,1,0,1,2,0,0,2,2,1,0,0,1,0,0,2,2
+92,9202,MANOKWARI,RS Umum Daerah Manokwari,C,,BLUD,1,0,2,3,1,0,1,2,2,0,1,3,3,0,0,3,1,0,1,2,1,0,0,1,0,0,0,0
+92,9202,MANOKWARI,RS Pratama Warmare,D,,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,9202,MANOKWARI,RS Umum Daerah Provinsi Papua Barat,C,,BLUD,1,2,0,3,0,1,0,1,1,0,0,1,0,1,0,1,0,1,1,2,0,0,0,0,1,0,0,1
+92,9208,KAIMANA,RS Umum Daerah Kaimana,C,,Non BLU/BLUD,0,1,0,1,0,0,1,1,0,0,2,2,1,0,0,1,0,0,1,1,1,0,0,1,0,0,1,1
+92,9207,TELUK WONDAMA,RS Umum Daerah Dr. Alberth H. Torey,C,Ya,BLUD,0,1,1,2,2,0,0,2,1,0,0,1,1,1,0,2,1,0,0,1,0,0,1,1,0,1,0,1
+92,9206,TELUK BINTUNI,RS Umum Daerah Teluk Bintuni,C,Ya,BLUD,1,1,0,2,1,0,0,1,1,0,0,1,2,0,0,2,1,0,1,2,1,0,1,2,1,0,0,1
+92,9211,MANOKWARI SELATAN,RS Umum Elia Waran,C,Ya,Non BLU/BLUD,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,1
+93,9301,MERAUKE,RS Umum Merauke,B,Ya,BLUD,2,0,0,2,2,0,0,2,3,0,0,3,2,2,1,5,2,1,0,3,3,0,0,3,3,0,0,3
+93,9302,BOVEN DIGOEL,RS Umum Daerah Boven Digoel,D,Ya,Non BLU/BLUD,1,0,1,2,1,0,1,2,2,0,0,2,2,0,0,2,1,0,0,1,1,0,0,1,1,0,0,1
+93,9303,MAPPI,RS Umum Daerah Kabupaten Mappi,D,Ya,Non BLU/BLUD,1,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,2,0,0,2,0,0,0,0,1,0,0,1
+93,9304,ASMAT,RS Umum Daerah Perpetua J. Safanpo,D,Ya,Non BLU/BLUD,1,0,0,1,1,0,0,1,0,2,1,3,1,0,0,1,2,0,0,2,1,0,0,1,2,0,0,2
+94,9401,NABIRE,RS Umum Nabire,C,Ya,BLUD,1,1,0,2,4,0,0,4,4,0,0,4,2,2,0,4,1,0,0,1,1,0,0,1,3,0,0,3
+94,9403,PANIAI,RS Umum Daerah Paniai,C,Ya,BLUD,2,0,0,2,0,1,0,1,1,1,0,2,1,0,0,1,0,0,0,0,1,0,0,1,2,0,0,2
+94,9402,PUNCAK JAYA,RS Umum Daerah Mulia,D,Ya,BLUD,0,1,0,1,0,1,0,1,0,0,0,0,2,0,0,2,0,1,0,1,0,0,0,0,0,0,1,1
+94,9404,MIMIKA,RS Umum Daerah Kabupaten Mimika,C,,BLUD,1,2,0,3,2,0,1,3,3,0,0,3,2,0,1,3,1,1,2,4,1,0,1,2,1,0,0,1
+94,9404,MIMIKA,RS Waa Banti,D,,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+94,9408,DEIYAI,RS Umum Daerah Deiyai,D,Ya,Non BLU/BLUD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,9501,JAYAWIJAYA,RS Umum Wamena,C,Ya,Non BLU/BLUD,4,0,0,4,2,1,0,3,3,0,0,3,1,1,0,2,2,0,0,2,1,0,0,1,1,0,0,1
+95,9503,YAHUKIMO,RS Umum Daerah Dekai,D,Ya,Non BLU/BLUD,0,0,1,1,0,0,1,1,2,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,1,0,0,1
+95,9502,PEGUNUNGAN BINTANG,RS Umum Daerah Oksibil,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1
+95,9504,TOLIKARA,RS Umum Daerah Karubaga,D,Ya,Non BLU/BLUD,1,0,0,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1,1,0,0,1
+95,9508,NDUGA,RS Pratama Elvrida Sara,D,Ya,Non BLU/BLUD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,9507,LANNY JAYA,RS Umum Daerah Tiom,D,Ya,Non BLU/BLUD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+95,9506,YALIMO,RS Umum Daerah Er Dabi,D,Ya,Non BLU/BLUD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+96,9602,SORONG SELATAN,RS Umum Daerah Scholoo Keyen,C,Ya,BLUD,0,1,0,1,1,0,1,2,0,1,0,1,1,1,0,2,0,1,0,1,0,0,0,0,0,0,1,1
+96,9603,RAJA AMPAT,RS Umum Daerah Raja Ampat,C,Ya,Non BLU/BLUD,1,0,0,1,1,1,0,2,1,0,0,1,0,1,0,1,0,0,1,1,0,0,1,1,0,0,1,1
+96,9601,SORONG,RS Umum Daerah Kabupaten Sorong,C,Ya,BLUD,1,3,0,4,2,1,0,3,3,0,0,3,3,0,0,3,1,1,0,2,1,0,0,1,1,0,0,1
+96,9671,KOTA SORONG,RS Umum Daerah Sele Be Solu,C,,BLUD,4,0,0,4,2,0,0,2,3,0,0,3,3,1,1,5,1,0,0,1,1,0,0,1,2,0,0,2

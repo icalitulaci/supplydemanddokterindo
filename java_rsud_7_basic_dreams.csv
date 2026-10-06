@@ -1,0 +1,283 @@
+kab,kabname,rs,kelas,Sp.A,Sp.B,Sp.OG,Sp.PD,Sp.An,Sp.Rad,Sp.PK
+3101,KEPULAUAN SERIBU,RS Umum Daerah Kepulauan Seribu,Kelas D,2,2,2,2,1,1,2
+3171,KOTA JAKARTA PUSAT,RS Umum Daerah Tarakan,Kelas A,5,3,2,5,4,2,2
+3171,KOTA JAKARTA PUSAT,RS Umum Daerah Sawah Besar,Kelas D,4,2,2,3,2,1,1
+3171,KOTA JAKARTA PUSAT,RS Umum Daerah Kemayoran,Kelas D,2,2,2,2,3,1,1
+3171,KOTA JAKARTA PUSAT,RS Umum Daerah Cempaka Putih,Kelas D,2,2,3,3,2,1,1
+3171,KOTA JAKARTA PUSAT,RS Umum Daerah Johar Baru,Kelas D,5,2,2,4,3,1,1
+3171,KOTA JAKARTA PUSAT,RS Umum Daerah Tanah Abang,Kelas D,2,2,2,3,2,2,1
+3172,KOTA JAKARTA UTARA,RS Umum Daerah Koja,Kelas B,3,4,1,4,5,3,3
+3172,KOTA JAKARTA UTARA,RS Umum Daerah Tugu Koja,Kelas C,2,2,2,4,3,1,1
+3172,KOTA JAKARTA UTARA,RS Umum Daerah Pademangan,Kelas D,3,2,2,2,3,1,1
+3172,KOTA JAKARTA UTARA,RS Umum Daerah Cilincing,Kelas C,3,2,3,2,2,1,1
+3172,KOTA JAKARTA UTARA,RS Umum Daerah Tanjung Priok,Kelas D,4,1,2,4,3,1,1
+3173,KOTA JAKARTA BARAT,RS Umum Daerah Cengkareng,Kelas B,3,5,6,5,5,3,2
+3173,KOTA JAKARTA BARAT,RS Umum Daerah Kembangan,Kelas C,3,2,3,5,2,1,2
+3173,KOTA JAKARTA BARAT,RS Umum Daerah Kalideres,Kelas C,6,3,3,3,4,2,1
+3173,KOTA JAKARTA BARAT,RS Umum Daerah Taman Sari,Kelas D,3,4,2,3,3,1,1
+3174,KOTA JAKARTA SELATAN,RS Umum Daerah Tebet,Kelas C,3,2,3,3,3,1,1
+3174,KOTA JAKARTA SELATAN,RS Umum Daerah Pesanggrahan,Kelas C,2,2,4,3,2,2,2
+3174,KOTA JAKARTA SELATAN,RS Umum Daerah Jagakarsa,Kelas D,3,2,3,2,2,3,1
+3174,KOTA JAKARTA SELATAN,RS Umum Daerah Mampang Prapatan,Kelas D,2,1,2,4,3,1,1
+3174,KOTA JAKARTA SELATAN,RS Umum Daerah Pasar Minggu,Kelas B,4,4,4,6,5,5,2
+3174,KOTA JAKARTA SELATAN,RS Umum Daerah Jati Padang,Kelas D,3,3,3,4,3,2,1
+3174,KOTA JAKARTA SELATAN,RS Umum Daerah Kebayoran Baru,Kelas D,3,2,2,3,3,1,1
+3174,KOTA JAKARTA SELATAN,RS Umum Daerah Kebayoran Lama,Kelas D,4,2,3,3,3,1,1
+3175,KOTA JAKARTA TIMUR,RS Umum Daerah Budhi Asih,Kelas B,5,4,4,7,1,3,2
+3175,KOTA JAKARTA TIMUR,RS Umum Daerah Pasar Rebo,Kelas B,3,2,4,3,4,3,2
+3175,KOTA JAKARTA TIMUR,RS Umum Daerah Kramat Jati,Kelas C,3,3,4,3,3,1,1
+3175,KOTA JAKARTA TIMUR,RS Umum Daerah Ciracas,Kelas D,3,3,4,5,3,2,1
+3175,KOTA JAKARTA TIMUR,RS Umum Daerah Cipayung,Kelas D,2,2,3,4,4,2,1
+3175,KOTA JAKARTA TIMUR,RS Umum Daerah Matraman,Kelas D,2,2,3,3,2,1,1
+3201,BOGOR,RS Umum Daerah Bakti Pajajaran,Kelas B,6,3,5,4,4,3,3
+3201,BOGOR,RS Umum Daerah Ciawi,Kelas B,4,5,5,6,6,3,2
+3201,BOGOR,RS Umum Daerah R. Moh. Noh Nur,Kelas B,4,3,4,4,2,3,3
+3201,BOGOR,RS Umum Daerah RH. Satibi,Kelas B,3,2,4,4,5,3,2
+3202,SUKABUMI,RS Umum Daerah Sekarwangi,Kelas B,3,4,4,4,3,1,1
+3202,SUKABUMI,RS Umum Daerah Palabuhanratu,Kelas C,3,1,1,3,3,2,1
+3202,SUKABUMI,RS Umum Daerah Jampang Kulon,Kelas C,2,2,2,3,2,1,1
+3202,SUKABUMI,RS Umum Daerah Sagaranten,Kelas D,0,1,1,0,0,1,0
+3203,CIANJUR,RS Umum Daerah Sayang,Kelas B,5,2,6,5,4,2,2
+3203,CIANJUR,RS Umum Daerah Cimacan,Kelas C,2,3,3,4,3,2,1
+3203,CIANJUR,RS Umum Daerah Pagelaran,Kelas C,1,2,1,3,2,1,1
+3203,CIANJUR,RS Umum Daerah Sindangbarang,Kelas D,2,1,1,1,2,1,1
+3204,BANDUNG,RS Umum Daerah Majalaya,Kelas B,3,4,4,4,1,2,1
+3204,BANDUNG,RS Umum Daerah Welas Asih Provinsi Jawa Barat,Kelas B,4,5,7,6,4,6,4
+3204,BANDUNG,RS Umum Daerah Oto Iskandar Di Nata,Kelas B,3,4,4,4,2,2,2
+3204,BANDUNG,RS Umum Daerah Cicalengka,Kelas B,3,3,3,3,2,3,1
+3204,BANDUNG,RS Umum Daerah Kesehatan Kerja,Kelas D,2,2,2,2,3,1,2
+3204,BANDUNG,RS Umum Daerah Bedas Cimaung,Kelas D,1,1,1,1,1,1,1
+3204,BANDUNG,RS Umum Daerah Bedas Kertasari,Kelas D,1,2,1,1,2,1,1
+3204,BANDUNG,RS Umum Daerah Bedas Tegalluar,Kelas D,1,1,2,1,1,1,1
+3204,BANDUNG,RS Umum Daerah Bedas Arjasari,Kelas D,1,1,1,1,1,1,1
+3204,BANDUNG,RS Umum Daerah Bedas Pacira,Kelas D,1,1,1,1,1,1,1
+3205,GARUT,RS Umum Daerah dr. Slamet Garut,Kelas B,3,3,4,5,3,2,2
+3205,GARUT,RS Umum Daerah Pameungpeuk Prov. Jabar,Kelas C,3,3,3,4,2,2,3
+3205,GARUT,RS Umum Daerah Malangbong,Kelas D,2,3,2,2,1,1,1
+3206,TASIKMALAYA,RS Umum Daerah KHZ Musthafa Kabupaten Tasikmalaya,Kelas C,3,2,4,2,3,1,2
+3206,TASIKMALAYA,RSUD Tani dan Nelayan Tasikmalaya,Kelas D,0,1,1,0,0,1,0
+3207,CIAMIS,RS Umum Daerah Kab. Ciamis,Kelas C,2,2,3,4,2,1,2
+3207,CIAMIS,RS Umum Daerah Kawali,Kelas D,2,1,1,2,2,1,1
+3208,KUNINGAN,RS Umum Daerah 45 Kuningan,Kelas B,3,3,3,3,3,1,1
+3208,KUNINGAN,RS Umum Daerah Linggajati Kuningan,Kelas C,2,1,3,2,0,2,1
+3209,CIREBON,RS Umum Daerah Waled,Kelas B,3,2,2,5,3,3,2
+3209,CIREBON,RS Umum Daerah Arjawinangun,Kelas B,3,3,5,3,3,2,1
+3210,MAJALENGKA,RS Umum Daerah Majalengka,Kelas B,3,2,3,3,2,2,1
+3210,MAJALENGKA,RS Umum Daerah Cideres,Kelas B,2,4,2,4,1,2,1
+3210,MAJALENGKA,RS Umum Daerah Talaga,Kelas D,2,1,1,3,1,1,1
+3211,SUMEDANG,RS Umum Daerah Umar Wirahadikusumah,Kelas B,4,4,5,6,2,2,3
+3212,INDRAMAYU,RS Umum Daerah Indramayu,Kelas B,3,3,5,4,2,1,1
+3212,INDRAMAYU,RS Umum Daerah M. A. Sentot Patrol,Kelas C,2,2,2,2,1,1,1
+3212,INDRAMAYU,RS Umum Daerah Mursid Ibnu Syafiuddin,Kelas C,2,1,3,3,1,1,1
+3213,SUBANG,RS Umum Daerah Subang,Kelas B,4,4,5,6,3,2,2
+3214,PURWAKARTA,RS Umum Daerah Bayu Asih,Kelas B,4,3,3,4,2,4,1
+3215,KARAWANG,RS Umum Daerah Karawang,Kelas B,5,3,4,5,3,3,1
+3215,KARAWANG,RS Umum Daerah Jatisari Kabupaten Karawang,Kelas C,2,2,2,3,1,1,1
+3215,KARAWANG,RS Umum Daerah Rengasdengklok,Kelas C,2,1,3,2,2,1,1
+3216,BEKASI,RS Umum Daerah Kab.Bekasi,Kelas B,4,3,4,6,3,2,2
+3216,BEKASI,RS Umum Daerah Cabangbungin,Kelas D,1,3,2,3,2,1,1
+3217,BANDUNG BARAT,RS Umum Daerah Cililin,Kelas C,3,2,4,6,2,1,1
+3217,BANDUNG BARAT,RS Umum Daerah Lembang,Kelas C,2,2,2,2,2,1,1
+3217,BANDUNG BARAT,RS Umum Daerah Cikalongwetan,Kelas C,2,2,2,4,1,1,1
+3218,PANGANDARAN,RS Umum Daerah Pandega Pangandaran,Kelas C,3,2,3,3,3,1,1
+3271,KOTA BOGOR,RS Umum Daerah Kota Bogor,Kelas B,5,5,5,7,6,4,3
+3272,KOTA SUKABUMI,"RS Umum Daerah R. Syamsudin, SH",Kelas B,5,3,4,5,4,4,1
+3272,KOTA SUKABUMI,RS Umum Daerah Al-Mulk,Kelas D,1,2,2,2,1,1,1
+3273,KOTA BANDUNG,RS Umum Daerah Bandung Kiwari,Kelas B,5,4,5,6,4,5,3
+3273,KOTA BANDUNG,RS Umum Daerah Kota Bandung,Kelas B,3,4,5,6,3,2,2
+3274,KOTA CIREBON,RS Daerah Gunung Jati,Kelas B,5,6,5,8,5,4,4
+3275,KOTA BEKASI,RS Umum Daerah dr. Chasbullah Abdulmadjid,Kelas B,5,4,5,6,4,6,2
+3275,KOTA BEKASI,RS Umum Daerah Jatisampurna,Kelas D,3,2,3,3,3,1,1
+3275,KOTA BEKASI,RS Umum Daerah Pondokgede,Kelas D,2,2,2,2,2,2,1
+3275,KOTA BEKASI,RS Umum Daerah Bantar Gebang,Kelas D,1,2,2,2,2,1,1
+3275,KOTA BEKASI,RS umum Daerah Teluk Pucung,Kelas D,3,2,2,1,1,1,1
+3276,KOTA DEPOK,RS Umum Daerah Khidmat Sehat Afiat Kota Depok,Kelas C,4,3,3,4,3,3,3
+3276,KOTA DEPOK,RS Umum Daerah Anugerah Sehat Afiat,Kelas C,3,2,4,3,3,1,2
+3277,KOTA CIMAHI,RS Umum Daerah Cibabat,Kelas B,4,2,3,5,3,3,4
+3278,KOTA TASIKMALAYA,RS Umum Daerah dr. Soekardjo,Kelas B,4,3,3,2,3,2,1
+3278,KOTA TASIKMALAYA,Rumah Sakit Umum Daerah Dewi Sartika,Kelas D,2,1,1,1,1,1,1
+3279,KOTA BANJAR,RS Umum Daerah Banjar,Kelas B,3,2,4,3,2,2,1
+3279,KOTA BANJAR,RS Umum Daerah Asih Husada Langensari,Kelas D,1,1,1,2,1,1,1
+3301,CILACAP,RS Umum Daerah Cilacap,Kelas B,3,2,3,4,3,2,2
+3301,CILACAP,RS Umum Daerah Majenang,Kelas C,2,2,2,3,2,1,1
+3302,BANYUMAS,RS umum Daerah Banyumas,Kelas B,3,3,4,5,5,1,2
+3302,BANYUMAS,RS Umum Daerah Prof Dr. Margono Soekarjo,Kelas A,5,3,5,2,5,6,5
+3302,BANYUMAS,RS Umum Daerah Ajibarang,Kelas C,3,3,4,6,2,2,2
+3303,PURBALINGGA,RS Umum Daerah dr. R. Goeteng Taroenadibrata,Kelas C,2,1,4,4,3,2,1
+3303,PURBALINGGA,RS Umum Daerah Panti Nugroho,Kelas C,2,2,3,3,4,1,1
+3304,BANJARNEGARA,RS Umum Daerah Hj. Anna Lasmanah Banjarnegara,Kelas C,3,2,3,3,3,2,1
+3305,KEBUMEN,RS Umum Daerah dr. Soedirman Kabupaten Kebumen,Kelas C,2,2,2,4,3,4,2
+3305,KEBUMEN,RS Umum Daerah Prembun,Kelas C,2,2,3,4,2,1,2
+3306,PURWOREJO,RS Umum Daerah Dr. Tjitrowardojo Purworejo,Kelas B,3,4,2,4,3,5,4
+3306,PURWOREJO,RS Umum Daerah R.A.A Tjokronegoro,Kelas C,2,2,2,3,3,2,1
+3307,WONOSOBO,RS Umum Setjonegoro Wonosobo,Kelas B,3,3,4,4,3,4,1
+3308,MAGELANG,RS Umum Daerah Muntilan Kab. Magelang,Kelas C,2,2,4,5,3,1,1
+3308,MAGELANG,RS Umum Daerah Merah Putih,Kelas C,2,3,3,5,2,1,1
+3308,MAGELANG,RS Umum Daerah Bukit Menoreh,Kelas D,1,2,2,2,2,2,1
+3308,MAGELANG,RS Umum Daerah Candi Umbul,Kelas D,1,1,1,1,2,1,1
+3309,BOYOLALI,RS Umum Daerah Pandan Arang Boyolali,Kelas B,3,2,4,4,3,2,2
+3309,BOYOLALI,RS Umum Daerah Waras Wiris,Kelas C,2,2,2,3,2,1,1
+3309,BOYOLALI,RS Umum Daerah Simo,Kelas D,2,2,2,3,1,1,1
+3310,KLATEN,RS Umum Daerah Bagas Waras,Kelas C,2,2,3,4,2,1,1
+3311,SUKOHARJO,RS Umum Daerah Ir. Soekarno Kabupaten Sukoharjo,Kelas B,3,3,2,3,4,3,3
+3312,WONOGIRI,RS Umum Daerah Dr. Soediran Mangun Sumarso Wonogi,Kelas B,3,1,4,3,3,2,2
+3313,KARANGANYAR,RS Umum Daerah Kartini Karanganyar,Kelas C,2,3,3,3,3,2,1
+3314,SRAGEN,RS Umum Daerah dr. Soehadi Prijonegoro,Kelas B,3,3,3,4,4,2,3
+3314,SRAGEN,RS Umum Daerah dr. Soeratno Gemolong,Kelas C,2,2,3,3,2,1,1
+3314,SRAGEN,RS Umum Daerah Sukowati Tangen,Kelas D,1,1,2,1,2,1,1
+3315,GROBOGAN,RS Umum Daerah Dr. R.Soedjati Soemodiardjo,Kelas B,3,3,4,5,2,2,1
+3315,GROBOGAN,RS Umum Daerah Ki Ageng Selo,Kelas D,2,1,2,2,1,1,1
+3315,GROBOGAN,RS Umum Daerah Ki Ageng Getas Pendowo Gubug,Kelas D,1,2,1,2,2,1,1
+3316,BLORA,RS Umum Daerah Dr. R. Soetijono Blora,Kelas C,2,2,3,4,5,3,1
+3316,BLORA,RS Umum Daerah Dr. R. Soeprapto Cepu,Kelas C,2,2,2,4,2,1,1
+3316,BLORA,RS Umum Daerah Samin Surosentiko Randublatung,Kelas D,1,1,1,2,1,2,1
+3317,REMBANG,RS Umum Daerah dr. R. Soetrasno Rembang,Kelas C,3,3,4,4,4,2,2
+3318,PATI,RS Umum Daerah RAA Soewondo,Kelas B,3,2,3,6,3,4,2
+3318,PATI,RS Umum Daerah Kayen Pati,Kelas C,2,2,2,4,3,1,1
+3319,KUDUS,RS Umum Daerah dr. Loekmono Hadi,Kelas B,4,4,4,6,4,3,2
+3320,JEPARA,RS Umum Daerah R. A. Kartini,Kelas B,4,3,4,2,3,3,2
+3320,JEPARA,RS Umum Daerah dr. Rehatta Provinsi Jawa Tengah,Kelas C,2,3,3,3,3,1,1
+3321,DEMAK,RS Umum Daerah Sunan Kalijaga,Kelas C,4,2,4,4,3,2,1
+3321,DEMAK,RS Umum Daerah Sultan Fatah Karangawen Demak,Kelas C,2,3,2,2,2,2,1
+3322,SEMARANG,RS Umum Daerah dr. Gunawan Mangunkusumo,Kelas C,2,2,3,5,2,1,1
+3322,SEMARANG,RS Umum Daerah dr. Gondo Suwarno,Kelas C,3,4,3,4,2,2,2
+3323,TEMANGGUNG,RS Umum Daerah Kabupaten Temanggung,Kelas B,4,4,3,3,4,2,2
+3324,KENDAL,RS Umum Daerah Dr. H. Soewondo Kendal,Kelas B,3,3,3,4,2,2,1
+3325,BATANG,RS Umum Daerah Batang,Kelas C,2,2,4,3,2,1,1
+3325,BATANG,RS Umum Daerah Limpung,Kelas C,1,2,2,2,2,1,1
+3326,PEKALONGAN,RS Umum Daerah Kajen Kab. Pekalongan,Kelas C,3,4,4,4,3,1,2
+3326,PEKALONGAN,RS Umum Daerah Kesesi Pekalongan,Kelas D,1,1,1,1,1,0,1
+3327,PEMALANG,RS Umum Daerah Dr. M. Ashari Pemalang,Kelas C,2,2,4,5,4,2,1
+3328,TEGAL,RS Umum Daerah dr. Soeselo Slawi Kabupaten Tegal,Kelas B,3,3,4,5,3,2,2
+3328,TEGAL,RS Umum Daerah Suradadi,Kelas C,1,2,2,3,3,2,1
+3329,BREBES,RS Umum Daerah Brebes,Kelas B,4,6,5,3,4,2,2
+3329,BREBES,RS Umum Daerah Bumiayu,Kelas C,1,1,1,3,2,1,1
+3329,BREBES,RS Umum Daerah Ir. Soekarno Kab. Brebes,Kelas D,2,3,2,2,2,1,0
+3371,KOTA MAGELANG,RS Umum Daerah Tidar,Kelas B,6,2,3,8,6,4,2
+3371,KOTA MAGELANG,RS Umum Daerah Budi Rahayu,Kelas D,4,2,3,6,2,1,1
+3372,KOTA SURAKARTA,RS Umum Daerah Dr. Moewardi Surakarta,Kelas A,13,2,15,14,8,6,4
+3372,KOTA SURAKARTA,RS Umum Daerah Ibu Fatmawati Soekarno,Kelas C,3,2,2,3,3,1,2
+3372,KOTA SURAKARTA,RS Umum Daerah Bung Karno Kota Surakarta,Kelas C,2,2,2,3,2,1,1
+3373,KOTA SALATIGA,RS Umum Daerah Kota Salatiga,Kelas B,4,3,4,5,2,2,2
+3374,KOTA SEMARANG,"RS Umum Daerah dr. Adhyatma, MPH",Kelas B,5,3,5,7,6,4,1
+3374,KOTA SEMARANG,RS Daerah KRMT Wongsonegoro,Kelas B,8,4,5,10,4,4,2
+3374,KOTA SEMARANG,RS Umum Daerah Mijen,Kelas D,1,2,1,4,1,2,1
+3375,KOTA PEKALONGAN,RS Umum Daerah Kraton Kab. Pekalongan,Kelas B,2,3,2,3,1,2,1
+3375,KOTA PEKALONGAN,RS Umum Daerah Bendan Kota Pekalongan,Kelas C,2,3,3,4,2,1,1
+3376,KOTA TEGAL,RS Umum Daerah Kardinah,Kelas B,4,3,4,3,2,1,2
+3401,KULON PROGO,RS Umum Daerah Wates,Kelas B,4,3,4,6,2,1,2
+3401,KULON PROGO,RS Umum Daerah Nyi Ageng Serang,Kelas C,2,2,4,2,2,1,1
+3402,BANTUL,RS Umum Daerah Panembahan Senopati,Kelas B,4,3,4,4,3,1,4
+3402,BANTUL,RS Umum Daerah Saras Adyatma,Kelas D,1,1,1,1,1,1,2
+3403,GUNUNG KIDUL,RS Umum Daerah Wonosari,Kelas B,3,2,3,4,2,2,2
+3403,GUNUNG KIDUL,RS Umum Daerah Saptosari,Kelas D,1,1,3,1,2,2,2
+3404,SLEMAN,RS Umum Daerah Sleman,Kelas B,4,3,4,6,3,2,1
+3404,SLEMAN,RS Umum Daerah Prambanan,Kelas C,3,2,4,3,2,2,1
+3471,KOTA YOGYAKARTA,RS Umum Daerah Kota Yogyakarta,Kelas B,2,3,3,3,3,2,3
+3471,KOTA YOGYAKARTA,RS Pratama Kota Yogyakarta,Kelas D,3,2,3,3,1,1,1
+3501,PACITAN,RS Umum Daerah dr. Darsono,Kelas C,3,2,2,3,1,2,2
+3502,PONOROGO,RS Umum Daerah Dr. Harjono S. Kabupaten Ponorogo,Kelas B,4,3,4,2,3,2,2
+3502,PONOROGO,RS Umum Daerah Bantarangin,Kelas D,1,1,2,0,1,1,1
+3503,TRENGGALEK,RS Umum Daerah dr. Soedomo Trenggalek,Kelas B,4,2,3,4,2,2,2
+3503,TRENGGALEK,RS Umum Daerah Panggul,Kelas D,1,1,1,1,1,1,1
+3504,TULUNGAGUNG,RS Umum Daerah Dr. Iskak,Kelas A,3,5,6,5,4,2,2
+3504,TULUNGAGUNG,RS Umum Daerah Campurdarat,Kelas C,1,2,1,2,2,1,1
+3505,BLITAR,RS Umum Daerah Ngudi Waluyo Wlingi,Kelas B,2,2,3,6,3,2,1
+3505,BLITAR,RS Umum Daerah Srengat Kab. Blitar,Kelas C,1,2,2,3,2,1,1
+3506,KEDIRI,RS Umum Daerah Kabupaten Kediri,Kelas B,2,3,4,4,3,1,2
+3506,KEDIRI,RS Umum Daerah Simpang Lima Gumul Kediri,Kelas C,3,2,4,3,2,1,1
+3507,MALANG,RS Umum Daerah Kanjuruhan Kepanjen Kab. Malang,Kelas B,4,3,4,4,3,3,1
+3507,MALANG,RS Umum Daerah Lawang,Kelas C,2,2,2,2,2,1,1
+3507,MALANG,RS Umum Daerah Ngantang,Kelas D,2,1,1,2,1,1,1
+3508,LUMAJANG,RS Umum Daerah Dr. Haryoto Kabupaten Lumajang,Kelas B,4,2,3,7,2,3,2
+3508,LUMAJANG,RS Umum Daerah Pasirian Kabupaten Lumajang,Kelas C,2,3,2,2,2,1,1
+3509,JEMBER,RS Umum Daerah Dr. Soebandi Jember,Kelas B,5,6,5,6,3,4,3
+3509,JEMBER,RS Daerah Kalisat Jember,Kelas C,1,3,2,2,2,1,1
+3509,JEMBER,RS Daerah Balung Jember,Kelas C,2,2,2,5,2,2,1
+3510,BANYUWANGI,RS Umum Daerah Blambangan,Kelas B,2,3,2,3,2,1,1
+3510,BANYUWANGI,RS Umum Daerah Genteng,Kelas C,2,3,2,1,6,1,1
+3511,BONDOWOSO,RS Umum dr. H.Koesnadi Bondowoso,Kelas B,3,2,3,3,2,3,1
+3512,SITUBONDO,RS Umum Daerah dr. Abdoer Rahem Situbondo,Kelas C,2,2,2,5,2,1,1
+3512,SITUBONDO,RS Umum Daerah Besuki Kabupaten Situbondo,Kelas D,1,1,1,2,1,1,1
+3512,SITUBONDO,RS Umum Daerah Asembagus Kabupaten Situbondo,Kelas D,1,1,2,2,2,2,1
+3513,PROBOLINGGO,RS Umum Daerah Waluyo Jati Kraksaan,Kelas B,2,3,4,4,4,3,2
+3513,PROBOLINGGO,RS Umum Daerah Tongas,Kelas C,2,1,3,3,1,2,1
+3514,PASURUAN,RS Umum Daerah Bangil,Kelas B,4,2,5,7,3,5,1
+3514,PASURUAN,RS Umum Daerah Grati,Kelas C,3,2,3,3,3,3,1
+3515,SIDOARJO,RS Umum Daerah R. T. Notopuro Sidoarjo,Kelas A,7,4,5,9,7,7,2
+3515,SIDOARJO,RS Umum Daerah Sidoarjo Barat,Kelas C,2,2,2,3,2,1,1
+3516,MOJOKERTO,RS Umum Daerah Sumberglagah,Kelas C,2,2,2,2,2,1,1
+3516,MOJOKERTO,RS Umum Daerah Prof. Dr. Soekandar,Kelas B,3,2,4,5,4,2,2
+3516,MOJOKERTO,RS Umum Daerah Raden Achmad Basoeni,Kelas C,3,2,2,3,2,1,1
+3517,JOMBANG,RS Umum Daerah Kab. Jombang,Kelas B,4,4,3,5,4,3,3
+3517,JOMBANG,RS Umum Daerah Ploso,Kelas C,2,2,2,3,3,1,1
+3518,NGANJUK,RS Umum Daerah Nganjuk,Kelas B,2,2,3,5,2,1,1
+3518,NGANJUK,RS Daerah Kertosono,Kelas C,3,3,3,2,2,1,1
+3519,MADIUN,RS Umum Daerah Dungus,Kelas C,1,2,2,1,1,1,1
+3519,MADIUN,RS Umum Daerah Caruban,Kelas C,3,2,3,4,2,1,1
+3519,MADIUN,RS Umum Daerah Dolopo,Kelas C,2,1,2,2,2,1,1
+3520,MAGETAN,RS Umum Daerah dr. Sayidiman Magetan,Kelas C,3,2,3,4,2,2,2
+3521,NGAWI,RS Umum Daerah Dr. Soeroto Ngawi,Kelas C,2,3,4,3,1,1,1
+3521,NGAWI,RS Umum Daerah Geneng,Kelas D,1,2,1,2,1,1,1
+3521,NGAWI,RS Umum Daerah Mantingan,Kelas D,1,1,1,2,1,1,2
+3522,BOJONEGORO,RS Umum Daerah Dr. R. Sosodoro Djatikoesoemo,Kelas B,3,3,3,6,3,4,2
+3522,BOJONEGORO,RS Umum Daerah Sumberrejo,Kelas C,2,2,2,2,2,1,1
+3522,BOJONEGORO,RS umum Daerah Padangan,Kelas C,1,2,3,2,2,1,1
+3522,BOJONEGORO,RS Umum Daerah Kepohbaru,Kelas D,1,1,2,1,1,1,1
+3522,BOJONEGORO,RSUD TEMAYANG,Kelas D,0,1,1,1,1,1,1
+3523,TUBAN,RS Umum Daerah Dr. R. Koesma Tuban,Kelas B,4,3,4,4,4,4,2
+3523,TUBAN,RS Umum Daerah R. Ali Manshur,Kelas C,2,2,3,2,3,2,1
+3524,LAMONGAN,RS Umum Daerah Dr. Soegiri Lamongan,Kelas B,4,3,4,3,2,3,2
+3524,LAMONGAN,RS Umum Daerah Ngimbang,Kelas C,1,2,2,4,2,1,1
+3524,LAMONGAN,RS Umum Daerah Karangkembang,Kelas D,1,2,1,2,1,1,2
+3524,LAMONGAN,RS Umum Daerah Ki Ageng Brondong,Kelas D,1,1,1,2,1,0,1
+3525,GRESIK,RS Umum Daerah Ibnu Sina Kab. Gresik,Kelas B,3,2,3,7,3,4,2
+3525,GRESIK,RS Umum Daerah Umar Mas'ud Bawean,Kelas D,1,1,1,1,1,0,0
+3525,GRESIK,RS Umum Daerah Gresik Sehati,Kelas C,1,1,1,1,1,1,1
+3526,BANGKALAN,RS Umum Daerah Syarifah Ambami Rato Ebu,Kelas B,4,3,4,4,4,3,2
+3527,SAMPANG,RS Umum Daerah dr. Mohammad Zyn Kab. Sampang,Kelas B,3,3,3,3,2,3,1
+3527,SAMPANG,RS Umum Daerah Ketapang,Kelas D,2,1,2,1,2,1,1
+3528,PAMEKASAN,RS Umum Daerah Dr. H. Slamet Martodirdjo Pamekasan,Kelas B,2,4,3,4,3,3,2
+3528,PAMEKASAN,RS Umum Daerah Mohammad Noer Pamekasan,Kelas C,2,3,2,2,2,3,1
+3528,PAMEKASAN,RS Umum Daerah Waru Pamekasan,Kelas D,1,2,1,2,2,1,1
+3529,SUMENEP,RS Umum Daerah dr. H. Moh. Anwar,Kelas B,3,2,3,5,4,1,1
+3529,SUMENEP,RS Umum Daerah Abuya Kangean,Kelas D,2,1,6,1,2,1,1
+3571,KOTA KEDIRI,RS Umum Daerah Gambiran,Kelas B,3,2,3,7,3,3,2
+3571,KOTA KEDIRI,RS Umum Daha Husada,Kelas D,2,3,1,2,2,1,1
+3571,KOTA KEDIRI,RS Umum Daerah Kilisuci,Kelas C,1,1,2,2,1,1,1
+3572,KOTA BLITAR,RS Umum Daerah Mardi Waluyo,Kelas B,3,2,3,4,2,2,2
+3573,KOTA MALANG,RS Umum Daerah Dr. Saiful Anwar,Kelas A,7,7,3,24,19,5,4
+3573,KOTA MALANG,RS Umum Daerah Kota Malang,Kelas C,3,1,2,3,1,2,1
+3574,KOTA PROBOLINGGO,RS Umum Daerah dr. Mohamad Saleh Kota Probolinggo,Kelas B,3,3,3,5,2,4,1
+3574,KOTA PROBOLINGGO,RS Umum Daerah Ar Rozy,Kelas C,1,3,1,3,2,1,1
+3575,KOTA PASURUAN,RS Umum Daerah Dr. R. Soedarsono Kota Pasuruan,Kelas C,3,2,2,3,2,1,1
+3576,KOTA MOJOKERTO,RSUD dr. Wahidin Sudiro Husodo Kota Mojokerto,Kelas B,4,3,3,3,3,2,2
+3577,KOTA MADIUN,RS Umum Daerah Dr. Soedono Madiun,Kelas B,3,5,3,9,3,4,3
+3577,KOTA MADIUN,RS Umum Daerah Kota Madiun,Kelas C,3,3,2,2,2,1,1
+3578,KOTA SURABAYA,RS Umum Daerah Dr. Soetomo,Kelas A,51,24,49,61,78,21,21
+3578,KOTA SURABAYA,RS Umum Daerah Bhakti Dharma Husada,Kelas B,3,3,4,5,4,3,3
+3578,KOTA SURABAYA,RS Umum Daerah Husada Prima,Kelas C,2,3,2,3,2,1,1
+3578,KOTA SURABAYA,RS Umum Daerah Haji Provinsi Jawa Timur,Kelas B,3,3,4,5,5,4,4
+3578,KOTA SURABAYA,RS Umum Daerah dr. Mohamad Soewandhie,Kelas B,7,7,4,12,4,5,2
+3578,KOTA SURABAYA,RS Umum Daerah Eka Candrarini,Kelas C,4,4,3,5,5,3,3
+3579,KOTA BATU,RS Umum Karsa Husada Kota Batu,Kelas B,4,4,4,6,3,3,3
+3601,PANDEGLANG,RS Umum Daerah Berkah Pandeglang,Kelas B,2,5,5,4,4,2,1
+3601,PANDEGLANG,RS Umum Aulia Pandeglang,Kelas D,1,1,1,1,1,0,0
+3601,PANDEGLANG,RS Umum Daerah Labuan,Kelas C,2,2,2,2,2,1,2
+3602,LEBAK,RS Umum Daerah Dr. Adjidarmo,Kelas B,2,5,3,3,2,2,2
+3602,LEBAK,RS Umum Daerah Malingping,Kelas C,2,3,2,3,3,2,1
+3602,LEBAK,RS Umum Daerah Cilograng,Kelas C,2,2,2,2,2,1,1
+3603,TANGERANG,RS Umum Daerah Kabupaten Tangerang,Kelas B,7,3,4,5,4,7,3
+3603,TANGERANG,RS Umum Daerah Balaraja,Kelas B,4,4,5,7,5,4,2
+3603,TANGERANG,RS Umum Daerah Pakuhaji,Kelas C,2,2,3,4,3,1,1
+3603,TANGERANG,RS Umum Daerah Tigaraksa,Kelas C,1,2,3,2,2,1,1
+3604,SERANG,RS Umum Daerah dr. Drajat Prawiranegara,Kelas B,4,4,3,3,3,4,1
+3671,KOTA TANGERANG,RS Umum Daerah Kota Tangerang,Kelas C,3,5,4,5,4,3,2
+3671,KOTA TANGERANG,RSUD BENDA,Kelas D,1,1,2,1,2,1,1
+3671,KOTA TANGERANG,UPT RSUD Panunggangan Barat,Kelas D,0,0,0,0,0,0,0
+3672,KOTA CILEGON,RS Umum Daerah Kota Cilegon,Kelas B,4,3,4,5,2,3,2
+3673,KOTA SERANG,RS Umum Daerah Banten,Kelas B,4,4,5,5,4,3,2
+3673,KOTA SERANG,RS Umum Daerah Kota Serang,Kelas C,2,2,4,4,3,2,1
+3674,KOTA TANGERANG SELATAN,RS Umum Daerah Serpong Utara,Kelas C,2,2,2,3,2,1,2
+3674,KOTA TANGERANG SELATAN,RS Umum Daerah Kota Tangerang Selatan,Kelas C,4,2,4,3,3,3,1
+3674,KOTA TANGERANG SELATAN,RS Umum Daerah Pondok Aren,Kelas C,3,3,1,3,1,1,2

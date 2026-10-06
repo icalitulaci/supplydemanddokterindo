@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Specialist Demand Map</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <nav class="rail" aria-label="Views">
+    <div class="brand">Specialist demand</div>
+    <a href="#map" data-view="map">Map</a>
+    <a href="#overview" data-view="overview">Overview</a>
+    <a href="#specialty" data-view="specialty">By specialty</a>
+    <a href="#hospital" data-view="hospital">Hospital</a>
+    <a href="#region" data-view="region">Regions</a>
+    <a href="#quality" data-view="quality">Data quality <span class="badge" id="reviewBadge" hidden></span></a>
+    <a href="#about" data-view="about">How the score works</a>
+    <div class="rail-foot" id="meta"></div>
+  </nav>
+
+  <main>
+    <form class="filters" id="filters" autocomplete="off">
+      <label for="f-q">Search<input id="f-q" type="search" placeholder="Hospital or kab/kota"></label>
+      <label for="f-prov">Province<select id="f-prov"><option value="">All provinces</option></select></label>
+      <label for="f-kab">Kab/kota<select id="f-kab"><option value="">All</option></select></label>
+      <label for="f-own">Ownership<select id="f-own">
+        <option value="">All</option><option>Government</option><option>Private</option><option>TNI/Polri</option><option>BUMN</option>
+      </select></label>
+      <label for="f-type">Hospital type<select id="f-type"><option value="">All</option></select></label>
+      <label for="f-kelas">Class<select id="f-kelas">
+        <option value="">All</option><option value="A">Kelas A</option><option value="B">Kelas B</option><option value="C">Kelas C</option>
+        <option value="D">Kelas D</option><option value="D Pratama">Kelas D Pratama</option><option value="Not set">Not set</option>
+      </select></label>
+      <label for="f-band">Beds<select id="f-band">
+        <option value="">All</option><option value="0">Under 50</option><option value="1">50–99</option><option value="2">100–199</option>
+        <option value="3">200–249</option><option value="4">250–499</option><option value="5">500 or more</option>
+      </select></label>
+      <label for="f-spec">Specialty<select id="f-spec"><option value="">Any specialty</option></select></label>
+      <label for="f-label">Need level<select id="f-label">
+        <option value="">All</option><option value="2">High</option><option value="1">Moderate</option><option value="0">Low</option>
+      </select></label>
+      <button type="button" id="f-reset" class="ghost">Clear filters</button>
+    </form>
+
+    <section class="view" id="view-map">
+      <div id="map"></div>
+      <div class="notice" id="notice" role="note" hidden></div>
+      <div class="legend" id="legend"></div>
+      <aside class="drawer" id="drawer" hidden></aside>
+    </section>
+    <section class="view page" id="view-overview" hidden></section>
+    <section class="view page" id="view-specialty" hidden></section>
+    <section class="view page" id="view-hospital" hidden></section>
+    <section class="view page" id="view-region" hidden></section>
+    <section class="view page" id="view-quality" hidden></section>
+    <section class="view page" id="view-about" hidden></section>
+  </main>
+</div>
+<div class="loading" id="loading">Loading hospital data…</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

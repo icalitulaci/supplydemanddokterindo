@@ -1,0 +1,1681 @@
+kode,nama,prov,kab,pemilik,kelas,jenis,beds,ortho_service,OT,B,An,Rad,JP,S,KFR,BS,PD
+3171805,RS Umum Siloam Mampang,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,C,RSU,101,True,6,3,5,1,1,3,2,1,5
+3175181,RS Sukmul Sisma Medika,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,C,RSU,100,False,1,2,4,1,0,1,1,0,2
+3174545,Rumah Sakit Kapal dr Lie Dharmawan III,DKI Jakarta,Kota Jakarta Barat,Organisasi Sosial,Non Kelas,RS Bergerak,0,False,0,0,0,0,0,0,0,0,0
+3171450,RS Umum Setia Mitra,DKI Jakarta,Kota Jakarta Selatan,Organisasi Sosial,C,RSU,92,True,2,3,4,4,3,4,1,1,9
+3171917,Rumah Sakit Eka MT Haryono,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,B,RSU,183,True,4,5,6,4,4,4,2,2,9
+3172746,RS Khusus Daerah Duren Sawit,DKI Jakarta,Kota Jakarta Timur,Pemprop,A,RSK Jiwa,521,True,2,2,3,2,2,4,2,1,6
+3171915,Rumah Sakit Khusus Bedah LAMINA,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSK BEDAH,16,True,0,3,0,1,0,0,1,0,0
+3175408,RS Umum Firdaus,DKI Jakarta,Kota Jakarta Utara,Perusahaan,C,RSU,112,True,1,3,3,2,2,3,1,0,6
+3171735,RS Umum Jakarta Medical Center (JMC),DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSU,123,True,2,4,3,4,0,2,0,0,6
+3172495,RS EMC Pulomas,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,B,RSU,200,True,2,4,3,5,0,5,1,2,7
+3174063,RS Kanker Dharmais,DKI Jakarta,Kota Jakarta Barat,Kemkes ,A,RSK KANKER,439,True,2,3,7,3,1,3,1,1,14
+3172531,RS Umum Harapan Jayakarta,DKI Jakarta,Kota Jakarta Timur,Organisasi Sosial,C,RSU,101,True,1,3,3,0,2,2,0,0,5
+3101002,RS Umum Daerah Kepulauan Seribu,DKI Jakarta,Kepulauan Seribu,Pemprop,D,RSU,50,False,0,2,1,1,0,0,0,0,2
+3171791,RS Umum Daerah Pesanggrahan,DKI Jakarta,Kota Jakarta Selatan,Pemprop,C,RSU,106,False,0,2,3,2,1,2,1,0,3
+3172915,Rumah Sakit Primaya,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,B,RSU,204,True,3,3,0,3,3,3,2,2,8
+3172753,RS Umum Antam Medika,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,C,RSU,146,True,2,3,3,3,3,3,1,1,7
+3172035,RS Umum Pengayoman Cipinang,DKI Jakarta,Kota Jakarta Timur,Kementerian Lain,D,RSU,50,False,0,1,0,2,0,1,0,0,2
+3173532,RS Khusus THT Bedah KL Proklamasi,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,B,RSK THT-KL,25,False,0,0,6,0,0,0,1,0,1
+3171768,RS Umum Murni Teguh Sudirman Jakarta,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,C,RSU,100,True,4,4,2,3,2,3,1,2,4
+3173700,RS Umum Daerah Cempaka Putih,DKI Jakarta,Kota Jakarta Pusat,Pemprop,D,RSU,49,False,0,2,2,1,0,1,1,0,3
+3174026,RS Umum Pelni Petamburan,DKI Jakarta,Kota Jakarta Barat,BUMN,B,RSU,602,True,5,5,8,11,13,9,5,2,10
+3173645,RS Menteng Mitra Afia,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,C,RSU,100,False,0,2,2,1,1,3,1,0,5
+3175416,RS Umum Daerah  Tanjung Priok,DKI Jakarta,Kota Jakarta Utara,Pemprop,D,RSU,50,False,0,1,3,1,0,1,1,0,2
+3175016,RS Umum Daerah Koja,DKI Jakarta,Kota Jakarta Utara,Pemprop,B,RSU,692,True,2,4,5,3,3,4,2,2,4
+3174453,RS Umum Cinta Kasih Tzu Chi,DKI Jakarta,Kota Jakarta Barat,Organisasi Sosial,C,RSU,102,True,2,4,3,3,0,3,1,0,6
+3171665,RS Umum Medistra,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,B,RSU,177,True,5,4,10,8,9,9,2,3,21
+3171056,RS Khusus Kanker MRCCC Siloam Semanggi,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,A,RSK KANKER,212,True,6,8,6,5,4,2,2,1,11
+3171912,RS Jantung dan Pembuluh Darah Heartology,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSK JANTUNG,47,False,0,0,1,2,9,1,0,0,2
+3175374,RS Umum Puri Medika,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,C,RSU,106,True,2,2,1,1,2,3,1,0,3
+3171680,RS Umum Tria Dipa,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSU,106,True,3,2,3,1,1,1,1,0,5
+3172126,RS Umum Daerah Pasar Rebo,DKI Jakarta,Kota Jakarta Timur,Pemprop,B,RSU,263,True,3,2,4,3,1,2,2,1,3
+3173521,RS Umum Daerah Tarakan,DKI Jakarta,Kota Jakarta Pusat,Pemprop,A,RSU,447,True,3,3,4,2,3,3,0,1,5
+3172083,RS Tk. IV Cijantung,DKI Jakarta,Kota Jakarta Timur,TNI AD,C,RSU,100,True,1,4,2,1,1,2,0,0,3
+3175414,RS Umum Daerah Cilincing,DKI Jakarta,Kota Jakarta Utara,Pemprop,C,RSU,100,False,0,2,2,1,2,3,1,0,2
+3171784,RS Yadika Kebayoran Lama,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,C,RSU,100,True,0,4,1,0,0,2,0,0,2
+3172751,RS Gigi Dan Mulut Angkatan Udara,DKI Jakarta,Kota Jakarta Timur,TNI AU,B,RSK GM,13,False,0,0,1,0,0,0,0,0,0
+3172748,RS Umum Alia Hospital,DKI Jakarta,Kota Jakarta Timur,Perusahaan,C,RSU,100,True,1,2,5,2,1,2,1,0,4
+3171801,RS Umum Daerah Kebayoran Baru,DKI Jakarta,Kota Jakarta Selatan,Pemprop,D,RSU,41,False,0,2,3,1,0,1,0,0,3
+3173073,RS Islam Jakarta Cempaka Putih,DKI Jakarta,Kota Jakarta Pusat,Organisasi Islam ,B,RSU,376,True,4,5,11,4,9,7,3,2,8
+3172769,RS Umum  Dr. EUIS,DKI Jakarta,Kota Jakarta Timur,Perusahaan,C,RSU,103,False,0,1,1,0,0,0,0,0,1
+3173116,RS Umum YPK Mandiri,DKI Jakarta,Kota Jakarta Pusat,Organisasi Sosial,D,RSU,51,False,0,1,10,1,0,0,0,0,5
+3173707,RS Gigi Dan Mulut YARSI,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,B,RSK GM,13,False,0,0,2,0,0,0,0,0,0
+3173612,RS Khusus THT Prof Nizar,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,C,RSK THT-KL,15,False,0,0,2,0,0,0,0,0,0
+3174542,RS Umum dr Abdul Radjak Cengkareng,DKI Jakarta,Kota Jakarta Barat,SWASTA/LAINNYA,D,RSU,52,True,2,4,2,1,0,1,0,0,2
+3174074,RS Umum Daerah Cengkareng,DKI Jakarta,Kota Jakarta Barat,Pemprop,B,RSU,500,True,4,5,5,3,5,4,2,3,5
+3174030,RS Umum Bhakti Mulia,DKI Jakarta,Kota Jakarta Barat,Organisasi Sosial,C,RSU,172,True,2,2,5,1,1,3,2,0,5
+3171461,RS Umum Tebet,DKI Jakarta,Kota Jakarta Selatan,Organisasi Sosial,B,RSU,201,True,1,3,2,2,2,2,1,0,6
+3175385,RS Umum Mitra Keluarga Kelapa Gading,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,B,RSU,125,True,7,5,5,8,6,4,7,3,11
+3174531,RS Ukrida,DKI Jakarta,Kota Jakarta Barat,Perusahaan,C,RSU,100,True,1,4,4,3,0,6,1,2,6
+3171045,RS Jakarta,DKI Jakarta,Kota Jakarta Selatan,Organisasi Sosial,C,RSU,108,True,7,3,6,3,1,4,1,4,4
+3171786,RS Umum Mayapada,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,B,RSU,220,True,16,6,12,11,11,9,5,10,16
+3171807,RS Brawijaya Saharjo,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSU,218,True,3,5,4,6,2,3,2,5,6
+3175315,RS Umum  Satya Negara,DKI Jakarta,Kota Jakarta Utara,Organisasi Sosial,C,RSU,140,True,2,4,4,2,1,4,1,3,5
+3171574,RS Umum Prikasih,DKI Jakarta,Kota Jakarta Selatan,Organisasi Sosial,C,RSU,115,True,2,5,7,3,3,4,2,1,5
+3172024,RS Umum Daerah Budhi Asih,DKI Jakarta,Kota Jakarta Timur,Pemprop,B,RSU,272,True,5,4,1,3,4,3,2,0,7
+3172758,RS Khusus Bedah Columbia Asia Pulomas,DKI Jakarta,Kota Jakarta Timur,Perusahaan,A,RSK BEDAH,129,True,3,3,3,1,3,3,2,2,5
+3171918,Rumah Sakit Wangsa Avatara,DKI Jakarta,Kota Jakarta Selatan,Kementerian Lain,C,RSU,0,True,0,1,1,1,0,0,0,0,0
+3175410,RS Umum Pekerja,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,C,RSU,171,True,1,2,5,3,2,3,1,0,4
+3171757,RS Ibu dan Anak Brawijaya Durentiga,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSIA,32,True,1,2,5,1,0,1,0,0,4
+3172553,RS Umum Harapan Bunda,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,B,RSU,200,True,1,3,5,5,2,4,1,1,8
+3174282,RS Jantung dan Pembuluh Darah Harapan Kita,DKI Jakarta,Kota Jakarta Barat,Kemkes ,A,RSK JANTUNG,414,False,0,0,6,2,46,1,1,0,2
+3172702,RS Umum Dharma Nugraha,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,C,RSU,101,True,1,5,4,1,1,0,1,0,3
+3171793,RS Umum Daerah Mampang Prapatan,DKI Jakarta,Kota Jakarta Selatan,Pemprop,D,RSU,58,False,0,1,2,1,0,1,1,0,4
+3171802,RS Khusus Bedah Halimun,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,C,RSK BEDAH,28,True,1,1,1,0,0,0,0,0,1
+3173040,RS Umum Husada,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,B,RSU,219,True,3,6,4,3,3,5,1,2,11
+3172759,RS Umum Restu Kasih,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,C,RSU,113,True,3,3,5,0,2,1,2,1,4
+3172766,RS Umum Olahraga Nasional,DKI Jakarta,Kota Jakarta Timur,Kementerian Lain,D,RSU,50,True,1,0,1,1,1,1,0,0,1
+3173656,RS Umum Mitra Kemayoran,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,B,RSU,142,True,4,6,6,5,2,6,5,3,7
+3173441,RS Umum Primaya Evasari Hospital,DKI Jakarta,Kota Jakarta Pusat,Organisasi Sosial,C,RSU,101,True,2,3,4,2,1,2,1,0,4
+3173705,RS Umum Daerah Tanah Abang,DKI Jakarta,Kota Jakarta Pusat,Pemprop,D,RSU,50,False,0,1,2,2,0,2,1,0,3
+3174431,RS Umum Hermina Daan Mogot,DKI Jakarta,Kota Jakarta Barat,SWASTA/LAINNYA,B,RSU,326,True,3,6,9,4,3,4,2,2,10
+3173696,RS Umum Bunda Jakarta,DKI Jakarta,Kota Jakarta Pusat,Perusahaan,C,RSU,101,True,2,3,8,4,4,4,2,4,8
+3175330,RS Umum Royal Progress,DKI Jakarta,Kota Jakarta Utara,Organisasi Sosial,B,RSU,200,True,4,4,5,3,1,2,1,0,9
+3174518,RS Umum Daerah Kalideres,DKI Jakarta,Kota Jakarta Barat,Pemprop,C,RSU,128,False,0,3,4,2,1,2,1,1,3
+3171724,RS Khusus Ibu dan Anak Brawijaya,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,B,RSIA,75,True,2,3,6,5,2,4,1,0,1
+3174546,Rumah Sakit Kapal dr Lie Dharmawan Bayan Peduli,DKI Jakarta,Kota Jakarta Barat,Organisasi Sosial,Non Kelas,RS Bergerak,0,False,0,0,0,0,0,0,0,0,0
+3171413,RS Ibu dan Anak JWCC Asih,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,C,RSIA,36,False,0,0,13,1,0,0,0,0,1
+3171795,RS Umum Daerah Pasar Minggu,DKI Jakarta,Kota Jakarta Selatan,Pemprop,B,RSU,314,True,1,4,5,4,3,4,2,3,6
+3172072,RS Umum Bhayangkara Tk. I R.Said Sukanto,DKI Jakarta,Kota Jakarta Timur,POLRI,A,RSU,725,True,7,8,12,5,6,5,4,3,7
+3171914,Rumah Sakit Visindo,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,C,RSK Mata,15,False,0,0,0,1,0,0,0,0,1
+3174509,RS Ibu dan Anak St. Yusuf,DKI Jakarta,Kota Jakarta Utara,Organisasi Katholik,C,RSIA,46,False,0,1,2,1,0,0,0,0,1
+3171713,RS Umum Kartini,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSU,110,False,0,1,5,0,0,2,0,0,2
+3172243,RS Umum Hermina Jatinegara,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,B,RSU,300,True,3,9,10,4,5,7,5,2,10
+3174041,RS Jiwa Dr. Soeharto Heerdjan,DKI Jakarta,Kota Jakarta Barat,Kemkes ,A,RSK Jiwa,256,False,0,1,2,1,0,2,0,0,2
+3172520,RS Umum Harum,DKI Jakarta,Kota Jakarta Timur,Organisasi Sosial,C,RSU,100,True,2,3,4,2,2,2,1,0,5
+3171790,RS Umum Daerah Tebet,DKI Jakarta,Kota Jakarta Selatan,Pemprop,C,RSU,90,False,0,2,2,1,0,2,1,0,3
+3172757,Rumah Sakit Adhyaksa Jakarta,DKI Jakarta,Kota Jakarta Timur,Kementerian Lain,B,RSU,298,True,2,2,3,2,4,2,1,3,5
+3172752,RS Jantung Binawaluya,DKI Jakarta,Kota Jakarta Timur,Perusahaan,C,RSK JANTUNG,25,False,0,0,1,2,9,1,0,0,1
+3171920,RSAU Prof dr Abdulrachman Saleh,DKI Jakarta,Kota Jakarta Selatan,TNI AU,D,RSU,101,False,0,1,1,1,1,2,0,0,2
+3173506,RS Umum dr. Abdul Radjak Salemba,DKI Jakarta,Kota Jakarta Pusat,Organisasi Sosial,B,RSU,200,True,0,2,0,1,0,1,0,1,1
+3172916,Mayapada Hospital Jakarta Timur,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,C,RSU,107,True,5,5,5,3,3,5,3,3,10
+3173701,RS Umum Daerah Johar Baru,DKI Jakarta,Kota Jakarta Pusat,Pemprop,D,RSU,46,False,0,2,3,1,0,1,1,0,4
+3174015,RS Umum Sumber Waras,DKI Jakarta,Kota Jakarta Barat,Organisasi Sosial,B,RSU,202,True,4,6,4,2,2,3,2,1,6
+3173634,RS Khusus Bedah Bina Estetika,DKI Jakarta,Kota Jakarta Pusat,Organisasi Sosial,C,RSK BEDAH,25,False,0,1,4,1,0,0,0,0,1
+3175413,RS Umum Daerah  Pademangan,DKI Jakarta,Kota Jakarta Utara,Pemprop,D,RSU,51,False,0,2,2,1,0,1,1,0,2
+3174522,RS Umum Ciputra Hospital Citragarden City,DKI Jakarta,Kota Jakarta Barat,SWASTA/LAINNYA,B,RSU,200,True,2,3,2,5,1,4,2,0,4
+3174420,RS Umum Eka Permata Hijau,DKI Jakarta,Kota Jakarta Barat,SWASTA/LAINNYA,C,RSU,100,True,3,5,4,2,3,3,3,0,7
+3171515,RS Umum MMC,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,B,RSU,200,True,7,4,4,3,5,5,3,4,12
+3175418,RS Umum Tzu Chi Hospital,DKI Jakarta,Kota Jakarta Utara,Organisasi Budha,B,RSU,203,True,4,9,7,6,3,8,3,8,11
+3175042,RS Umum  Pelabuhan Tanjung Priok,DKI Jakarta,Kota Jakarta Utara,BUMN,C,RSU,185,True,2,3,6,3,2,4,2,0,6
+3174543,RS Kapal dr. Lie Dharmawan II,DKI Jakarta,Kota Jakarta Selatan,Kementerian Lain,C,RS Bergerak,0,False,0,0,0,0,0,0,0,0,0
+3175363,RS Khusus Ibu dan Anak Eka Family,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,C,RSIA,52,False,0,2,4,1,0,1,1,0,2
+3171643,RS Orthopedi Siaga Raya,DKI Jakarta,Kota Jakarta Selatan,Organisasi Sosial,C,RSK Orthopedi,34,True,9,1,4,2,2,1,0,0,1
+3172094,RS Umum Universitas Kristen Indonesia,DKI Jakarta,Kota Jakarta Timur,Organisasi Protestan,B,RSU,200,True,1,3,3,3,1,5,2,1,3
+3173025,RS Umum PAD Gatot Soebroto,DKI Jakarta,Kota Jakarta Pusat,TNI AD,A,RSU,720,True,7,4,9,29,7,12,4,5,16
+3172050,RS Pusdikkes,DKI Jakarta,Kota Jakarta Timur,TNI AD,C,RSU,102,True,1,5,5,1,1,1,0,0,1
+3175412,RS Umum Daerah Tugu Koja,DKI Jakarta,Kota Jakarta Utara,Pemprop,C,RSU,104,False,0,2,2,1,2,2,0,0,3
+3171782,RS Umum Andhika,DKI Jakarta,Kota Jakarta Selatan,Organisasi Sosial,C,RSU,105,True,1,2,3,2,1,2,1,0,7
+3173084,RS Tk. II M. Ridwan Meuraksa,DKI Jakarta,Kota Jakarta Timur,TNI AD,B,RSU,221,True,4,5,3,3,6,1,0,2,6
+3175064,RS Penyakit Infeksi Prof. Dr. Sulianti Saroso,DKI Jakarta,Kota Jakarta Utara,Kemkes ,A,RSK INFEKSI,171,True,1,2,3,3,2,4,2,0,4
+3172137,RS Ibu dan Anak Sayyidah,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,C,RSIA,34,False,0,1,1,1,0,0,0,0,1
+3171800,RS Umum Daerah Jati Padang,DKI Jakarta,Kota Jakarta Selatan,Pemprop,D,RSU,54,False,0,2,3,1,0,2,1,0,4
+3173062,RS Primaya PGI Cikini,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,B,RSU,204,True,2,3,4,2,1,3,1,1,6
+3172765,RS Ibu dan Anak AL-Fauzan,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,C,RSIA,33,True,1,0,1,1,0,0,0,0,1
+3172771,RS Umum Daerah Cipayung,DKI Jakarta,Kota Jakarta Timur,Pemprop,D,RSU,50,False,0,2,4,2,0,1,0,0,4
+3173706,RS Umum Hermina Kemayoran,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,B,RSU,217,True,3,5,8,2,3,4,2,2,7
+3173580,RS Umum Kramat 128,DKI Jakarta,Kota Jakarta Pusat,Organisasi Sosial,C,RSU,90,True,4,6,2,2,2,3,3,1,4
+3174525,RS Umum Daerah Taman Sari,DKI Jakarta,Kota Jakarta Barat,Pemprop,D,RSU,50,False,0,3,2,1,0,1,1,0,2
+3174508,RS Pondok Indah Puri Indah ,DKI Jakarta,Kota Jakarta Barat,SWASTA/LAINNYA,B,RSU,202,True,3,2,6,6,2,5,4,1,6
+3173723,RS Siloam Agora,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,C,RSU,99,True,3,3,2,2,3,2,1,0,2
+3171034,RS Umum AL Cilandak,DKI Jakarta,Kota Jakarta Selatan,TNI AL,B,RSU,200,True,0,0,0,0,0,0,0,0,0
+3175352,RS Umum Pantai Indah Kapuk,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,B,RSU,203,True,4,3,5,4,5,5,3,1,7
+3174517,RS Umum Daerah  Kembangan,DKI Jakarta,Kota Jakarta Barat,Pemprop,C,RSU,100,False,0,1,2,1,1,3,1,0,3
+3171783,RS Kemang Medical Care,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,B,RSIA,55,False,0,1,3,1,0,0,2,0,2
+3171072,RS PPN Soedirman Kemhan,DKI Jakarta,Kota Jakarta Selatan,Kementerian Lain,A,RSU,632,True,19,17,21,21,15,20,13,12,24
+3171806,Mayapada Hospital Kuningan,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSU,100,True,3,5,5,6,1,4,0,3,11
+3175304,RS Umum Hermina Podomoro,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,C,RSU,104,True,3,5,6,3,3,5,4,1,6
+3171552,RS Khusus THT Ciranjang,DKI Jakarta,Kota Jakarta Selatan,Organisasi Sosial,C,RSK BEDAH,15,False,0,0,2,1,0,0,0,0,0
+3171435,RS Ketergantungan Obat,DKI Jakarta,Kota Jakarta Timur,Kemkes ,B,RSKO,170,False,0,1,1,1,0,1,1,0,2
+3172749,RS Pusat Otak Nasional Prof DR. dr. Mahar Mardjono,DKI Jakarta,Kota Jakarta Timur,Kemkes ,A,RSK OTAK,355,True,2,1,4,5,2,26,2,9,2
+3171916,RS Murni Teguh Pejaten Jakarta,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,C,RSU,112,True,0,1,2,2,1,1,1,0,2
+3175409,RS Khusus Ibu dan Anak Eka Grand Family,DKI Jakarta,Kota Jakarta Utara,Perusahaan,C,RSIA,65,False,0,4,3,1,1,1,1,0,4
+3171746,RS Umum Aulia,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSU,110,True,1,4,6,3,1,1,1,0,5
+3172505,RS Islam Jakarta Pondok Kopi,DKI Jakarta,Kota Jakarta Timur,Organisasi Islam ,B,RSU,202,True,4,3,5,2,5,5,3,3,8
+3174260,RS Anak dan Bunda Harapan Kita,DKI Jakarta,Kota Jakarta Barat,Kemkes ,A,RSIA,275,True,1,1,7,6,0,0,1,1,0
+3172590,RS Umum Yadika,DKI Jakarta,Kota Jakarta Timur,Organisasi Sosial,C,RSU,100,True,0,3,4,1,1,3,1,0,4
+3171792,RS Umum Daerah Jagakarsa,DKI Jakarta,Kota Jakarta Selatan,Pemprop,D,RSU,59,False,0,2,2,1,0,2,0,0,2
+3171798,RS Umum Ali Sibroh Malisi,DKI Jakarta,Kota Jakarta Selatan,Perorangan,C,RSU,102,True,1,3,2,1,2,2,0,0,3
+3173036,RS Umum AL Dr. Mintohardjo,DKI Jakarta,Kota Jakarta Pusat,TNI AL,B,RSU,201,True,1,6,5,3,2,5,1,1,6
+3172756,RS Ibu dan Anak SamMarie Basra,DKI Jakarta,Kota Jakarta Timur,Perusahaan,C,RSIA,24,False,0,1,4,1,0,1,1,0,3
+3172762,RS Umum Daerah Ciracas,DKI Jakarta,Kota Jakarta Timur,Pemprop,D,RSU,52,False,0,3,3,3,0,1,0,0,4
+3173543,RS Umum Abdi Waluyo,DKI Jakarta,Kota Jakarta Pusat,Organisasi Sosial,B,RSU,102,True,2,2,4,4,10,4,1,3,11
+3173105,RS Umum Budi Kemuliaan,DKI Jakarta,Kota Jakarta Pusat,Organisasi Sosial,C,RSU,108,False,0,2,7,2,1,2,1,0,4
+3173699,RS Umum Daerah Kemayoran,DKI Jakarta,Kota Jakarta Pusat,Pemprop,D,RSU,50,False,0,2,3,1,0,1,0,0,2
+3174351,RS Umum Siloam Hospitals Kebon Jeruk,DKI Jakarta,Kota Jakarta Barat,SWASTA/LAINNYA,B,RSU,200,True,4,5,6,5,6,2,6,4,13
+3173695,RS Ibu dan Anak Tambak,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,C,RSIA,35,False,0,2,3,2,0,0,0,0,1
+3175031,RS Umum Akademik Atma Jaya,DKI Jakarta,Kota Jakarta Utara,Organisasi Katholik,B,RSU,196,True,3,6,4,5,2,7,2,2,6
+3174515,RS Khusus Mata JEC @Kedoya,DKI Jakarta,Kota Jakarta Barat,Perusahaan,C,RSK Mata,16,False,0,0,2,1,0,0,0,0,3
+3171691,RS Gigi dan Mulut Univ. Prof. Moestopo,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,B,RSK GM,13,False,0,0,1,0,0,0,0,0,1
+3172013,RSUP Persahabatan,DKI Jakarta,Kota Jakarta Timur,Kemkes ,A,RSU,590,True,2,1,8,6,4,6,2,0,9
+3171913,RSIA Mahati,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSIA,31,False,0,1,2,1,0,0,0,0,1
+3175075,RS Umum Mulyasari,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,C,RSU,104,True,0,1,1,1,1,2,1,0,1
+3171702,RS Umum Zahirah,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSU,103,True,0,1,2,2,0,1,0,0,2
+3172206,RS Umum Premier Jatinegara,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,B,RSU,202,True,3,2,5,2,2,4,3,1,9
+3173671,RS Gigi dan Mulut FKG Univ. Indonesia,DKI Jakarta,Kota Jakarta Pusat,Kementerian Lain,A,RSK GM,14,False,0,0,2,0,0,0,0,0,1
+3172301,RS Khusus Bedah Rawamangun,DKI Jakarta,Kota Jakarta Timur,Organisasi Sosial,C,RSK BEDAH,39,True,1,2,2,1,0,0,0,0,3
+3175417,RS Mata JEC Primasana @Tanjung Priok,DKI Jakarta,Kota Jakarta Utara,Perorangan,C,RSK Mata,25,False,0,0,2,0,0,0,0,0,2
+3171785,RS Umum Bhayangkara Lemdiklat Polri,DKI Jakarta,Kota Jakarta Selatan,POLRI,C,RSU,181,True,1,4,3,1,2,3,1,0,5
+3172755,RS Jantung Jakarta,DKI Jakarta,Kota Jakarta Timur,Perusahaan,B,RSK JANTUNG,98,False,0,0,3,1,7,0,0,0,2
+3172750,RS Ibu dan Anak Resti Mulya,DKI Jakarta,Kota Jakarta Timur,Perusahaan,C,RSIA,63,False,0,2,4,1,0,2,0,0,3
+3171803,RS Umum Daerah Kebayoran Lama,DKI Jakarta,Kota Jakarta Selatan,Pemprop,D,RSU,52,False,0,2,3,1,0,2,1,0,3
+3173120,RS Khusus Ibu Anak Bunda Jakarta,DKI Jakarta,Kota Jakarta Pusat,Perusahaan,B,RSIA,75,False,0,0,4,2,0,0,1,0,2
+3172914,Rumah Sakit Brawijaya Hospital Taman Mini,DKI Jakarta,Kota Jakarta Timur,SWASTA/LAINNYA,C,RSU,71,True,2,2,4,4,0,0,2,0,3
+3173698,RS Umum Daerah Sawah Besar,DKI Jakarta,Kota Jakarta Pusat,Pemprop,D,RSU,50,False,0,2,2,1,0,2,0,0,3
+3173712,RS Umum Yarsi,DKI Jakarta,Kota Jakarta Pusat,Perusahaan,B,RSU,202,True,3,4,8,4,4,3,1,1,7
+3173623,RS Khusus Mata JEC @ Menteng,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,C,RSK Mata,17,False,0,0,3,1,0,0,0,0,2
+3175396,RS Umum Port Medical Center,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,D,RSU,50,True,0,2,1,1,1,1,1,0,3
+3174052,RS EMC Grha Kedoya,DKI Jakarta,Kota Jakarta Barat,Perusahaan,B,RSU,204,True,3,4,6,4,4,6,2,2,8
+3174416,RS Umum Patria IKKT,DKI Jakarta,Kota Jakarta Barat,Organisasi Sosial,C,RSU,100,False,0,2,4,3,2,4,1,0,5
+3171504,RS Umum Pondok Indah,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,B,RSU,235,True,4,3,10,8,2,9,4,1,3
+3175407,RS Umum Gading Pluit,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,B,RSU,195,True,4,5,9,3,4,3,1,2,8
+3174544,RS Kapal Nusa Waluya II,DKI Jakarta,Kota Jakarta Barat,Kementerian Lain,C,RS Bergerak,26,False,0,0,0,0,0,0,0,0,0
+3173724,RS. DR INDRAJANA,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,Non Kelas,RSU,50,True,0,0,0,0,0,0,0,0,0
+3171060,RS Jiwa Dharmawangsa,DKI Jakarta,Kota Jakarta Selatan,Organisasi Sosial,C,RSK Jiwa,33,False,0,0,0,0,0,1,0,0,0
+3171789,RS Umum Siloam TB Simatupang,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,B,RSU,199,True,6,7,5,4,11,1,4,3,12
+3171911,RS Ibu dan Anak SamMarie Wijaya,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSIA,25,False,0,1,3,2,0,0,0,0,1
+3175326,RS Islam Jakarta Sukapura,DKI Jakarta,Kota Jakarta Utara,Organisasi Sosial,C,RSU,198,True,3,5,6,4,2,5,3,2,8
+3171632,RS Umum Agung,DKI Jakarta,Kota Jakarta Selatan,Organisasi Sosial,C,RSU,100,True,0,3,2,2,1,3,1,0,4
+3172061,RS Angkatan Udara dr. Esnawan Antariksa,DKI Jakarta,Kota Jakarta Timur,TNI AU,B,RSU,185,True,2,7,5,3,5,6,2,1,8
+3173014,RSUPN Dr. Cipto Mangunkusumo,DKI Jakarta,Kota Jakarta Pusat,Kemkes ,A,RSU,1171,True,6,8,13,11,0,9,4,4,48
+3171919,Rumah Sakit Toto Tentrem,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSU,41,True,0,1,0,0,0,0,0,0,2
+3175411,RS Umum Duta Indah,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,C,RSU,106,True,2,3,3,2,1,3,1,0,3
+3171781,RS Muhammadiyah Taman Puring,DKI Jakarta,Kota Jakarta Selatan,Organisasi Islam ,C,RSU,100,True,3,3,5,1,1,2,0,0,4
+3172724,RS UIN Syarif Hidayatullah Jakarta,DKI Jakarta,Kota Jakarta Timur,Perusahaan,B,RSU,210,True,3,2,5,2,5,7,0,1,6
+3174527,RS Gigi dan Mulut FKG Universitas Trisakti,DKI Jakarta,Kota Jakarta Barat,Perusahaan,A,RSK GM,5,False,0,0,1,0,0,0,0,0,1
+3172735,RS Jiwa Islam Klender,DKI Jakarta,Kota Jakarta Timur,Organisasi Islam ,C,RSK Jiwa,37,False,0,0,0,0,0,0,0,0,0
+3171796,RS Umum Petukangan,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,D,RSU,56,False,0,2,2,1,2,1,1,0,2
+3171804,RS Khusus Mata Nusantara,DKI Jakarta,Kota Jakarta Selatan,SWASTA/LAINNYA,C,RSK Mata,25,False,0,0,1,1,0,0,0,0,0
+3173051,RS Umum Sint Carolus,DKI Jakarta,Kota Jakarta Pusat,Organisasi Katholik,B,RSU,252,True,4,4,3,6,3,5,4,3,8
+3172761,RS Umum Daerah Kramat Jati,DKI Jakarta,Kota Jakarta Timur,Pemprop,C,RSU,132,False,0,2,2,1,1,2,1,0,2
+3174523,RS Umum Daerah Matraman,DKI Jakarta,Kota Jakarta Timur,Pemprop,D,RSU,50,False,0,2,2,1,0,3,1,0,3
+3173697,RSGM LADOKGI R.E MARTADINATA,DKI Jakarta,Kota Jakarta Pusat,TNI AL,B,RSK GM,12,False,0,0,1,0,0,0,0,0,0
+3173474,RS Umum Pertamina Jaya,DKI Jakarta,Kota Jakarta Pusat,BUMN,C,RSU,101,True,2,3,3,3,4,2,1,1,4
+3174510,RS Umum Anggrek Mas,DKI Jakarta,Kota Jakarta Barat,SWASTA/LAINNYA,D,RSU,62,False,0,1,2,1,0,0,0,0,1
+3174486,RS Umum  Royal Taruma,DKI Jakarta,Kota Jakarta Barat,SWASTA/LAINNYA,B,RSU,169,True,3,4,3,4,1,4,3,2,5
+3173704,RS Khusus THT SS Medika,DKI Jakarta,Kota Jakarta Pusat,SWASTA/LAINNYA,C,RSK THT-KL,19,True,0,0,1,0,0,0,0,0,1
+3171023,RS Umum Pusat Pertamina,DKI Jakarta,Kota Jakarta Selatan,BUMN,B,RSU,215,True,2,4,3,6,5,7,3,5,5
+3175341,RS Umum Pluit,DKI Jakarta,Kota Jakarta Utara,SWASTA/LAINNYA,B,RSU,199,True,3,4,4,2,2,6,0,0,7
+3174519,RS Umum Mitra Keluarga Kalideres,DKI Jakarta,Kota Jakarta Barat,Perusahaan,C,RSU,118,True,2,3,5,5,5,4,2,1,6
+3171511,RS Bedah Siloam Asri,DKI Jakarta,Kota Jakarta Selatan,Perusahaan,B,RSK BEDAH,79,True,3,4,1,3,2,3,2,1,4
+3171012,RSUP Fatmawati,DKI Jakarta,Kota Jakarta Selatan,Kemkes ,A,RSU,759,True,5,4,22,18,5,9,5,6,16
+3216252,RS Umum Daerah Kab.Bekasi,Jawa Barat,Bekasi,Pemkab,B,RSU,259,True,2,3,4,2,3,5,0,2,5
+3204174,RS Umum Daerah Bedas Pacira,Jawa Barat,Bandung,Pemkab,D,RSU,50,False,0,1,1,1,0,0,0,0,1
+3272036,RS Umum Ridogalih,Jawa Barat,Kota Sukabumi,Organisasi Sosial,D,RSU,50,False,0,2,1,1,0,1,0,0,2
+3274020,RS Umum Tk. III Ciremai,Jawa Barat,Kota Cirebon,TNI AD,B,RSU,212,True,2,3,2,1,2,2,1,2,6
+3271168,RS Graha Medika Bogor,Jawa Barat,Kota Bogor,Perusahaan,C,RSU,106,True,1,2,2,1,0,1,0,0,3
+3215145,RS Umum Mandaya,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSU,100,True,3,4,4,2,2,3,1,2,4
+3206023,RS Umum Daerah KHZ Musthafa Kabupaten Tasikmalaya,Jawa Barat,Tasikmalaya,Pemkab,C,RSU,270,True,1,2,3,1,3,2,1,1,2
+3201035,RS Umum Bhakti Yudha,Jawa Barat,Kota Depok,Organisasi Sosial,C,RSU,116,True,2,2,5,2,2,3,1,0,5
+3214011,RS Umum Daerah Bayu Asih,Jawa Barat,Purwakarta,Pemkab,B,RSU,267,True,2,3,2,4,2,3,1,1,4
+3279004,RS Umum Daerah Asih Husada Langensari,Jawa Barat,Kota Banjar,Pemkot,D,RSU,76,False,0,1,1,1,0,1,0,0,2
+3216425,RS Umum Bunda Mulia,Jawa Barat,Bekasi,SWASTA/LAINNYA,D,RSU,50,False,0,0,1,0,0,0,0,0,1
+3273405,RS Umum Daerah Kota Bandung,Jawa Barat,Kota Bandung,Pemkot,B,RSU,201,True,2,4,3,2,2,2,1,1,6
+3217009,RS Ibu dan Anak Graha Medika Padalarang,Jawa Barat,Bandung Barat,Perusahaan,C,RSIA,41,False,0,0,3,0,0,0,0,0,1
+3215171,RS Permata Keluarga Karawang,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSU,144,True,2,2,2,2,2,2,1,0,3
+3276124,RS Umum Daerah Khidmat Sehat Afiat Kota Depok,Jawa Barat,Kota Depok,Pemkot,C,RSU,217,True,2,3,3,3,5,4,1,0,4
+3215167,RS Umum Amanda Mitra Keluarga,Jawa Barat,Karawang,Perusahaan,C,RSU,196,True,1,2,3,2,1,1,0,0,3
+3204168,RS Oetomo,Jawa Barat,Bandung,SWASTA/LAINNYA,C,RSU,118,True,0,3,2,2,2,1,2,1,3
+3210014,RS Umum Daerah Majalengka,Jawa Barat,Majalengka,Pemkab,B,RSU,251,True,2,2,2,1,1,1,2,0,3
+3275061,RS Helsa,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,100,True,1,4,2,2,2,2,1,0,3
+3215100,RS Umum Delima Asih Sisma Medika,Jawa Barat,Karawang,SWASTA/LAINNYA,D,RSU,64,False,0,2,1,1,0,1,0,0,3
+3271104,RS Umum Daerah Kota Bogor,Jawa Barat,Kota Bogor,Pemkot,B,RSU,502,True,2,5,5,5,1,3,3,2,7
+3273201,RS Paru Dr. H. A. Rotinsulu,Jawa Barat,Kota Bandung,Kemkes ,A,RSK PARU,110,False,0,1,2,1,0,1,1,0,1
+3274137,RS Ibu dan Anak Cahaya Bunda,Jawa Barat,Kota Cirebon,SWASTA/LAINNYA,C,RSIA,50,False,0,1,3,1,0,0,0,0,2
+3216340,RS Umum Medirossa Cikarang,Jawa Barat,Bekasi,Organisasi Sosial,C,RSU,117,True,0,2,1,1,0,0,0,0,1
+3214035,RS Umum Amira,Jawa Barat,Purwakarta,Perusahaan,C,RSU,145,True,0,3,3,2,1,1,1,0,4
+3276151,RS Umum Permata Depok,Jawa Barat,Kota Depok,Perusahaan,C,RSU,167,True,3,7,5,3,1,3,2,0,6
+3202073,RS Umum Betha Medika ,Jawa Barat,Sukabumi,SWASTA/LAINNYA,C,RSU,193,False,1,3,1,2,1,2,0,0,5
+3209054,RS Umum Permata Cirebon,Jawa Barat,Cirebon,SWASTA/LAINNYA,B,RSU,204,True,3,4,4,2,3,6,2,2,6
+3213032,RSAU dr. Hoediyono Lanud Suryadarma,Jawa Barat,Subang,TNI AU,D,RSU,33,False,0,1,1,1,0,0,0,0,1
+3216285,RS Umum St. Elisabeth,Jawa Barat,Kota Bekasi,Organisasi Sosial,C,RSU,100,True,1,2,4,1,1,2,1,0,3
+3273528,RS Ibu dan Anak Melinda ,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSIA,41,False,0,3,3,1,0,0,2,0,2
+3216400,RS Uni Medika Setu Bekasi,Jawa Barat,Bekasi,Perusahaan,C,RSU,144,True,1,2,2,2,0,2,1,0,3
+3213061,RS Rayhan,Jawa Barat,Subang,SWASTA/LAINNYA,C,RSU,103,True,1,2,3,1,1,1,1,0,2
+3271139,RS Umum Trimitra,Jawa Barat,Bogor,Perusahaan,C,RSU,100,False,0,3,4,1,1,2,0,0,4
+3203015,RS Umum Daerah Sayang,Jawa Barat,Cianjur,Pemkab,B,RSU,498,True,2,2,2,2,1,4,1,2,4
+3211027,RS Umum Harapan Keluarga,Jawa Barat,Sumedang,Perusahaan,D,RSU,96,True,1,3,3,3,1,2,1,0,4
+3275390,RS Ibu dan Anak Selasih Medika,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSIA,65,False,0,1,2,1,0,1,1,0,2
+3273546,RS Ibu dan Anak Al Islam ,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSIA,36,False,0,1,2,1,0,1,2,0,2
+3216416,RS Umum Permata Keluarga Lippo Cikarang,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,101,True,1,1,2,1,0,1,1,0,2
+3212073,RS Mitra Plumbon Patrol,Jawa Barat,Indramayu,SWASTA/LAINNYA,C,RSU,198,False,2,3,3,3,3,2,2,2,4
+3201233,RS Umum Rumah Sehat Terpadu Dompet Dhuafa,Jawa Barat,Bogor,Organisasi Sosial,C,RSU,143,True,2,2,2,1,1,2,1,0,3
+3201258,RS Eka Hospital,Jawa Barat,Bogor,Perusahaan,B,RSU,210,True,3,6,3,6,7,4,3,2,14
+3207060,RS Umum Daerah Kawali,Jawa Barat,Ciamis,Pemkab,D,RSU,121,False,0,1,2,1,0,1,0,0,2
+3275060,RS Umum Satria Medika,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,100,True,1,2,2,1,0,2,1,0,3
+3201218,RS Umum Islam Bogor,Jawa Barat,Kota Bogor,Organisasi Sosial,C,RSU,109,False,0,3,3,2,1,3,2,1,6
+3216441,RS Umum Permata Keluarga Jababeka,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,130,True,1,3,2,2,1,2,1,1,3
+3209052,RS Umum Universitas Muhammadiyah Cirebon,Jawa Barat,Cirebon,Organisasi Islam ,C,RSU,117,False,2,2,2,1,0,1,1,0,4
+3201274,RS PERMATA GUNUNGPUTRI,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,154,True,0,0,2,1,0,1,0,0,1
+3201126,RS Umum Hermina Depok,Jawa Barat,Kota Depok,Organisasi Sosial,B,RSU,319,True,3,6,6,5,3,4,2,1,11
+3204154,RS Umum TNI AU Lanud Sulaiman,Jawa Barat,Bandung,TNI AU,D,RSU,52,False,0,1,1,1,0,0,0,0,1
+3274053,RS Umum Pelabuhan Cirebon,Jawa Barat,Kota Cirebon,BUMN,C,RSU,114,True,1,3,4,2,2,3,0,1,6
+3275070,RS umum Daerah Teluk Pucung,Jawa Barat,Kota Bekasi,Pemkot,D,RSU,49,False,0,2,1,1,1,1,0,0,1
+3275013,RS Umum Daerah dr. Chasbullah Abdulmadjid,Jawa Barat,Kota Bekasi,Pemkot,B,RSU,605,True,2,2,4,8,4,5,2,4,6
+3201241,RS Umum Ummi,Jawa Barat,Kota Bogor,Perusahaan,C,RSU,244,True,2,6,5,5,1,5,2,2,8
+3216466,Altius Hospitals ,Jawa Barat,Bekasi,Perusahaan,C,RSU,112,True,2,2,3,2,5,2,1,0,3
+3208046,RS Umum Juanda,Jawa Barat,Kuningan,Perusahaan,C,RSU,168,True,1,1,3,1,1,1,0,0,3
+3278017,RS Ibu dan Anak Widaningsih,Jawa Barat,Kota Tasikmalaya,Perusahaan,C,RSIA,29,False,0,1,2,1,0,0,0,0,1
+3201251,RS Umum Siloam Hospitals Bogor,Jawa Barat,Kota Bogor,Perusahaan,C,RSU,100,True,0,5,3,2,2,3,1,0,5
+3215112,RS Ibu dan Anak Dr. Djoko Pramono,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSIA,100,False,0,1,4,1,0,0,0,0,1
+3207012,RS Umum Daerah Kab. Ciamis,Jawa Barat,Ciamis,Pemkab,C,RSU,292,True,1,2,2,1,2,2,1,0,4
+3277018,RS Umum Mitra Anugrah Lestari,Jawa Barat,Kota Cimahi,Organisasi Sosial,C,RSU,100,True,1,2,1,1,1,1,1,0,3
+3216450,RS Eka Bekasi,Jawa Barat,Bekasi,SWASTA/LAINNYA,B,RSU,200,True,7,6,3,5,4,4,4,2,10
+3201239,RSU Assalam,Jawa Barat,Bogor,Perusahaan,D,RSU,60,False,0,1,2,0,0,1,0,0,2
+3216447,RS Ibu dan Anak Nurul Annisa,Jawa Barat,Bekasi,SWASTA/LAINNYA,D,RSIA,25,False,0,0,0,0,0,0,0,0,0
+3273085,RS Umum Advent Bandung,Jawa Barat,Kota Bandung,Organisasi Sosial,B,RSU,314,True,2,6,4,3,6,8,3,3,7
+3217005,RS Karisma Cimareme,Jawa Barat,Bandung Barat,Perusahaan,C,RSU,107,True,1,3,2,2,3,2,2,0,7
+3215162,RS Umum Helsa,Jawa Barat,Karawang,Perusahaan,C,RSU,100,True,1,1,2,0,0,1,0,0,2
+3273517,RS AMC ,Jawa Barat,Bandung,Perusahaan,C,RSU,143,True,1,4,3,1,1,2,2,1,4
+3212059,RS Mitra Plumbon Indramayu,Jawa Barat,Indramayu,SWASTA/LAINNYA,B,RSU,521,True,3,6,6,2,2,4,1,4,8
+3276155,RS Umum Brawijaya Bojongsari,Jawa Barat,Kota Depok,SWASTA/LAINNYA,D,RSU,50,True,4,5,3,2,1,1,2,0,7
+3216462,RS Umum dr. Abdul Radjak Cibitung,Jawa Barat,Bekasi,Perusahaan,D,RSU,50,False,0,2,1,1,0,0,0,0,2
+3273559,RS Umum Mayapada Hospital Bandung,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,B,RSU,200,True,2,2,4,3,2,3,3,2,3
+3275392,RS Primaya Bekasi Barat,Jawa Barat,Kota Bekasi,Perusahaan,A,RSU,259,True,3,5,2,4,6,3,3,2,5
+3216104,RS Umum Karya Medika,Jawa Barat,Bekasi,Organisasi Sosial,C,RSU,124,True,2,3,4,1,2,3,1,0,4
+3215186,RS IHC Karawang,Jawa Barat,Karawang,Perusahaan,C,RSU,96,True,0,1,2,0,1,0,0,0,2
+3276147,RS Ibu dan Anak Asyifa Depok,Jawa Barat,Kota Depok,Perusahaan,C,RSIA,39,False,0,2,2,1,0,0,0,0,1
+3202040,RS Umum Daerah Palabuhanratu,Jawa Barat,Sukabumi,Pemkab,C,RSU,205,True,1,1,3,2,0,2,1,0,3
+3209051,RS Umum Mitra Plumbon,Jawa Barat,Cirebon,SWASTA/LAINNYA,B,RSU,706,True,4,9,7,4,4,4,3,3,5
+3275229,RS Umum Anna,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,107,True,1,3,4,2,1,2,1,0,5
+3217042,RS Jiwa Provinsi Jawa Barat,Jawa Barat,Bandung Barat,Pemprop,A,RSK Jiwa,275,False,0,0,1,1,0,1,1,0,1
+3273121,RS Primaya Rajawali,Jawa Barat,Kota Bandung,Organisasi Sosial,C,RSU,100,True,1,4,2,1,2,2,0,0,2
+3216386,RS Amanda Cikarang Selatan,Jawa Barat,Bekasi,Perusahaan,C,RSU,146,False,0,2,4,1,0,1,1,0,2
+3213044,RS Umum Mutiara Hati,Jawa Barat,Subang,SWASTA/LAINNYA,C,RSU,69,False,1,3,1,1,0,1,1,0,1
+3276168,RS Umum Daerah Anugerah Sehat Afiat,Jawa Barat,Kota Depok,Pemkot,C,RSU,107,False,1,2,3,1,1,2,1,0,2
+3201152,RS Umum Mary Cileungsi Hijau,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,115,True,1,2,6,1,1,2,1,0,4
+3204086,RS Umum Daerah Welas Asih Provinsi Jawa Barat,Jawa Barat,Bandung,Pemprop,B,RSU,643,True,1,5,5,6,6,4,4,2,4
+3212055,RS Umum Pertamina Balongan Indramayu,Jawa Barat,Indramayu,BUMN,D,RSU,50,False,0,2,1,1,1,1,0,0,2
+3275039,RS Umum Masmitra,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,101,True,2,2,2,1,2,1,2,0,4
+3273543,RS Umum Melinda 2,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSU,101,True,9,4,2,4,5,4,2,0,8
+3216413,RS Umum Kartika Husada Setu,Jawa Barat,Bekasi,Perusahaan,C,RSU,100,False,1,2,3,1,0,1,0,0,3
+3212056,RS Umum Daerah Mursid Ibnu Syafiuddin,Jawa Barat,Indramayu,Pemkab,C,RSU,100,False,0,1,1,1,0,1,0,0,3
+3201238,RS Umum Hermina Mekarsari,Jawa Barat,Bogor,Perusahaan,C,RSU,209,True,3,5,5,3,4,4,2,1,8
+3201230,RS Umum Sentra Medika Cibinong,Jawa Barat,Bogor,SWASTA/LAINNYA,B,RSU,265,True,2,6,7,6,5,5,2,2,5
+3208076,RS Pradipa Medika,Jawa Barat,Kuningan,SWASTA/LAINNYA,D,RSU,80,False,0,1,1,2,0,0,0,0,1
+3216423,RS Umum Kartika Husada,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,101,True,1,2,3,2,0,1,0,0,4
+3272051,RS Umum Assyifa Sukabumi,Jawa Barat,Kota Sukabumi,Organisasi Sosial,C,RSU,173,True,1,3,2,3,0,3,0,0,3
+3216426,RS DKH Sukatani,Jawa Barat,Bekasi,Perusahaan,C,RSU,110,False,0,1,1,1,0,1,0,0,2
+3210051,Rumah Sakit Umum Djuansih Majalengka,Jawa Barat,Majalengka,Perusahaan,C,RSU,138,True,1,4,2,1,0,1,0,0,4
+3201271,RS Islam Aysha ,Jawa Barat,Bogor,Perusahaan,C,RSU,125,True,2,4,1,2,1,2,1,0,4
+3277031,RS Umum Tk. II Dustira,Jawa Barat,Kota Cimahi,TNI AD,B,RSU,447,True,1,11,4,3,3,4,2,1,9
+3205038,RS Umum Daerah Malangbong,Jawa Barat,Garut,Pemkab,D,RSU,52,False,0,3,1,1,0,0,0,0,2
+3275414,RS CItra Arafiq Bekasi,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,199,True,0,2,2,1,0,1,0,0,2
+3275066,RS Umum Daerah Jatisampurna,Jawa Barat,Kota Bekasi,Pemkot,D,RSU,56,True,1,2,3,1,1,2,1,0,3
+3271162,RS Ibu dan Anak Pasutri,Jawa Barat,Kota Bogor,Perusahaan,C,RSIA,38,False,0,1,2,1,0,0,1,0,1
+3216463,RS Permata Bunda,Jawa Barat,Bekasi,Perusahaan,C,RSU,109,False,0,2,1,1,0,0,0,0,1
+3209148,Rs Harapan Sehat Losari,Jawa Barat,Cirebon,Perorangan,C,RSU,0,False,0,0,0,0,0,0,0,0,0
+3278082,RS Umum Permata Bunda,Jawa Barat,Kota Tasikmalaya,SWASTA/LAINNYA,C,RSU,129,True,1,3,2,2,1,2,0,0,3
+3204171,RS Umum Daerah Bedas Kertasari,Jawa Barat,Bandung,Pemkab,D,RSU,54,False,0,1,2,1,0,0,0,0,1
+3273110,RS Umum Bungsu,Jawa Barat,Kota Bandung,Organisasi Sosial,D,RSU,50,False,0,1,3,1,0,1,1,0,2
+3275046,RS Umum Mitra Keluarga Bekasi Timur,Jawa Barat,Kota Bekasi,Perusahaan,B,RSU,204,True,3,5,3,2,4,3,3,4,7
+3215056,RS Umum Karya Husada,Jawa Barat,Karawang,Perusahaan,C,RSU,132,True,1,2,2,1,0,2,1,0,4
+3208059,RS Umum Daerah Linggajati Kuningan,Jawa Barat,Kuningan,Pemkab,C,RSU,104,False,0,1,0,2,1,1,1,0,2
+3278021,RS Ibu dan Anak Bunda Aisyah,Jawa Barat,Kota Tasikmalaya,SWASTA/LAINNYA,C,RSIA,78,False,0,1,2,1,0,0,0,0,1
+3216393,RS Umum Mitra Keluarga Cikarang,Jawa Barat,Bekasi,Perusahaan,B,RSU,207,True,3,3,4,4,2,1,2,1,3
+3203052,RS Umum Daerah Sindangbarang,Jawa Barat,Cianjur,Pemkab,D,RSU,56,False,0,1,1,1,0,0,0,0,1
+3271166,RS Umum Bhayangkara Tk. IV Bogor,Jawa Barat,Kota Bogor,POLRI,D,RSU,50,False,0,1,1,0,0,0,0,0,1
+3273030,RSAU dr. M. Salamun,Jawa Barat,Kota Bandung,TNI AU,B,RSU,200,True,1,4,3,3,2,3,1,1,4
+3217121,RS Umum Cahya Kawaluyan,Jawa Barat,Bandung Barat,Organisasi Katholik,C,RSU,170,True,2,3,4,5,3,3,5,1,3
+3215158,RS Umum Fikri Medika,Jawa Barat,Karawang,Perusahaan,C,RSU,195,True,1,1,3,1,1,2,1,1,3
+3205021,Rumah Sakit TK.IV 03.07.04 Guntur,Jawa Barat,Garut,TNI AD,C,RSU,184,True,0,5,4,2,1,3,1,1,4
+3201141,RS Ibu dan Anak Tumbuh Kembang,Jawa Barat,Kota Depok,Organisasi Sosial,C,RSIA,64,False,0,1,2,1,0,0,1,0,2
+3214032,RS Umum dr. Abdul Radjak Purwakarta,Jawa Barat,Purwakarta,Perusahaan,B,RSU,247,True,2,3,3,3,3,1,1,1,4
+3278018,RS Umum Syifa Medina,Jawa Barat,Kota Tasikmalaya,SWASTA/LAINNYA,D,RSU,50,False,0,1,1,0,0,1,0,0,2
+3216438,RS Umum Pinna,Jawa Barat,Bekasi,SWASTA/LAINNYA,D,RSU,85,False,0,3,2,1,0,0,0,0,2
+3273539,RS Umum Hermina Pasteur ,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,B,RSU,271,True,3,3,6,6,3,5,2,2,9
+3217133,RS Ibu dan Anak Buah Hati,Jawa Barat,Bandung Barat,SWASTA/LAINNYA,C,RSIA,57,False,0,2,3,1,0,0,0,0,0
+3215183,RS Umum Daerah Rengasdengklok,Jawa Barat,Karawang,Pemkab,C,RSU,117,True,0,1,2,1,0,0,0,0,2
+3276146,RS Umum Hasanah Graha Afiah,Jawa Barat,Kota Depok,Perusahaan,C,RSU,113,True,1,3,3,2,0,4,1,0,7
+3215169,RS Hermina Karawang,Jawa Barat,Karawang,Perusahaan,C,RSU,130,True,2,3,4,2,2,2,1,2,4
+3203038,RS Umum Dr. Hafiz ,Jawa Barat,Cianjur,Perorangan,C,RSU,250,True,1,2,3,2,1,2,0,1,2
+3209014,RS Umum Daerah Waled,Jawa Barat,Cirebon,Pemkab,B,RSU,305,True,3,2,3,3,2,2,2,1,5
+3216174,RS Umum Rawa Lumbu,Jawa Barat,Kota Bekasi,Organisasi Sosial,C,RSU,98,True,0,2,2,1,0,2,0,0,4
+3214036,RS Suliawati,Jawa Barat,Purwakarta,Perusahaan,D,RSU,50,False,0,1,1,1,0,0,0,0,1
+3216152,Siloam Hospitals Lippo Cikarang,Jawa Barat,Bekasi,SWASTA/LAINNYA,B,RSU,174,True,1,5,3,3,3,2,1,1,6
+3273486,RS Umum Santosa Hospital Bandung Central,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,A,RSU,500,True,3,4,4,3,3,7,1,3,12
+3273063,RS Umum Santo Yusup,Jawa Barat,Kota Bandung,Organisasi Katholik,C,RSU,202,True,2,4,3,3,2,4,3,2,5
+3216362,RS Umum Karya Medika II,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,117,True,1,3,3,1,0,3,1,0,2
+3214038,RS Umum Bhakti Husada II Purwakarta,Jawa Barat,Purwakarta,Perusahaan,C,RSU,100,True,1,3,2,2,2,2,2,0,2
+3276153,RS Umum Citra Arafiq,Jawa Barat,Kota Depok,Perusahaan,C,RSU,199,True,2,4,3,1,1,2,1,0,4
+3202086,Rumah Sakit DKH Cibadak,Jawa Barat,Sukabumi,SWASTA/LAINNYA,C,RSU,164,True,1,1,3,2,0,1,0,1,4
+3208061,RS Jantung Hasna Medika Kuningan,Jawa Barat,Kuningan,Perusahaan,B,RSK JANTUNG,75,False,0,1,2,2,7,1,1,0,1
+3213048,RS Karisma,Jawa Barat,Subang,SWASTA/LAINNYA,D,RSU,71,False,0,0,0,0,0,0,0,0,0
+3275035,RS Siloam Sentosa,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,120,True,2,3,5,1,3,3,1,0,3
+3204123,RS Umum Humana Prima,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSU,122,True,1,2,6,3,2,2,1,0,3
+3216406,RS Umum Metro Hospitals,Jawa Barat,Bekasi,Perusahaan,C,RSU,100,True,1,2,2,0,0,1,1,0,3
+3213336,Rumah Sakit Mitra Plumbon Subang,Jawa Barat,Subang,Kementerian Lain,C,RSU,242,True,1,1,2,1,0,1,0,0,1
+3201229,RS Umum Citama,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,116,False,0,2,3,3,0,4,0,0,4
+3201046,RS Umum Daerah Bakti Pajajaran,Jawa Barat,Bogor,Pemkab,B,RSU,506,True,4,3,4,3,4,3,1,1,4
+3209055,RS Pasar Minggu Cirebon,Jawa Barat,Cirebon,Perusahaan,D,RSU,76,False,0,1,2,1,1,1,0,0,2
+3216402,RS Umum Anna Medika,Jawa Barat,Kota Bekasi,Perusahaan,C,RSU,116,True,1,2,3,2,1,2,1,1,3
+3273560,RS Khusus Jantung dan Pembuluh Darah Melinda Cardio Vascular Center,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSK JANTUNG,29,False,1,2,1,1,2,2,0,0,4
+3275054,RS DKH Kedungwaringin,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,104,False,0,2,1,1,0,1,1,0,2
+3211039,RS Cimalaka,Jawa Barat,Sumedang,SWASTA/LAINNYA,C,RSU,115,False,0,1,1,1,1,1,1,0,3
+3201250,RS Helsa Citeureup,Jawa Barat,Bogor,Perusahaan,C,RSU,100,False,0,1,2,1,0,2,1,0,2
+3206011,RS Umum Daerah dr. Soekardjo,Jawa Barat,Kota Tasikmalaya,Pemkot,B,RSU,249,True,3,1,3,2,2,2,0,1,2
+3205023,RS Umum Nurhayati Garut,Jawa Barat,Garut,Organisasi Sosial,D,RSU,81,True,1,3,2,1,3,1,1,0,3
+3216445,RS EMC Pekayon,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,103,True,3,3,3,2,1,2,0,0,5
+3275296,RS Umum Islam dr. Subki Abdulkadir,Jawa Barat,Kota Bekasi,Organisasi Sosial,D,RSU,51,False,0,1,1,1,1,2,1,0,1
+3271072,RS Umum Azra,Jawa Barat,Kota Bogor,Perusahaan,C,RSU,110,True,4,12,3,12,3,12,12,6,15
+3216444,RS Cenka,Jawa Barat,Bekasi,Perorangan,C,RSU,100,True,1,1,1,3,0,1,0,0,2
+3209144,Sentra Medika Hospital Gempol,Jawa Barat,Cirebon,SWASTA/LAINNYA,C,RSU,106,True,2,2,2,1,3,2,1,1,3
+3206070,RS Umum Jasa Kartini,Jawa Barat,Kota Tasikmalaya,Perusahaan,C,RSU,196,True,3,5,3,3,2,4,1,1,7
+3276017,RS Umum Sentra Medika,Jawa Barat,Kota Depok,SWASTA/LAINNYA,B,RSU,210,True,3,4,5,3,4,3,2,2,7
+3204135,RS Umum Karya Pangalengan Bhakti Sehat,Jawa Barat,Bandung,SWASTA/LAINNYA,D,RSU,100,False,0,1,2,1,0,2,1,0,2
+3274090,RS Umum Sumber Kasih,Jawa Barat,Kota Cirebon,SWASTA/LAINNYA,C,RSU,187,True,3,2,3,4,2,2,2,2,4
+3275417,RS Regina Maris Bekasi,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,D,RSU,51,False,0,1,1,0,0,0,0,0,0
+3275115,RS Umum Hermina Bekasi,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,B,RSU,420,True,2,7,5,4,1,3,5,3,10
+3271163,RS Umum Vania,Jawa Barat,Kota Bogor,Perusahaan,C,RSU,120,True,2,2,2,1,1,4,1,0,4
+3204137,RS Kartini,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,D,RSU,50,True,0,3,2,1,0,0,0,0,3
+3274016,RS Daerah Gunung Jati,Jawa Barat,Kota Cirebon,Pemkot,B,RSU,545,True,5,6,5,4,3,4,1,2,8
+3201257,RS Umum Nuraida,Jawa Barat,Kota Bogor,SWASTA/LAINNYA,C,RSU,100,False,1,2,4,1,0,1,1,0,3
+3215134,RS Umum Izza,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSU,185,True,1,3,2,2,1,3,1,1,4
+3207059,RS Khusus Orthopedi RSOP Ciamis,Jawa Barat,Ciamis,SWASTA/LAINNYA,C,RSK Orthopedi,43,True,6,0,2,1,0,1,0,1,1
+3277021,RS Umum Kasih Bunda,Jawa Barat,Kota Cimahi,Perusahaan,C,RSU,187,True,2,3,6,4,4,3,2,1,7
+3215156,RS Umum Lira Medika,Jawa Barat,Karawang,SWASTA/LAINNYA,B,RSU,207,True,3,2,3,3,2,3,2,2,5
+3279002,RS Umum Mitra Idaman,Jawa Barat,Kota Banjar,Perusahaan,D,RSU,71,False,0,2,1,1,0,2,1,0,2
+3216421,RS Umum Puspa Husada,Jawa Barat,Bekasi,SWASTA/LAINNYA,D,RSU,106,False,0,2,1,1,0,0,0,0,3
+3273260,RS Umum Daerah Bandung Kiwari,Jawa Barat,Kota Bandung,Pemkot,B,RSU,335,True,3,3,4,4,2,2,1,1,7
+3217008,RS Ibu dan Anak Kartini,Jawa Barat,Bandung Barat,SWASTA/LAINNYA,C,RSIA,102,False,0,1,3,1,0,1,1,0,1
+3215165,RS Umum Sentral Medika,Jawa Barat,Karawang,Perusahaan,C,RSU,106,False,0,2,3,1,0,0,0,0,2
+3204165,RS Hermina Soreang,Jawa Barat,Bandung,SWASTA/LAINNYA,C,RSU,165,True,1,3,4,3,3,4,2,1,7
+3211038,RS Universitas Padjadjaran,Jawa Barat,Sumedang,Kementerian Lain,B,RSU,200,True,3,3,7,2,3,7,2,2,3
+3275024,RS Mekar Sari,Jawa Barat,Kota Bekasi,Organisasi Sosial,C,RSU,106,True,1,3,4,2,1,2,1,0,2
+3215089,RS Umum Saraswati,Jawa Barat,Karawang,SWASTA/LAINNYA,D,RSU,56,False,0,1,1,1,0,0,0,0,2
+3271013,RS Umum PMI Bogor,Jawa Barat,Kota Bogor,Organisasi Sosial,B,RSU,318,True,2,4,2,4,3,6,2,2,6
+3273191,RS Khusus Mata Cicendo,Jawa Barat,Kota Bandung,Kemkes ,A,RSK Mata,100,False,0,0,3,1,0,0,1,0,1
+3216185,RS Umum Hosana Medica,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,138,True,2,3,1,3,0,3,2,1,4
+3214034,RS Umum Rama Hadi,Jawa Barat,Purwakarta,Perusahaan,C,RSU,154,True,1,2,2,1,1,1,1,0,3
+3276149,RS Ibu dan Anak Setya Bhakti,Jawa Barat,Kota Depok,Perusahaan,C,RSIA,50,False,0,1,3,1,0,1,0,0,1
+3202062,RS Umum Hermina Sukabumi,Jawa Barat,Sukabumi,SWASTA/LAINNYA,C,RSU,236,True,2,2,3,2,1,4,2,1,6
+3274136,RS Jantung Hasna Medika,Jawa Barat,Cirebon,SWASTA/LAINNYA,B,RSK JANTUNG,75,False,0,1,1,1,7,1,1,0,1
+3275274,RS Umum Jati Sampurna,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,100,False,0,2,5,2,0,3,1,0,2
+3201256,RS Universitas Indonesia,Jawa Barat,Kota Depok,Kementerian Lain,A,RSU,355,True,4,4,14,10,3,7,5,5,10
+3273453,RS Khusus Ginjal Ny. R. A. Habibie,Jawa Barat,Kota Bandung,Organisasi Sosial,C,RSK GINJAL,32,False,0,2,1,1,1,0,0,0,3
+3216399,RS DKH Cikarang Barat,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,101,False,0,1,2,1,0,1,0,0,1
+3213049,RS Khusus Ibu dan Anak Grha Mutiara,Jawa Barat,Subang,Perusahaan,C,RSIA,33,False,0,1,1,1,0,0,0,0,0
+3271035,RSAU Dr. M. Hassan Toto,Jawa Barat,Bogor,TNI AU,C,RSU,86,True,0,3,2,1,0,1,1,0,3
+3204101,RS Umum Daerah Cicalengka,Jawa Barat,Bandung,Pemkab,B,RSU,210,True,1,3,2,3,1,1,1,0,3
+3212071,RS Islam Zam-Zam Muhammadiyah Jatibarang,Jawa Barat,Indramayu,Organisasi Islam ,D,RSU,50,False,0,1,1,1,0,0,0,0,4
+3275373,RS Umum Mitra Keluarga Cibubur,Jawa Barat,Kota Bekasi,Perusahaan,C,RSU,113,True,5,3,3,4,4,3,2,1,5
+3204130,RS Mata Bandung Eye Center,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSK Mata,16,False,0,0,1,1,0,0,0,0,1
+3216415,RS Umum Ridhoka Salma,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,77,True,1,4,2,1,1,1,1,0,4
+3212060,RS Sentra Medika Langut,Jawa Barat,Indramayu,SWASTA/LAINNYA,C,RSU,100,True,1,2,1,1,1,2,0,0,2
+3201245,RS Umum Karya Bhakti Pratiwi,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,130,True,2,4,4,3,2,2,2,1,5
+3201247,RS EMC Sentul,Jawa Barat,Bogor,Perusahaan,B,RSU,200,True,2,2,4,4,2,5,2,2,6
+3207056,RS Umum Al-Arif,Jawa Barat,Ciamis,Organisasi Sosial,D,RSU,90,False,0,1,1,1,0,1,0,0,1
+3275057,RS Umum Karya Medika Bantar Gebang,Jawa Barat,Kota Bekasi,Perusahaan,C,RSU,100,True,0,2,2,1,0,1,1,0,4
+3272025,RS Umum Bhayangkara Setukpa Lemdikpol,Jawa Barat,Kota Sukabumi,POLRI,C,RSU,124,True,2,2,1,1,1,1,1,0,4
+3216435,RS Umum Tarumajaya,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,90,False,0,3,3,2,0,1,1,0,2
+3274135,RS Umum Sumber Hurip,Jawa Barat,Cirebon,SWASTA/LAINNYA,C,RSU,116,True,1,2,2,1,2,2,1,0,3
+3201273,RS Hermina Ciawi,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,100,True,1,2,3,1,0,1,1,0,2
+3201072,RS Umum Puri Cinere,Jawa Barat,Kota Depok,SWASTA/LAINNYA,B,RSU,200,True,5,5,4,4,4,4,0,1,5
+3273442,RS Umum Bina Sehat ,Jawa Barat,Bandung,SWASTA/LAINNYA,D,RSU,69,True,0,4,2,2,1,1,2,0,2
+3274031,RS Umum Panti Abdi Dharma,Jawa Barat,Kota Cirebon,SWASTA/LAINNYA,C,RSU,101,True,1,1,1,1,1,1,1,0,2
+3275068,RS Umum Daerah Bantar Gebang,Jawa Barat,Kota Bekasi,Pemkot,D,RSU,69,True,0,1,2,1,1,1,1,0,2
+3201240,RS Umum Juliana,Jawa Barat,Kota Bogor,SWASTA/LAINNYA,C,RSU,119,False,0,3,2,2,0,1,1,0,5
+3216465,RS Mitra Keluarga Grand Wisata,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,101,True,2,3,4,2,1,4,2,2,4
+3208035,RS Umum Sekar Kamulyan,Jawa Barat,Kuningan,Organisasi Sosial,C,RSU,121,False,0,2,2,1,0,1,0,0,3
+3278016,RS Ibu dan Anak Sayang Bunda,Jawa Barat,Kota Tasikmalaya,SWASTA/LAINNYA,C,RSIA,28,False,0,0,1,0,0,0,0,0,0
+3204173,RS Umum Daerah Bedas Arjasari,Jawa Barat,Bandung,Pemkab,D,RSU,50,False,0,1,1,1,0,0,0,0,1
+3201246,RS Ibu dan Anak Bunda Suryatni,Jawa Barat,Kota Bogor,SWASTA/LAINNYA,C,RSIA,38,False,0,1,3,1,0,0,0,0,1
+3215078,RS Umum Islam Karawang,Jawa Barat,Karawang,Organisasi Sosial,C,RSU,118,True,1,2,2,1,1,1,1,0,2
+3208065,RS Permata Kuningan,Jawa Barat,Kuningan,Perusahaan,C,RSU,154,True,0,2,2,2,1,1,1,0,3
+3204075,RS Umum Mitra Kasih,Jawa Barat,Kota Cimahi,Organisasi Sosial,C,RSU,263,True,2,5,4,5,3,5,3,1,5
+3216449,RS Ananda Babelan,Jawa Barat,Bekasi,SWASTA/LAINNYA,B,RSU,332,True,0,2,3,2,4,3,0,1,8
+3201130,RS Citra Insani,Jawa Barat,Bogor,SWASTA/LAINNYA,D,RSU,50,False,0,1,1,1,0,0,0,0,2
+3216397,RS Umum Asri Medika,Jawa Barat,Bekasi,Perusahaan,D,RSU,51,False,0,1,2,1,0,0,0,0,2
+3273074,RS Umum Santo Borromeus,Jawa Barat,Kota Bandung,Organisasi Katholik,B,RSU,350,True,6,3,10,7,9,5,2,2,15
+3217004,RS Umum Daerah Lembang,Jawa Barat,Bandung Barat,Pemkab,C,RSU,104,False,0,2,2,1,2,1,0,0,2
+3215161,RS Umum Mitra Family,Jawa Barat,Karawang,Perusahaan,C,RSU,108,True,1,1,2,0,1,1,1,0,2
+3205026,RS Umum Intan Husada,Jawa Barat,Garut,SWASTA/LAINNYA,C,RSU,115,True,1,4,3,2,1,1,1,0,6
+3212016,RS Umum Daerah Indramayu,Jawa Barat,Indramayu,Pemkab,B,RSU,346,True,2,3,2,1,3,1,1,1,3
+3277023,RS Umum Baros,Jawa Barat,Kota Cimahi,Perusahaan,D,RSU,78,False,0,4,5,2,2,1,2,0,4
+3216440,RS Umum Daerah Cabangbungin,Jawa Barat,Bekasi,Pemkab,D,RSU,51,False,0,3,2,1,0,2,0,0,3
+3204124,RS Gigi dan Mulut Maranatha,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,B,RSK GM,13,False,0,0,2,0,0,0,0,0,1
+3216072,RS Umum Bhakti Husada,Jawa Barat,Bekasi,Organisasi Sosial,C,RSU,99,True,1,2,3,1,0,1,1,0,4
+3215185,Rumah Sakit Ibu dan Anak Bunda Trinanda,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSIA,39,False,0,1,2,1,0,0,0,0,1
+3276039,RS Umum Bhayangkara Brimob,Jawa Barat,Kota Depok,POLRI,C,RSU,160,True,3,4,6,3,3,4,1,0,6
+3203053,RS Edelweiss Bentang Salapan ,Jawa Barat,Cianjur,Perusahaan,C,RSU,100,True,1,1,2,2,0,1,1,0,2
+3209040,RS Umum Daerah Arjawinangun,Jawa Barat,Cirebon,Pemkab,B,RSU,281,True,2,3,3,1,1,1,1,2,3
+3275207,RS Umum Graha Juanda,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,100,True,0,1,2,1,0,1,0,0,3
+3271046,RS Jiwa dr. H. Marzoeki Mahdi,Jawa Barat,Kota Bogor,Kemkes ,A,RSK Jiwa,437,False,0,1,2,1,1,3,1,0,3
+3273106,RS Umum Muhammadiyah,Jawa Barat,Kota Bandung,Organisasi Islam ,C,RSU,140,True,3,5,2,1,3,4,2,1,4
+3216385,RS dr. Abdul Radjak Jababeka,Jawa Barat,Bekasi,Perusahaan,C,RSU,112,True,0,2,2,1,1,2,1,0,1
+3213021,RS Umum PTPN VIII ,Jawa Barat,Subang,BUMN,C,RSU,106,False,0,1,1,1,0,2,1,0,2
+3276167,RS Primaya Depok,Jawa Barat,Kota Depok,SWASTA/LAINNYA,C,RSU,100,True,4,4,2,2,2,3,1,2,6
+3201115,RS Mitra Keluarga Bina Husada,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,105,True,3,4,3,3,2,3,1,0,4
+3204016,RS Umum Daerah Majalaya,Jawa Barat,Bandung,Pemkab,B,RSU,329,True,0,4,1,2,3,2,1,1,4
+3212054,RS Umum MM Indramayu,Jawa Barat,Indramayu,Perusahaan,D,RSU,100,False,0,1,1,2,0,2,1,0,4
+3275017,RS Karunia Kasih,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,101,True,2,1,3,1,0,1,0,0,2
+3273541,RS Ibu dan Anak Harapan Bunda Bandung,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSIA,46,False,0,2,3,1,0,0,1,0,1
+3216409,RS Umum Cikarang Medika,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,128,True,1,3,4,1,0,2,0,0,2
+3212042,RS Umum Bhayangkara Indramayu,Jawa Barat,Indramayu,POLRI,C,RSU,130,True,0,1,2,1,0,1,0,0,3
+3201231,RS Sentosa,Jawa Barat,Bogor,Perusahaan,C,RSU,100,False,1,1,5,1,0,1,0,0,2
+3201083,RS Umum Daerah R. Moh. Noh Nur,Jawa Barat,Bogor,Pemkab,B,RSU,418,True,2,3,2,3,2,2,1,0,4
+3208063,RS Mitra Husada,Jawa Barat,Kuningan,Perorangan,D,RSU,99,False,0,1,2,1,1,1,0,0,2
+3275053,RS Umum Taman Harapan Baru,Jawa Barat,Kota Bekasi,Perusahaan,C,RSU,99,True,1,3,2,1,1,3,2,1,5
+3273562,RS Murni Teguh Naripan Bandung,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSU,103,False,2,2,2,3,2,3,1,1,4
+3216424,RS Ibu dan Anak Gizar,Jawa Barat,Bekasi,Perusahaan,C,RSIA,28,False,0,0,0,0,0,0,0,0,0
+3210038,RS Umum Livasya,Jawa Barat,Majalengka,SWASTA/LAINNYA,C,RSU,103,False,0,1,2,1,0,0,0,0,3
+3201259,RS Pena 98,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,112,True,1,1,3,1,1,2,1,0,4
+3277020,RS Umum Daerah Cibabat,Jawa Barat,Kota Cimahi,Pemkot,B,RSU,326,True,2,2,3,3,1,4,1,3,5
+3205027,RS Medina,Jawa Barat,Garut,Perusahaan,D,RSU,155,False,0,1,3,2,3,0,0,0,3
+3275065,RS Primaya Bekasi Utara,Jawa Barat,Kota Bekasi,Perusahaan,C,RSU,204,True,1,3,4,2,3,2,2,1,4
+3275064,RS Nusantara,Jawa Barat,Kota Bekasi,Perusahaan,D,RSU,61,False,0,1,3,1,0,0,0,0,2
+3271161,RS Umum Melania,Jawa Barat,Kota Bogor,Perusahaan,C,RSU,108,True,2,4,3,2,1,3,1,0,5
+3216451,RS Hermina Metland Cibitung,Jawa Barat,Bekasi,Perusahaan,C,RSU,100,True,1,3,3,1,1,2,2,0,4
+3209146,Rumah Sakit Mitra Plumbon Kanci,Jawa Barat,Cirebon,SWASTA/LAINNYA,C,RSU,170,True,1,2,2,1,0,1,0,1,3
+3278014,RS Umum Tasik Medika Citratama (TMC),Jawa Barat,Kota Tasikmalaya,Perusahaan,C,RSU,190,True,1,3,4,3,4,4,1,1,4
+3276154,RS Umum Alia Hospital,Jawa Barat,Kota Depok,Perusahaan,B,RSU,200,True,2,3,3,2,2,3,2,2,5
+3204170,RS Umum Daerah Bedas Cimaung,Jawa Barat,Bandung,Pemkab,D,RSU,53,False,0,1,1,1,0,0,0,0,1
+3274111,RS Umum Muhammadiyah,Jawa Barat,Kota Cirebon,Organisasi Islam ,D,RSU,50,False,0,1,1,1,0,0,0,0,2
+3216329,RS Umum Permata Cibubur,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,B,RSU,106,True,2,5,3,2,1,3,2,1,6
+3206083,RS Ibu dan Anak dr. Hj. Karmini EH,Jawa Barat,Kota Tasikmalaya,Organisasi Sosial,C,RSIA,29,False,0,1,1,0,0,0,0,0,1
+3216318,RS Umum Hermina Grand Wisata,Jawa Barat,Bekasi,SWASTA/LAINNYA,B,RSU,310,True,3,4,5,4,1,3,2,1,9
+3203041,RS Bhayangkara Cianjur,Jawa Barat,Cianjur,POLRI,D,RSU,52,False,0,2,1,0,0,0,0,0,1
+3272075,RS Umum Daerah Al-Mulk,Jawa Barat,Kota Sukabumi,Pemkot,D,RSU,53,False,0,2,1,1,0,1,0,0,2
+3273026,RSU Bhayangkara Tk. II Sartika Asih,Jawa Barat,Kota Bandung,POLRI,B,RSU,201,True,1,3,4,2,3,3,1,1,6
+3218001,RS Umum Daerah Pandega Pangandaran,Jawa Barat,Pangandaran,Pemkab,C,RSU,234,True,1,2,3,1,1,2,0,0,3
+3215045,RS Umum Dewi Sri,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSU,280,True,1,4,3,1,3,2,0,0,4
+3206084,RS Ibu dan Anak Respati,Jawa Barat,Tasikmalaya,Perusahaan,C,RSIA,47,False,0,0,1,1,0,0,0,0,1
+3201061,RS Umum Tugu Ibu,Jawa Barat,Kota Depok,Organisasi Sosial,C,RSU,116,False,1,3,2,4,2,2,3,0,4
+3214031,RS Umum Siloam Purwakarta,Jawa Barat,Purwakarta,Perusahaan,B,RSU,291,True,3,3,4,3,3,4,3,0,6
+3206055,RS Umum Islam Hj. Siti Muniroh,Jawa Barat,Kota Tasikmalaya,Organisasi Islam ,D,RSU,61,False,0,1,1,1,0,2,1,0,2
+3216434,RS Umum Budi Asih,Jawa Barat,Bekasi,Perorangan,D,RSU,58,False,0,1,1,1,0,0,0,0,2
+3273420,RS Umum Al-Islam Bandung,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,B,RSU,273,True,3,4,5,4,4,6,2,0,10
+3217132,RS Ibu dan Anak Parahyangan,Jawa Barat,Bandung Barat,SWASTA/LAINNYA,C,RSIA,27,False,0,1,2,0,0,0,0,0,2
+3215182,RS Hastien,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSU,174,True,1,3,2,2,0,1,1,0,4
+3276135,RS Umum Simpangan Depok,Jawa Barat,Kota Depok,Perusahaan,C,RSU,100,True,1,2,2,1,1,2,2,0,4
+3215146,RS Umum Daerah Jatisari Kabupaten Karawang,Jawa Barat,Karawang,Pemkab,C,RSU,118,True,1,2,1,1,1,1,0,0,2
+3203037,RS Umum Daerah Cimacan,Jawa Barat,Cianjur,Pemkab,C,RSU,170,False,0,2,2,2,1,1,1,0,4
+3210025,RS Umum Daerah Cideres,Jawa Barat,Majalengka,Pemkab,B,RSU,283,True,2,4,2,2,2,2,0,2,4
+3275130,RS Umum Bhakti Kartini,Jawa Barat,Kota Bekasi,Organisasi Sosial,C,RSU,111,True,1,1,1,1,2,3,2,0,3
+3215164,RS Umum Rosela,Jawa Barat,Karawang,Perusahaan,D,RSU,99,True,1,1,1,1,0,1,1,0,3
+3271115,RS Umum Hermina Bogor,Jawa Barat,Kota Bogor,Perusahaan,B,RSU,217,True,3,3,3,4,3,3,2,1,5
+3273464,RS Khusus Gigi dan Mulut UNPAD,Jawa Barat,Kota Bandung,Kementerian Lain,A,RSK GM,14,False,0,0,1,0,0,0,0,0,1
+3204041,RS Umum Kebonjati,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSU,114,True,2,6,4,2,1,2,2,1,4
+3216351,RS Umum Kartika Husada,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,112,False,0,2,1,1,0,1,0,0,3
+3214037,RS Umum Holistic Purwakarta,Jawa Barat,Purwakarta,Perusahaan,C,RSU,195,True,1,1,1,1,1,1,0,0,2
+3276152,RS Umum Citra Medika Depok,Jawa Barat,Kota Depok,SWASTA/LAINNYA,C,RSU,101,True,1,2,2,0,0,3,1,0,4
+3202084,RS Umum Bhakti Medicare,Jawa Barat,Sukabumi,SWASTA/LAINNYA,C,RSU,173,True,1,2,5,2,1,2,1,1,4
+3208013,RS Umum Daerah 45 Kuningan,Jawa Barat,Kuningan,Pemkab,B,RSU,204,True,2,3,3,1,1,3,1,1,3
+3213047,RS Avisena Subang,Jawa Barat,Subang,SWASTA/LAINNYA,D,RSU,88,False,0,2,1,1,0,0,0,0,1
+3275307,RS Siloam Bekasi Sepanjang Jaya,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,101,True,3,2,3,2,1,5,2,0,3
+3273145,RS Umum Hermina Arcamanik,Jawa Barat,Kota Bandung,Perusahaan,C,RSU,304,True,1,8,6,7,7,5,4,0,9
+3216388,RS Mitra Plumbon Cibitung,Jawa Barat,Bekasi,Perusahaan,C,RSU,331,True,3,4,3,1,3,3,1,2,5
+3213062,RS Hamori,Jawa Barat,Subang,SWASTA/LAINNYA,C,RSU,110,True,0,2,2,2,0,1,1,1,2
+3201150,Rumah Sakit Primaya FMC,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,100,True,1,1,2,2,2,3,1,0,4
+3202014,RS Umum Daerah Sekarwangi,Jawa Barat,Sukabumi,Pemkab,B,RSU,351,True,1,2,3,1,2,3,1,2,4
+3210049,RS Umum Daerah Talaga,Jawa Barat,Majalengka,Pemkab,D,RSU,52,False,0,1,1,1,0,0,0,0,2
+3216389,RS Umum Hermina Galaxy,Jawa Barat,Kota Bekasi,Perusahaan,C,RSU,125,True,2,3,6,5,2,4,3,1,9
+3273558,RS Jantung dan Pembuluh Darah Paramarta,Jawa Barat,Kota Bandung,Perusahaan,C,RSK JANTUNG,29,False,0,2,3,1,4,2,2,0,3
+3216417,RS Umum Tiara,Jawa Barat,Bekasi,Perusahaan,C,RSU,208,True,1,4,3,2,2,2,2,0,7
+3211026,RS Umum Pakuwon,Jawa Barat,Sumedang,SWASTA/LAINNYA,C,RSU,126,False,0,3,2,2,2,2,1,0,4
+3201249,RS Asysyifaa,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,121,False,0,2,1,1,1,1,0,0,2
+3207023,RS Umum Daerah Banjar,Jawa Barat,Kota Banjar,Pemkot,B,RSU,202,True,2,2,2,2,1,3,1,1,3
+3206096,RSUD Tani dan Nelayan Tasikmalaya,Jawa Barat,Tasikmalaya,Pemkab,D,RSU,51,False,0,0,0,1,0,0,0,0,0
+3275062,RS Siloam Bekasi Timur,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,100,True,2,4,3,4,2,3,1,0,2
+3275083,RS Seto Hasbadi,Jawa Barat,Kota Bekasi,Organisasi Sosial,D,RSU,59,True,1,2,2,1,0,2,1,0,2
+3271024,RS Umum Salak,Jawa Barat,Kota Bogor,TNI AD,C,RSU,127,True,0,2,4,2,1,4,1,0,4
+3216443,RS EMC Cibitung,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,101,True,2,2,3,2,2,4,4,1,4
+3209053,RS Umum Khalishah,Jawa Barat,Cirebon,SWASTA/LAINNYA,C,RSU,110,False,0,3,3,1,0,2,0,0,2
+3279003,RS Umum Banjar Patroman,Jawa Barat,Kota Banjar,Perusahaan,C,RSU,100,False,1,2,2,1,0,3,0,0,4
+3201185,RS Umum Meilia,Jawa Barat,Kota Depok,SWASTA/LAINNYA,B,RSU,200,True,4,5,4,4,2,4,3,2,5
+3204134,RS Umum Daerah Kesehatan Kerja,Jawa Barat,Bandung,Pemprop,D,RSU,52,True,1,2,2,1,0,1,1,0,2
+3274064,RS Umum Putera Bahagia,Jawa Barat,Kota Cirebon,Perusahaan,C,RSU,130,True,2,3,3,1,1,2,2,1,5
+3275415,RS Paramedika,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,D,RSU,50,False,0,1,0,0,0,0,0,0,1
+3275094,RS Umum Mitra Keluarga Bekasi,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,B,RSU,170,True,3,5,2,6,2,3,3,4,9
+3201243,RS Ibu dan Anak Sawojajar,Jawa Barat,Kota Bogor,SWASTA/LAINNYA,C,RSIA,39,False,0,1,1,1,0,0,0,0,1
+3215023,RS Umum Bayukarta,Jawa Barat,Karawang,Organisasi Protestan,C,RSU,165,False,2,3,3,4,2,2,1,1,4
+3208058,RS Umum Kuningan Medical Center,Jawa Barat,Kuningan,Perusahaan,C,RSU,105,False,0,1,1,0,0,1,0,0,1
+3275063,RS Primaya,Jawa Barat,Kota Bekasi,Perusahaan,B,RSU,200,True,3,3,3,3,5,3,3,5,4
+3201254,Bogor Senior Hospital,Jawa Barat,Kota Bogor,SWASTA/LAINNYA,C,RSU,110,True,2,3,4,3,0,2,1,1,5
+3215123,RS Umum Citra Sari Husada,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSU,270,True,1,4,4,2,2,1,1,1,3
+3207057,RS Umum Dadi Keluarga Ciamis,Jawa Barat,Ciamis,SWASTA/LAINNYA,C,RSU,187,True,1,3,2,1,1,2,1,0,3
+3277019,RS Umum Avisena,Jawa Barat,Kota Cimahi,Perusahaan,C,RSU,150,True,2,3,2,1,2,1,2,0,3
+3215012,RS Umum Daerah Karawang,Jawa Barat,Karawang,Pemkab,B,RSU,400,True,2,3,3,3,4,3,1,1,5
+3201242,RS Umum Kenari Graha Medika,Jawa Barat,Bogor,SWASTA/LAINNYA,D,RSU,85,True,0,1,3,1,0,0,0,0,2
+3216407,RS Cahaya Medika,Jawa Barat,Bekasi,Perusahaan,D,RSU,50,False,0,0,1,1,0,0,0,0,0
+3273165,RS Ibu dan Anak Limijati,Jawa Barat,Kota Bandung,Perusahaan,B,RSIA,95,True,1,1,7,2,2,0,1,0,4
+3217007,RS Umum Daerah Cikalongwetan,Jawa Barat,Bandung Barat,Pemkab,C,RSU,101,True,1,2,1,1,1,1,0,0,4
+3215163,RS Umum SAN Medical Center,Jawa Barat,Karawang,Perusahaan,C,RSU,167,True,1,1,3,0,1,1,1,1,5
+3204133,RS Maranatha,Jawa Barat,Bandung,Perusahaan,C,RSU,111,True,2,4,3,2,1,3,3,0,5
+3211015,RS Umum Daerah Umar Wirahadikusumah,Jawa Barat,Sumedang,Pemkab,B,RSU,388,True,1,4,2,3,4,2,2,2,6
+3216468,RUMAH SAKIT TAKSIM,Jawa Barat,Bekasi,SWASTA/LAINNYA,D,RSU,53,False,0,1,1,2,0,0,0,0,1
+3272014,"RS Umum Daerah R. Syamsudin, SH",Jawa Barat,Kota Sukabumi,Pemkot,B,RSU,553,True,2,3,4,3,4,2,2,1,5
+3273015,RS Umum Pusat Dr. Hasan Sadikin,Jawa Barat,Kota Bandung,Kemkes ,A,RSU,1222,True,28,19,27,11,19,10,8,7,29
+3216126,RS Umum Annisa,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,189,True,1,3,5,2,2,3,2,1,4
+3214033,RS Umum Asri Purwakarta,Jawa Barat,Purwakarta,Perusahaan,C,RSU,135,True,1,2,3,1,0,2,1,0,3
+3276041,RS Umum Grha Permata Ibu,Jawa Barat,Kota Depok,Perusahaan,C,RSU,116,True,2,2,3,3,2,6,1,0,3
+3202051,RS Umum Daerah Jampang Kulon,Jawa Barat,Sukabumi,Pemprop,C,RSU,200,False,0,2,2,2,1,2,1,0,3
+3209133,RS Umum Sumber Waras,Jawa Barat,Cirebon,SWASTA/LAINNYA,B,RSU,261,True,2,2,1,2,4,2,1,1,5
+3275263,RS Umum Citra Harapan,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,102,True,0,3,3,2,2,2,2,0,4
+3201024,RS Paru Dr. M. Goenawan Partowidigdo,Jawa Barat,Bogor,Kemkes ,A,RSK PARU,206,False,1,3,3,2,1,1,1,1,2
+3273431,RS Khusus Bedah Halmahera Siaga,Jawa Barat,Kota Bandung,Organisasi Sosial,C,RSK BEDAH,30,True,5,2,5,4,1,1,0,0,2
+3216387,RS Umum Dokter Adam Talib,Jawa Barat,Bekasi,Perusahaan,C,RSU,102,True,0,1,1,1,0,1,0,1,1
+3213045,RS Umum Pamanukan Medical Center (PMC),Jawa Barat,Subang,Perusahaan,C,RSU,130,True,1,3,2,1,1,2,1,0,2
+3276170,RS Eka Hospital Depok,Jawa Barat,Kota Depok,SWASTA/LAINNYA,C,RSU,100,True,1,5,8,4,1,4,1,1,11
+3201207,RS dr. Abdul Radjak Cileungsi,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,188,True,1,2,3,2,0,2,1,1,4
+3204090,RS Umum Daerah Oto Iskandar Di Nata,Jawa Barat,Bandung,Pemkab,B,RSU,272,True,1,4,2,2,4,2,2,1,5
+3212057,RS Syahid Al Irsyad,Jawa Barat,Indramayu,SWASTA/LAINNYA,D,RSU,55,False,0,0,0,0,0,0,0,0,0
+3275052,RS Umum Juwita,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,100,True,0,1,1,1,0,2,0,0,2
+3204129,RS Ibu dan Anak Grha Bunda,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSIA,40,False,0,1,3,1,0,0,0,0,1
+3216414,RS Umum Amanda,Jawa Barat,Bekasi,Perusahaan,C,RSU,96,True,1,2,3,1,0,1,1,0,2
+3212058,RS Ibu dan Anak Irhamna Indramayu,Jawa Barat,Indramayu,SWASTA/LAINNYA,C,RSIA,33,False,0,0,1,0,0,0,0,0,1
+3201244,RS Umum Permata Jonggol,Jawa Barat,Bogor,Perusahaan,C,RSU,144,True,1,3,3,3,1,4,2,1,6
+3201232,RS Umum Daerah RH. Satibi,Jawa Barat,Bogor,Pemkab,B,RSU,283,True,2,2,5,3,1,4,1,2,4
+3207045,RS Umum Permata Bunda,Jawa Barat,Ciamis,Organisasi Sosial,D,RSU,102,True,0,3,3,1,1,2,0,0,1
+3216427,RS Dokter Adam Talib Cikunir,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,101,False,0,1,1,1,0,1,0,0,1
+3272062,RS Umum Kartika Kasih,Jawa Barat,Kota Sukabumi,SWASTA/LAINNYA,C,RSU,156,True,1,1,2,2,1,2,1,1,4
+3216432,RS Ibu dan Anak Viola,Jawa Barat,Bekasi,Perorangan,C,RSIA,42,False,0,0,0,0,0,0,0,0,0
+3209025,RS Pertamina Cirebon,Jawa Barat,Cirebon,BUMN,C,RSU,100,True,2,4,3,2,2,2,1,1,4
+3201272,RS Paragon,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,108,True,1,5,3,1,0,2,1,0,4
+3277022,RS Gigi dan Mulut Pendidikan Unjani,Jawa Barat,Kota Cimahi,SWASTA/LAINNYA,B,RSK GM,8,False,0,0,1,0,0,0,0,0,1
+3205039,RS Umum Nurhayati Cikajang,Jawa Barat,Garut,SWASTA/LAINNYA,D,RSU,74,False,0,1,2,2,1,0,0,0,1
+3275416,RS Permata Keluarga Summarecon Bekasi,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,114,True,2,4,2,2,0,1,1,1,4
+3275067,RS Umum Daerah Pondokgede,Jawa Barat,Kota Bekasi,Pemkot,D,RSU,68,False,0,2,2,2,1,2,1,0,2
+3201236,RS Umum Medika Dramaga,Jawa Barat,Kota Bogor,Perusahaan,C,RSU,110,True,1,4,3,2,1,2,1,0,4
+3216464,RS Mitra Keluarga Deltamas,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,110,True,0,3,2,4,1,1,1,3,4
+3208024,RS Umum Wijaya Kusumah,Jawa Barat,Kuningan,Organisasi Sosial,C,RSU,120,True,1,2,2,1,1,1,1,0,2
+3278015,RS Ibu dan Anak Ummi,Jawa Barat,Kota Tasikmalaya,SWASTA/LAINNYA,C,RSIA,24,False,0,0,0,0,0,0,0,0,0
+3204172,RS Umum Daerah Bedas Tegalluar,Jawa Barat,Bandung,Pemkab,D,RSU,55,False,0,1,1,1,0,0,0,0,1
+3273176,RS Umum Tk. IV 03.07.03 Sariningsih,Jawa Barat,Kota Bandung,TNI AD,D,RSU,60,True,0,5,2,2,0,1,1,0,3
+3271164,RS Umum Mulia Pajajaran,Jawa Barat,Kota Bogor,Perusahaan,C,RSU,107,True,2,2,3,2,1,5,2,1,5
+3215067,RS Umum Proklamasi,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSU,100,True,0,1,3,1,0,1,0,0,2
+3208060,RS Umum KMC Luragung,Jawa Barat,Kuningan,Perusahaan,C,RSU,105,False,0,1,2,1,0,0,0,0,3
+3278093,RS Hermina Tasikmalaya,Jawa Barat,Kota Tasikmalaya,SWASTA/LAINNYA,C,RSU,136,True,1,3,3,2,0,2,2,1,2
+3216436,RS EMC Cikarang,Jawa Barat,Bekasi,Perusahaan,B,RSU,200,True,2,2,2,3,2,4,1,2,5
+3202087,RS Umum Daerah Sagaranten,Jawa Barat,Sukabumi,Pemkab,D,RSU,53,False,0,0,0,2,0,0,0,0,0
+3217006,RS Umum IMC,Jawa Barat,Bandung Barat,Perusahaan,D,RSU,63,False,0,2,3,1,0,0,0,0,2
+3273052,RS Umum Immanuel Bandung,Jawa Barat,Kota Bandung,Organisasi Protestan,B,RSU,302,True,4,7,3,4,1,6,3,1,10
+3217002,RS Umum Daerah Cililin,Jawa Barat,Bandung Barat,Pemkab,C,RSU,150,False,0,2,2,1,3,1,1,0,5
+3215160,RS Umum Puri Asih,Jawa Barat,Karawang,Perusahaan,C,RSU,100,False,0,1,2,1,0,2,1,0,3
+3205022,RS Umum Daerah Pameungpeuk Prov. Jabar,Jawa Barat,Garut,Pemprop,C,RSU,130,False,0,3,2,1,1,1,0,0,4
+3201196,RS Umum Bunda Margonda,Jawa Barat,Kota Depok,SWASTA/LAINNYA,C,RSU,105,True,3,3,7,3,2,6,3,2,5
+3213010,RS Umum Daerah Subang,Jawa Barat,Subang,Pemkab,B,RSU,280,True,1,4,3,2,1,3,0,1,6
+3278095,Rumah Sakit Umum Daerah Dewi Sartika,Jawa Barat,Kota Tasikmalaya,Pemkot,D,RSU,45,False,0,1,1,0,0,0,0,0,1
+3216439,RS Umum Dr. Iqbali Taufan,Jawa Barat,Bekasi,Perorangan,D,RSU,50,False,0,1,1,1,0,0,0,0,0
+3273540,RS Khusus Gigi dan Mulut Kota Bandung,Jawa Barat,Kota Bandung,Pemkot,B,RSK GM,6,False,0,0,2,0,0,0,0,0,0
+3217134,RS Ibu dan Anak Anugrah ALZ,Jawa Barat,Bandung Barat,Perusahaan,C,RSIA,25,False,0,0,1,0,0,0,0,0,1
+3215184,RS EFARINA ETAHAM KARAWANG,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSU,201,True,1,2,2,1,1,1,0,1,2
+3276028,RS Umum Mitra Keluarga Depok,Jawa Barat,Kota Depok,Perusahaan,C,RSU,117,True,2,4,1,6,2,3,2,1,7
+3215170,RS Primaya Karawang,Jawa Barat,Karawang,SWASTA/LAINNYA,C,RSU,184,True,2,1,4,1,2,3,2,2,5
+3203039,RS Umum Daerah Pagelaran,Jawa Barat,Cianjur,Pemkab,C,RSU,150,False,0,1,2,1,1,1,0,0,3
+3209036,RS Daerah Sidawangi,Jawa Barat,Cirebon,Pemprop,B,RSK PARU,138,True,1,2,2,2,1,0,0,0,1
+3275196,RS Umum Bella,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,103,True,2,3,2,2,2,3,1,0,6
+3214040,RS Umum Karina Medika,Jawa Barat,Purwakarta,Perusahaan,D,RSU,74,False,0,1,1,1,0,0,0,0,2
+3216163,Sentra Medika Hospital Cikarang,Jawa Barat,Bekasi,Organisasi Sosial,B,RSU,201,True,3,3,4,3,4,1,1,1,4
+3273542,RS Umum Santosa Hospital Bandung Kopo,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,A,RSU,488,True,5,6,7,7,4,3,1,5,6
+3273096,RS Umum Pindad,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSU,120,True,3,4,3,3,1,3,2,1,5
+3216374,RS Ananda Tambun Selatan,Jawa Barat,Bekasi,Perusahaan,C,RSU,139,True,0,2,1,1,1,1,0,0,2
+3214041,RS Ibu dan Anak Bunda Fathia,Jawa Barat,Purwakarta,Perusahaan,C,RSIA,55,False,0,0,2,1,0,0,0,0,0
+3276166,RS Umum Citra Arafiq Sawangan,Jawa Barat,Kota Depok,SWASTA/LAINNYA,C,RSU,197,True,1,5,3,2,1,2,1,0,4
+3202088,RS Primaya Sukabumi,Jawa Barat,Sukabumi,SWASTA/LAINNYA,C,RSU,111,True,1,4,2,2,2,3,1,1,3
+3205010,RS Umum Daerah dr. Slamet Garut,Jawa Barat,Garut,Pemkab,B,RSU,387,True,0,3,3,2,2,2,1,1,5
+3213050,RS Indosehat 2003,Jawa Barat,Subang,SWASTA/LAINNYA,D,RSU,50,True,0,2,2,2,0,0,0,0,3
+3275141,RS Umum Permata Bekasi,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,134,True,2,3,3,3,1,3,3,0,8
+3273547,RS Edelweiss,Jawa Barat,Kota Bandung,Perusahaan,C,RSU,110,True,2,7,5,3,3,1,4,1,3
+3216408,RS Umum Harapan Mulia,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSU,151,True,0,1,3,1,1,1,0,0,3
+3212031,RS Umum Daerah M. A. Sentot Patrol,Jawa Barat,Indramayu,Pemprop,C,RSU,120,False,0,2,1,1,0,1,0,1,2
+3201094,RS Umum Annisa,Jawa Barat,Bogor,SWASTA/LAINNYA,C,RSU,150,True,0,2,3,3,1,1,1,0,2
+3201050,RS Umum Daerah Dr. K.H. Idham Chalid,Jawa Barat,Bogor,Pemkab,B,RSU,424,True,2,5,5,3,2,4,1,1,5
+3208057,RS Umum El-Syifa,Jawa Barat,Kuningan,Perusahaan,D,RSU,56,False,0,1,1,1,0,0,1,0,2
+3275403,RS Ibu dan Anak Rinova Intan,Jawa Barat,Kota Bekasi,Perusahaan,C,RSIA,26,False,0,0,1,0,0,0,0,0,0
+3273561,RS Pasundan,Jawa Barat,Kota Bandung,SWASTA/LAINNYA,C,RSU,100,True,1,2,5,1,3,1,1,0,1
+3216420,RS Umum Medirossa 2,Jawa Barat,Bekasi,Perusahaan,C,RSU,115,True,1,1,1,1,0,1,1,0,3
+3210037,RS Mitra Plumbon Majalengka,Jawa Barat,Majalengka,Perusahaan,C,RSU,536,True,4,5,4,2,3,4,2,1,6
+3201252,RS Harapan Sehati,Jawa Barat,Bogor,Perusahaan,C,RSU,100,True,0,2,2,1,0,1,0,0,1
+3278094,RS Jantung dan Pembuluh Darah Tasikmalaya,Jawa Barat,Kota Tasikmalaya,Perusahaan,B,RSK JANTUNG,88,False,0,2,2,1,4,2,1,0,3
+3205024,RS Umum Annisa Queen,Jawa Barat,Garut,Perusahaan,D,RSU,50,False,0,2,1,2,1,0,0,0,0
+3216448,RS Mitra Keluarga Pratama,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,C,RSU,103,True,0,3,3,1,2,3,2,0,4
+3216396,RS Emhaka,Jawa Barat,Kota Bekasi,Perusahaan,D,RSU,50,False,0,1,1,1,0,1,1,0,2
+3271126,Mayapada Hospital Bogor,Jawa Barat,Kota Bogor,Perusahaan,C,RSU,100,True,3,7,3,2,3,5,1,2,4
+3216446,RS Ibu dan Anak Aisyah Qurratu'ain,Jawa Barat,Bekasi,SWASTA/LAINNYA,C,RSIA,33,False,0,0,1,1,0,0,0,0,1
+3209145,Rumah Sakit Sumber Kasih Lemahabang,Jawa Barat,Cirebon,SWASTA/LAINNYA,C,RSU,100,True,1,1,1,1,0,1,0,0,1
+3278081,RS Umum Prasetya Bunda,Jawa Barat,Kota Tasikmalaya,SWASTA/LAINNYA,C,RSU,100,True,1,1,1,1,0,2,1,0,1
+3276150,RS Siloam Heart Hospital,Jawa Barat,Kota Depok,Perusahaan,B,RSK JANTUNG,76,False,0,3,5,2,21,2,1,0,4
+3204169,RS Muhammadiyah Bandung Selatan,Jawa Barat,Bandung,Organisasi Islam ,D,RSU,75,False,2,3,2,2,0,1,0,0,2
+3274134,RS Umum Medimas,Jawa Barat,Kota Cirebon,SWASTA/LAINNYA,C,RSU,100,True,2,3,1,1,1,2,1,1,2
+3274100,RS Umum Budi Asta,Jawa Barat,Kota Cirebon,Organisasi Sosial,D,RSU,50,False,0,1,1,0,0,0,0,0,1
+3216218,RS Umum Ananda,Jawa Barat,Kota Bekasi,SWASTA/LAINNYA,B,RSU,227,True,2,3,2,2,2,2,2,1,6
+3305066,RS Umum PKU Muhamadiyah Gombong,Jawa Tengah,Kebumen,Organisasi Islam ,B,RSU,343,True,1,3,3,4,7,4,1,1,4
+3372026,RS Umum Dr. Oen,Jawa Tengah,Kota Surakarta,Organisasi Sosial,B,RSU,250,True,4,4,8,2,4,6,1,1,3
+3374390,RS Cepoko,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,D,RSU,50,True,0,4,3,3,0,2,0,0,2
+3315074,RS Sekar Laras,Jawa Tengah,Grobogan,Perusahaan,D,RSU,42,False,0,1,1,1,0,0,0,0,0
+3311231,RS Islam Surakarta YARSIS,Jawa Tengah,Sukoharjo,Organisasi Islam ,C,RSU,102,True,0,3,3,1,0,3,1,0,6
+3374240,"RS Panti Wilasa ""Dr. Cipto"" Semarang",Jawa Tengah,Kota Semarang,Organisasi Protestan,C,RSU,145,True,2,4,5,2,4,6,3,2,9
+3324040,RS Umum Charlie Hospital,Jawa Tengah,Kendal,Perusahaan,C,RSU,100,True,0,1,2,2,0,1,1,0,2
+3303103,RS Islam At-Tin Husada Purbalingga,Jawa Tengah,Purbalingga,SWASTA/LAINNYA,C,RSU,100,True,1,2,3,1,0,2,0,0,3
+3374342,RS Daerah KRMT Wongsonegoro,Jawa Tengah,Kota Semarang,Pemkot,B,RSU,545,True,3,4,4,4,5,7,2,2,9
+3372254,RS Kardiologi Emirates Indonesia,Jawa Tengah,Kota Surakarta,Kemkes ,A,RSK JANTUNG,33,False,0,0,3,1,7,3,0,0,6
+3318109,RS Umum  Budi Agung Pati,Jawa Tengah,Pati,SWASTA/LAINNYA,D,RSU,91,True,1,2,1,1,0,2,0,0,3
+3314045,RS Umum Sarila Husada,Jawa Tengah,Sragen,SWASTA/LAINNYA,C,RSU,130,True,2,4,3,2,1,2,0,0,4
+3374367,RS Umum Nasional Diponegoro,Jawa Tengah,Kota Semarang,Kementerian Lain,C,RSU,203,False,1,4,9,5,2,1,1,1,7
+3327010,RS Umum Daerah Dr. M. Ashari Pemalang,Jawa Tengah,Pemalang,Pemkab,C,RSU,270,True,1,2,4,2,2,3,1,0,5
+3305103,RS Umum PKU Muhammadiyah Sruweng,Jawa Tengah,Kebumen,Organisasi Islam ,C,RSU,156,True,1,3,2,2,1,2,1,0,3
+3301114,RS Umum Aghisna Medika Sidareja,Jawa Tengah,Cilacap,SWASTA/LAINNYA,D,RSU,128,False,0,1,2,1,1,1,0,0,2
+3322071,RS Umum Bina Kasih,Jawa Tengah,Semarang,Organisasi Sosial,D,RSU,65,False,0,1,2,1,0,1,1,0,1
+3315076,RS Permata Utama,Jawa Tengah,Grobogan,Perusahaan,C,RSU,130,False,0,2,2,1,0,0,0,0,2
+3374389,RS Unimus,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSU,110,True,1,2,3,1,1,2,1,0,4
+3328079,RS Ibu dan Anak Pala Raya,Jawa Tengah,Tegal,SWASTA/LAINNYA,C,RSIA,40,False,0,1,1,1,0,0,0,0,1
+3307035,RS Ibu dan Anak Adina,Jawa Tengah,Wonosobo,Organisasi Sosial,C,RSIA,31,False,0,0,3,1,0,0,0,0,1
+3305114,RS Umum Purwogondo,Jawa Tengah,Kebumen,Organisasi Sosial,D,RSU,72,True,1,1,1,1,1,1,0,0,2
+3302026,RS Umum Daerah Prof Dr. Margono Soekarjo,Jawa Tengah,Banyumas,Pemprop,A,RSU,891,True,2,2,5,6,5,3,2,1,2
+3309107,RS Umum Daerah Simo,Jawa Tengah,Boyolali,Pemkab,D,RSU,128,False,0,2,1,1,1,1,0,0,3
+3326062,RS Umum Daerah Kesesi Pekalongan,Jawa Tengah,Pekalongan,Pemkab,D,RSU,57,False,0,1,1,0,0,0,0,0,1
+3317038,RS PKU Muhammadiyah Pamotan,Jawa Tengah,Rembang,Organisasi Islam ,C,RSU,102,True,1,1,2,1,1,1,0,0,2
+3376104,Rumah Sakit Harapan Sehat Tegal,Jawa Tengah,Kota Tegal,SWASTA/LAINNYA,C,RSU,100,False,0,2,1,1,0,0,0,0,1
+3329108,RS Umum Allam Medica Bumiayu,Jawa Tengah,Brebes,SWASTA/LAINNYA,C,RSU,141,False,0,2,2,1,1,2,0,1,5
+3301073,RS Umum Islam Fatimah,Jawa Tengah,Cilacap,Organisasi Islam ,C,RSU,398,True,1,2,2,3,1,3,1,0,4
+3306110,RS Umum Budi Sehat Purworejo,Jawa Tengah,Purworejo,SWASTA/LAINNYA,D,RSU,58,True,0,1,2,1,1,2,1,0,2
+3327048,RS Harapan Sehat Pemalang,Jawa Tengah,Pemalang,SWASTA/LAINNYA,D,RSU,71,True,0,1,1,1,0,1,0,0,2
+3311230,RS PKU Muhammadiyah Kartasura,Jawa Tengah,Sukoharjo,Organisasi Islam ,D,RSU,50,False,0,1,1,1,0,1,0,0,2
+3318114,RS Keluarga Sehat Tayu,Jawa Tengah,Pati,Perusahaan,C,RSU,132,True,3,2,2,1,1,2,3,0,5
+3308021,RS Umum Syubbanul Wathon,Jawa Tengah,Magelang,Perusahaan,C,RSU,100,False,0,2,2,2,2,2,1,0,4
+3372132,RS Umum Islam Kustati,Jawa Tengah,Kota Surakarta,Organisasi Islam ,C,RSU,159,True,1,2,4,3,2,4,2,1,5
+3302030,RS Umum Tk. III Wijayakusuma,Jawa Tengah,Banyumas,TNI AD,C,RSU,184,True,3,5,4,3,1,3,1,0,3
+3309015,RS Umum Daerah Pandan Arang Boyolali,Jawa Tengah,Boyolali,Pemkab,B,RSU,286,True,2,2,3,2,1,3,2,1,4
+3329101,RS Umum Dera As-Syifa,Jawa Tengah,Brebes,SWASTA/LAINNYA,D,RSU,140,True,1,1,2,1,1,1,0,0,3
+3313053,RS Umum Jati Husada Karanganyar,Jawa Tengah,Karanganyar,Perorangan,D,RSU,60,True,1,1,2,1,0,2,1,0,2
+3319113,RS Sarkies 'Aisyiyah Kudus,Jawa Tengah,Kudus,SWASTA/LAINNYA,C,RSU,150,True,1,3,3,1,1,3,1,0,3
+3310395,RS Umum Cakra Husada,Jawa Tengah,Klaten,Organisasi Sosial,C,RSU,111,True,1,3,3,0,4,4,2,0,4
+3372242,RS Onkologi Solo,Jawa Tengah,Kota Surakarta,SWASTA/LAINNYA,C,RSK KANKER,25,False,1,1,1,0,0,1,0,0,1
+3302121,RS Umum PKU Muhammadiyah Amanah Sumpiuh,Jawa Tengah,Banyumas,Organisasi Sosial,C,RSU,132,True,1,1,3,2,1,2,0,0,4
+3319032,RS Umum Mardi Rahayu,Jawa Tengah,Kudus,Organisasi Sosial,B,RSU,387,True,4,6,5,3,1,4,4,2,6
+3371144,RS Umum Daerah Budi Rahayu,Jawa Tengah,Kota Magelang,Pemkot,D,RSU,50,True,1,2,2,1,0,3,0,0,5
+3314108,RS Umum Daerah Sukowati Tangen,Jawa Tengah,Sragen,Pemkab,D,RSU,50,False,0,1,2,1,0,1,0,0,1
+3310421,RS Umum Daerah Bagas Waras,Jawa Tengah,Klaten,Pemkab,C,RSU,166,True,2,2,2,1,2,3,1,0,4
+3373092,RS Ibu dan Anak Hermina Mutiara Bunda,Jawa Tengah,Kota Salatiga,Perorangan,C,RSIA,25,False,0,3,3,0,0,0,0,0,1
+3321047,Charlie Hospital Demak,Jawa Tengah,Demak,SWASTA/LAINNYA,C,RSU,110,True,1,1,2,1,0,2,1,0,4
+3302248,RS Khusus Mata Purwokerto,Jawa Tengah,Banyumas,Pemkab,C,RSK Mata,15,False,0,0,2,1,0,0,0,0,2
+3373103,RS Islam Tunas Harapan,Jawa Tengah,Kota Salatiga,Perusahaan,D,RSU,57,True,2,2,2,1,1,1,1,0,4
+3315060,RS Umum Daerah Ki Ageng Selo,Jawa Tengah,Grobogan,Pemkab,D,RSU,98,False,0,1,1,1,1,2,0,0,2
+3311225,RS Umum PKU Muhammadiyah Sukoharjo,Jawa Tengah,Sukoharjo,Organisasi Islam ,C,RSU,112,True,2,3,1,2,1,1,1,0,5
+3374112,RS Umum Panti Wilasa Citarum,Jawa Tengah,Kota Semarang,Organisasi Protestan,C,RSU,168,True,2,6,4,4,4,5,4,0,9
+3323024,RS Umum Ngesti Waluyo,Jawa Tengah,Temanggung,Organisasi Protestan,C,RSU,180,True,2,3,4,2,2,1,1,0,3
+3303097,RS Umum Daerah Panti Nugroho,Jawa Tengah,Purbalingga,Pemkab,C,RSU,100,False,0,2,4,1,0,1,0,0,3
+3374043,RS Umum Telogorejo Semarang,Jawa Tengah,Kota Semarang,Organisasi Sosial,B,RSU,270,True,3,6,5,6,3,7,4,4,16
+3371040,RS Jiwa Prof. Dr. Soerojo,Jawa Tengah,Kota Magelang,Kemkes ,A,RSK Jiwa,149,True,2,3,1,2,2,1,2,1,5
+3375073,RS Umum H. A. Zaky Djunaid,Jawa Tengah,Kota Pekalongan,SWASTA/LAINNYA,D,RSU,93,True,1,2,1,1,1,2,2,0,3
+3316075,RS Umum Daerah Samin Surosentiko Randublatung,Jawa Tengah,Blora,Pemkab,D,RSU,52,False,0,1,1,1,0,0,0,0,1
+3313033,RS PKU Muhammadiyah Karanganyar,Jawa Tengah,Karanganyar,Organisasi Islam ,C,RSU,220,True,3,3,4,2,2,3,2,1,4
+3374091,RS Umum Bhayangkara Semarang ,Jawa Tengah,Kota Semarang,POLRI,C,RSU,168,True,3,4,4,3,3,3,0,0,8
+3326038,RS Umum Daerah Kajen Kab. Pekalongan,Jawa Tengah,Pekalongan,Pemkab,C,RSU,280,True,2,3,3,1,1,2,2,0,4
+3305011,RS Umum Daerah dr. Soedirman Kabupaten Kebumen,Jawa Tengah,Kebumen,Pemkab,C,RSU,295,True,1,2,3,3,3,3,1,1,4
+3376082,RS Umum Islam Harapan Anda,Jawa Tengah,Kota Tegal,Organisasi Islam ,B,RSU,396,True,3,3,1,3,1,3,2,1,10
+3320046,RS PKU Aisyiyah Jepara,Jawa Tengah,Jepara,Organisasi Islam ,D,RSU,75,False,1,2,2,1,0,1,1,0,3
+3315024,RS Umum Panti Rahayu,Jawa Tengah,Grobogan,Organisasi Sosial,C,RSU,195,True,2,4,2,1,2,2,1,0,4
+3374375,RS Mata JEC-Candi Semarang,Jawa Tengah,Kota Semarang,Perusahaan,C,RSK Mata,18,False,0,0,2,0,0,0,0,0,1
+3328055,RSI PKU Muhammadiyah Tegal,Jawa Tengah,Tegal,Organisasi Sosial,C,RSU,256,True,3,3,3,3,2,3,2,0,4
+3306105,RS Ibu dan Anak Permata,Jawa Tengah,Purworejo,Perusahaan,C,RSIA,28,False,0,1,1,1,0,0,0,0,1
+3303102,RS Umum PKU Muhammadiyah Purbalingga,Jawa Tengah,Purbalingga,Organisasi Islam ,D,RSU,56,True,1,1,2,1,0,1,0,0,2
+3308034,RS Umum Daerah Candi Umbul,Jawa Tengah,Magelang,Pemkab,D,RSU,50,False,0,1,2,1,0,0,0,0,1
+3324052,RS PKU Aisyiyah Kendal,Jawa Tengah,Kendal,Organisasi Islam ,D,RSU,51,True,1,1,1,1,0,1,1,0,1
+3316076,RS Ibu dan Anak Annisa Blora,Jawa Tengah,Blora,Perusahaan,C,RSIA,30,False,0,0,1,0,0,0,0,0,0
+3375033,RS Umum Siti Khodijah,Jawa Tengah,Kota Pekalongan,Organisasi Islam ,C,RSU,102,True,0,2,1,3,2,3,1,0,3
+3329102,RS Umum Daerah Bumiayu,Jawa Tengah,Brebes,Pemkab,C,RSU,132,False,0,1,2,1,1,2,0,0,4
+3306106,RS Umum Purwa Husada,Jawa Tengah,Purworejo,Perusahaan,D,RSU,50,False,0,1,1,1,0,0,0,0,1
+3310419,RS Umum Mitra Pedan,Jawa Tengah,Klaten,Perusahaan,D,RSU,99,True,2,2,2,1,0,3,1,0,2
+3318108,RS Umum Keluarga Sehat ,Jawa Tengah,Pati,Perusahaan,C,RSU,240,True,3,4,5,3,3,4,2,1,5
+3372030,RS Umum Tk III Slamet Riyadi Surakarta,Jawa Tengah,Kota Surakarta,TNI AD,C,RSU,104,True,1,3,4,1,2,4,1,0,4
+3301109,RS Umum Afdila Cilacap,Jawa Tengah,Cilacap,SWASTA/LAINNYA,C,RSU,103,True,1,2,1,1,1,1,0,0,2
+3328082,RS Hawari Essa,Jawa Tengah,Tegal,SWASTA/LAINNYA,D,RSU,60,False,0,1,2,0,0,1,0,0,2
+3312308,RS Umum Mulia Hati Wonogiri,Jawa Tengah,Wonogiri,Perusahaan,D,RSU,111,True,2,2,2,1,2,2,1,0,5
+3319022,RS Umum Kumala Siwimijen Kudus,Jawa Tengah,Kudus,Organisasi Sosial,C,RSU,100,True,1,2,2,1,1,3,3,0,2
+3309135,RS Indriati Boyolali,Jawa Tengah,Boyolali,SWASTA/LAINNYA,C,RSU,115,True,2,3,4,2,1,3,2,1,4
+3372239,RS Gigi dan Mulut Soelastri,Jawa Tengah,Kota Surakarta,Perorangan,C,RSK GM,13,False,0,0,1,0,0,0,0,0,1
+3302213,RS Umum Wiradadi Husada,Jawa Tengah,Banyumas,Organisasi Sosial,C,RSU,156,True,1,3,2,1,1,2,0,1,5
+3315013,RS Umum Daerah Dr. R.Soedjati Soemodiardjo,Jawa Tengah,Grobogan,Pemkab,B,RSU,314,True,2,3,2,2,2,3,1,0,6
+3329127,RS Prima Insan Mulia,Jawa Tengah,Brebes,SWASTA/LAINNYA,D,RSU,50,False,0,1,1,1,0,0,0,0,1
+3314092,RS Umum Islam Yakssi Gemolong,Jawa Tengah,Sragen,Perusahaan,D,RSU,50,True,2,3,2,1,0,1,1,0,2
+3321033,RS Umum Islam NU Demak,Jawa Tengah,Demak,Organisasi Islam ,C,RSU,114,True,1,4,1,2,1,3,1,0,5
+3302226,RS Ibu dan Anak Budhi Asih,Jawa Tengah,Banyumas,Organisasi Sosial,C,RSIA,25,False,0,0,0,0,0,0,0,0,0
+3301014,RS Umum Daerah Cilacap,Jawa Tengah,Cilacap,Pemkab,B,RSU,307,True,1,2,1,2,3,3,1,1,4
+3329012,RS Umum Daerah Brebes,Jawa Tengah,Brebes,Pemkab,B,RSU,381,True,5,6,4,2,3,2,1,3,3
+3303016,RS Umum Daerah dr. R. Goeteng Taroenadibrata,Jawa Tengah,Purbalingga,Pemkab,C,RSU,226,True,2,1,3,2,2,3,1,0,4
+3307013,RS Umum Setjonegoro Wonosobo,Jawa Tengah,Wonosobo,Pemkab,B,RSU,229,True,1,3,3,2,1,2,2,1,4
+3372165,RS Umum Kasih Ibu,Jawa Tengah,Kota Surakarta,Perusahaan,B,RSU,204,True,1,2,4,4,4,6,1,1,6
+3310015,RS Umum Pusat Dr. Soeradji Tirtonegoro,Jawa Tengah,Klaten,Kemkes ,A,RSU,455,True,3,3,5,3,4,5,2,2,5
+3374395,RSU PURI ASIH SEMARANG,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,D,RSU,50,False,0,0,1,1,0,0,0,0,0
+3316040,RS Umum Permata Blora,Jawa Tengah,Blora,Organisasi Sosial,D,RSU,70,False,0,2,2,1,0,1,1,0,3
+3312306,RS Umum  Amal Sehat,Jawa Tengah,Wonogiri,SWASTA/LAINNYA,C,RSU,160,True,2,3,2,1,0,1,0,0,3
+3374284,RS Ibu dan Anak Bunda Semarang,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSIA,26,False,0,0,4,1,0,0,0,0,1
+3325037,RS Umum Qim,Jawa Tengah,Batang,SWASTA/LAINNYA,C,RSU,218,True,0,3,3,2,2,3,2,1,4
+3304010,RS Umum Daerah Hj. Anna Lasmanah Banjarnegara,Jawa Tengah,Banjarnegara,Pemkab,C,RSU,264,True,2,2,3,2,2,1,1,0,3
+3374393,Rumah Sakit Mata Daerah Soepardjo Roestam,Jawa Tengah,Kota Semarang,Pemprop,B,RSK Mata,25,False,0,0,1,1,0,0,0,0,1
+3374010,RS Umum Pusat Dr. Kariadi,Jawa Tengah,Kota Semarang,Kemkes ,A,RSU,1196,True,1,8,18,14,8,12,6,6,36
+3319102,Rumkitban 04.08.04 Kartika Husada Kudus,Jawa Tengah,Kudus,TNI AD,D,RSU,50,True,0,1,1,1,0,0,0,0,2
+3314078,RS Umum Restu Ibu,Jawa Tengah,Sragen,SWASTA/LAINNYA,C,RSU,52,False,0,1,1,1,0,0,0,0,2
+3374371,RS Siloam Hospitals Semarang Srondol,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSU,105,True,3,2,4,1,0,3,1,1,5
+3327043,RS Umum Islam Al-Ikhlas,Jawa Tengah,Pemalang,Organisasi Islam ,C,RSU,127,True,2,3,2,1,1,2,1,0,5
+3305120,RS Umum Daerah Prembun,Jawa Tengah,Kebumen,Pemkab,C,RSU,114,True,1,2,2,1,2,1,1,0,4
+3302154,RS Umum Bunda,Jawa Tengah,Banyumas,Organisasi Sosial,D,RSU,60,False,0,2,1,1,0,2,0,0,2
+3323046,RS Umum Gunung Sawo Kab. Temanggung,Jawa Tengah,Temanggung,Organisasi Sosial,D,RSU,50,False,0,3,2,1,1,1,0,0,2
+3316025,RS Umum Daerah Dr. R. Soeprapto Cepu,Jawa Tengah,Blora,Pemkab,C,RSU,166,True,1,2,2,1,1,2,2,0,4
+3374394,Rumah Sakit Citra Arafiq Semarang,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSU,161,True,0,1,2,1,0,1,1,0,2
+3328094,RS Mitra Siaga Tarub,Jawa Tengah,Tegal,Perusahaan,C,RSU,144,True,1,2,1,1,1,2,2,1,2
+3307051,RS Umum  PKU Muhammadiyah Wonosobo,Jawa Tengah,Wonosobo,SWASTA/LAINNYA,C,RSU,197,True,1,3,4,3,1,1,2,1,3
+3305118,RS Umum PKU Muhammadiyah Kutowinangun ,Jawa Tengah,Kebumen,Organisasi Islam ,D,RSU,58,True,1,2,2,1,1,2,2,0,2
+3309129,RS Umum Hidayah Boyolali,Jawa Tengah,Boyolali,SWASTA/LAINNYA,D,RSU,118,True,1,1,2,1,0,1,0,0,3
+3327032,RS Muhammadiyah Rodliyah Achid,Jawa Tengah,Pemalang,Organisasi Islam ,D,RSU,80,True,0,2,2,1,0,1,0,0,2
+3318064,RS Umum Islam Pati,Jawa Tengah,Pati,Organisasi Islam ,C,RSU,100,True,1,2,2,2,2,2,2,0,4
+3329126,RS Ibu dan Anak Nuzula,Jawa Tengah,Brebes,SWASTA/LAINNYA,C,RSIA,50,False,0,1,1,1,0,0,0,0,1
+3301095,RS Ibu dan Anak Annisa,Jawa Tengah,Cilacap,Organisasi Islam ,C,RSIA,25,False,0,0,0,0,0,0,0,0,0
+3307062,RS Umum AISs Wonosobo,Jawa Tengah,Wonosobo,Perusahaan,D,RSU,55,False,0,1,2,1,0,0,0,0,2
+3376034,RS Umum Tk. IV Tegal,Jawa Tengah,Tegal,TNI AD,D,RSU,50,False,0,2,1,1,0,0,0,0,1
+3312284,RS Umum Muhammadiyah Selogiri,Jawa Tengah,Wonogiri,Organisasi Islam ,D,RSU,67,True,2,2,2,2,1,2,2,0,4
+3319080,RS Umum  Islam Sunan Kudus,Jawa Tengah,Kudus,Organisasi Islam ,C,RSU,200,True,2,4,3,3,2,5,1,1,5
+3309063,RS Umum PKU Aisyiyah Boyolali,Jawa Tengah,Boyolali,Organisasi Islam ,C,RSU,109,True,1,2,2,2,1,3,0,0,3
+3372234,RS Umum Daerah Ibu Fatmawati Soekarno,Jawa Tengah,Kota Surakarta,Pemkot,C,RSU,197,True,2,2,3,1,2,3,1,0,3
+3302132,RS Umum Islam Purwokerto,Jawa Tengah,Banyumas,Organisasi Islam ,C,RSU,108,True,1,3,4,2,2,2,1,0,4
+3311016,RS Umum Daerah Ir. Soekarno Kabupaten Sukoharjo,Jawa Tengah,Sukoharjo,Pemkab,B,RSU,224,True,2,3,4,3,2,3,1,1,3
+3329112,RS Harapan Sehat Jatibarang,Jawa Tengah,Brebes,Perusahaan,D,RSU,110,False,1,1,2,1,1,1,1,0,3
+3313055,RS Umum Jafar Medika Karanganyar,Jawa Tengah,Karanganyar,Organisasi Sosial,D,RSU,54,True,1,2,2,1,0,1,0,0,2
+3320032,RS Umum Sultan Hadlirin Jepara,Jawa Tengah,Jepara,Organisasi Islam ,C,RSU,150,True,1,3,2,1,0,3,1,0,3
+3310417,RS Umum Islam Cawas Klaten,Jawa Tengah,Klaten,SWASTA/LAINNYA,C,RSU,124,True,2,2,4,2,2,3,2,0,3
+3373020,RS Umum Tk. IV 04.07.03 dr. Asmir,Jawa Tengah,Kota Salatiga,TNI AD,C,RSU,148,True,0,1,1,1,0,1,1,0,4
+3302063,RS Khusus Bedah Jatiwinangun,Jawa Tengah,Banyumas,SWASTA/LAINNYA,C,RSK BEDAH,30,False,0,2,3,0,0,0,0,0,1
+3323013,RS Umum Daerah Kabupaten Temanggung,Jawa Tengah,Temanggung,Pemkab,B,RSU,326,True,2,3,4,2,3,4,2,1,3
+3372238,RS PKU Muhammadiyah Sampangan Surakarta,Jawa Tengah,Kota Surakarta,Organisasi Islam ,D,RSU,57,False,0,2,3,2,0,2,0,0,3
+3315046,RS Umum PKU Muhammadiyah Gubug,Jawa Tengah,Grobogan,Organisasi Islam ,D,RSU,124,True,0,2,2,1,2,2,1,0,4
+3311213,RS Umum Nirmala Suri,Jawa Tengah,Sukoharjo,SWASTA/LAINNYA,C,RSU,116,True,2,3,4,2,1,3,2,0,5
+3374032,RS Umum William Booth,Jawa Tengah,Kota Semarang,Organisasi Sosial,C,RSU,100,True,2,4,4,1,1,3,2,0,3
+3322023,RS Umum Daerah dr. Gondo Suwarno,Jawa Tengah,Semarang,Pemkab,C,RSU,200,True,1,4,2,2,1,3,2,0,4
+3374353,RS Queen Latifa Hospital Semarang,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,D,RSU,50,True,1,1,1,0,0,0,1,0,2
+3315073,RS Marganingsih,Jawa Tengah,Grobogan,Perorangan,D,RSU,50,False,0,1,2,0,0,0,0,0,1
+3311229,RS Umum Indriati,Jawa Tengah,Sukoharjo,SWASTA/LAINNYA,C,RSU,182,True,2,2,4,2,4,4,2,2,6
+3374203,RS Umum Bhayangkara Akpol Semarang ,Jawa Tengah,Kota Semarang,POLRI,C,RSU,100,True,0,1,1,1,0,0,1,0,2
+3324036,RS Umum Islam Kendal,Jawa Tengah,Kendal,Organisasi Islam ,C,RSU,300,True,2,4,3,2,2,3,1,1,4
+3303101,RS Umum Siaga Medika Purbalingga ,Jawa Tengah,Purbalingga,SWASTA/LAINNYA,C,RSU,174,True,3,2,3,2,2,3,2,0,3
+3374134,"RS Umum Daerah dr. Adhyatma, MPH",Jawa Tengah,Kota Semarang,Pemprop,B,RSU,308,True,2,3,4,4,2,4,3,2,7
+3372052,RS Jiwa Daerah Dr. Arif Zainudin Provinsi Jawa Tengah,Jawa Tengah,Kota Surakarta,Pemprop,A,RSK Jiwa,247,False,0,1,2,1,0,1,1,0,2
+3375075,RS Umum Hermina Pekalongan,Jawa Tengah,Kota Pekalongan,Perusahaan,D,RSU,80,True,1,1,1,2,1,2,1,0,1
+3317026,RS Umum Islam Arafah,Jawa Tengah,Rembang,Organisasi Islam ,D,RSU,80,True,1,2,2,1,0,1,1,0,4
+3313067,RS Mangesti Rahayu,Jawa Tengah,Karanganyar,SWASTA/LAINNYA,C,RSU,100,True,1,2,2,2,0,1,0,0,2
+3374365,RS Umum Hermina Banyumanik Semarang,Jawa Tengah,Kota Semarang,Perusahaan,C,RSU,160,True,3,4,5,3,1,4,2,2,5
+3326064,Rumah Sakit Ki Ageng Sedayu,Jawa Tengah,Pekalongan,Perusahaan,C,RSU,104,False,0,2,1,1,0,1,1,0,1
+3305092,RS Umum Purbowangi,Jawa Tengah,Kebumen,Organisasi Sosial,C,RSU,102,True,1,1,2,1,1,1,0,0,3
+3301107,RS Umum Santa Maria Cilacap,Jawa Tengah,Cilacap,Organisasi Katholik,D,RSU,84,True,1,2,1,1,0,2,0,0,3
+3321036,RS Hj. Fatimah Sulhan PKU Muhammadiyah Demak,Jawa Tengah,Demak,Organisasi Islam ,D,RSU,50,True,0,2,2,1,1,2,1,0,4
+3315072,RS Ortopedi Siaga Utama,Jawa Tengah,Grobogan,SWASTA/LAINNYA,C,RSK Orthopedi,29,True,2,1,1,1,0,0,0,0,1
+3374388,RS Keluarga Sehat III Semarang,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSU,106,True,2,3,2,2,2,2,3,2,3
+3328035,RS Umum Daerah Suradadi,Jawa Tengah,Tegal,Pemkab,C,RSU,253,True,1,2,2,2,0,1,1,0,3
+3306113,RS Umum Daerah R.A.A Tjokronegoro,Jawa Tengah,Purworejo,Pemkab,C,RSU,106,True,1,2,3,2,1,2,1,0,3
+3305081,RS Umum Wijayakusuma,Jawa Tengah,Kebumen,Organisasi Sosial,D,RSU,57,True,1,1,2,1,0,1,1,0,2
+3309085,RS Umum  Karanggede Sisma Medika,Jawa Tengah,Boyolali,SWASTA/LAINNYA,D,RSU,83,True,1,2,3,1,1,2,0,0,2
+3324054,RSI MUHAMMADIYAH 2 KENDAL,Jawa Tengah,Kendal,Organisasi Islam ,D,RSU,50,False,0,1,1,1,0,1,0,0,1
+3317027,RS Bhina Bhakti Husada,Jawa Tengah,Rembang,Perusahaan,C,RSU,189,True,2,3,3,2,2,3,1,1,4
+3328042,RS Umum Mitra Keluarga Tegal,Jawa Tengah,Kota Tegal,SWASTA/LAINNYA,C,RSU,100,True,1,2,2,1,1,2,0,1,4
+3329105,RS Ibu dan Anak Permata Insani,Jawa Tengah,Brebes,SWASTA/LAINNYA,C,RSIA,50,False,0,3,2,2,0,0,2,0,2
+3301036,RS Umum Pertamina Cilacap,Jawa Tengah,Cilacap,BUMN,C,RSU,100,True,1,3,2,2,1,3,1,0,2
+3306109,RS Umum Islam Purworejo,Jawa Tengah,Purworejo,Organisasi Islam ,D,RSU,82,True,1,2,1,2,1,2,1,0,2
+3310426,RS PKU Muhammadiyah Prambanan,Jawa Tengah,Klaten,Organisasi Islam ,D,RSU,61,True,1,1,1,1,0,1,1,0,2
+3318111,RS Umum Sebening Kasih,Jawa Tengah,Pati,SWASTA/LAINNYA,C,RSU,164,True,1,3,3,1,1,3,1,0,5
+3308017,RS Umum Aisyiyah Muntilan ,Jawa Tengah,Magelang,SWASTA/LAINNYA,C,RSU,113,True,3,4,1,3,3,2,2,0,4
+3372074,RS Umum Panti Waluyo,Jawa Tengah,Kota Surakarta,Organisasi Sosial,C,RSU,103,True,1,4,5,1,2,3,2,0,5
+3301115,RS Priscilla Medical Center,Jawa Tengah,Cilacap,Perusahaan,C,RSU,102,True,1,1,2,1,1,2,0,0,2
+3329067,RS Umum Dedy Jaya,Jawa Tengah,Brebes,SWASTA/LAINNYA,D,RSU,100,False,0,1,1,3,1,1,1,0,2
+3313022,RSAU dr. Siswanto Lanud Adi Soemarmo,Jawa Tengah,Karanganyar,TNI AU,D,RSU,62,True,1,2,3,2,0,2,1,0,2
+3319025,RS Ibu dan Anak Miriam,Jawa Tengah,Kudus,Organisasi Katholik,C,RSIA,25,False,0,2,1,1,0,1,0,0,1
+3310052,RS Umum 'Aisyiyah Klaten,Jawa Tengah,Klaten,Organisasi Islam ,C,RSU,147,True,1,1,2,1,1,2,1,0,3
+3372241,RS JIH Solo,Jawa Tengah,Kota Surakarta,SWASTA/LAINNYA,C,RSU,104,True,5,2,5,5,2,6,1,3,6
+3302052,RS Khusus Orthopaedi Purwokerto,Jawa Tengah,Banyumas,SWASTA/LAINNYA,C,RSK Orthopedi,38,True,5,0,2,2,0,1,0,0,2
+3319010,RS Umum Daerah dr. Loekmono Hadi,Jawa Tengah,Kudus,Pemkab,B,RSU,398,True,2,4,4,3,3,4,1,1,6
+3371142,RS Umum Islam Magelang,Jawa Tengah,Kota Magelang,Organisasi Sosial,D,RSU,50,True,2,3,3,1,1,3,0,0,3
+3314097,RS Umum Saras Ibnu Sina Sukowati,Jawa Tengah,Sragen,Perusahaan,D,RSU,75,True,2,1,1,1,1,1,0,0,3
+3321035,RS Umum Daerah Sultan Fatah Karangawen Demak,Jawa Tengah,Demak,Pemkab,C,RSU,177,True,1,3,2,2,1,2,2,1,3
+3302232,RS Hermina Purwokerto,Jawa Tengah,Banyumas,Perusahaan,C,RSU,152,True,2,4,5,4,2,3,1,2,5
+3302228,RS Khusus Gigi dan Mulut Univ. Jenderal Soedirman,Jawa Tengah,Banyumas,Kementerian Lain,B,RSK GM,12,False,0,0,1,0,0,0,0,0,1
+3371025,RS Umum Tk. II Dr. Soedjono,Jawa Tengah,Kota Magelang,TNI AD,B,RSU,215,True,2,4,2,3,2,4,2,1,4
+3311027,RS Khusus Orthopedi Karima Utama,Jawa Tengah,Sukoharjo,SWASTA/LAINNYA,C,RSK Orthopedi,70,True,4,1,2,1,0,1,1,0,1
+3374080,RS Roemani Muhammadiyah Semarang,Jawa Tengah,Kota Semarang,Organisasi Islam ,C,RSU,212,True,2,5,5,3,4,5,4,1,12
+3322084,At-Tin Hospital,Jawa Tengah,Semarang,Perusahaan,C,RSU,100,True,1,3,3,2,1,1,1,0,6
+3303075,RS Umum Harapan Ibu,Jawa Tengah,Purbalingga,SWASTA/LAINNYA,C,RSU,124,True,1,2,3,2,2,2,1,0,3
+3374021,RS Umum St. Elisabeth Semarang,Jawa Tengah,Kota Semarang,Organisasi Katholik,B,RSU,260,True,2,4,7,4,1,6,3,1,8
+3372063,RS Orthopedi Prof. Dr. R. Soeharso,Jawa Tengah,Sukoharjo,Kemkes ,A,RSK Orthopedi,174,True,20,1,6,4,0,1,7,1,2
+3375072,RS Umum Anugerah Pekalongan,Jawa Tengah,Kota Pekalongan,SWASTA/LAINNYA,D,RSU,68,False,0,1,3,1,1,0,1,0,2
+3316063,RS Umum PKU Muhammadiyah Blora,Jawa Tengah,Blora,SWASTA/LAINNYA,D,RSU,117,True,0,2,3,1,1,1,1,0,3
+3313011,RS Umum Daerah Kartini Karanganyar,Jawa Tengah,Karanganyar,Pemkab,C,RSU,335,True,1,3,3,2,1,1,1,0,3
+3374054,RS Umum Permata Medika ,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSU,114,True,2,3,2,2,1,3,1,0,4
+3326016,RS Islam PKU Muhammadiyah Pekajangan,Jawa Tengah,Pekalongan,Organisasi Islam ,C,RSU,201,True,2,4,3,2,2,2,1,0,4
+3304032,RS Umum Islam Banjarnegara,Jawa Tengah,Banjarnegara,Organisasi Sosial,C,RSU,174,False,2,1,2,1,2,2,1,0,3
+3376012,RS Umum Daerah Kardinah,Jawa Tengah,Kota Tegal,Pemkot,B,RSU,384,True,1,3,2,1,3,3,1,1,3
+3374366,RS Khusus Bedah Columbia Asia Semarang,Jawa Tengah,Kota Semarang,Perusahaan,A,RSK BEDAH,120,True,5,4,3,5,2,1,3,3,6
+3320043,RS Graha Husada Jepara,Jawa Tengah,Jepara,Organisasi Sosial,D,RSU,90,False,0,3,2,1,0,1,1,0,3
+3314090,RS Umum PKU Muhammadiyah Sragen ,Jawa Tengah,Sragen,SWASTA/LAINNYA,C,RSU,101,True,1,2,2,0,1,2,1,0,3
+3374374,RS Umum Banyumanik 2,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSU,105,True,2,3,2,3,2,1,2,0,6
+3327045,RS Umum Prima Medika,Jawa Tengah,Pemalang,SWASTA/LAINNYA,C,RSU,155,True,1,4,3,1,1,2,1,0,4
+3306104,RS Umum Palang Biru Kutoarjo,Jawa Tengah,Purworejo,Organisasi Sosial,C,RSU,114,True,0,2,2,2,2,2,0,0,1
+3302227,RS Umum Medika Lestari Banyumas,Jawa Tengah,Banyumas,SWASTA/LAINNYA,D,RSU,70,False,0,1,1,1,1,1,0,0,1
+3308033,RS Umum Daerah Bukit Menoreh,Jawa Tengah,Magelang,Pemkab,D,RSU,54,True,1,2,2,2,0,0,0,0,1
+3324038,RS Umum Baitul Hikmah,Jawa Tengah,Kendal,Perusahaan,D,RSU,68,False,0,1,1,1,0,1,0,0,2
+3316074,RS Ibu dan Anak NU Cakra Medika,Jawa Tengah,Blora,Perusahaan,C,RSIA,38,False,0,1,1,1,0,1,1,0,2
+3375022,RS Umum Budi Rahayu,Jawa Tengah,Kota Pekalongan,Organisasi Katholik,C,RSU,167,True,1,2,3,1,1,2,2,1,4
+3329078,RS Umum Bhakti Asih Brebes,Jawa Tengah,Brebes,SWASTA/LAINNYA,C,RSU,111,True,3,2,2,1,1,2,1,0,1
+3306023,RS Umum  Aisyiyah,Jawa Tengah,Purworejo,Organisasi Islam ,D,RSU,54,False,0,1,1,1,1,1,0,0,3
+3309149,RS Umum PKU dr. Soemowidagdo Boyolali ,Jawa Tengah,Boyolali,Organisasi Islam ,D,RSU,50,False,0,0,1,1,0,1,0,0,2
+3318086,RS Umum Daerah Kayen Pati,Jawa Tengah,Pati,Pemkab,C,RSU,103,False,0,2,3,1,1,1,1,0,4
+3371131,RS Umum Harapan,Jawa Tengah,Kota Magelang,SWASTA/LAINNYA,C,RSU,108,True,3,2,4,3,3,3,2,0,4
+3301108,RS Umum PKU Muhammdiyah Aghisna Kroya,Jawa Tengah,Cilacap,SWASTA/LAINNYA,C,RSU,180,True,1,3,2,2,1,3,0,0,2
+3328081,RS Harapan Sehat Slawi,Jawa Tengah,Tegal,SWASTA/LAINNYA,D,RSU,110,False,0,1,1,1,1,1,1,0,2
+3312307,RS Fitri Candra,Jawa Tengah,Wonogiri,Perusahaan,D,RSU,67,False,0,2,2,1,0,2,0,0,2
+3319021,RS Aisyiyah Kudus,Jawa Tengah,Kudus,SWASTA/LAINNYA,C,RSU,148,True,1,3,3,2,1,2,2,0,5
+3309131,RS Umum Islam Banyubening Boyolali,Jawa Tengah,Boyolali,SWASTA/LAINNYA,C,RSU,137,True,2,2,3,2,2,3,2,0,4
+3372236,RS Umum Hermina Solo,Jawa Tengah,Kota Surakarta,SWASTA/LAINNYA,C,RSU,163,True,3,4,4,1,3,4,2,2,6
+3302191,RS Umum Daerah Ajibarang,Jawa Tengah,Banyumas,Pemkab,C,RSU,198,True,2,3,2,2,1,2,1,0,6
+3314012,RS Umum Daerah dr. Soehadi Prijonegoro,Jawa Tengah,Sragen,Pemkab,B,RSU,319,True,2,3,4,2,2,2,1,1,4
+3329125,RS Umum Daerah Ir. Soekarno Kab. Brebes,Jawa Tengah,Brebes,Pemkab,D,RSU,115,True,1,3,2,1,2,1,0,0,2
+3314067,RS Umum Assalam,Jawa Tengah,Sragen,Perusahaan,D,RSU,95,False,0,1,2,0,1,2,0,0,2
+3321011,RS Umum Daerah Sunan Kalijaga,Jawa Tengah,Demak,Pemkab,C,RSU,270,True,1,2,3,2,3,2,4,1,4
+3302225,RS Khusus Bedah Mitra Ariva,Jawa Tengah,Banyumas,Perusahaan,C,RSK BEDAH,26,False,0,2,1,1,0,0,0,0,1
+3328011,RS Umum Daerah dr. Soeselo Slawi Kabupaten Tegal,Jawa Tengah,Tegal,Pemkab,B,RSU,397,True,3,3,2,2,3,3,1,2,5
+3301126,RUMAH SAKIT UMUM PEMASYARAKATAN NUSAKAMBANGAN KELAS D PRATAMA,Jawa Tengah,Cilacap,Kementerian Lain,D PRATAMA,RSU,32,False,0,0,0,0,0,0,0,0,0
+3372255,RS UMS AR FACHRUDIN,Jawa Tengah,Kota Surakarta,SWASTA/LAINNYA,D,RSU,50,True,0,2,3,2,2,1,1,0,1
+3315059,RS Umum Islam Purwodadi ,Jawa Tengah,Grobogan,Organisasi Islam ,D,RSU,80,True,1,2,2,1,1,2,1,0,3
+3306012,RS Umum Daerah Dr. Tjitrowardojo Purworejo,Jawa Tengah,Purworejo,Pemkab,B,RSU,337,True,2,4,3,5,3,3,1,2,4
+3372096,RS PKU Muhammadiyah Surakarta,Jawa Tengah,Kota Surakarta,Organisasi Islam ,B,RSU,292,True,3,4,5,4,4,3,2,1,3
+3306124,RS PKU MUHAMMADIYAH KUTOARJO,Jawa Tengah,Purworejo,Organisasi Islam ,Non Kelas,RSU,50,False,0,1,1,1,0,0,0,0,2
+3374392,RS Umum Daerah Mijen,Jawa Tengah,Kota Semarang,Pemkot,D,RSU,50,False,0,2,1,2,0,1,1,0,3
+3315075,RS Umum Trimedika Ketapang,Jawa Tengah,Grobogan,Perusahaan,D,RSU,70,False,0,2,2,1,0,1,0,0,1
+3312295,RS Hermina Wonogiri,Jawa Tengah,Wonogiri,SWASTA/LAINNYA,C,RSU,125,True,1,3,2,2,1,3,2,3,3
+3374273,RS Ibu dan Anak Anugerah,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSIA,50,False,0,1,1,1,0,0,0,0,1
+3325015,RS Umum Daerah Batang,Jawa Tengah,Batang,Pemkab,C,RSU,208,True,1,2,2,1,2,2,1,0,3
+3303116,RSIA Mitra Permata Husada Purbalinga,Jawa Tengah,Purbalingga,SWASTA/LAINNYA,C,RSIA,25,False,0,0,1,0,0,0,0,0,0
+3374372,RS Islam Gigi dan Mulut Sultan Agung,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,B,RSK GM,14,False,0,0,1,0,0,0,0,0,1
+3373042,RS Paru Dr. Ario Wirawan,Jawa Tengah,Kota Salatiga,Kemkes ,A,RSK PARU,215,True,1,3,2,2,2,3,1,0,4
+3318113,RS Umum As-Suyuthiyyah ,Jawa Tengah,Pati,SWASTA/LAINNYA,D,RSU,60,True,1,2,2,1,0,1,0,0,2
+3314056,RS Umum Islam Amal Sehat Sragen,Jawa Tengah,Sragen,Organisasi Islam ,C,RSU,104,True,2,2,3,2,2,3,0,0,5
+3374369,RS Ibu dan Anak Ananda Pasar Ace,Jawa Tengah,Kota Semarang,Perusahaan,C,RSIA,29,False,0,0,2,0,0,0,0,0,1
+3327021,RS Umum Santa Maria Pemalang,Jawa Tengah,Pemalang,Organisasi Katholik,C,RSU,143,True,1,1,2,1,1,1,1,0,3
+3305023,RS Umum Permata Medika Kebumen,Jawa Tengah,Kebumen,SWASTA/LAINNYA,C,RSU,155,True,1,3,3,3,2,2,2,1,5
+3302143,RS Umum Hidayah Purwokerto,Jawa Tengah,Banyumas,SWASTA/LAINNYA,D,RSU,55,True,1,1,1,1,0,1,0,0,1
+3322073,RS Umum Kusuma Ungaran ,Jawa Tengah,Semarang,Perusahaan,D,RSU,51,False,0,2,5,3,1,4,2,0,4
+3316014,RS Umum Daerah Dr. R. Soetijono Blora,Jawa Tengah,Blora,Pemkab,C,RSU,221,True,1,2,5,3,1,2,1,0,4
+3374391,RS Samsoe Hidajat ,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSU,100,True,3,4,3,2,1,2,2,1,4
+3328093,RS Mitra Keluarga Slawi,Jawa Tengah,Tegal,Perusahaan,C,RSU,100,True,1,1,2,2,1,1,0,0,3
+3307050,RS Umum Islam Wonosobo,Jawa Tengah,Wonosobo,Organisasi Islam ,C,RSU,110,True,0,5,2,2,0,1,1,0,3
+3305117,RS Umum PKU Muhammadiyah Petanahan Kebumen,Jawa Tengah,Kebumen,Organisasi Islam ,D,RSU,73,False,1,1,1,1,1,2,1,0,1
+3309128,RS Umum Asy-Syifa Sambi,Jawa Tengah,Boyolali,Organisasi Islam ,D,RSU,80,True,1,2,4,2,1,2,1,0,2
+3326063,RS Prima Sehat Pekalongan,Jawa Tengah,Pekalongan,Perorangan,D,RSU,55,True,0,1,2,1,0,0,0,0,1
+3317042,RS Keluarga Sehat Rembang,Jawa Tengah,Rembang,SWASTA/LAINNYA,C,RSU,100,False,0,2,2,2,0,2,0,0,2
+3329114,RS Umum Bhakti Asih Jatibarang,Jawa Tengah,Brebes,Perusahaan,C,RSU,100,False,0,1,1,1,0,1,0,0,2
+3301084,RS Umum Daerah Majenang,Jawa Tengah,Cilacap,Pemkab,C,RSU,184,True,1,2,2,1,1,0,0,0,1
+3306112,RS Umum Ananda Purworejo,Jawa Tengah,Purworejo,SWASTA/LAINNYA,D,RSU,52,False,0,0,1,1,0,0,0,0,2
+3327049,RS Umum Comal Baru,Jawa Tengah,Pemalang,SWASTA/LAINNYA,D,RSU,87,True,2,2,2,1,0,1,1,0,3
+3311242,Rumah Sakit ASA BUNDA,Jawa Tengah,Sukoharjo,Perusahaan,D,RSU,50,False,0,0,0,0,0,0,0,0,0
+3318125,RS Ibu dan Anak Ultima,Jawa Tengah,Pati,SWASTA/LAINNYA,C,RSIA,27,False,0,0,1,0,0,0,0,0,1
+3308022,RS Umum Daerah Merah Putih,Jawa Tengah,Magelang,Pemkab,C,RSU,214,True,2,3,2,1,1,2,1,0,5
+3372191,RS Umum Triharsi,Jawa Tengah,Kota Surakarta,SWASTA/LAINNYA,C,RSU,106,True,2,2,3,2,3,4,1,0,3
+3302041,RS Umum Santa Elisabeth Purwokerto,Jawa Tengah,Banyumas,Organisasi Katholik,C,RSU,110,True,0,2,2,1,1,3,1,0,5
+3310384,RS Umum Islam Klaten,Jawa Tengah,Klaten,Organisasi Islam ,B,RSU,265,True,1,5,4,3,5,4,2,1,5
+3329109,RS Umum Amanah Mahmudah,Jawa Tengah,Brebes,Perusahaan,D,RSU,80,False,0,1,1,1,1,1,0,0,2
+3313054,RS Umum Indo Sehat Karanganyar ,Jawa Tengah,Karanganyar,SWASTA/LAINNYA,D,RSU,50,True,4,1,0,1,0,1,0,0,2
+3320021,RS Umum Daerah dr. Rehatta Provinsi Jawa Tengah,Jawa Tengah,Jepara,Pemprop,C,RSU,180,False,2,3,3,1,1,2,1,0,3
+3310405,RS Umum Diponegoro Dua Satu Klaten,Jawa Tengah,Klaten,Organisasi Sosial,C,RSU,104,True,1,2,3,1,1,2,2,0,4
+3372201,RS Umum Pusat Surakarta,Jawa Tengah,Kota Surakarta,Kemkes ,C,RSU,100,False,1,3,2,2,3,2,1,0,4
+3302174,RS Ibu dan Anak Bunda Arif Purwokerto,Jawa Tengah,Banyumas,Organisasi Sosial,C,RSIA,30,False,0,1,2,1,0,0,0,0,1
+3320010,RS Umum Daerah R. A. Kartini,Jawa Tengah,Jepara,Pemkab,B,RSU,383,True,2,3,3,2,1,3,1,1,4
+3371155,RUMAH SAKIT TINGKAT IV SOEBIANTO DJOJOHADIKOESOEMO,Jawa Tengah,Kota Magelang,TNI AD,D,RSU,50,False,0,0,0,0,0,0,0,0,0
+3314109,Rumah Sakit Umum Hastuti,Jawa Tengah,Sragen,Perorangan,D,RSU,50,False,0,1,1,0,0,1,0,0,1
+3310416,RS Umum PKU Muhammadiyah Delanggu,Jawa Tengah,Klaten,Organisasi Islam ,C,RSU,188,True,2,2,3,1,2,2,1,0,3
+3373104,RS HERMINA SALATIGA,Jawa Tengah,Kota Salatiga,SWASTA/LAINNYA,C,RSU,100,True,1,4,2,1,1,2,1,0,5
+3322012,RS Umum Daerah dr. Gunawan Mangunkusumo,Jawa Tengah,Semarang,Pemkab,C,RSU,235,True,1,2,2,1,1,1,1,0,5
+3302249,RS JIH Purwokerto,Jawa Tengah,Banyumas,Perusahaan,C,RSU,101,True,2,4,3,2,1,1,0,1,2
+3374331,RS Umum Banyumanik,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,D,RSU,50,False,0,2,3,1,0,2,2,0,2
+3315061,RS Umum Daerah Ki Ageng Getas Pendowo Gubug,Jawa Tengah,Grobogan,Pemkab,D,RSU,50,False,0,4,4,2,0,1,0,0,4
+3311228,RS Umum Universitas Sebelas Maret,Jawa Tengah,Sukoharjo,Kementerian Lain,C,RSU,207,True,4,3,4,5,4,4,2,1,7
+3374145,RS Umum Hermina Pandanaran,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSU,177,True,2,4,5,5,1,4,3,2,8
+3323050,RS PKU Muhammadiyah Temanggung,Jawa Tengah,Temanggung,Organisasi Islam ,C,RSU,158,True,1,3,3,3,1,3,2,1,6
+3303099,RS Ibu dan Anak Ummu Hani,Jawa Tengah,Purbalingga,Perusahaan,C,RSIA,74,False,0,1,2,1,0,0,0,0,1
+3374076,RS Umum Sultan Agung Semarang,Jawa Tengah,Kota Semarang,Organisasi Islam ,B,RSU,334,True,4,7,8,1,3,7,1,2,6
+3372015,RS Umum Daerah Dr. Moewardi Surakarta,Jawa Tengah,Kota Surakarta,Pemprop,A,RSU,974,True,5,2,6,4,5,8,2,2,9
+3375074,RS Umum  ARO,Jawa Tengah,Kota Pekalongan,SWASTA/LAINNYA,D,RSU,50,False,0,2,3,1,0,2,1,0,2
+3316077,RS Bhayangkara Blora,Jawa Tengah,Blora,POLRI,D,RSU,51,False,0,1,1,1,0,0,0,0,2
+3313042,RS Ibu dan Anak Dian Pertiwi ,Jawa Tengah,Karanganyar,SWASTA/LAINNYA,C,RSIA,33,False,0,0,0,0,0,0,0,0,0
+3322072,RS Ibu dan Anak Plamongan Indah,Jawa Tengah,Kota Semarang,Perusahaan,C,RSIA,28,False,0,0,3,1,0,0,0,0,2
+3326051,RS Ibu dan Anak Aisyiyah Pekajangan Pekalongan,Jawa Tengah,Pekalongan,Organisasi Islam ,C,RSIA,80,False,0,0,2,1,0,0,0,0,0
+3305033,RS Umum Palang Biru Gombong,Jawa Tengah,Kebumen,Organisasi Sosial,C,RSU,138,True,1,2,3,2,1,2,0,0,3
+3301105,RS Umum Aprillia,Jawa Tengah,Cilacap,Organisasi Sosial,D,RSU,54,False,0,1,1,0,0,0,0,0,1
+3320100,RSI NU Cakra Medika Mayong,Jawa Tengah,Jepara,SWASTA/LAINNYA,D,RSU,50,False,0,1,1,1,0,0,0,0,2
+3315035,RS Permata Bunda,Jawa Tengah,Grobogan,Perusahaan,C,RSU,130,False,0,3,2,1,1,2,1,0,5
+3374387,RS Primaya Kota Semarang,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSU,100,True,3,2,2,2,4,4,2,2,9
+3376023,RS Umum  Mitra Siaga,Jawa Tengah,Tegal,SWASTA/LAINNYA,C,RSU,214,True,2,3,3,1,2,3,1,1,6
+3306111,RS Amanah Umat Purworejo,Jawa Tengah,Purworejo,Perusahaan,C,RSU,101,True,1,2,2,1,1,2,1,0,3
+3304035,RS Umum PKU Muhammadiyah Banjarnegara,Jawa Tengah,Banjarnegara,Organisasi Islam ,D,RSU,130,False,1,1,1,2,0,1,0,0,2
+3309074,RS Umum Umi Barokah,Jawa Tengah,Boyolali,Organisasi Sosial,D,RSU,88,True,0,2,3,1,1,3,0,0,4
+3324053,RS PKU Muhammadiyah Boja,Jawa Tengah,Kendal,SWASTA/LAINNYA,D,RSU,62,True,0,1,2,1,0,1,0,0,1
+3317015,RS Umum Daerah dr. R. Soetrasno Rembang,Jawa Tengah,Rembang,Pemkab,C,RSU,275,True,1,3,4,2,2,4,1,0,3
+3376093,RS Ibu dan Anak Kasih Ibu Tegal,Jawa Tengah,Kota Tegal,Organisasi Sosial,C,RSIA,39,False,0,1,1,1,0,0,0,0,1
+3329103,RS Umum Islami Mutiara Bunda,Jawa Tengah,Brebes,Perusahaan,C,RSU,219,True,2,4,2,1,1,1,1,0,4
+3306108,RS Umum Kasih Ibu Purworejo,Jawa Tengah,Purworejo,Organisasi Sosial,D,RSU,50,False,0,1,1,0,0,0,0,0,1
+3310425,RS Umum PKU Muhammadiyah Pedan,Jawa Tengah,Klaten,Organisasi Islam ,D,RSU,90,True,1,1,1,1,0,1,1,0,2
+3318110,RS Umum Fastabiq Sehat PKU Muhammadiyah Pati,Jawa Tengah,Pati,Organisasi Islam ,C,RSU,143,True,1,3,3,1,2,2,1,0,5
+3372041,RS Umum Brayat Minulya,Jawa Tengah,Kota Surakarta,Organisasi Sosial,C,RSU,100,True,0,3,5,2,2,4,1,0,5
+3301112,RS Umum Raffa Majenang,Jawa Tengah,Cilacap,SWASTA/LAINNYA,C,RSU,110,True,2,1,2,1,1,1,1,1,2
+3329045,RS Umum Siti Asiyah,Jawa Tengah,Brebes,SWASTA/LAINNYA,D,RSU,50,False,0,1,1,0,1,1,0,0,2
+3312310,RS PKU Muhammadiyah Wonogiri,Jawa Tengah,Wonogiri,Organisasi Islam ,D,RSU,52,False,0,2,1,1,0,1,0,0,4
+3319023,RS Ibu dan Anak Harapan Bunda,Jawa Tengah,Kudus,SWASTA/LAINNYA,C,RSIA,39,False,0,1,1,0,0,0,0,0,1
+3309136,RS Umum Islam Boyolali,Jawa Tengah,Boyolali,SWASTA/LAINNYA,C,RSU,120,True,2,4,4,1,3,3,1,0,3
+3372240,RS Umum Daerah Bung Karno Kota Surakarta,Jawa Tengah,Kota Surakarta,Pemkot,C,RSU,150,True,1,2,2,1,1,1,1,0,3
+3302224,RS Umum Siaga Medika Banyumas,Jawa Tengah,Banyumas,Organisasi Sosial,C,RSU,199,True,2,2,2,2,0,2,1,0,4
+3318016,RS Umum Daerah RAA Soewondo,Jawa Tengah,Pati,Pemkab,B,RSU,330,True,3,2,4,2,3,2,1,1,6
+3371084,RS Umum Lestari Raharja,Jawa Tengah,Kota Magelang,Organisasi Sosial,D,RSU,53,True,1,2,3,1,0,4,0,0,6
+3314096,RS Umum Rizky Amalia,Jawa Tengah,Sragen,Perusahaan,D,RSU,53,False,1,1,1,1,1,2,1,0,3
+3321034,RS Umum Pelita Anugerah,Jawa Tengah,Demak,SWASTA/LAINNYA,C,RSU,168,True,2,3,3,2,2,3,2,0,6
+3302229,RS Umum Dadi Keluarga,Jawa Tengah,Banyumas,SWASTA/LAINNYA,C,RSU,143,True,1,4,3,3,2,4,1,0,5
+3302015,RS umum Daerah Banyumas,Jawa Tengah,Banyumas,Pemkab,B,RSU,371,True,1,3,6,1,4,3,1,0,5
+3371014,RS Umum Daerah Tidar,Jawa Tengah,Kota Magelang,Pemkot,B,RSU,374,True,4,2,6,4,4,4,2,2,8
+3322034,RS Umum Ken Saras,Jawa Tengah,Semarang,Perusahaan,C,RSU,199,True,2,5,4,5,2,2,4,1,6
+3303064,RS Umum Nirmala,Jawa Tengah,Purbalingga,Organisasi Sosial,C,RSU,167,True,1,3,2,1,1,2,1,0,4
+3373016,RS Umum Daerah Kota Salatiga,Jawa Tengah,Kota Salatiga,Pemkot,B,RSU,250,True,2,4,2,2,2,3,2,1,5
+3310026,RS Jiwa Daerah Dr. RM. Soedjarwadi,Jawa Tengah,Klaten,Pemprop,A,RSK Jiwa,211,False,0,2,2,1,0,3,1,0,2
+3375071,RS Umum Karomah Holistic,Jawa Tengah,Kota Pekalongan,SWASTA/LAINNYA,D,RSU,50,False,0,1,1,1,0,0,0,0,1
+3316062,RS Umum Bantuan Blora,Jawa Tengah,Blora,TNI AD,D,RSU,51,False,0,1,1,1,0,0,0,0,1
+3312309,RS Umum Astrini,Jawa Tengah,Wonogiri,Perusahaan,C,RSU,100,True,3,3,2,1,2,3,1,0,3
+3374316,RS Ibu dan Anak Gunung Sawo,Jawa Tengah,Kota Semarang,Organisasi Sosial,C,RSIA,25,False,0,1,3,1,0,0,0,0,1
+3325039,RS Umum Daerah Limpung,Jawa Tengah,Batang,Pemkab,C,RSU,108,False,0,2,1,1,0,1,0,0,2
+3304021,RS Umum Emmanuel,Jawa Tengah,Banjarnegara,Organisasi Protestan,C,RSU,145,True,1,1,2,1,1,2,1,0,5
+3326011,RS Umum Daerah Kraton Kab. Pekalongan,Jawa Tengah,Kota Pekalongan,Pemkab,B,RSU,201,True,0,3,1,1,1,2,2,1,3
+3374123,RS Jiwa Daerah  Dr. Amino Gondohutomo,Jawa Tengah,Kota Semarang,Pemprop,A,RSK Jiwa,331,False,0,1,3,1,1,2,1,0,3
+3319043,RS Umum  Nurussyifa,Jawa Tengah,Kudus,Organisasi Islam ,D,RSU,99,True,2,2,1,1,0,2,1,0,3
+3314089,RS Umum Daerah dr. Soeratno Gemolong,Jawa Tengah,Sragen,Pemkab,C,RSU,133,True,0,3,2,1,1,2,1,0,3
+3374373,RS Gigi dan Mulut Unimus,Jawa Tengah,Kota Semarang,SWASTA/LAINNYA,C,RSK GM,10,False,0,0,1,0,0,0,0,0,0
+3327044,RS Umum Siaga Medika Pemalang ,Jawa Tengah,Pemalang,SWASTA/LAINNYA,C,RSU,254,True,1,3,3,1,3,1,1,1,2
+3305131,RS Khusus Ibu Anak Buah Hati Kebumen,Jawa Tengah,Kebumen,SWASTA/LAINNYA,C,RSIA,25,False,0,0,2,1,0,0,0,0,0
+3302180,RS Umum Sinar Kasih,Jawa Tengah,Banyumas,Organisasi Sosial,D,RSU,51,True,1,2,1,1,0,2,0,0,3
+3308018,RS Umum N-21 Gemilang ,Jawa Tengah,Magelang,Perusahaan,D,RSU,50,False,0,2,1,1,0,1,0,0,1
+3324037,RS Umum Muhammadiyah Darul Istiqomah Kendal,Jawa Tengah,Kendal,Organisasi Islam ,D,RSU,117,True,1,2,3,2,2,2,1,0,2
+3316051,RS Umum PKU Muhammadiyah Cepu,Jawa Tengah,Blora,Organisasi Sosial,C,RSU,138,True,1,2,2,1,0,3,1,0,3
+3326049,RS Umum Daerah Bendan Kota Pekalongan,Jawa Tengah,Kota Pekalongan,Pemkot,C,RSU,189,True,2,3,2,1,2,2,1,1,4
+3329056,RS Umum Muhammadiyah Siti Aminah,Jawa Tengah,Brebes,Organisasi Islam ,C,RSU,174,True,1,3,2,1,2,2,1,0,2
+3308014,RS Umum Daerah Muntilan Kab. Magelang,Jawa Tengah,Magelang,Pemkab,C,RSU,196,True,1,2,3,1,2,3,0,1,5
+3306082,RS Umum Panti Waluyo Yakkum Purworejo,Jawa Tengah,Purworejo,Organisasi Sosial,D,RSU,53,True,1,2,1,2,0,1,1,0,2
+3309132,RS Umum Natalia,Jawa Tengah,Boyolali,SWASTA/LAINNYA,D,RSU,50,False,0,1,1,1,0,1,0,0,1
+3327047,RS Umum Muhammadiyah Mardhatillah,Jawa Tengah,Pemalang,Organisasi Islam ,D,RSU,113,True,1,2,2,1,0,2,0,0,3
+3318075,RS Umum Mitra Bangsa Pati,Jawa Tengah,Pati,Organisasi Sosial,C,RSU,120,True,1,2,3,2,1,2,2,0,5
+3371105,RS Ibu dan Anak Gladiool,Jawa Tengah,Kota Magelang,Organisasi Sosial,C,RSIA,29,False,0,1,2,0,0,0,0,0,0
+3301106,RS Umum Duta Mulya,Jawa Tengah,Cilacap,Perusahaan,C,RSU,101,True,1,1,1,1,1,1,1,0,1
+3328078,RS Umum Adella,Jawa Tengah,Tegal,SWASTA/LAINNYA,D,RSU,50,False,0,1,2,1,1,0,0,0,3
+3312021,RS Umum Maguan Husada,Jawa Tengah,Wonogiri,Perusahaan,D,RSU,100,False,2,2,1,1,0,1,0,0,3
+3319091,RS Ibu dan Anak Permata Hati,Jawa Tengah,Kudus,Organisasi Sosial,C,RSIA,25,False,0,1,1,0,0,0,0,0,1
+3309096,RS Umum Daerah Waras Wiris,Jawa Tengah,Boyolali,Pemkab,C,RSU,104,True,0,2,2,1,1,1,1,0,3
+3372235,RS Khusus Mata Solo,Jawa Tengah,Kota Surakarta,Perusahaan,C,RSK Mata,17,False,0,0,2,1,0,0,0,0,1
+3302165,RS Umum Ananda Purwokerto,Jawa Tengah,Banyumas,Organisasi Sosial,C,RSU,102,True,1,2,4,1,2,3,0,0,2
+3312010,RS Umum Daerah Dr. Soediran Mangun Sumarso Wonogi,Jawa Tengah,Wonogiri,Pemkab,B,RSU,271,True,2,1,3,2,2,3,1,0,3
+3329113,RS Harapan Sehat Bumiayu,Jawa Tengah,Brebes,Perusahaan,D,RSU,70,True,0,0,1,1,0,0,0,0,1
+3314023,RS Umum Mardi Lestari Sragen,Jawa Tengah,Sragen,Organisasi Sosial,D,RSU,68,True,0,2,1,1,0,1,1,0,4
+3320089,RS Umum PKU Muhammadiyah Mayong,Jawa Tengah,Jepara,Organisasi Islam ,C,RSU,136,True,2,2,2,2,1,2,1,0,5
+3310418,RS Umum PKU Muhammadiyah Jatinom,Jawa Tengah,Klaten,Organisasi Islam ,C,RSU,110,True,1,2,3,1,1,2,2,0,2
+3373090,RS Umum Puri Asih,Jawa Tengah,Kota Salatiga,SWASTA/LAINNYA,C,RSU,116,True,1,3,2,2,2,3,2,0,6
+3302074,RS Umum An Ni'mah,Jawa Tengah,Banyumas,Perusahaan,C,RSU,170,True,2,2,3,2,1,3,0,0,4
+3324014,RS Umum Daerah  Dr. H. Soewondo Kendal,Jawa Tengah,Kendal,Pemkab,B,RSU,278,True,1,3,2,2,2,2,2,1,4
+3372253,RS Bhayangkara Surakarta,Jawa Tengah,Kota Surakarta,POLRI,D,RSU,52,True,1,1,3,1,0,2,1,0,2
+3315057,RS Umum Habibullah,Jawa Tengah,Grobogan,Organisasi Sosial,D,RSU,50,False,0,2,1,1,1,0,0,0,1
+3311224,RS Umum Dr. Oen Solo Baru,Jawa Tengah,Sukoharjo,Organisasi Sosial,C,RSU,195,True,3,3,4,3,2,3,2,1,6
+3374065,RS Umum Tk.III Bhakti Wira Tamtama Smg,Jawa Tengah,Kota Semarang,TNI AD,C,RSU,149,True,1,4,3,2,2,3,2,0,5
+3401026,RSU Santo Yusup Boro,Yogyakarta,Kulon Progo,Organisasi Sosial,D,RSU,50,True,0,2,1,1,0,1,0,0,2
+3471074,RSPAU Dr.  Suhardi Harjolukito,Yogyakarta,Bantul,TNI AU,B,RSU,275,True,6,9,9,9,6,3,6,3,15
+3402053,RS Umum Nur Hidayah,Yogyakarta,Bantul,Organisasi Sosial,D,RSU,54,False,0,6,4,1,1,3,0,0,3
+3471052,RS Umum Panti Rapih,Yogyakarta,Kota Yogyakarta,Organisasi Sosial,B,RSU,251,True,3,6,5,5,4,5,2,1,5
+3403027,RS Umum Daerah Saptosari,Yogyakarta,Gunung Kidul,Pemkab,D,RSU,72,True,0,1,2,2,0,1,0,0,2
+3404181,RS At-Turots Al-Islamy,Yogyakarta,Sleman,Organisasi Islam ,D,RSU,54,True,1,2,0,1,0,1,1,0,3
+3402098,RS Sedayu General Hospital,Yogyakarta,Bantul,Perusahaan,C,RSU,129,True,0,2,3,1,0,1,0,0,1
+3471282,RS Ludira Husada Tama,Yogyakarta,Kota Yogyakarta,Organisasi Sosial,D,RSU,51,True,0,2,1,2,3,2,1,0,5
+3404193,RS Umum Hermina Yogya,Yogyakarta,Sleman,Perusahaan,C,RSU,118,True,2,3,5,3,6,4,3,0,4
+3471380,RS Siloam Yogyakarta,Yogyakarta,Kota Yogyakarta,Perusahaan,C,RSU,120,True,2,3,2,5,2,4,2,1,4
+3404022,RS Jiwa Grhasia,Yogyakarta,Sleman,Pemprop,A,RSK Jiwa,398,False,0,0,0,1,0,1,2,0,2
+3401053,RS Umum Pura Raharja Medika,Yogyakarta,Kulon Progo,SWASTA/LAINNYA,D,RSU,69,False,0,1,2,1,0,2,0,0,2
+3404183,RS Umum PKU Muhammadiyah Gamping,Yogyakarta,Sleman,Organisasi Sosial,B,RSU,289,True,5,5,6,5,7,6,3,3,7
+3403022,RS Umum Pelita Husada ,Yogyakarta,Gunung Kidul,Perorangan,D,RSU,58,False,1,1,1,1,0,1,0,0,3
+3404081,RS Umum Condong Catur ,Yogyakarta,Sleman,SWASTA/LAINNYA,D,RSU,81,True,1,1,1,1,0,2,1,0,2
+3471121,RS Paru Respira,Yogyakarta,Bantul,Pemprop,C,RSK PARU,35,False,0,1,1,2,0,0,1,0,1
+3404191,RS Universitas Ahmad Dahlan,Yogyakarta,Sleman,SWASTA/LAINNYA,D,RSU,50,True,1,4,3,2,1,3,1,0,3
+3404045,RS Umum Queen Latifa,Yogyakarta,Sleman,Perusahaan,C,RSU,112,True,1,2,4,2,4,3,1,0,5
+3471373,RS Happy Land Medical Centre,Yogyakarta,Kota Yogyakarta,SWASTA/LAINNYA,C,RSU,102,True,2,3,2,1,3,3,1,0,5
+3401048,RS Umum Kharisma Paramedika,Yogyakarta,Kulon Progo,SWASTA/LAINNYA,D,RSU,50,True,1,2,1,1,0,0,0,0,2
+3404011,RS Umum Daerah Sleman,Yogyakarta,Sleman,Pemkab,B,RSU,183,True,3,3,3,2,3,3,2,2,6
+3402086,RS Rajawali Citra ,Yogyakarta,Bantul,Organisasi Sosial,D,RSU,51,False,0,1,1,2,0,2,1,0,3
+3471096,RS  Mata Dr. Yap,Yogyakarta,Kota Yogyakarta,Organisasi Sosial,B,RSK Mata,38,False,0,0,3,1,1,0,0,0,1
+3404033,Charitas Hospital Klepu,Yogyakarta,Sleman,Organisasi Sosial,D,RSU,58,True,1,1,1,2,0,2,0,0,3
+3402031,RSU PKU Muhammadiyah Bantul,Yogyakarta,Bantul,Organisasi Islam ,C,RSU,173,True,2,4,4,2,2,4,1,1,5
+3404184,RS Umum Bhayangkara POLDA DIY,Yogyakarta,Sleman,POLRI,D,RSU,58,True,2,4,3,0,1,3,0,0,4
+3404070,RS Khusus Bedah An-Nur,Yogyakarta,Sleman,Organisasi Sosial,C,RSK BEDAH,29,False,0,0,3,1,0,0,0,0,2
+3471377,RS Pratama Kota Yogyakarta,Yogyakarta,Kota Yogyakarta,Pemkot,D,RSU,61,False,0,2,1,1,0,1,0,0,3
+3471030,RS Tk. III 04.06.03 Dr. Soetarto,Yogyakarta,Kota Yogyakarta,TNI AD,C,RSU,103,True,1,3,3,3,1,3,1,0,4
+3402016,RS Umum Daerah Panembahan Senopati,Yogyakarta,Bantul,Pemkab,B,RSU,265,True,0,3,3,1,1,2,1,1,4
+3471374,RS Gigi dan Mulut Universitas Muhammadiyah Yogyakarta,Yogyakarta,Kota Yogyakarta,SWASTA/LAINNYA,A,RSK GM,16,False,0,0,1,0,0,0,0,0,0
+3402020,RS Umum Santa Elisabeth,Yogyakarta,Bantul,Organisasi Katholik,D,RSU,50,True,1,2,4,2,1,2,1,0,3
+3471041,RS PKU Muhammadiyah Yogyakarta,Yogyakarta,Kota Yogyakarta,Organisasi Islam ,B,RSU,188,True,4,3,5,5,2,5,2,2,8
+3403025,RS Bethesda Wonosari,Yogyakarta,Gunung Kidul,Organisasi Protestan,D,RSU,52,False,0,3,2,2,0,2,0,0,3
+3404179,RS Umum Mitra Paramedika,Yogyakarta,Sleman,Organisasi Sosial,D,RSU,50,True,1,3,2,1,2,2,1,0,3
+3402084,RS Universitas Islam Indonesia,Yogyakarta,Bantul,SWASTA/LAINNYA,C,RSU,150,True,3,5,4,2,2,3,0,0,6
+3471026,RS Islam Hidayatullah Yogyakarta,Yogyakarta,Kota Yogyakarta,Organisasi Islam ,D,RSU,98,True,2,2,3,1,0,3,1,0,4
+3404180,RS Ibu Anak Arvita Bunda,Yogyakarta,Sleman,Organisasi Sosial,C,RSIA,24,False,0,0,1,1,0,0,0,0,1
+3471379,RS Khusus Ibu dan Anak Rachmi,Yogyakarta,Kota Yogyakarta,Perusahaan,C,RSIA,25,False,0,0,1,0,0,0,0,0,0
+3401051,RS Umum Rizki Amalia,Yogyakarta,Kulon Progo,SWASTA/LAINNYA,D,RSU,51,True,0,2,1,1,0,1,0,0,2
+3404056,RS Jih,Yogyakarta,Sleman,Perusahaan,B,RSU,217,True,3,7,5,6,4,6,1,3,5
+3403021,RS Umum Nur Rohmah,Yogyakarta,Gunung Kidul,Perusahaan,D,RSU,50,True,1,2,2,1,1,1,0,0,3
+3404124,RS Umum Panti Nugroho,Yogyakarta,Sleman,Organisasi Sosial,D,RSU,50,True,1,2,4,1,1,3,1,0,3
+3402076,RS Khusus Bedah Ring Road Selatan,Yogyakarta,Bantul,SWASTA/LAINNYA,C,RSK BEDAH,25,True,1,2,2,1,0,0,0,0,1
+3404190,RS Umum Mitra Sehat,Yogyakarta,Sleman,Perusahaan,D,RSU,50,True,1,1,1,1,1,1,0,0,2
+3404157,RS Umum Sakina Idaman,Yogyakarta,Sleman,Organisasi Sosial,C,RSU,100,False,1,1,1,1,1,3,1,0,4
+3471325,RS Khusus Ibu dan Anak Permata Bunda,Yogyakarta,Kota Yogyakarta,Organisasi Sosial,C,RSIA,53,False,0,0,1,0,0,0,0,0,0
+3401037,RS Umum Rizki Amalia Medika,Yogyakarta,Kulon Progo,Organisasi Sosial,D,RSU,65,False,0,2,2,1,2,1,0,0,3
+3403010,RS Umum Daerah Wonosari,Yogyakarta,Gunung Kidul,Pemkab,B,RSU,202,True,1,2,2,2,2,3,0,0,4
+3402075,RS Umum Permata Husada,Yogyakarta,Bantul,Organisasi Sosial,D,RSU,50,False,0,1,1,1,1,1,0,0,2
+3471063,RS Bethesda Yogyakarta,Yogyakarta,Kota Yogyakarta,Organisasi Sosial,B,RSU,300,True,2,5,4,5,3,5,1,0,5
+3403038,RS Islam Gunungkidul,Yogyakarta,Gunung Kidul,SWASTA/LAINNYA,D,RSU,72,False,0,3,1,1,0,2,0,0,3
+3401052,RS Umum Daerah Nyi Ageng Serang,Yogyakarta,Kulon Progo,Pemkab,C,RSU,106,True,2,2,2,1,0,1,1,0,2
+3404182,RS Umum Gramedika 10,Yogyakarta,Sleman,Perusahaan,D,RSU,50,False,0,1,1,1,0,1,0,0,2
+3403023,RS Umum Panti Rahayu,Yogyakarta,Gunung Kidul,SWASTA/LAINNYA,C,RSU,108,True,1,1,4,2,2,2,1,0,4
+3471336,RS Bethesda Lempuyangwangi,Yogyakarta,Kota Yogyakarta,Organisasi Sosial,D,RSU,50,False,0,3,3,2,3,5,2,0,5
+3404210,RS PKU Muhammadiyah Sleman,Yogyakarta,Sleman,Organisasi Islam ,C,RSU,102,True,2,2,2,1,3,4,0,0,4
+3401015,RS Umum Daerah Wates,Yogyakarta,Kulon Progo,Pemkab,B,RSU,273,True,2,3,2,1,2,3,1,2,4
+3404015,RSUP Dr. Sardjito,Yogyakarta,Sleman,Kemkes ,A,RSU,1037,True,5,12,32,13,18,14,6,6,38
+3401058,RS Umum Queen Latifa,Yogyakarta,Kulon Progo,SWASTA/LAINNYA,D,RSU,60,True,0,2,1,1,0,2,1,0,3
+3404189,RS Akademik Universitas Gadjah Mada,Yogyakarta,Sleman,Kementerian Lain,B,RSU,408,True,7,2,6,15,10,7,7,3,11
+3403024,RS Umum PKU Muhammadiyah Wonosari,Yogyakarta,Gunung Kidul,Organisasi Islam ,D,RSU,96,True,1,2,2,2,0,1,0,0,2
+3404092,RS Umum Puri Husada Yogyakarta ,Yogyakarta,Sleman,SWASTA/LAINNYA,D,RSU,51,False,0,1,1,1,0,2,2,0,2
+3402081,RS Bedah Adelia,Yogyakarta,Bantul,SWASTA/LAINNYA,C,RSK BEDAH,25,False,0,1,1,0,0,0,0,0,0
+3404196,RS Umum Bunga Bangsa Medika,Yogyakarta,Sleman,SWASTA/LAINNYA,D,RSU,49,False,0,1,1,0,0,0,0,0,1
+3404168,RS Umum Daerah Prambanan,Yogyakarta,Sleman,Pemkab,C,RSU,108,True,1,1,2,2,1,1,2,0,3
+3471107,RS Khusus Ibu dan Anak  PKU Muhammadiyah Kotagede ,Yogyakarta,Kota Yogyakarta,Organisasi Islam ,C,RSIA,24,False,0,1,2,1,0,0,0,0,2
+3401050,RS Umum PKU Muhammadiyah Nanggulan,Yogyakarta,Kulon Progo,Organisasi Sosial,D,RSU,69,False,0,2,2,1,1,2,0,0,3
+3471362,RS Gigi dan Mulut UGM Prof. Soedomo,Yogyakarta,Sleman,Kementerian Lain,B,RSK GM,12,False,0,0,1,0,0,0,0,0,1
+3402097,RS Umum Daerah Saras Adyatma,Yogyakarta,Bantul,Pemkab,D,RSU,54,False,0,1,1,1,0,1,0,0,1
+3471234,RS Umum Daerah Kota Yogyakarta,Yogyakarta,Kota Yogyakarta,Pemkot,B,RSU,202,True,1,3,3,2,2,3,1,1,3
+3404102,RS Umum Panti Rini,Yogyakarta,Sleman,Organisasi Katholik,D,RSU,50,True,1,4,5,1,2,3,1,0,4
+3402064,RS Umum Rachma Husada ,Yogyakarta,Bantul,Organisasi Sosial,C,RSU,93,True,1,2,2,1,0,2,1,0,1
+3404187,RS Sadewa,Yogyakarta,Sleman,Perusahaan,D,RSU,68,False,0,1,2,2,0,0,1,0,2
+3404146,RS Islam Yayasan PDHI,Yogyakarta,Sleman,Organisasi Sosial,C,RSU,199,True,2,4,4,3,3,5,2,1,6
+3471381,RS AMC Muhammadiyah,Yogyakarta,Kota Yogyakarta,Perusahaan,D,RSU,102,True,3,6,4,3,3,3,1,0,4
+3471085,RS Khusus Jiwa Puri Nirmala,Yogyakarta,Kota Yogyakarta,Organisasi Sosial,C,RSK Jiwa,26,False,0,0,0,0,0,1,0,0,0
+3571016,RS Umum Daerah Gambiran,Jawa Timur,Kota Kediri,Pemkot,B,RSU,286,True,3,2,3,3,3,2,1,2,7
+3516034,RS Dharma Husada,Jawa Timur,Mojokerto,SWASTA/LAINNYA,D,RSU,50,True,0,1,1,1,0,0,0,0,1
+3505041,RS Umum Al-Ittihad,Jawa Timur,Blitar,SWASTA/LAINNYA,D,RSU,53,True,1,1,2,1,0,1,0,0,2
+3528028,RS Umum Daerah Waru Pamekasan,Jawa Timur,Pamekasan,Pemkab,D,RSU,58,False,0,2,2,1,0,1,0,0,2
+3578777,RS Universitas Airlangga ,Jawa Timur,Kota Surabaya,Kementerian Lain,B,RSU,368,True,6,3,13,9,3,8,2,5,12
+3512038,RS Umum Mitra Sehat Kabupaten Situbondo,Jawa Timur,Situbondo,SWASTA/LAINNYA,C,RSU,116,True,1,1,1,1,1,2,0,0,1
+3573247,RS Ibu dan Anak Permata Hati,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSIA,25,False,0,0,1,0,0,0,0,0,0
+3504056,RS Umum Era Medika ,Jawa Timur,Tulungagung,SWASTA/LAINNYA,C,RSU,100,False,1,1,2,1,0,2,0,0,2
+3522047,RS Umum Daerah Sumberrejo,Jawa Timur,Bojonegoro,Pemkab,C,RSU,106,True,1,2,2,1,0,1,1,0,1
+3578794,RS Ibu dan Anak Pusura Tegalsari,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSIA,25,False,0,0,1,1,0,0,0,0,0
+3573257,RS Umum Persada Hospital,Jawa Timur,Kota Malang,SWASTA/LAINNYA,B,RSU,114,True,3,4,3,3,2,3,3,2,3
+3517093,RS Al-Aziz,Jawa Timur,Jombang,Organisasi Islam ,D,RSU,66,True,1,1,1,1,0,1,0,0,2
+3507070,RS Marsudi Waluyo,Jawa Timur,Malang,Organisasi Protestan,D,RSU,74,True,1,4,2,1,2,1,0,0,3
+3573261,RS Bhirawa Bhakti,Jawa Timur,Kota Malang,TNI AD,D,RSU,52,False,0,1,1,2,1,2,0,0,3
+3514025,RS Islam Masyithoh Bangil,Jawa Timur,Pasuruan,SWASTA/LAINNYA,C,RSU,107,True,1,2,3,1,1,2,0,0,4
+3573264,RS Ibu dan Anak Melati Children Hospital,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSIA,25,False,0,1,1,2,0,0,0,0,1
+3505043,RS Umum Medika Utama,Jawa Timur,Blitar,SWASTA/LAINNYA,C,RSU,100,True,1,2,2,1,1,1,0,1,2
+3524042,RS Umum Daerah Ngimbang,Jawa Timur,Lamongan,Pemkab,C,RSU,105,True,1,2,2,1,0,2,1,0,4
+3579003,RS Bhayangkara Hasta Brata Batu ,Jawa Timur,Kota Batu,POLRI,C,RSU,122,True,3,2,2,2,3,3,1,1,4
+3504012,RS Umum Daerah Dr. Iskak,Jawa Timur,Tulungagung,Pemkab,A,RSU,503,True,4,5,4,2,10,5,1,2,5
+3578202,RS Mata Undaan,Jawa Timur,Kota Surabaya,Organisasi Sosial,B,RSK Mata,48,False,0,0,2,0,1,0,0,0,2
+3521027,RS Umum Daerah Geneng,Jawa Timur,Ngawi,Pemkab,D,RSU,50,False,0,2,1,1,0,1,0,0,2
+3507116,RS Umum Salsabila Husada,Jawa Timur,Malang,Perusahaan,D,RSU,50,True,0,0,0,0,0,0,0,0,1
+3578235,RS Bunda ,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,D,RSU,50,True,0,2,2,1,1,1,0,0,3
+3515125,RS Ibu dan Anak Kirana,Jawa Timur,Sidoarjo,Perusahaan,C,RSIA,26,False,0,0,1,0,0,0,0,0,0
+3575013,RS Umum Daerah Dr. R. Soedarsono Kota Pasuruan,Jawa Timur,Kota Pasuruan,Pemkot,C,RSU,199,True,2,2,2,1,2,2,1,0,3
+3507085,RS Umum Daerah Lawang ,Jawa Timur,Malang,Pemkab,C,RSU,120,True,2,2,2,1,1,1,1,1,2
+3525088,RS Muhammadiyah Gresik,Jawa Timur,Gresik,Organisasi Islam ,C,RSU,140,True,2,2,2,1,4,2,1,0,2
+3578016,RS Umum Daerah Dr. Soetomo,Jawa Timur,Kota Surabaya,Pemprop,A,RSU,1183,True,12,15,40,8,16,17,8,6,37
+3523052,RS Muhammadiyah Tuban,Jawa Timur,Tuban,SWASTA/LAINNYA,D,RSU,70,True,2,3,1,2,0,1,1,0,2
+3509101,RS Utama Husada Jember,Jawa Timur,Jember,SWASTA/LAINNYA,D,RSU,50,False,0,2,2,1,0,0,0,0,1
+3515141,RS Umum Bunda,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,C,RSU,100,True,1,3,2,1,1,2,2,0,1
+3577052,RS Ibu dan Anak Al Hasanah,Jawa Timur,Kota Madiun,SWASTA/LAINNYA,C,RSIA,29,False,0,0,2,0,0,0,0,0,1
+3508053,RS Wijaya Kusuma Lumajang,Jawa Timur,Lumajang,SWASTA/LAINNYA,C,RSU,107,True,1,2,4,2,2,3,1,1,4
+3526032,RS Khusus Bedah Al Ishaqiy,Jawa Timur,Bangkalan,SWASTA/LAINNYA,C,RSK BEDAH,26,False,0,1,0,0,0,0,0,0,0
+3507052,RS Umum Daerah Kanjuruhan Kepanjen Kab. Malang,Jawa Timur,Malang,Pemkab,B,RSU,245,True,2,3,3,3,2,3,2,1,4
+3510108,RS Al-Rohmah Banyuwangi,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,D,RSU,58,True,1,1,2,1,0,1,0,0,1
+3524056,RS Muhammadiyah Kalikapas Lamongan,Jawa Timur,Lamongan,Organisasi Islam ,D,RSU,51,True,1,1,2,1,1,2,0,0,2
+3516073,RS Umum Daerah Raden Achmad Basoeni,Jawa Timur,Mojokerto,Pemkab,C,RSU,140,True,1,2,2,1,2,2,1,1,3
+3578122,RS Umum Tk. III Brawijaya,Jawa Timur,Kota Surabaya,TNI AD,C,RSU,111,True,3,5,4,2,2,4,1,0,5
+3509112,RS Gigi dan Mulut Universitas Jember,Jawa Timur,Jember,Kementerian Lain,C,RSK GM,16,False,0,0,1,1,0,0,0,0,0
+3529029,RS Umum Sumekar,Jawa Timur,Sumenep,SWASTA/LAINNYA,C,RSU,120,False,0,2,3,1,0,2,0,0,3
+3515026,RS Siti Khodijah Muhammadiyah Cabang Sepanjang,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,B,RSU,365,True,1,4,4,4,6,5,4,1,6
+3514054,RS Sahabat,Jawa Timur,Pasuruan,Perorangan,D,RSU,77,True,1,2,2,1,0,2,0,0,2
+3525091,RS Umum Wali Songo I,Jawa Timur,Gresik,SWASTA/LAINNYA,D,RSU,56,True,1,2,1,1,2,1,1,0,3
+3517098,RS Bedah Surya Dharma Husada,Jawa Timur,Jombang,SWASTA/LAINNYA,C,RSK BEDAH,25,False,0,2,1,1,0,0,0,0,1
+3578753,RS Onkologi,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSK KANKER,25,False,0,3,4,4,1,0,0,0,1
+3509151,RS Umum Universitas Muhammadiyah Jember,Jawa Timur,Jember,SWASTA/LAINNYA,C,RSU,109,True,1,2,2,1,1,2,0,0,2
+3571150,RS Umum Daerah Kilisuci,Jawa Timur,Kota Kediri,Pemkot,C,RSU,100,True,1,1,1,1,1,0,0,0,2
+3524016,RS Umum Daerah Dr. Soegiri Lamongan,Jawa Timur,Lamongan,Pemkab,B,RSU,292,True,2,3,3,3,4,3,3,2,3
+3515135,RS Bantuan 05.08.03 Sidoarjo,Jawa Timur,Sidoarjo,TNI AD,D,RSU,50,False,0,2,1,1,1,0,0,0,4
+3503022,RS Umum Budi Asih Trenggalek,Jawa Timur,Trenggalek,Organisasi Sosial,D,RSU,50,False,0,2,2,1,1,1,0,0,2
+3526027,RS Umum Lukas,Jawa Timur,Bangkalan,SWASTA/LAINNYA,D,RSU,50,False,1,0,1,0,0,0,0,0,3
+3578560,RS Husada Utama Surabaya,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,278,True,5,4,3,3,6,5,4,0,11
+3510076,RS Yasmin,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,C,RSU,100,True,2,3,3,2,2,1,1,0,3
+3572073,RS Islam Aminah,Jawa Timur,Kota Blitar,Organisasi Islam ,C,RSU,100,True,1,2,2,2,2,2,1,0,4
+3520041,RS Angkatan Udara dr. Efram Harsana,Jawa Timur,Magetan,TNI AU,C,RSU,101,True,2,2,2,2,1,3,2,0,3
+3578774,RS Ibu dan Anak Nur Ummi Numbi,Jawa Timur,Kota Surabaya,Perusahaan,C,RSIA,35,False,0,0,1,1,0,0,0,0,0
+3515144,RS Sheila Medika,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,D,RSU,90,True,2,1,3,1,1,1,1,0,3
+3504081,RS Umum Prima Medika,Jawa Timur,Tulungagung,SWASTA/LAINNYA,D,RSU,35,True,2,2,2,1,2,2,0,0,3
+3527026,RS Qona'ah,Jawa Timur,Sampang,Perusahaan,D,RSU,62,False,0,1,0,1,0,1,0,0,2
+3578764,RS Bhayangkara TK II HS. Samsoeri Mertojoso,Jawa Timur,Kota Surabaya,POLRI,B,RSU,205,True,3,4,3,2,5,3,2,2,11
+3511013,RS Mitra Medika Bondowoso,Jawa Timur,Bondowoso,SWASTA/LAINNYA,C,RSU,130,True,1,2,2,1,1,1,2,0,1
+3573243,RS Ibu dan Anak Mardi Waloeja Kauman Malang,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSIA,28,False,0,0,1,0,0,0,0,0,0
+3502146,RS Umum Muslimat Ponorogo,Jawa Timur,Ponorogo,SWASTA/LAINNYA,C,RSU,128,True,1,4,3,2,1,2,1,0,3
+3521014,RS Umum Widodo,Jawa Timur,Ngawi,SWASTA/LAINNYA,C,RSU,180,True,2,3,4,2,2,2,2,0,3
+3578769,RS Ibu dan Anak Kendangsari Merr,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSIA,28,False,0,1,4,0,0,0,0,0,1
+3578819,Rumah Sakit Kapal Ksatria Airlangga,Jawa Timur,Kota Surabaya,Organisasi Sosial,Non Kelas,RS Bergerak,0,True,0,0,0,0,0,0,0,0,0
+3573044,RS Umum Panti Nirmala,Jawa Timur,Kota Malang,SWASTA/LAINNYA,B,RSU,200,True,4,6,2,6,7,4,0,0,5
+3517025,RS Airlangga Jombang,Jawa Timur,Jombang,SWASTA/LAINNYA,D,RSU,50,True,1,1,2,1,1,1,1,0,1
+3506059,RS Muhammadiyah Siti Khodijah,Jawa Timur,Kediri,SWASTA/LAINNYA,D,RSU,80,True,2,2,3,1,1,2,1,0,3
+3571146,RS Umum Lirboyo,Jawa Timur,Kota Kediri,SWASTA/LAINNYA,D,RSU,100,True,1,1,1,1,1,1,1,0,3
+3578814,Ciputra Hospital Surabaya ,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,200,True,5,4,5,1,6,2,2,3,9
+3513025,RS Ibu dan Anak Fatimah Kraksaan,Jawa Timur,Probolinggo,SWASTA/LAINNYA,C,RSIA,60,False,0,0,2,1,0,0,0,0,1
+3573258,RS Umum Daerah Kota Malang,Jawa Timur,Kota Malang,Pemkot,C,RSU,98,True,1,1,1,2,0,1,1,0,3
+3504078,RS Ibu dan Anak Trisna Medika,Jawa Timur,Tulungagung,SWASTA/LAINNYA,C,RSIA,41,False,0,1,1,0,0,0,0,0,1
+3523053,RS Nahdlatul Ulama Tuban,Jawa Timur,Tuban,SWASTA/LAINNYA,C,RSU,116,True,1,2,3,2,1,2,1,1,2
+3578815,RS Umum Daerah Eka Candrarini,Jawa Timur,Kota Surabaya,Pemkot,C,RSU,170,True,2,4,4,2,2,3,2,0,4
+3578064,RS Adi Husada Undaan,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,208,True,6,7,9,6,6,9,2,3,10
+3517113,RS BHAYANGKARA TK IV JOMBANG,Jawa Timur,Jombang,POLRI,D,RSU,53,True,1,2,2,0,0,0,0,0,1
+3507105,RS Lawang Medika,Jawa Timur,Malang,SWASTA/LAINNYA,D,RSU,66,True,1,3,3,0,0,2,1,0,1
+3577030,RS Umum TNI AD Tk. IV 05.04.01 Kota Madiun,Jawa Timur,Kota Madiun,TNI AD,D,RSU,56,False,1,1,2,1,0,3,0,0,2
+3515030,RS Bhayangkara TK.III Pusdik Sabhara Porong,Jawa Timur,Sidoarjo,POLRI,C,RSU,150,True,2,4,3,1,1,2,2,0,3
+3574068,RS Umum Amanah,Jawa Timur,Kota Probolinggo,Perusahaan,C,RSU,92,False,1,2,4,1,1,0,0,0,2
+3506064,RS Ibu dan Anak Permata Hati Pare Kediri,Jawa Timur,Kediri,SWASTA/LAINNYA,C,RSIA,32,False,0,0,1,0,0,0,0,0,0
+3524075,RS Mata KMU Lamongan,Jawa Timur,Lamongan,Perusahaan,C,RSK Mata,15,False,0,0,1,0,0,0,0,0,2
+3522062,RS Muslimat NU Muna Anggita Bojonegoro,Jawa Timur,Bojonegoro,Organisasi Islam ,D,RSU,50,False,0,1,1,1,0,1,0,0,2
+3507262,RS AU dr. Mohammad Moenir,Jawa Timur,Malang,TNI AU,D,RSU,56,False,0,1,2,1,0,0,0,0,1
+3578818,RS Bawean Orthopedi dan Rehabilitasi Center,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,D,RSK Orthopedi,50,True,2,1,2,1,0,0,0,0,3
+3515134,RS Ibu dan Anak Buah Delima,Jawa Timur,Sidoarjo,Organisasi Sosial,C,RSIA,31,False,0,0,0,0,0,0,0,0,0
+3577026,RS Umum Santa Clara,Jawa Timur,Kota Madiun,SWASTA/LAINNYA,C,RSU,100,True,2,3,2,2,2,4,1,0,3
+3507108,RS Umum Universitas Muhammadiyah Malang,Jawa Timur,Malang,SWASTA/LAINNYA,C,RSU,150,True,3,3,4,5,1,7,2,1,5
+3525116,RS Umum Daerah Gresik Sehati,Jawa Timur,Gresik,Pemkab,C,RSU,101,False,0,1,1,0,0,0,0,0,1
+3503011,RS Umum Daerah dr. Soedomo Trenggalek,Jawa Timur,Trenggalek,Pemkab,B,RSU,293,True,2,2,2,2,2,3,0,0,5
+3524048,RS Umum Citra Medika Lamongan,Jawa Timur,Lamongan,SWASTA/LAINNYA,D,RSU,70,False,0,1,2,1,0,0,0,0,1
+3515160,RS Mitra Keluarga Sidoarjo,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,C,RSU,100,True,2,2,2,2,3,3,2,1,6
+3578031,RS William Booth Surabaya,Jawa Timur,Kota Surabaya,Organisasi Protestan,C,RSU,100,True,3,3,4,2,5,3,2,0,3
+3509021,RS Perkebunan PTPN X (Persero) Jember,Jawa Timur,Jember,BUMN,C,RSU,158,True,1,3,3,2,2,3,1,2,6
+3528041,RS Ibu dan Anak Puri Bunda Madura,Jawa Timur,Pamekasan,Perorangan,C,RSIA,30,False,0,1,1,1,0,1,0,0,0
+3511011,RS Umum dr. H.Koesnadi Bondowoso,Jawa Timur,Bondowoso,Pemkab,B,RSU,266,True,1,2,2,3,2,2,2,1,3
+3512052,RS Umum Mulia Medical Center,Jawa Timur,Situbondo,SWASTA/LAINNYA,D,RSU,53,False,0,0,0,0,0,0,0,0,0
+3525087,RS Denisa,Jawa Timur,Gresik,SWASTA/LAINNYA,D,RSU,54,False,1,1,1,2,1,0,0,0,1
+3517021,RS Kristen Mojowarno,Jawa Timur,Jombang,Organisasi Protestan,C,RSU,129,True,1,2,2,2,1,2,1,1,2
+3578603,RS Gotong Royong,Jawa Timur,Kota Surabaya,Organisasi Sosial,C,RSU,138,True,2,3,4,3,4,5,2,1,9
+3509137,RS Umum Srikandi IBI Jember,Jawa Timur,Jember,Organisasi Sosial,C,RSU,101,False,0,1,3,0,0,0,0,0,1
+3571145,RS Ibu dan Anak Citra Keluarga,Jawa Timur,Kota Kediri,SWASTA/LAINNYA,C,RSIA,27,False,0,1,2,0,0,0,0,0,1
+3518011,RS Umum Daerah Nganjuk,Jawa Timur,Nganjuk,Pemkab,B,RSU,283,True,1,2,2,1,1,3,1,1,5
+3515127,RS Umum Assakinah Medika,Jawa Timur,Sidoarjo,Perusahaan,D,RSU,122,True,2,1,1,1,0,1,1,0,2
+3501019,RS Umum Medical Mandiri Pacitan,Jawa Timur,Pacitan,Perusahaan,D,RSU,54,False,0,1,1,1,0,0,0,0,1
+3525099,RS Umum Rachmi Dewi ,Jawa Timur,Gresik,SWASTA/LAINNYA,D,RSU,49,False,0,1,2,1,0,0,0,0,2
+3519023,RS Umum Daerah Caruban,Jawa Timur,Madiun,Pemkab,C,RSU,207,True,2,2,2,1,1,1,1,0,4
+3578771,RS Ibu dan Anak Putri Surabaya,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSIA,50,False,0,2,3,1,0,0,0,0,2
+3527012,RS Umum Daerah dr. Mohammad Zyn Kab. Sampang,Jawa Timur,Sampang,Pemkab,B,RSU,257,True,3,2,2,2,2,2,1,0,3
+3571042,RS Baptis Kediri,Jawa Timur,Kota Kediri,Organisasi Protestan,B,RSU,201,True,1,2,2,1,2,2,1,0,4
+3516037,RS Umum Kartini  ,Jawa Timur,Mojokerto,Organisasi Sosial,D,RSU,74,True,1,2,2,1,1,2,0,0,2
+3506036,RS Umum Amelia,Jawa Timur,Kediri,SWASTA/LAINNYA,D,RSU,67,False,0,2,3,1,2,2,0,0,2
+3528042,Rumah Sakit Bhayangkara Pamekasan,Jawa Timur,Pamekasan,POLRI,D,RSU,53,False,0,1,1,1,1,0,0,0,1
+3578781,RS Umum Royal Surabaya ,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,198,True,3,4,4,2,3,4,3,2,6
+3512051,RS Mata Situbondo,Jawa Timur,Situbondo,SWASTA/LAINNYA,C,RSK Mata,15,False,0,0,0,0,0,0,0,0,0
+3573252,RS Ibu dan Anak Mutiara Bunda,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSIA,32,False,0,1,2,0,0,0,0,0,1
+3504068,RS Umum Bhayangkara Tulungagung,Jawa Timur,Tulungagung,POLRI,C,RSU,114,True,2,4,4,3,3,3,1,1,7
+3522059,RS Bhayangkara Wahyu Tutuko Bojonegoro ,Jawa Timur,Bojonegoro,POLRI,C,RSU,106,True,1,2,2,1,1,1,0,0,3
+3578808,Mayapada Hospital Surabaya ,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSU,135,True,7,5,4,2,7,6,1,4,7
+3576014,RSUD dr. Wahidin Sudiro Husodo Kota Mojokerto,Jawa Timur,Kota Mojokerto,Pemkot,B,RSU,209,True,1,3,3,2,4,3,3,2,3
+3517095,RS Umum Pelengkap Medical Center,Jawa Timur,Jombang,Perusahaan,D,RSU,74,True,1,3,2,2,2,4,1,0,3
+3507230,RS Sumber Sentosa,Jawa Timur,Malang,SWASTA/LAINNYA,D,RSU,52,True,1,2,2,1,0,2,0,0,2
+3573278,BAMBANG SHITA HOSPITAL,Jawa Timur,Kota Malang,SWASTA/LAINNYA,D,RSU,51,True,1,2,2,1,1,1,0,0,1
+3514058,RS Umum Daerah Grati,Jawa Timur,Pasuruan,Pemkab,C,RSU,146,True,2,2,3,3,1,1,1,1,3
+3573279,RUMAH SAKIT GIGI DAN MULUT UNIVERSITAS BRAWIJAYA ,Jawa Timur,Kota Malang,Kementerian Lain,C,RSK GM,15,False,0,0,0,0,0,0,0,0,1
+3506025,RS Toeloengredjo,Jawa Timur,Kediri,SWASTA/LAINNYA,C,RSU,160,True,2,4,2,2,2,3,1,0,3
+3524045,RS Umum dr. Suyudi,Jawa Timur,Lamongan,Perusahaan,C,RSU,109,True,1,3,2,1,1,3,1,0,4
+3515015,RS Umum Daerah R. T. Notopuro Sidoarjo,Jawa Timur,Sidoarjo,Pemkab,A,RSU,700,True,3,4,7,7,3,5,2,3,11
+3578523,RS Umum Daerah Haji Provinsi Jawa Timur,Jawa Timur,Kota Surabaya,Pemprop,B,RSU,300,True,3,3,4,2,4,5,1,2,5
+3522036,RSI Muhammadiyah Sumberrejo,Jawa Timur,Bojonegoro,Organisasi Islam ,D,RSU,93,True,1,2,3,3,0,1,0,0,1
+3507259,RS Enggal Dangan,Jawa Timur,Malang,SWASTA/LAINNYA,D,RSU,50,False,0,1,2,1,0,0,0,0,1
+3578770,RS Wijaya Surabaya,Jawa Timur,Kota Surabaya,Organisasi Sosial,D,RSU,65,True,1,2,1,1,1,2,1,0,3
+3515129,RS Ibu dan Anak Soerya,Jawa Timur,Sidoarjo,Perusahaan,C,RSIA,34,False,0,0,3,1,0,0,0,0,2
+3576036,RS Gatoel,Jawa Timur,Kota Mojokerto,SWASTA/LAINNYA,C,RSU,164,True,2,5,3,3,2,2,2,1,3
+3507099,RS Prasetya Husada,Jawa Timur,Malang,SWASTA/LAINNYA,C,RSU,102,True,3,3,3,2,0,4,0,1,3
+3525096,RS Petrokimia Gresik Driyorejo,Jawa Timur,Gresik,SWASTA/LAINNYA,C,RSU,100,True,2,2,3,2,1,3,2,0,4
+3578192,RS Jiwa Menur,Jawa Timur,Kota Surabaya,Pemprop,A,RSK Jiwa,400,True,2,1,1,1,1,2,2,0,3
+3524043,RS Mitra Sehat Lamongan,Jawa Timur,Lamongan,SWASTA/LAINNYA,D,RSU,61,True,1,2,0,1,0,0,0,0,1
+3510105,RS Umum Bakti Mulia Banyuwangi,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,D,RSU,58,True,1,1,3,1,0,1,0,0,1
+3515157,RS Umum Daerah Sidoarjo Barat,Jawa Timur,Sidoarjo,Pemkab,C,RSU,130,True,1,1,2,1,3,2,2,0,3
+3519026,RS Paru Manguharjo Madiun,Jawa Timur,Kota Madiun,Pemprop,C,RSK PARU,54,False,1,1,1,1,1,1,1,0,2
+3508055,RS Umum Djatiroto,Jawa Timur,Lumajang,BUMN,C,RSU,120,True,2,3,2,2,2,3,1,1,5
+3526046,RS Khusus Bedah Heart and Surgery,Jawa Timur,Bangkalan,SWASTA/LAINNYA,C,RSK BEDAH,25,False,0,1,0,0,1,0,0,0,0
+3508016,RS Umum Daerah Dr. Haryoto Kabupaten Lumajang,Jawa Timur,Lumajang,Pemkab,B,RSU,321,True,2,2,2,3,3,2,1,1,6
+3511024,RS Cahya Medika,Jawa Timur,Bondowoso,SWASTA/LAINNYA,D,RSU,70,False,0,1,1,1,0,0,0,0,1
+3524073,RS Nahdlatul Ulama Babat,Jawa Timur,Lamongan,SWASTA/LAINNYA,D,RSU,50,False,1,1,1,1,0,2,0,0,1
+3516075,RS Mawaddah Medika,Jawa Timur,Mojokerto,Perusahaan,C,RSU,112,True,1,3,3,2,3,3,2,0,4
+3578261,RS Ibu dan Anak IBI Surabaya,Jawa Timur,Kota Surabaya,Organisasi Sosial,C,RSIA,31,False,0,0,0,0,0,0,0,0,1
+3509134,RS Daerah Balung Jember,Jawa Timur,Jember,Pemkab,C,RSU,169,True,1,2,2,2,1,1,1,1,5
+3571020,RS TK. IV 05.07.02 Kediri,Jawa Timur,Kota Kediri,TNI AD,C,RSU,98,True,1,1,3,1,1,1,1,0,2
+3515122,RS Umum Mitra Keluarga Waru,Jawa Timur,Sidoarjo,Perusahaan,B,RSU,200,True,5,5,3,3,6,3,2,2,8
+3514073,RSNU PASURUAN ,Jawa Timur,Pasuruan,Organisasi Islam ,D,RSU,53,True,0,2,2,1,0,2,0,0,2
+3525095,RS PKU Muhammadiyah Sekapuk,Jawa Timur,Gresik,Organisasi Islam ,D,RSU,58,True,1,1,1,2,1,1,1,0,2
+3518022,RS Daerah Kertosono,Jawa Timur,Nganjuk,Pemkab,C,RSU,208,True,2,3,2,1,1,3,0,0,2
+3578766,RS Wiyung Sejahtera,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSU,123,True,1,2,3,3,3,3,2,0,5
+3510043,RS Umum Daerah Genteng,Jawa Timur,Banyuwangi,Pemkab,C,RSU,165,True,1,3,5,1,1,1,1,0,1
+3572043,RS Umum Syuhada Haji,Jawa Timur,Kota Blitar,SWASTA/LAINNYA,C,RSU,100,True,1,2,3,2,1,1,0,0,3
+3525010,RS Umum Daerah Ibnu Sina Kab. Gresik,Jawa Timur,Gresik,Pemkab,B,RSU,332,True,2,2,3,3,2,3,2,3,6
+3515140,RS Arafah Anwar Medika Sukodono,Jawa Timur,Sidoarjo,Perusahaan,D,RSU,102,True,1,2,2,1,1,0,1,0,2
+3504069,RS Umum Satiti Prima Husada,Jawa Timur,Tulungagung,SWASTA/LAINNYA,D,RSU,65,True,1,2,2,1,0,1,1,0,2
+3527013,RS Nindhita,Jawa Timur,Sampang,Perorangan,D,RSU,114,False,0,2,1,1,1,1,0,0,2
+3578582,RS Umum  Mitra Keluarga Surabaya,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,136,True,3,8,4,5,7,7,4,4,8
+3510103,RS Al Huda ,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,C,RSU,200,True,1,3,3,2,1,1,1,2,3
+3573215,RS Umum Islam Aisyiyah Malang,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSU,166,True,3,4,4,2,3,6,3,2,6
+3502112,RS Umum Aisyiyah Ponorogo,Jawa Timur,Ponorogo,SWASTA/LAINNYA,C,RSU,185,True,2,2,3,2,4,2,1,0,5
+3520015,RS Ibu dan Anak Samudra Husada,Jawa Timur,Magetan,SWASTA/LAINNYA,C,RSIA,25,False,0,2,2,0,1,1,0,0,1
+3578780,RS Orthopedi dan Traumatologi Surabaya,Jawa Timur,Kota Surabaya,Perusahaan,C,RSK Orthopedi,54,True,7,2,4,2,3,2,4,0,2
+3529014,RS Umum Daerah dr. H. Moh. Anwar ,Jawa Timur,Sumenep,Pemkab,B,RSU,233,False,0,2,3,1,2,2,1,0,5
+3516033,RS Islam Arofah,Jawa Timur,Mojokerto,SWASTA/LAINNYA,D,RSU,50,False,1,1,1,1,0,0,0,0,2
+3505024,RS Umum Aulia Blitar,Jawa Timur,Blitar,SWASTA/LAINNYA,D,RSU,58,True,0,1,1,1,0,1,0,0,3
+3528025,RS Umum Asyifa Husada Pamekasan,Jawa Timur,Pamekasan,SWASTA/LAINNYA,D,RSU,42,False,0,1,1,1,0,0,0,0,1
+3578224,RS Umum Islam Surabaya Jemursari ,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,270,True,5,5,4,4,6,6,5,1,10
+3512034,RS Elizabeth,Jawa Timur,Situbondo,SWASTA/LAINNYA,C,RSU,134,True,2,3,2,2,1,3,1,0,4
+3573246,RS Umum Hermina Tangkubanprahu,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSU,135,True,5,4,6,3,3,4,2,0,4
+3504045,RS Umum Islam Orpeha,Jawa Timur,Tulungagung,SWASTA/LAINNYA,C,RSU,108,True,2,2,3,1,0,2,1,0,5
+3522025,Rumah Sakit Aisyiyah Bojonegoro,Jawa Timur,Bojonegoro,SWASTA/LAINNYA,C,RSU,166,True,2,2,3,3,4,3,1,0,3
+3578791,RS Ibu dan Anak Graha Medika,Jawa Timur,Kota Surabaya,Perusahaan,C,RSIA,37,False,0,1,2,1,0,0,0,0,1
+3573066,RS Umum Lavalette Malang,Jawa Timur,Kota Malang,SWASTA/LAINNYA,B,RSU,200,True,2,3,4,2,1,2,0,1,5
+3517092,RS Muhammadiyah Jombang,Jawa Timur,Jombang,Organisasi Islam ,D,RSU,54,True,0,1,1,1,0,1,0,0,2
+3507015,RS Bala Keselamatan Bokor,Jawa Timur,Malang,SWASTA/LAINNYA,D,RSU,74,True,1,2,1,1,1,2,1,0,2
+3573249,RS Umum Permata Bunda,Jawa Timur,Kota Malang,Perusahaan,D,RSU,78,False,1,1,1,1,0,1,0,0,1
+3513027,RS Rizani,Jawa Timur,Probolinggo,Perusahaan,C,RSU,160,True,1,1,2,2,1,2,1,0,2
+3573260,RS Ibu dan Anak Refa husada,Jawa Timur,Kota Malang,Perorangan,C,RSIA,50,False,0,2,1,1,0,0,0,0,0
+3505035,RS Umum Ananda,Jawa Timur,Blitar,SWASTA/LAINNYA,C,RSU,122,True,1,3,2,1,1,2,0,0,3
+3524020,RS Islam Nashrul Ummah,Jawa Timur,Lamongan,SWASTA/LAINNYA,C,RSU,107,True,2,3,3,1,1,1,0,0,2
+3579074,RS Baptis Batu,Jawa Timur,Kota Batu,Organisasi Katholik,C,RSU,104,True,1,2,2,2,3,3,1,0,3
+3578111,RS Islam Surabaya,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,233,True,3,4,5,4,4,5,2,1,7
+3520013,RS Umum Bhakti Persada,Jawa Timur,Magetan,SWASTA/LAINNYA,D,RSU,52,True,1,1,2,1,0,1,0,0,1
+3573256,RS Bantuan 05.08.04 Lawang,Jawa Timur,Malang,TNI AD,D,RSU,50,False,0,3,1,0,0,1,0,0,1
+3578166,RS Soemitro Lanud Moeljono Surabaya,Jawa Timur,Kota Surabaya,TNI AU,D,RSU,1034,False,0,0,1,1,0,1,1,0,2
+3515121,RS Umum Anwar Medika ,Jawa Timur,Sidoarjo,Organisasi Sosial,C,RSU,199,True,2,2,3,2,1,3,3,1,3
+3574080,RS Umum Daerah Ar Rozy,Jawa Timur,Kota Probolinggo,Pemkab,C,RSU,106,True,1,3,2,1,1,1,0,0,3
+3507204,RS Umum Islam Gondang Legi,Jawa Timur,Malang,SWASTA/LAINNYA,C,RSU,101,True,1,2,2,2,2,2,1,0,2
+3525076,RS Petrokimia Gresik,Jawa Timur,Gresik,SWASTA/LAINNYA,C,RSU,180,True,3,3,4,2,4,2,2,1,6
+3522076,RS Umum Daerah Temayang,Jawa Timur,Bojonegoro,Pemkab,D,RSU,100,False,0,0,0,0,0,0,0,0,0
+3508071,RS Nahdlatul Ulama Permata,Jawa Timur,Lumajang,Organisasi Islam ,D,RSU,50,False,0,1,1,1,0,0,0,0,2
+3579004,RS Punten,Jawa Timur,Kota Batu,SWASTA/LAINNYA,D,RSU,50,True,1,1,1,1,2,2,0,0,1
+3515137,RS Ibu dan Anak Pondok Tjandra,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,C,RSIA,32,False,0,1,2,0,0,0,0,0,1
+3577085,RS Umum Daerah Kota Madiun,Jawa Timur,Kota Madiun,Pemkot,C,RSU,236,True,1,3,2,1,1,2,1,0,2
+3507263,RUMAH SAKIT HERMINA KEPANJEN,Jawa Timur,Malang,SWASTA/LAINNYA,C,RSU,100,True,0,0,0,0,0,0,0,0,0
+3526031,RS Ibu Dan Anak Hikmah Sawi,Jawa Timur,Bangkalan,Perorangan,C,RSIA,60,False,0,0,1,0,0,0,0,0,0
+3506014,RS Umum Daerah Kabupaten Kediri,Jawa Timur,Kediri,Pemkab,B,RSU,318,True,3,3,3,1,3,3,1,2,4
+3524052,RS Umum Daerah Karangkembang,Jawa Timur,Lamongan,Pemkab,D,RSU,66,False,0,2,1,1,0,0,0,0,2
+3516062,RS Islam Sakinah,Jawa Timur,Mojokerto,SWASTA/LAINNYA,C,RSU,232,True,3,4,1,2,1,3,1,0,4
+3578100,RS Umum Adi Husada Kapasari,Jawa Timur,Kota Surabaya,Organisasi Sosial,C,RSU,103,True,1,3,3,2,2,4,1,0,5
+3509043,RS Paru Jember,Jawa Timur,Jember,Pemprop,C,RSK PARU,105,True,1,2,2,2,2,2,1,1,3
+3529026,RS Esto Ebhu,Jawa Timur,Sumenep,SWASTA/LAINNYA,C,RSU,51,False,0,1,2,1,0,0,0,0,1
+3514036,RS Umum Daerah Bangil,Jawa Timur,Pasuruan,Pemkab,B,RSU,632,True,3,2,3,5,2,3,1,1,7
+3575016,RS Asih Abyakta,Jawa Timur,Pasuruan,SWASTA/LAINNYA,D,RSU,59,True,1,1,1,1,1,1,0,0,3
+3525090,RS Umum Wates Husada,Jawa Timur,Gresik,SWASTA/LAINNYA,D,RSU,77,True,2,3,1,1,1,2,1,0,1
+3517089,RS Umum Daerah Ploso,Jawa Timur,Jombang,Pemkab,C,RSU,111,True,1,2,3,1,1,2,1,0,2
+3578742,RS Islam Darus Syifa,Jawa Timur,Kota Surabaya,Organisasi Sosial,C,RSU,148,True,2,2,3,2,3,2,1,1,4
+3509140,RS Siloam Jember,Jawa Timur,Jember,SWASTA/LAINNYA,C,RSU,100,True,1,2,3,2,2,3,1,1,4
+3506065,RS Gigi Mulut IIK Bhakti Wiyata,Jawa Timur,Kota Kediri,SWASTA/LAINNYA,C,RSK GM,12,False,0,0,1,0,0,0,0,0,0
+3523015,RS Umum Daerah Dr. R. Koesma Tuban,Jawa Timur,Tuban,Pemkab,B,RSU,334,True,3,3,4,3,3,2,2,1,4
+3515132,RS Umum Rahman Rahim,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,D,RSU,91,True,1,1,1,1,1,1,0,0,2
+3502158,RS Umum Daerah Bantarangin,Jawa Timur,Ponorogo,Pemkab,D,RSU,51,False,0,1,1,1,1,0,0,0,1
+3525102,RS Umum Randegansari Husada,Jawa Timur,Gresik,SWASTA/LAINNYA,D,RSU,70,True,1,1,2,1,1,2,1,0,2
+3520012,RS Umum Daerah dr. Sayidiman Magetan,Jawa Timur,Magetan,Pemkab,C,RSU,257,True,1,3,2,2,1,3,1,0,4
+3578773,RS Ibu dan Anak Bantuan 05.08.05 Surabaya,Jawa Timur,Kota Surabaya,TNI AD,C,RSIA,58,False,0,1,2,0,0,0,0,0,0
+3578731,RS Gigi dan Mulut Nala Husada,Jawa Timur,Kota Surabaya,Organisasi Sosial,B,RSK GM,12,False,0,0,1,0,0,0,0,0,0
+3511012,RS Bhayangkara Bondowoso ,Jawa Timur,Bondowoso,POLRI,C,RSU,124,True,1,1,3,1,2,1,1,0,1
+3573097,RS Ibu dan Anak Husada Bunda,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSIA,23,False,0,1,1,0,0,1,0,0,1
+3502134,RS Umum Muhammadiyah Ponorogo,Jawa Timur,Ponorogo,SWASTA/LAINNYA,C,RSU,160,True,1,2,3,1,2,3,1,0,3
+3521013,RS Umum Daerah Dr. Soeroto Ngawi,Jawa Timur,Ngawi,Pemkab,C,RSU,300,True,1,3,1,1,3,3,1,1,3
+3578785,RS Mitra Keluarga Kenjeran,Jawa Timur,Kota Surabaya,Perusahaan,C,RSU,108,True,2,1,6,2,5,4,1,1,8
+3573022,RS Tk. II Dr. Soepraoen,Jawa Timur,Kota Malang,TNI AD,B,RSU,247,True,3,3,3,3,1,3,3,2,5
+3517087,RS Unipdu Medika Jombang,Jawa Timur,Jombang,SWASTA/LAINNYA,D,RSU,50,True,0,1,1,1,0,1,0,0,1
+3506047,RS Umum Muhammadiyah Surya Melati ,Jawa Timur,Kediri,SWASTA/LAINNYA,D,RSU,51,True,1,0,1,1,0,1,0,0,2
+3571053,RS Umum Daha Husada,Jawa Timur,Kota Kediri,Pemprop,D,RSU,55,True,1,1,2,1,1,1,1,0,2
+3578810,RS Ubaya,Jawa Timur,Kota Surabaya,Perusahaan,B,RSU,200,True,0,4,3,3,3,4,3,2,4
+3513067,RS Umum Daerah Tongas ,Jawa Timur,Probolinggo,Pemkab,C,RSU,100,True,0,1,1,1,1,2,1,0,3
+3573254,RS Ibu dan Anak Galeri Candra Malang,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSIA,67,False,0,2,1,0,0,0,0,0,1
+3504074,RS Ibu dan Anak Amanda,Jawa Timur,Tulungagung,SWASTA/LAINNYA,C,RSIA,20,False,0,0,2,0,0,0,0,0,1
+3523041,RS Medika Mulia Tuban,Jawa Timur,Tuban,Organisasi Sosial,C,RSU,150,True,1,3,2,1,2,2,1,1,3
+3578816,RS Ibu dan Anak Idaf Husada,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSIA,23,False,0,0,1,1,0,0,0,0,1
+3578042,RS Katolik St. Vincentius a Paulo,Jawa Timur,Kota Surabaya,Organisasi Katholik,B,RSU,202,True,1,5,6,4,2,10,2,1,13
+3517111,RS Hasyim Asy'ari,Jawa Timur,Jombang,SWASTA/LAINNYA,D,RSU,70,True,1,2,2,1,1,1,0,0,2
+3507100,RS Siti Miriam,Jawa Timur,Malang,SWASTA/LAINNYA,D,RSU,50,True,0,1,1,1,0,1,0,0,1
+3576074,RS Kamar Medika,Jawa Timur,Kota Mojokerto,Perusahaan,D,RSU,70,True,1,1,2,1,1,1,1,0,2
+3514071,RS Hermina Pasuruan,Jawa Timur,Pasuruan,SWASTA/LAINNYA,C,RSU,100,True,2,2,3,1,0,2,1,0,4
+3574023,RS Umum Dharma Husada,Jawa Timur,Kota Probolinggo,SWASTA/LAINNYA,C,RSU,101,True,2,2,5,1,0,1,1,0,3
+3506062,RS Umum  Aura Syifa,Jawa Timur,Kediri,Perusahaan,C,RSU,108,True,1,2,1,2,1,2,1,0,3
+3524049,RS Umum Muhammadiyah Babat,Jawa Timur,Lamongan,SWASTA/LAINNYA,C,RSU,101,True,1,2,2,1,1,1,0,1,3
+3522061,RS Ibnu Sina Bojonegoro,Jawa Timur,Bojonegoro,Perusahaan,D,RSU,62,True,0,1,1,0,0,0,0,0,1
+3507261,RS Umum Cahaya Medika,Jawa Timur,Malang,SWASTA/LAINNYA,D,RSU,50,False,0,1,1,2,0,1,0,0,2
+3578793,RS PKU Muhammadiyah Surabaya,Jawa Timur,Kota Surabaya,Organisasi Islam ,D,RSU,50,False,0,1,2,1,0,1,0,0,2
+3515133,RS Ibu dan Anak Metro Hospitals Sidoarjo,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,C,RSIA,25,False,0,0,1,1,0,0,0,0,1
+3576051,RS Islam Hasanah Muhammadiyah ,Jawa Timur,Kota Mojokerto,Organisasi Islam ,C,RSU,100,True,1,1,1,1,1,2,1,0,2
+3507104,RS Prima Husada,Jawa Timur,Malang,SWASTA/LAINNYA,C,RSU,130,True,4,4,3,2,3,4,2,1,5
+3525105,RS Eka Husada,Jawa Timur,Gresik,SWASTA/LAINNYA,C,RSU,101,True,2,4,2,1,2,1,1,0,2
+3502010,RS Umum Daerah Dr. Harjono S. Kabupaten Ponorogo,Jawa Timur,Ponorogo,Pemkab,B,RSU,351,True,2,3,2,2,3,2,1,1,2
+3524047,RS Muhammadiyah Babat,Jawa Timur,Lamongan,SWASTA/LAINNYA,D,RSU,72,True,1,2,1,1,1,2,1,0,2
+3515159,RSAL dr SOEKANTYO JAHJA PUSPENERBAL,Jawa Timur,Sidoarjo,TNI AL,C,RSU,100,True,1,0,1,0,0,0,0,1,1
+3577099,RS Hermina Madiun,Jawa Timur,Kota Madiun,Perusahaan,C,RSU,100,True,3,2,2,1,2,3,1,1,4
+3508058,RS Umum Daerah Pasirian Kabupaten Lumajang,Jawa Timur,Lumajang,Pemkab,C,RSU,100,True,1,2,2,1,0,0,0,0,2
+3528027,RS Umum Daerah Mohammad Noer Pamekasan,Jawa Timur,Pamekasan,Pemprop,C,RSU,127,False,0,3,2,3,3,2,0,0,2
+3510010,RS Umum Daerah Blambangan,Jawa Timur,Banyuwangi,Pemkab,B,RSU,206,True,2,3,2,1,2,2,1,2,3
+3512037,RS Umum Daerah Asembagus Kabupaten Situbondo,Jawa Timur,Situbondo,Pemkab,D,RSU,76,True,1,1,2,2,0,1,1,0,2
+3524076,RS Umum Daerah Ki Ageng Brondong,Jawa Timur,Lamongan,Pemkab,D,RSU,62,False,0,1,1,0,0,0,0,0,2
+3516086,Rumah Sakit Adhyaksa Jawa Timur,Jawa Timur,Mojokerto,Kementerian Lain,C,RSU,114,True,1,1,1,1,0,0,0,0,3
+3578593,RS Ibu dan Anak Pura Raharja,Jawa Timur,Kota Surabaya,Organisasi Sosial,C,RSIA,70,False,0,1,3,1,0,1,1,0,2
+3509136,RS Umum Citra Husada Jember,Jawa Timur,Jember,SWASTA/LAINNYA,C,RSU,133,True,1,2,3,2,2,2,1,0,4
+3571122,RS Muhammadiyah Ahmad Dahlan,Jawa Timur,Kota Kediri,Organisasi Islam ,C,RSU,180,True,2,2,3,2,2,2,1,1,4
+3517010,RS Umum Daerah Kab. Jombang,Jawa Timur,Jombang,Pemkab,B,RSU,492,True,2,4,4,3,6,5,1,1,5
+3515123,RS Umum Usada ,Jawa Timur,Sidoarjo,Perusahaan,D,RSU,50,False,1,1,0,1,0,1,0,0,1
+3501017,RSU Agung Mulia,Jawa Timur,Pacitan,SWASTA/LAINNYA,D,RSU,53,True,0,1,1,1,0,0,0,0,1
+3525098,RS Umum Islam Cahaya Giri Gresik,Jawa Timur,Gresik,SWASTA/LAINNYA,D,RSU,50,False,0,1,1,1,0,0,0,0,1
+3519012,RS Umum Daerah Dungus,Jawa Timur,Madiun,Pemprop,C,RSU,104,True,1,2,1,1,1,1,2,0,1
+3578768,RS Ibu dan Anak Lombok Dua Dua Lontar,Jawa Timur,Kota Surabaya,Perusahaan,C,RSIA,25,False,0,1,3,0,0,0,0,0,1
+3526011,RS Umum Daerah Syarifah Ambami Rato Ebu,Jawa Timur,Bangkalan,Pemkab,B,RSU,435,True,3,2,3,3,6,2,2,1,4
+3515143,RS Umum Mitra Sehat Mandiri Sidoarjo,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,D,RSU,64,True,0,1,1,1,1,1,0,0,2
+3504071,RS Umum Muhammadiyah Bandung,Jawa Timur,Tulungagung,Organisasi Islam ,D,RSU,0,True,1,2,2,1,1,1,0,0,1
+3527025,RS Sukma Wijaya,Jawa Timur,Sampang,SWASTA/LAINNYA,D,RSU,50,False,0,2,1,1,0,1,0,0,1
+3571031,RS Umum Bhayangkara Kediri,Jawa Timur,Kota Kediri,POLRI,B,RSU,293,True,2,3,4,2,5,3,2,2,5
+3516036,RS Mutiara Hati Mojokerto,Jawa Timur,Mojokerto,SWASTA/LAINNYA,D,RSU,91,True,1,1,2,1,0,1,1,0,1
+3505044,RS Umum Wava Husada Kesamben,Jawa Timur,Blitar,SWASTA/LAINNYA,D,RSU,53,True,1,2,2,2,2,2,1,0,2
+3528029,RS Umum Kusuma Hospital,Jawa Timur,Pamekasan,SWASTA/LAINNYA,D,RSU,67,False,0,1,2,1,2,2,0,0,1
+3578778,RS National Hospital,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,200,True,5,4,5,2,9,12,2,2,11
+3512050,RS Ibu dan Anak Karinda Husada ,Jawa Timur,Situbondo,SWASTA/LAINNYA,C,RSIA,35,False,0,0,1,0,0,0,0,0,0
+3573250,RS Ibu dan Anak Puri Bunda,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSIA,103,False,0,1,3,1,0,0,0,0,2
+3504057,RS Ibu dan Anak Fauziah ,Jawa Timur,Tulungagung,SWASTA/LAINNYA,C,RSIA,41,False,0,0,1,0,0,0,0,0,0
+3522058,RS umum Daerah Padangan,Jawa Timur,Bojonegoro,Pemkab,C,RSU,177,True,1,2,2,1,0,2,1,0,2
+3578795,RS Ibu dan Anak Ferina,Jawa Timur,Kota Surabaya,Perusahaan,C,RSIA,25,False,0,1,2,0,0,0,0,0,1
+3574012,RS Umum Daerah dr. Mohamad Saleh Kota Probolinggo,Jawa Timur,Kota Probolinggo,Pemkot,B,RSU,208,True,2,3,2,2,2,3,2,1,5
+3517094,RS Umum Nadhlatul Ulama Jombang,Jawa Timur,Jombang,SWASTA/LAINNYA,D,RSU,98,True,2,2,2,2,1,2,1,0,2
+3507102,RS Angkatan Udara dr. Munir Lanud Abdulrachman Saleh,Jawa Timur,Malang,TNI AU,D,RSU,51,True,0,1,2,1,0,1,2,0,2
+3573276,RS Umum BRI Medika Malang,Jawa Timur,Kota Malang,SWASTA/LAINNYA,D,RSU,74,True,1,2,1,1,1,2,1,0,2
+3514052,RS Umum Bhayangkara Pusdik Brimob ,Jawa Timur,Pasuruan,POLRI,C,RSU,98,True,1,1,2,1,1,1,1,0,4
+3573277,RS Ibu dan Anak Mitra Mulia,Jawa Timur,Kota Malang,Perorangan,C,RSIA,38,False,0,0,0,0,0,0,0,0,0
+3505045,RS Umum Daerah Srengat Kab. Blitar,Jawa Timur,Blitar,Pemkab,C,RSU,124,True,1,2,2,1,1,2,0,0,3
+3512035,RS Umum Fatimah Lamongan,Jawa Timur,Lamongan,SWASTA/LAINNYA,C,RSU,102,False,0,2,1,1,0,0,0,0,1
+3579005,RS Ibu dan Anak Haji,Jawa Timur,Kota Batu,SWASTA/LAINNYA,C,RSIA,33,False,0,1,1,0,0,0,0,0,2
+3507026,RS Jiwa Dr. Radjiman Wediodiningrat Lawang,Jawa Timur,Malang,Kemkes ,A,RSK Jiwa,353,False,0,1,1,2,0,2,1,0,2
+3578443,RS Umum Siloam Hospitals Surabaya,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,210,True,5,4,4,6,8,6,6,2,11
+3521028,RS Umum Daerah Mantingan,Jawa Timur,Ngawi,Pemkab,D,RSU,49,False,0,1,1,1,0,1,1,0,2
+3507119,RS Umum Wajak Husada,Jawa Timur,Malang,SWASTA/LAINNYA,D,RSU,80,True,2,2,3,2,1,2,1,0,2
+3578246,RS Muji Rahayu,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,D,RSU,56,True,1,1,1,1,0,1,1,0,2
+3515126,RS Umum Al-Islam H. M. Mawardi,Jawa Timur,Sidoarjo,Organisasi Islam ,C,RSU,124,True,3,3,2,2,2,3,4,0,5
+3576076,RS Emma,Jawa Timur,Kota Mojokerto,Organisasi Sosial,C,RSU,106,True,1,1,2,1,1,1,2,0,2
+3507098,RS Mitra Delima,Jawa Timur,Malang,SWASTA/LAINNYA,C,RSU,105,True,1,2,3,2,2,3,1,0,2
+3525093,RS Fathma Medika,Jawa Timur,Gresik,SWASTA/LAINNYA,C,RSU,98,True,2,2,2,1,1,2,1,0,3
+3578020,RSPAL dr. Ramelan,Jawa Timur,Kota Surabaya,TNI AL,A,RSU,808,True,8,6,5,9,7,12,4,2,17
+3523056,RS Graha Husada,Jawa Timur,Tuban,Perusahaan,D,RSU,59,True,1,1,1,1,0,0,0,0,2
+3510104,RS Umum PKU Muhammadiyah Rogojampi,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,D,RSU,56,True,1,2,1,1,0,1,0,0,2
+3515145,RS Mitra Keluarga Pondok Tjandra,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,C,RSU,100,True,3,5,1,4,4,3,2,0,6
+3577086,RS Umum Griya Husada Madiun,Jawa Timur,Kota Madiun,SWASTA/LAINNYA,C,RSU,101,True,2,6,3,3,4,2,1,0,3
+3508054,RS Bhayangkara Lumajang,Jawa Timur,Lumajang,POLRI,C,RSU,126,True,1,2,2,1,3,1,1,0,3
+3526045,RS Ibu dan Anak Glamour Husada Kebun,Jawa Timur,Bangkalan,SWASTA/LAINNYA,C,RSIA,38,False,0,0,2,0,0,0,0,0,0
+3507096,RS Umum Wava Husada ,Jawa Timur,Malang,SWASTA/LAINNYA,B,RSU,249,True,1,5,3,3,3,1,1,2,6
+3510109,RS Umum Rahayu Medika,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,D,RSU,50,False,0,1,2,1,0,0,0,0,1
+3524072,RS Permata Hati Lamongan,Jawa Timur,Lamongan,SWASTA/LAINNYA,D,RSU,53,True,1,2,1,1,1,1,1,0,1
+3516032,RS Sido Waras,Jawa Timur,Mojokerto,Perusahaan,C,RSU,101,True,2,2,1,2,2,2,0,1,7
+3578144,RS Marinir Ewa Pangalila Gunungsari,Jawa Timur,Kota Surabaya,TNI AL,C,RSU,114,True,0,1,0,1,2,1,1,1,2
+3509123,RS Daerah Kalisat Jember,Jawa Timur,Jember,Pemkab,C,RSU,110,True,1,2,2,1,1,2,0,0,2
+3529042,Rumah Sakit Baghraf Health Care,Jawa Timur,Sumenep,SWASTA/LAINNYA,C,RSU,100,False,0,1,2,2,3,2,1,1,3
+3515106,RS Islam Siti Hajar Sidoarjo,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,B,RSU,210,True,3,4,3,2,2,5,1,0,8
+3514072,RS Dika Husada,Jawa Timur,Pasuruan,SWASTA/LAINNYA,D,RSU,70,True,1,0,1,1,0,0,0,0,1
+3525092,RS Grha Husada Gresik ,Jawa Timur,Gresik,SWASTA/LAINNYA,D,RSU,49,False,0,1,1,1,0,1,1,0,2
+3517112,RSIA ANNISA MEDIKA HUSADA,Jawa Timur,Jombang,SWASTA/LAINNYA,C,RSIA,27,False,0,0,1,0,0,0,0,0,0
+3578322,RS Umum Daerah Husada Prima,Jawa Timur,Kota Surabaya,Pemprop,C,RSU,104,True,1,3,1,1,2,2,1,0,2
+3510021,RS Umum Bhakti Husada,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,C,RSU,101,True,2,2,2,1,1,1,1,0,2
+3572021,RS Katolik Budi Rahayu,Jawa Timur,Kota Blitar,Organisasi Sosial,C,RSU,100,True,2,1,2,2,1,2,1,1,3
+3524031,RS Umum Muhammadiyah Lamongan,Jawa Timur,Lamongan,SWASTA/LAINNYA,B,RSU,219,True,2,2,4,3,3,6,2,2,6
+3515138,RS Umum Aisyiyah Siti Fatimah,Jawa Timur,Sidoarjo,Organisasi Islam ,D,RSU,56,True,1,2,2,2,1,1,0,0,2
+3503062,RS Umum Daerah Panggul,Jawa Timur,Trenggalek,Pemkab,D,RSU,50,False,0,1,1,1,0,1,0,0,2
+3526029,RS Umum Anna Medika Madura,Jawa Timur,Bangkalan,SWASTA/LAINNYA,D,RSU,76,True,1,2,2,0,1,0,0,0,2
+3578571,RS Umum Daerah dr. Mohamad Soewandhie,Jawa Timur,Kota Surabaya,Pemkot,B,RSU,384,True,2,5,3,4,4,2,3,1,10
+3510102,RS Nahdlatul Ulama Banyuwangi,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,C,RSU,120,True,0,2,2,1,2,1,0,0,2
+3573135,RS Ibu dan Anak Muhammadiyah Malang,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSIA,25,False,0,1,2,0,1,1,1,0,1
+3501016,RS Umum Daerah  dr. Darsono,Jawa Timur,Pacitan,Pemkab,C,RSU,198,True,1,2,1,2,2,1,1,0,3
+3520014,RS Ibu dan Anak Sekar Wangi,Jawa Timur,Magetan,SWASTA/LAINNYA,C,RSIA,25,False,0,1,2,1,0,0,0,0,1
+3578779,RS Ibu dan Anak Lombok Dua Dua,Jawa Timur,Kota Surabaya,Perusahaan,C,RSIA,50,False,0,0,1,1,0,0,0,0,1
+3515146,RS Pusura Candi,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,D,RSU,50,True,1,1,1,1,1,1,1,0,2
+3505054,RS Umum An-Nisaa,Jawa Timur,Blitar,SWASTA/LAINNYA,D,RSU,59,True,1,1,1,1,1,1,1,0,3
+3528024,RS Umum Larasati Pamekasan,Jawa Timur,Pamekasan,SWASTA/LAINNYA,D,RSU,67,True,1,1,3,1,2,1,0,0,2
+3578213,RS Umum Daerah Bhakti Dharma Husada,Jawa Timur,Kota Surabaya,Pemkot,B,RSU,223,True,1,2,4,3,1,3,3,2,5
+3512012,RS Umum Daerah dr. Abdoer Rahem Situbondo,Jawa Timur,Situbondo,Pemkab,C,RSU,233,True,1,2,2,1,1,2,1,0,4
+3573244,RS Puri Galeri,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSU,50,False,0,1,4,0,0,0,0,0,1
+3503045,RS Ibu dan Anak HST,Jawa Timur,Trenggalek,Organisasi Sosial,C,RSIA,33,False,0,1,1,0,0,0,0,0,1
+3521015,RS Umum At-Tin Husada,Jawa Timur,Ngawi,SWASTA/LAINNYA,C,RSU,139,True,0,2,1,1,2,4,1,1,3
+3578789,Kendangsari Hospital,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSU,25,False,0,3,3,1,2,0,1,0,2
+3573055,RS Umum Panti Waluya Sawahan Malang,Jawa Timur,Kota Malang,SWASTA/LAINNYA,B,RSU,200,True,2,3,3,6,4,2,1,1,3
+3517091,RS Umum dr. Moedjito Dwidjosiswojo,Jawa Timur,Jombang,Perusahaan,D,RSU,50,True,1,2,2,1,1,2,1,0,3
+3506063,RS Umum  Wilujeng,Jawa Timur,Kediri,SWASTA/LAINNYA,D,RSU,83,True,1,1,2,1,1,1,0,0,3
+3571147,RS Umum Ratih,Jawa Timur,Kota Kediri,SWASTA/LAINNYA,D,RSU,60,False,1,1,1,1,0,1,0,0,1
+3579030,RS Umum Karsa Husada Kota Batu ,Jawa Timur,Kota Batu,Pemprop,B,RSU,219,True,2,4,3,3,2,4,2,1,6
+3513026,RS Umum  Wonolangan,Jawa Timur,Probolinggo,SWASTA/LAINNYA,C,RSU,98,True,2,2,3,2,1,2,2,0,4
+3573262,RS Universitas Brawijaya,Jawa Timur,Kota Malang,Kementerian Lain,C,RSU,100,True,3,3,3,2,3,5,4,0,8
+3504087,RS Umum Daerah Campurdarat,Jawa Timur,Tulungagung,Pemkab,C,RSU,125,False,1,2,1,1,1,1,0,0,2
+3523055,RS Umum Daerah R. Ali Manshur,Jawa Timur,Tuban,Pemkab,C,RSU,100,True,1,2,3,1,0,0,1,0,3
+3578817,Rumah Sakit Waron Hospital,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSU,100,True,2,1,3,3,1,0,0,2,3
+3578086,RS Primasatya Husada Citra (PHC) Surabaya,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,226,True,4,5,8,4,1,4,4,3,6
+3518046,RS Islam Aisyiyah Nganjuk,Jawa Timur,Nganjuk,Organisasi Islam ,D,RSU,89,True,1,2,2,1,1,3,0,0,3
+3507107,RS Ben Mari,Jawa Timur,Malang,SWASTA/LAINNYA,D,RSU,56,True,3,9,4,3,3,3,0,0,9
+3578090,RS TNI AL Dr. Oepomo,Jawa Timur,Kota Surabaya,TNI AL,D,RSU,50,False,0,1,1,1,1,0,0,0,1
+3515096,RS Umum Delta Surya,Jawa Timur,Sidoarjo,Perusahaan,C,RSU,151,True,2,4,4,3,5,4,2,1,8
+3574069,RS Ibu dan Anak Muhammadiyah Kota Probolinggo,Jawa Timur,Kota Probolinggo,SWASTA/LAINNYA,C,RSIA,78,False,0,0,2,0,0,0,0,0,1
+3506066,RS Umum Daerah Simpang Lima Gumul Kediri,Jawa Timur,Kediri,Pemkab,C,RSU,232,True,1,2,2,1,2,2,1,0,3
+3525043,RS Umum Nyai Ageng Pinatih Gresik,Jawa Timur,Gresik,Organisasi Islam ,C,RSU,101,True,1,2,1,1,1,1,1,0,3
+3522075,RS Umum Daerah Kepohbaru,Jawa Timur,Bojonegoro,Pemkab,D,RSU,50,False,0,1,1,1,0,0,0,0,1
+3508060,RS Umum Muhammadiyah Lumajang,Jawa Timur,Lumajang,Organisasi Islam ,D,RSU,60,True,1,2,3,1,1,0,0,0,3
+3579002,RS Umum dr. Etty Asharto Batu,Jawa Timur,Kota Batu,SWASTA/LAINNYA,D,RSU,66,True,1,2,2,2,2,2,1,0,2
+3515136,RS Mata Fatma,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,C,RSK Mata,15,False,0,0,1,0,0,0,0,0,1
+3577074,RS Umum Islam Siti Aisyah,Jawa Timur,Kota Madiun,SWASTA/LAINNYA,C,RSU,159,True,2,3,3,2,3,3,1,1,5
+3507117,RS Umum Pindad,Jawa Timur,Malang,SWASTA/LAINNYA,C,RSU,145,True,1,3,3,2,2,3,1,1,3
+3526030,RS Ibu dan Anak Aisyiyah,Jawa Timur,Bangkalan,Organisasi Sosial,C,RSIA,25,False,0,0,1,0,0,0,0,0,0
+3505013,RS Umum Daerah Ngudi Waluyo Wlingi,Jawa Timur,Blitar,Pemkab,B,RSU,215,True,2,2,3,2,3,4,2,1,6
+3524050,RS Umum Permata Bunda,Jawa Timur,Lamongan,SWASTA/LAINNYA,D,RSU,51,True,0,1,2,0,0,0,0,0,2
+3516016,RS Umum Daerah Sumberglagah,Jawa Timur,Mojokerto,Pemprop,C,RSU,128,True,2,2,2,1,1,1,2,0,2
+3578053,RS Darmo,Jawa Timur,Kota Surabaya,Organisasi Sosial,C,RSU,171,True,3,7,7,3,2,3,4,1,10
+3509032,RS Tk. III Baladhika Husada Jember,Jawa Timur,Jember,TNI AD,C,RSU,145,True,2,1,3,3,3,3,1,0,5
+3529025,RS Islam Garam Kalianget,Jawa Timur,Sumenep,Organisasi Islam ,C,RSU,205,False,1,1,2,2,1,2,1,0,4
+3513013,RS Umum Daerah Waluyo Jati Kraksaan,Jawa Timur,Probolinggo,Pemkab,B,RSU,250,True,2,3,4,3,2,1,1,1,4
+3514053,RS Mitra Sehat Medika ,Jawa Timur,Pasuruan,SWASTA/LAINNYA,D,RSU,82,True,1,2,3,1,1,2,0,0,2
+3525089,RS Umum Mabarrot MWC NU,Jawa Timur,Gresik,Organisasi Islam ,D,RSU,50,True,1,1,1,1,1,1,1,0,2
+3517043,RS Ibu dan Anak Muslimat Jombang,Jawa Timur,Jombang,SWASTA/LAINNYA,C,RSIA,100,False,0,1,3,1,0,0,0,0,1
+3578614,RS Bhakti Rahayu,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,C,RSU,100,True,1,2,2,1,1,2,1,0,3
+3509138,RS Kaliwates Jember,Jawa Timur,Jember,Perusahaan,C,RSU,140,True,3,4,3,3,3,3,1,1,6
+3571148,RS Ibu dan Anak Melinda,Jawa Timur,Kota Kediri,SWASTA/LAINNYA,C,RSIA,31,False,0,0,1,0,0,0,0,0,0
+3522014,RS Umum Daerah Dr. R. Sosodoro Djatikoesoemo,Jawa Timur,Bojonegoro,Pemkab,B,RSU,500,True,2,3,3,4,4,3,2,1,6
+3515130,RS Umum Prima Husada,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,D,RSU,51,False,0,1,1,1,0,0,0,0,2
+3502157,RS Yasyfin Darussalam Gontor,Jawa Timur,Ponorogo,SWASTA/LAINNYA,D,RSU,80,False,0,2,1,1,1,1,0,0,2
+3525101,RS Umum Daerah Umar Mas'ud Bawean,Jawa Timur,Gresik,Pemkab,D,RSU,50,False,0,1,1,0,0,0,0,0,1
+3519024,RS Umum Daerah Dolopo,Jawa Timur,Madiun,Pemkab,C,RSU,195,True,1,1,2,1,1,2,1,0,2
+3578772,RS Manyar Medical Centre,Jawa Timur,Kota Surabaya,Perusahaan,C,RSU,101,True,4,3,3,2,4,3,1,1,6
+3528013,RS Umum Daerah Dr. H. Slamet Martodirdjo Pamekasan,Jawa Timur,Pamekasan,Pemkab,B,RSU,245,True,1,4,3,3,1,1,1,0,4
+3502123,RS Umum Darmayu Ponorogo,Jawa Timur,Ponorogo,SWASTA/LAINNYA,C,RSU,149,True,1,3,3,1,3,2,2,1,3
+3520016,RS Ibu dan Anak Melati Magetan,Jawa Timur,Magetan,SWASTA/LAINNYA,C,RSIA,25,False,0,0,2,0,0,0,0,0,0
+3578784,RS Ibu dan Anak Perdana Medica,Jawa Timur,Kota Surabaya,Perusahaan,C,RSIA,25,False,0,1,1,0,0,0,0,0,1
+3572010,RS Umum Daerah Mardi Waluyo,Jawa Timur,Kota Blitar,Pemkot,B,RSU,200,True,1,2,2,2,2,2,2,1,4
+3517076,RS Umum Islam Jombang,Jawa Timur,Jombang,SWASTA/LAINNYA,D,RSU,50,True,1,2,2,1,1,1,0,0,2
+3506058,RS Umum Arga Husada,Jawa Timur,Kediri,Organisasi Sosial,D,RSU,83,True,1,2,2,1,1,2,1,0,2
+3529040,RS Umum Daerah Abuya Kangean,Jawa Timur,Sumenep,Pemkab,D,RSU,81,False,0,1,1,1,0,0,0,0,1
+3578786,RS Mata Masyarakat Jawa Timur,Jawa Timur,Kota Surabaya,Pemprop,B,RSK Mata,36,False,0,0,2,0,0,0,0,0,1
+3513024,RS Graha Sehat,Jawa Timur,Probolinggo,SWASTA/LAINNYA,C,RSU,107,True,1,2,2,2,1,1,0,0,2
+3573253,RS Ibu dan Anak Melati Husada,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSIA,45,False,0,1,2,2,0,0,0,0,1
+3504073,RS Putra Waspada Tulungagung,Jawa Timur,Tulungagung,SWASTA/LAINNYA,C,RSU,100,True,2,3,3,1,2,3,1,0,4
+3522064,RS Ibu dan Anak Fatma,Jawa Timur,Bojonegoro,SWASTA/LAINNYA,C,RSIA,80,False,0,1,2,1,0,0,0,0,1
+3578812,RS Ibu dan Anak Adi Guna,Jawa Timur,Kota Surabaya,Perorangan,C,RSIA,25,False,0,0,1,0,0,0,0,0,1
+3577015,RS Umum Daerah Dr. Soedono Madiun,Jawa Timur,Kota Madiun,Pemprop,B,RSU,370,True,2,5,3,4,0,3,1,3,9
+3517109,RS Umum PKU Muhammadiyah Mojoagung,Jawa Timur,Jombang,Organisasi Islam ,D,RSU,73,True,1,2,2,1,1,1,1,0,2
+3507241,RS Umum Islam Madinah Kasembon,Jawa Timur,Malang,SWASTA/LAINNYA,D,RSU,54,True,2,1,1,1,1,1,0,0,2
+3514057,RS Graha Sehat Medika,Jawa Timur,Kota Pasuruan,SWASTA/LAINNYA,D,RSU,94,True,2,3,2,1,2,1,0,0,2
+3514059,RS Prima Husada,Jawa Timur,Pasuruan,SWASTA/LAINNYA,C,RSU,180,True,3,3,5,2,2,4,2,1,6
+3573280,Melati Hospital Satsuitubun,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSU,100,False,0,1,2,1,0,1,0,0,1
+3506060,RS Ibu dan Anak Kasih Bunda,Jawa Timur,Kediri,SWASTA/LAINNYA,C,RSIA,41,False,0,0,1,0,0,0,0,0,0
+3524046,RS Umum Intan Medika,Jawa Timur,Lamongan,SWASTA/LAINNYA,C,RSU,107,True,1,2,1,1,2,1,1,0,3
+3573011,RS Umum Daerah Dr. Saiful Anwar,Jawa Timur,Kota Malang,Pemprop,A,RSU,942,True,3,3,7,5,3,2,5,1,9
+3578556,RS Premier Surabaya,Jawa Timur,Kota Surabaya,SWASTA/LAINNYA,B,RSU,204,True,3,5,9,7,6,9,2,3,8
+3522060,RS Muhammadiyah Kalitidu,Jawa Timur,Bojonegoro,SWASTA/LAINNYA,D,RSU,71,False,1,1,2,1,0,2,0,0,2
+3507260,RS Umum Daerah Ngantang,Jawa Timur,Malang,Pemkab,D,RSU,50,False,0,1,1,1,0,0,0,0,1
+3578782,RS Surabaya Medical Service,Jawa Timur,Kota Surabaya,Organisasi Sosial,D,RSU,53,False,3,1,1,1,1,1,0,0,3
+3515131,RS Umum Citra Medika,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,C,RSU,122,True,2,3,2,1,2,2,2,1,4
+3576040,RS Reksa Waluya,Jawa Timur,Kota Mojokerto,Organisasi Sosial,C,RSU,109,True,2,2,2,1,1,2,1,0,3
+3507248,RS Bedah Hasta Husada,Jawa Timur,Malang,SWASTA/LAINNYA,C,RSK BEDAH,55,True,2,2,1,0,0,1,2,0,2
+3525104,RS Ibu dan Anak Khodijah,Jawa Timur,Gresik,SWASTA/LAINNYA,C,RSIA,34,False,0,0,1,0,0,0,0,0,1
+3578811,RS Umum Pusat Surabaya,Jawa Timur,Kota Surabaya,Kemkes ,A,RSU,396,True,6,6,9,1,15,10,2,6,11
+3524044,RS Abdurrahman Syamsuri (Arsy),Jawa Timur,Lamongan,Organisasi Islam ,D,RSU,74,True,1,1,0,1,0,2,1,0,3
+3510107,RS Umum Abdhi Famili,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,D,RSU,51,False,0,2,2,1,0,0,0,0,2
+3515158,RS Ibu dan Anak Pondok Jati,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,C,RSIA,31,False,0,0,1,0,0,0,0,0,1
+3577098,RS Umum Darmayu Madiun,Jawa Timur,Kota Madiun,SWASTA/LAINNYA,C,RSU,128,True,2,1,2,1,2,3,2,1,4
+3508056,RS Islam Lumajang,Jawa Timur,Lumajang,SWASTA/LAINNYA,C,RSU,100,True,2,2,1,1,1,1,0,0,4
+3528026,RS Ibu dan Anak Mukti Husada,Jawa Timur,Pamekasan,Perusahaan,C,RSIA,31,False,0,1,1,0,0,0,0,0,0
+3509010,RS Umum Daerah Dr. Soebandi Jember,Jawa Timur,Jember,Pemkab,B,RSU,402,True,3,6,4,3,4,4,3,1,6
+3512036,RS Umum Daerah Besuki Kabupaten Situbondo,Jawa Timur,Situbondo,Pemkab,D,RSU,106,True,1,1,1,1,1,1,0,0,2
+3524074,RS An-Noor Medika Lamongan,Jawa Timur,Lamongan,Perusahaan,D,RSU,46,False,0,0,0,0,0,0,0,0,1
+3516039,RS Dian Husada,Jawa Timur,Mojokerto,SWASTA/LAINNYA,C,RSU,100,True,1,1,2,1,0,1,0,0,2
+3578476,RS Al Irsyad Surabaya,Jawa Timur,Kota Surabaya,Organisasi Sosial,C,RSU,145,True,4,2,1,3,4,4,3,0,6
+3509135,RS Bina Sehat Jember,Jawa Timur,Jember,SWASTA/LAINNYA,C,RSU,196,True,1,5,3,3,3,3,2,1,7
+3571111,RS Ibu dan Anak Nirmala Kediri,Jawa Timur,Kota Kediri,SWASTA/LAINNYA,C,RSIA,47,False,0,1,2,0,0,0,0,0,1
+3516020,RS Umum Daerah Prof. Dr. Soekandar,Jawa Timur,Mojokerto,Pemkab,B,RSU,247,True,4,2,4,2,3,3,2,0,5
+3515110,RS Umum Jasem,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,D,RSU,66,False,0,1,3,1,0,1,0,0,1
+3525097,RS Surya Medika,Jawa Timur,Gresik,SWASTA/LAINNYA,D,RSU,93,True,2,2,2,2,1,2,1,0,2
+3518045,RS Umum Bhayangkara Tk. III Nganjuk,Jawa Timur,Nganjuk,POLRI,C,RSU,148,True,0,2,3,1,0,2,0,0,2
+3578767,RS Ibu dan Anak Cempaka Putih Permata,Jawa Timur,Kota Surabaya,Perusahaan,C,RSIA,27,False,0,0,1,1,0,0,0,0,1
+3510054,RS Islam Fatimah,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,C,RSU,103,True,1,2,1,1,1,2,1,0,3
+3572065,RS Umum Aminah Blitar,Jawa Timur,Kota Blitar,Organisasi Islam ,C,RSU,128,True,1,2,2,2,2,2,1,0,4
+3525021,RS Semen Gresik,Jawa Timur,Gresik,SWASTA/LAINNYA,B,RSU,203,True,4,3,5,1,5,5,1,1,5
+3515142,RS Umum Aminah,Jawa Timur,Sidoarjo,SWASTA/LAINNYA,D,RSU,111,True,1,1,1,1,2,1,1,0,1
+3504070,RS Umum Islam  Madinah,Jawa Timur,Tulungagung,SWASTA/LAINNYA,D,RSU,83,True,1,1,1,1,2,1,1,0,4
+3527014,RS Umum Daerah Ketapang,Jawa Timur,Sampang,Pemkab,D,RSU,64,False,0,1,2,1,0,0,1,0,1
+3578625,RS Gigi dan Mulut FKG Universitas Airlangga,Jawa Timur,Kota Surabaya,Kementerian Lain,B,RSK GM,16,False,0,0,2,0,0,0,0,0,0
+3510106,RS Graha Medika,Jawa Timur,Banyuwangi,SWASTA/LAINNYA,C,RSU,202,True,2,2,1,2,1,1,0,1,3
+3573226,RS Islam Unisma Malang,Jawa Timur,Kota Malang,SWASTA/LAINNYA,C,RSU,108,True,1,2,1,3,2,2,1,0,4
+3671205,RS Sari Asih Ciledug,Banten,Kota Tangerang,Perusahaan,C,RSU,163,True,2,3,3,4,3,4,2,1,6
+3602011,RS Umum Daerah Dr. Adjidarmo,Banten,Lebak,Pemkab,B,RSU,240,True,1,5,3,2,2,2,1,0,3
+3671218,RS Ibu dan Anak PKU Muhammadiyah Cipondoh,Banten,Kota Tangerang,Organisasi Islam ,C,RSIA,51,False,0,1,2,1,0,0,0,0,1
+3671032,RSUP Dr. Sitanala Tangerang,Banten,Kota Tangerang,Kemkes ,B,RSU,267,True,2,5,3,3,4,4,1,2,4
+3672052,RS Umum Hermina Cilegon,Banten,Kota Cilegon,SWASTA/LAINNYA,C,RSU,138,True,2,3,5,1,2,1,2,1,3
+3602012,RS Kartini,Banten,Lebak,Perusahaan,C,RSU,286,True,1,2,1,2,2,2,1,0,2
+3601036,RS Umum Aulia Pandeglang,Banten,Pandeglang,Pemkab,D,RSU,50,False,0,1,1,0,0,0,0,0,1
+3673036,RS Sari Asih Serang,Banten,Kota Serang,Perusahaan,B,RSU,201,True,1,3,4,4,4,3,1,2,7
+3673048,RS Citra Arafiq Serang,Banten,Kota Serang,SWASTA/LAINNYA,C,RSU,335,False,0,2,2,0,0,1,1,0,2
+3603173,RS Ibu dan Anak Harapan Mulia,Banten,Tangerang,Perusahaan,C,RSIA,64,False,0,1,2,1,0,0,0,0,1
+3604050,RS Permata Serdang,Banten,Serang,Perusahaan,D,RSU,54,False,0,2,1,1,0,0,0,0,2
+3674171,RS Cinta Kasih,Banten,Kota Tangerang Selatan,Perusahaan,C,RSU,104,True,1,2,5,1,2,2,1,0,3
+3603191,RS Umum Daerah Pakuhaji,Banten,Tangerang,Pemkab,C,RSU,144,True,1,2,3,1,1,1,1,1,4
+3671222,RS Makiyah,Banten,Kota Tangerang,SWASTA/LAINNYA,D,RSU,45,False,0,2,2,1,0,0,0,0,2
+3674014,RS Hermina Serpong,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSU,148,True,3,5,4,3,5,5,1,1,5
+3604002,RS Hermina Ciruas,Banten,Serang,Perusahaan,C,RSU,243,True,3,3,7,1,3,4,0,0,6
+3671126,RS Murni Teguh Ciledug,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,170,True,3,5,3,5,3,4,2,1,4
+3674022,RS Umum Daerah Serpong Utara,Banten,Kota Tangerang Selatan,Pemkot,C,RSU,102,True,2,2,2,1,0,0,0,0,3
+3671146,RS Umum Bhakti Asih,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,179,True,2,2,3,2,4,3,1,1,6
+3671210,Brawijaya Hospital Tangerang,Banten,Kota Tangerang,Perusahaan,C,RSU,100,True,2,3,4,3,1,3,1,1,5
+3603181,RS Bethsaida,Banten,Tangerang,Perusahaan,B,RSU,203,True,3,5,9,4,2,3,1,2,11
+3671225,RS Hermina Periuk Tangerang,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,130,True,2,4,4,2,2,4,2,0,4
+3601049,RS Umum Daerah Labuan ,Banten,Pandeglang,Pemprop,C,RSU,142,False,0,2,2,1,0,1,0,0,2
+3671241,RS Metro Hospitals M. Toha,Banten,Kota Tangerang,SWASTA/LAINNYA,B,RSU,178,True,1,1,3,1,0,1,1,1,3
+3673011,RS Mata Achmad Wardi BWI-DD,Banten,Kota Serang,SWASTA/LAINNYA,C,RSK Mata,22,False,0,0,2,0,0,0,0,0,1
+3603146,RS Ibu dan Anak Tiara,Banten,Tangerang,Perusahaan,C,RSIA,54,False,0,1,4,1,0,0,0,0,1
+3674157,RS Columbia Asia BSD,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,B,RSU,200,True,5,3,2,3,5,4,3,2,2
+3674193,RS Buah Hati Ciputat,Banten,Kota Tangerang Selatan,Perusahaan,C,RSU,100,True,1,2,5,1,0,3,2,0,4
+3603185,RS Umum Hermina Bitung,Banten,Tangerang,SWASTA/LAINNYA,C,RSU,127,True,2,3,4,1,1,4,1,1,5
+3671211,RS Aqidah,Banten,Kota Tangerang,SWASTA/LAINNYA,D,RSU,102,False,0,3,1,1,0,1,1,0,3
+3674008,RS Ibu dan Anak Bunda Ciputat,Banten,Kota Tangerang Selatan,Perusahaan,C,RSIA,25,False,0,1,3,1,0,0,0,0,1
+3603210,RS Umum Daerah Tigaraksa,Banten,Tangerang,Pemkab,C,RSU,127,True,1,2,2,1,1,1,1,0,2
+3673005,RS Umum Ibunda,Banten,Kota Serang,SWASTA/LAINNYA,D,RSU,64,False,0,1,1,1,0,0,0,0,1
+3674019,RS Helsa Ciputat,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSU,100,False,0,1,2,1,0,1,1,0,2
+3671208,RS Umum Daerah Kota Tangerang,Banten,Kota Tangerang,Pemkot,C,RSU,232,True,3,4,4,3,3,3,2,1,5
+3671054,RS Siloam Hospitals Lippo Village,Banten,Tangerang,SWASTA/LAINNYA,B,RSU,248,True,5,10,13,12,13,13,2,7,19
+3671221,RS Ibu dan Anak Pratiwi,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSIA,39,False,0,2,2,0,0,0,0,0,1
+3601034,RS Ibu dan Anak Permata Ibunda,Banten,Pandeglang,SWASTA/LAINNYA,C,RSIA,109,False,0,1,2,1,0,0,1,0,1
+3671080,RS Mayapada,Banten,Kota Tangerang,SWASTA/LAINNYA,B,RSU,217,True,4,4,3,5,4,5,2,4,11
+3604024,RS Tk. IV Kencana Serang,Banten,Kota Serang,TNI AD,C,RSU,121,True,0,1,2,1,0,0,0,0,3
+3603023,RS Qadr,Banten,Tangerang,SWASTA/LAINNYA,C,RSU,89,True,1,1,1,2,1,1,2,0,3
+3603168,RS Suci Paramita,Banten,Tangerang,Organisasi Sosial,D,RSU,87,True,1,2,0,1,0,1,0,0,3
+3603115,RS EMC Alam Sutera,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,B,RSU,200,True,2,3,3,4,3,6,3,2,6
+3603082,RS Sari Asih Bintaro,Banten,Kota Tangerang Selatan,Perusahaan,C,RSU,185,True,4,4,4,3,3,4,4,1,5
+3603176,RS Umum Keluarga Kita,Banten,Tangerang,Perusahaan,C,RSU,100,True,0,2,4,2,1,4,0,0,4
+3604054,RS Tonggak Husada,Banten,Serang,Perusahaan,D,RSU,50,False,0,2,1,0,0,0,0,0,1
+3674005,RS Sari Asih Ciputat,Banten,Kota Tangerang Selatan,Perusahaan,C,RSU,165,True,2,4,5,4,5,5,3,1,6
+3603193,RS Siloam Hospitals Kelapa Dua,Banten,Tangerang,Perusahaan,C,RSU,100,True,2,4,4,2,6,5,2,0,9
+3671243,UPT RSUD Panunggangan Barat,Banten,Kota Tangerang,Pemkot,D,RSU,69,False,0,0,0,0,0,0,0,0,0
+3674016,RS Insan Permata,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSU,101,True,1,3,6,1,1,2,2,0,4
+3604066,RS Bethsaida Hospital Serang,Banten,Serang,SWASTA/LAINNYA,C,RSU,111,True,1,1,3,4,1,2,1,2,3
+3671076,RS An-Nisa ,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,200,True,9,15,21,9,12,13,10,6,17
+3674205,RS. Mitra Keluarga Pamulang,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSU,104,True,3,2,2,0,3,3,1,2,2
+3671082,RS Islam Sari Asih Ar-rahmah,Banten,Kota Tangerang,Organisasi Islam ,C,RSU,101,False,0,2,3,1,3,2,1,0,5
+3601010,RS Umum Daerah Berkah Pandeglang,Banten,Pandeglang,Pemkab,B,RSU,206,True,0,5,3,1,2,3,0,0,4
+3671217,RS Ibu dan Anak Karunia Bunda,Banten,Kota Tangerang,Perusahaan,C,RSIA,25,False,0,1,1,1,0,0,0,0,1
+3604065,RS Umum Adhyaksa Banten,Banten,Serang,Kementerian Lain,B,RSU,57,False,0,2,4,1,0,1,0,0,5
+3672003,RS Ibu dan Anak Mutiara Bunda,Banten,Kota Cilegon,Perusahaan,C,RSIA,31,False,0,0,0,0,0,0,0,0,1
+3602045,RS Umum Daerah Malingping,Banten,Lebak,Pemprop,C,RSU,140,False,0,3,3,1,0,2,1,0,3
+3672022,RS Umum Daerah Kota Cilegon,Banten,Kota Cilegon,Pemkot,B,RSU,246,True,2,2,2,2,0,2,2,1,4
+3604053,RS Bhayangkara Tk. IV Biddokkes Polda Banten,Banten,Kota Serang,POLRI,C,RSU,100,False,0,1,1,1,1,1,0,0,1
+3603172,RS St. Carolus Summarecon Serpong ,Banten,Tangerang,Perusahaan,C,RSU,66,True,2,4,3,3,1,1,1,0,5
+3674003,RS Ibu dan Anak Permata Sarana Husada,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSIA,26,False,0,2,2,1,0,0,0,0,1
+3603190,RS Ilanur,Banten,Tangerang,SWASTA/LAINNYA,C,RSU,50,False,0,0,0,0,0,0,0,0,0
+3603188,RS Bunda Sejati,Banten,Kota Tangerang,SWASTA/LAINNYA,D,RSU,80,True,1,3,3,1,0,1,1,0,4
+3674013,RS Ibu dan Anak Buah Hati Pamulang,Banten,Kota Tangerang Selatan,Perusahaan,C,RSIA,60,False,0,1,1,1,0,0,1,0,1
+3603214,RS INSAN NUSANTARA,Banten,Tangerang,SWASTA/LAINNYA,C,RSU,100,False,0,1,1,1,0,0,0,0,2
+3673049,RS Jannah,Banten,Kota Serang,Perorangan,D,RSU,50,False,0,1,1,1,1,1,0,0,1
+3674021,RS Ibu dan Anak Bina Medika,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSIA,48,True,1,3,3,2,0,0,2,0,4
+3671135,RS Mulya,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,110,True,2,4,4,2,2,2,3,0,3
+3671209,RS Sari Asih Sangiang,Banten,Kota Tangerang,Perusahaan,C,RSU,174,True,3,4,4,2,2,5,1,0,5
+3603180,RS Ciputra ,Banten,Tangerang,Perusahaan,B,RSU,201,True,3,2,5,3,2,2,1,1,5
+3671224,RS Sari Asih Cipondoh,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,187,True,3,3,3,4,4,2,1,0,5
+3601048,RS SHL Pandeglang,Banten,Pandeglang,Perusahaan,C,RSU,106,True,1,2,1,1,2,1,0,0,3
+3671226,RS Mandaya Royal Puri,Banten,Kota Tangerang,SWASTA/LAINNYA,B,RSU,200,True,5,6,4,5,6,7,3,2,9
+3673010,RS Fatimah,Banten,Kota Serang,SWASTA/LAINNYA,C,RSU,100,True,1,1,2,3,1,1,1,1,1
+3671179,RS Mitra Husada,Banten,Tangerang,Perusahaan,C,RSU,111,True,0,3,3,2,1,1,0,0,3
+3674113,RS Eka,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,B,RSU,203,True,6,9,7,4,8,5,2,2,14
+3674168,RS Umum Daerah Kota Tangerang Selatan,Banten,Kota Tangerang Selatan,Pemkot,C,RSU,165,True,1,1,3,3,4,3,0,0,3
+3603183,RS Umum BUN,Banten,Tangerang,SWASTA/LAINNYA,C,RSU,120,True,1,2,2,3,0,1,1,0,2
+3671202,RS Hermina Ciledug,Banten,Kota Tangerang,Perusahaan,D,RSU,72,True,0,5,4,3,0,2,0,0,2
+3674007,RS Hermina Ciputat,Banten,Kota Tangerang Selatan,Perusahaan,C,RSU,200,True,3,5,5,3,6,1,2,1,7
+3603196,RS Umum Primaya Pasar Kemis,Banten,Tangerang,Perusahaan,C,RSU,100,True,2,3,3,2,1,2,1,0,5
+3604046,RS Benggala,Banten,Kota Serang,SWASTA/LAINNYA,D,RSU,55,False,0,1,1,1,0,0,0,0,0
+3674018,RS Pondok Indah Bintaro Jaya,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSU,135,True,1,2,6,5,3,4,4,1,4
+3671207,RS Dinda,Banten,Kota Tangerang,Perusahaan,C,RSU,136,True,2,5,3,3,1,3,0,1,4
+3603010,RS Umum Daerah Kabupaten Tangerang,Banten,Tangerang,Pemkab,B,RSU,356,True,2,3,4,5,3,2,2,3,5
+3671219,RS Ibu dan Anak Gebang Medika,Banten,Kota Tangerang,Perusahaan,C,RSIA,34,False,0,1,2,1,0,0,1,0,1
+3671065,RS EMC Tangerang,Banten,Kota Tangerang,SWASTA/LAINNYA,B,RSU,205,True,3,2,5,5,2,7,1,2,8
+3672054,Rumah Sakit Eka Hospital Cilegon,Banten,Kota Cilegon,SWASTA/LAINNYA,C,RSU,96,True,0,3,3,1,1,0,1,0,6
+3602056,RS Umum Daerah Cilograng,Banten,Lebak,Pemprop,C,RSU,123,False,0,2,2,1,0,1,1,0,2
+3603047,RS Selaras,Banten,Tangerang,Perusahaan,D,RSU,70,False,0,2,1,1,0,0,0,0,2
+3673004,RS Umum Daerah Banten,Banten,Kota Serang,Pemprop,B,RSU,887,True,2,4,4,3,3,3,2,2,4
+3674071,RS Khusus Jiwa Dharma Graha,Banten,Kota Tangerang Selatan,Organisasi Sosial,C,RSK Jiwa,80,False,0,0,0,0,0,0,0,0,1
+3603175,RS Umum Murni Asih,Banten,Tangerang,SWASTA/LAINNYA,C,RSU,100,False,0,2,3,0,0,1,0,0,1
+3604052,RS Otika Medika,Banten,Serang,Perusahaan,D,RSU,47,False,0,1,1,1,0,0,0,0,2
+3674004,RS Permata Pamulang,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSU,100,True,2,5,4,2,1,4,2,0,5
+3603192,RS Mitra Keluarga Gading Serpong,Banten,Tangerang,SWASTA/LAINNYA,C,RSU,110,True,4,4,2,3,4,4,3,1,6
+3671242,RS Umum Daerah Benda,Banten,Kota Tangerang,Pemkot,D,RSU,58,False,0,1,2,1,0,0,0,0,1
+3674015,RS Ibu dan Anak Vitalaya ,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSIA,52,False,0,1,3,1,0,0,0,0,2
+3604047,RS Kurnia Serang,Banten,Serang,SWASTA/LAINNYA,C,RSU,103,False,0,3,2,1,2,1,1,0,3
+3671043,RS Sari Asih Karawaci,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,147,True,4,4,5,2,4,4,3,0,4
+3674204,RS Umum Daerah Pondok Aren,Banten,Kota Tangerang Selatan,Pemkot,C,RSU,100,False,0,3,1,1,0,0,1,0,3
+3671136,RS Umum Hermina Tangerang,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,245,True,4,6,5,3,4,3,3,1,9
+3603186,RS Ibu dan Anak Assyifa ,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSIA,36,False,0,0,3,1,0,0,0,0,1
+3604013,RS Umum Daerah dr. Drajat Prawiranegara ,Banten,Serang,Pemkab,B,RSU,390,True,3,4,3,4,3,2,0,3,3
+3672034,RS Kurnia,Banten,Kota Cilegon,SWASTA/LAINNYA,C,RSU,120,True,0,3,2,1,1,1,1,0,4
+3602022,RS Misi Lebak,Banten,Lebak,Organisasi Katholik,C,RSU,103,False,0,2,2,1,2,1,1,0,2
+3672011,RS Krakatau Medika,Banten,Kota Cilegon,SWASTA/LAINNYA,B,RSU,234,True,1,3,4,4,3,1,3,2,5
+3673012,RS Umum Daerah Kota Serang,Banten,Kota Serang,Pemkot,C,RSU,199,False,0,2,3,2,2,1,1,0,4
+3603169,Metro Hospitals Cikupa,Banten,Tangerang,Perusahaan,C,RSU,150,True,5,2,2,2,2,2,2,1,3
+3671201,RS Khusus THT-Bedah KL Proklamasi BSD,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSK THT-KL,24,False,0,0,3,1,0,0,0,0,1
+3603189,RS UniMedika Sepatan,Banten,Tangerang,SWASTA/LAINNYA,C,RSU,164,False,1,2,2,1,0,1,0,0,2
+3671214,RS Tiara ,Banten,Kota Tangerang,SWASTA/LAINNYA,D,RSU,89,True,1,2,2,1,0,1,1,0,3
+3674011,RS Ibu dan Anak Dhia,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSIA,27,False,0,1,2,2,0,0,0,0,3
+3603213,RS Hermina PIK Dua,Banten,Tangerang,SWASTA/LAINNYA,C,RSU,100,True,2,4,4,3,0,1,0,1,2
+3673047,RS Andalucia,Banten,Kota Serang,SWASTA/LAINNYA,D,RSU,55,True,1,1,1,1,0,0,0,0,1
+3674020,RS Mitra Keluarga Bintaro,Banten,Kota Tangerang Selatan,Perusahaan,C,RSU,100,True,2,1,3,2,2,2,1,1,3
+3674206,RS Khusus Bedah Via Medika,Banten,Kota Tangerang Selatan,Perusahaan,C,RSK BEDAH,25,False,0,1,1,0,0,0,0,0,0
+3603182,RS Medika Lestari,Banten,Kota Tangerang,Perusahaan,C,RSU,101,True,1,3,2,1,1,2,1,0,3
+3603157,RS Umum Daerah Balaraja,Banten,Tangerang,Pemkab,B,RSU,302,True,2,3,4,3,2,3,2,2,6
+3671223,RS Karang Tengah Medika,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,100,True,1,2,2,1,1,1,1,0,4
+3601037,RS Alinda Husada,Banten,Pandeglang,SWASTA/LAINNYA,C,RSU,100,False,0,2,2,1,0,1,0,0,3
+3671203,RS Primaya,Banten,Kota Tangerang,Perusahaan,B,RSU,200,True,4,5,3,3,1,4,4,4,6
+3604035,RS Budiasih,Banten,Kota Serang,SWASTA/LAINNYA,C,RSU,110,True,0,2,3,1,1,1,0,0,2
+3603104,RS Ibu dan Anak Selaras,Banten,Tangerang,SWASTA/LAINNYA,C,RSIA,40,True,1,1,0,1,0,0,0,0,0
+3603177,RS Permata Hati,Banten,Tangerang,Perusahaan,D,RSU,56,False,0,1,2,1,0,0,0,0,2
+3674102,RS Premier Bintaro,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,B,RSU,205,True,3,7,3,4,2,6,3,2,9
+3603093,RS Ibu dan Anak Permata Dalima,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSIA,29,False,0,1,2,1,0,0,0,0,2
+3603178,RS Ibu dan Anak Bunda Sejahtera,Banten,Tangerang,SWASTA/LAINNYA,C,RSIA,50,False,0,1,2,1,0,0,0,0,1
+3671021,RS Daan Mogot Kesdam Jaya,Banten,Kota Tangerang,TNI AD,D,RSU,49,False,0,1,1,1,1,0,0,0,2
+3674006,RS Syarif Hidayatullah,Banten,Kota Tangerang Selatan,Kementerian Lain,C,RSU,100,True,1,3,3,3,2,2,1,0,4
+3603195,RS Mentari,Banten,Tangerang,Perusahaan,C,RSU,100,True,2,2,2,1,0,1,0,0,7
+3672040,RS Citra sundari,Banten,Kota Cilegon,SWASTA/LAINNYA,D,RSU,53,False,0,1,1,1,0,0,0,0,2
+3671216,RS Rumah Indonesia Sehat,Banten,Kota Tangerang Selatan,SWASTA/LAINNYA,C,RSU,100,True,2,3,4,1,1,3,1,0,3
+3604067,RS Ar Rahmah Medika,Banten,Serang,Perusahaan,C,RSU,103,False,0,1,1,2,0,0,0,0,1
+3671124,RS Melati,Banten,Kota Tangerang,SWASTA/LAINNYA,C,RSU,103,True,0,3,5,0,0,2,1,1,5

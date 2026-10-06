@@ -1,0 +1,1506 @@
+[
+ {
+  "sp": "Kedokteran Keluarga Layanan Primer",
+  "java_need": 7959,
+  "java_have": 121,
+  "java_gap": 7838,
+  "java_fill": 2,
+  "nat_need": 14360,
+  "nat_have": 308,
+  "per": {
+   "JAKARTA": [
+    533,
+    40
+   ],
+   "JAWA BARAT": [
+    2558,
+    34
+   ],
+   "JAWA TENGAH": [
+    1928,
+    17
+   ],
+   "YOGYAKARTA": [
+    190,
+    16
+   ],
+   "JAWA TIMUR": [
+    2118,
+    9
+   ],
+   "BANTEN": [
+    632,
+    5
+   ]
+  },
+  "proj2026": [
+   15222,
+   570
+  ],
+  "proj2030": [
+   15764,
+   773
+  ],
+  "proj2032": [
+   16009,
+   908
+  ]
+ },
+ {
+  "sp": "Jantung dan Pembuluh Darah",
+  "java_need": 3961,
+  "java_have": 1038,
+  "java_gap": 2923,
+  "java_fill": 26,
+  "nat_need": 6801,
+  "nat_have": 1677,
+  "per": {
+   "JAKARTA": [
+    361,
+    223
+   ],
+   "JAWA BARAT": [
+    1107,
+    244
+   ],
+   "JAWA TENGAH": [
+    1003,
+    159
+   ],
+   "YOGYAKARTA": [
+    178,
+    51
+   ],
+   "JAWA TIMUR": [
+    1016,
+    271
+   ],
+   "BANTEN": [
+    296,
+    90
+   ]
+  },
+  "proj2026": [
+   6801,
+   2288
+  ],
+  "proj2030": [
+   9033,
+   2975
+  ],
+  "proj2032": [
+   10599,
+   3303
+  ]
+ },
+ {
+  "sp": "Bedah",
+  "java_need": 3839,
+  "java_have": 1682,
+  "java_gap": 2157,
+  "java_fill": 44,
+  "nat_need": 6600,
+  "nat_have": 3187,
+  "per": {
+   "JAKARTA": [
+    399,
+    277
+   ],
+   "JAWA BARAT": [
+    1253,
+    457
+   ],
+   "JAWA TENGAH": [
+    765,
+    340
+   ],
+   "YOGYAKARTA": [
+    141,
+    78
+   ],
+   "JAWA TIMUR": [
+    913,
+    379
+   ],
+   "BANTEN": [
+    368,
+    151
+   ]
+  },
+  "proj2026": [
+   6600,
+   3745
+  ],
+  "proj2030": [
+   8949,
+   4527
+  ],
+  "proj2032": [
+   10422,
+   4900
+  ]
+ },
+ {
+  "sp": "Kedokteran Jiwa",
+  "java_need": 2458,
+  "java_have": 885,
+  "java_gap": 1573,
+  "java_fill": 36,
+  "nat_need": 4024,
+  "nat_have": 1495,
+  "per": {
+   "JAKARTA": [
+    452,
+    211
+   ],
+   "JAWA BARAT": [
+    617,
+    193
+   ],
+   "JAWA TENGAH": [
+    653,
+    189
+   ],
+   "YOGYAKARTA": [
+    71,
+    68
+   ],
+   "JAWA TIMUR": [
+    541,
+    163
+   ],
+   "BANTEN": [
+    124,
+    61
+   ]
+  },
+  "proj2026": [
+   4024,
+   1786
+  ],
+  "proj2030": [
+   5176,
+   2338
+  ],
+  "proj2032": [
+   5896,
+   2602
+  ]
+ },
+ {
+  "sp": "Orthopaedi dan Traumatologi",
+  "java_need": 1868,
+  "java_have": 793,
+  "java_gap": 1075,
+  "java_fill": 42,
+  "nat_need": 2956,
+  "nat_have": 1181,
+  "per": {
+   "JAKARTA": [
+    151,
+    164
+   ],
+   "JAWA BARAT": [
+    613,
+    186
+   ],
+   "JAWA TENGAH": [
+    487,
+    142
+   ],
+   "YOGYAKARTA": [
+    47,
+    25
+   ],
+   "JAWA TIMUR": [
+    416,
+    216
+   ],
+   "BANTEN": [
+    154,
+    60
+   ]
+  },
+  "proj2026": [
+   2956,
+   1736
+  ],
+  "proj2030": [
+   3272,
+   2220
+  ],
+  "proj2032": [
+   3439,
+   2452
+  ]
+ },
+ {
+  "sp": "Anestesi",
+  "java_need": 3067,
+  "java_have": 2014,
+  "java_gap": 1053,
+  "java_fill": 66,
+  "nat_need": 5329,
+  "nat_have": 3364,
+  "per": {
+   "JAKARTA": [
+    249,
+    438
+   ],
+   "JAWA BARAT": [
+    929,
+    489
+   ],
+   "JAWA TENGAH": [
+    635,
+    392
+   ],
+   "YOGYAKARTA": [
+    102,
+    77
+   ],
+   "JAWA TIMUR": [
+    781,
+    452
+   ],
+   "BANTEN": [
+    371,
+    166
+   ]
+  },
+  "proj2026": [
+   5057,
+   3968
+  ],
+  "proj2030": [
+   6693,
+   4798
+  ],
+  "proj2032": [
+   7735,
+   5195
+  ]
+ },
+ {
+  "sp": "Forensik dan Medikolegal",
+  "java_need": 1116,
+  "java_have": 140,
+  "java_gap": 976,
+  "java_fill": 13,
+  "nat_need": 2014,
+  "nat_have": 276,
+  "per": {
+   "JAKARTA": [
+    75,
+    32
+   ],
+   "JAWA BARAT": [
+    358,
+    28
+   ],
+   "JAWA TENGAH": [
+    270,
+    27
+   ],
+   "YOGYAKARTA": [
+    27,
+    8
+   ],
+   "JAWA TIMUR": [
+    297,
+    39
+   ],
+   "BANTEN": [
+    89,
+    6
+   ]
+  },
+  "proj2026": [
+   2010,
+   344
+  ],
+  "proj2030": [
+   2082,
+   488
+  ],
+  "proj2032": [
+   2114,
+   557
+  ]
+ },
+ {
+  "sp": "Radiologi",
+  "java_need": 2241,
+  "java_have": 1389,
+  "java_gap": 852,
+  "java_fill": 62,
+  "nat_need": 4175,
+  "nat_have": 2244,
+  "per": {
+   "JAKARTA": [
+    314,
+    320
+   ],
+   "JAWA BARAT": [
+    713,
+    342
+   ],
+   "JAWA TENGAH": [
+    432,
+    258
+   ],
+   "YOGYAKARTA": [
+    97,
+    66
+   ],
+   "JAWA TIMUR": [
+    374,
+    291
+   ],
+   "BANTEN": [
+    311,
+    112
+   ]
+  },
+  "proj2026": [
+   4084,
+   2445
+  ],
+  "proj2030": [
+   5540,
+   2965
+  ],
+  "proj2032": [
+   6453,
+   3215
+  ]
+ },
+ {
+  "sp": "Patologi Anatomi",
+  "java_need": 1259,
+  "java_have": 477,
+  "java_gap": 782,
+  "java_fill": 38,
+  "nat_need": 2631,
+  "nat_have": 957,
+  "per": {
+   "JAKARTA": [
+    101,
+    109
+   ],
+   "JAWA BARAT": [
+    420,
+    116
+   ],
+   "JAWA TENGAH": [
+    369,
+    71
+   ],
+   "YOGYAKARTA": [
+    56,
+    30
+   ],
+   "JAWA TIMUR": [
+    277,
+    121
+   ],
+   "BANTEN": [
+    36,
+    30
+   ]
+  },
+  "proj2026": [
+   2631,
+   962
+  ],
+  "proj2030": [
+   3560,
+   1188
+  ],
+  "proj2032": [
+   4144,
+   1295
+  ]
+ },
+ {
+  "sp": "Penyakit Dalam",
+  "java_need": 3685,
+  "java_have": 2908,
+  "java_gap": 777,
+  "java_fill": 79,
+  "nat_need": 6816,
+  "nat_have": 5154,
+  "per": {
+   "JAKARTA": [
+    514,
+    624
+   ],
+   "JAWA BARAT": [
+    1073,
+    725
+   ],
+   "JAWA TENGAH": [
+    836,
+    568
+   ],
+   "YOGYAKARTA": [
+    119,
+    132
+   ],
+   "JAWA TIMUR": [
+    692,
+    636
+   ],
+   "BANTEN": [
+    451,
+    223
+   ]
+  },
+  "proj2026": [
+   6816,
+   5579
+  ],
+  "proj2030": [
+   9026,
+   7548
+  ],
+  "proj2032": [
+   10368,
+   8885
+  ]
+ },
+ {
+  "sp": "Patologi Klinik",
+  "java_need": 1938,
+  "java_have": 1185,
+  "java_gap": 753,
+  "java_fill": 61,
+  "nat_need": 3757,
+  "nat_have": 2191,
+  "per": {
+   "JAKARTA": [
+    280,
+    250
+   ],
+   "JAWA BARAT": [
+    652,
+    307
+   ],
+   "JAWA TENGAH": [
+    392,
+    214
+   ],
+   "YOGYAKARTA": [
+    100,
+    59
+   ],
+   "JAWA TIMUR": [
+    343,
+    261
+   ],
+   "BANTEN": [
+    171,
+    94
+   ]
+  },
+  "proj2026": [
+   3757,
+   2297
+  ],
+  "proj2030": [
+   5089,
+   2773
+  ],
+  "proj2032": [
+   5925,
+   3000
+  ]
+ },
+ {
+  "sp": "Pulmonologi dan Kedokteran Respirasi Paru",
+  "java_need": 1574,
+  "java_have": 827,
+  "java_gap": 747,
+  "java_fill": 53,
+  "nat_need": 3047,
+  "nat_have": 1543,
+  "per": {
+   "JAKARTA": [
+    198,
+    177
+   ],
+   "JAWA BARAT": [
+    588,
+    196
+   ],
+   "JAWA TENGAH": [
+    259,
+    129
+   ],
+   "YOGYAKARTA": [
+    61,
+    33
+   ],
+   "JAWA TIMUR": [
+    394,
+    213
+   ],
+   "BANTEN": [
+    74,
+    79
+   ]
+  },
+  "proj2026": [
+   3047,
+   1947
+  ],
+  "proj2030": [
+   3831,
+   2491
+  ],
+  "proj2032": [
+   4300,
+   2751
+  ]
+ },
+ {
+  "sp": "Bedah Toraks dan Kardiovaskular BTKV",
+  "java_need": 887,
+  "java_have": 141,
+  "java_gap": 746,
+  "java_fill": 16,
+  "nat_need": 1417,
+  "nat_have": 181,
+  "per": {
+   "JAKARTA": [
+    176,
+    60
+   ],
+   "JAWA BARAT": [
+    224,
+    29
+   ],
+   "JAWA TENGAH": [
+    207,
+    11
+   ],
+   "YOGYAKARTA": [
+    39,
+    6
+   ],
+   "JAWA TIMUR": [
+    195,
+    25
+   ],
+   "BANTEN": [
+    46,
+    10
+   ]
+  },
+  "proj2026": [
+   1417,
+   229
+  ],
+  "proj2030": [
+   1480,
+   278
+  ],
+  "proj2032": [
+   1532,
+   302
+  ]
+ },
+ {
+  "sp": "Gizi Klinik",
+  "java_need": 982,
+  "java_have": 322,
+  "java_gap": 660,
+  "java_fill": 33,
+  "nat_need": 1673,
+  "nat_have": 533,
+  "per": {
+   "JAKARTA": [
+    109,
+    138
+   ],
+   "JAWA BARAT": [
+    328,
+    72
+   ],
+   "JAWA TENGAH": [
+    192,
+    46
+   ],
+   "YOGYAKARTA": [
+    24,
+    4
+   ],
+   "JAWA TIMUR": [
+    207,
+    18
+   ],
+   "BANTEN": [
+    122,
+    44
+   ]
+  },
+  "proj2026": [
+   1673,
+   547
+  ],
+  "proj2030": [
+   2254,
+   769
+  ],
+  "proj2032": [
+   2614,
+   885
+  ]
+ },
+ {
+  "sp": "Mikrobiologi Klinik",
+  "java_need": 836,
+  "java_have": 212,
+  "java_gap": 624,
+  "java_fill": 25,
+  "nat_need": 1562,
+  "nat_have": 349,
+  "per": {
+   "JAKARTA": [
+    81,
+    49
+   ],
+   "JAWA BARAT": [
+    318,
+    25
+   ],
+   "JAWA TENGAH": [
+    180,
+    45
+   ],
+   "YOGYAKARTA": [
+    43,
+    16
+   ],
+   "JAWA TIMUR": [
+    149,
+    64
+   ],
+   "BANTEN": [
+    65,
+    13
+   ]
+  },
+  "proj2026": [
+   1562,
+   550
+  ],
+  "proj2030": [
+   2100,
+   824
+  ],
+  "proj2032": [
+   2438,
+   955
+  ]
+ },
+ {
+  "sp": "Akupunktur Medik",
+  "java_need": 763,
+  "java_have": 157,
+  "java_gap": 606,
+  "java_fill": 21,
+  "nat_need": 1408,
+  "nat_have": 184,
+  "per": {
+   "JAKARTA": [
+    46,
+    92
+   ],
+   "JAWA BARAT": [
+    300,
+    31
+   ],
+   "JAWA TENGAH": [
+    174,
+    9
+   ],
+   "YOGYAKARTA": [
+    21,
+    1
+   ],
+   "JAWA TIMUR": [
+    139,
+    6
+   ],
+   "BANTEN": [
+    83,
+    18
+   ]
+  },
+  "proj2026": [
+   1408,
+   198
+  ],
+  "proj2030": [
+   1466,
+   249
+  ],
+  "proj2032": [
+   1495,
+   274
+  ]
+ },
+ {
+  "sp": "Kedokteran Okupasi",
+  "java_need": 637,
+  "java_have": 149,
+  "java_gap": 488,
+  "java_fill": 23,
+  "nat_need": 1149,
+  "nat_have": 186,
+  "per": {
+   "JAKARTA": [
+    43,
+    89
+   ],
+   "JAWA BARAT": [
+    205,
+    29
+   ],
+   "JAWA TENGAH": [
+    154,
+    6
+   ],
+   "YOGYAKARTA": [
+    15,
+    1
+   ],
+   "JAWA TIMUR": [
+    169,
+    8
+   ],
+   "BANTEN": [
+    51,
+    16
+   ]
+  },
+  "proj2026": [
+   1149,
+   212
+  ],
+  "proj2030": [
+   1190,
+   278
+  ],
+  "proj2032": [
+   1208,
+   309
+  ]
+ },
+ {
+  "sp": "Anak",
+  "java_need": 3295,
+  "java_have": 2844,
+  "java_gap": 451,
+  "java_fill": 86,
+  "nat_need": 5220,
+  "nat_have": 4797,
+  "per": {
+   "JAKARTA": [
+    281,
+    619
+   ],
+   "JAWA BARAT": [
+    1260,
+    763
+   ],
+   "JAWA TENGAH": [
+    635,
+    468
+   ],
+   "YOGYAKARTA": [
+    75,
+    134
+   ],
+   "JAWA TIMUR": [
+    668,
+    570
+   ],
+   "BANTEN": [
+    376,
+    290
+   ]
+  },
+  "proj2026": [
+   5220,
+   5556
+  ],
+  "proj2030": [
+   6060,
+   6326
+  ],
+  "proj2032": [
+   6574,
+   6693
+  ]
+ },
+ {
+  "sp": "Bedah Anak",
+  "java_need": 435,
+  "java_have": 119,
+  "java_gap": 316,
+  "java_fill": 27,
+  "nat_need": 972,
+  "nat_have": 167,
+  "per": {
+   "JAKARTA": [
+    59,
+    22
+   ],
+   "JAWA BARAT": [
+    153,
+    38
+   ],
+   "JAWA TENGAH": [
+    69,
+    23
+   ],
+   "YOGYAKARTA": [
+    9,
+    9
+   ],
+   "JAWA TIMUR": [
+    121,
+    21
+   ],
+   "BANTEN": [
+    24,
+    6
+   ]
+  },
+  "proj2026": [
+   972,
+   215
+  ],
+  "proj2030": [
+   1162,
+   288
+  ],
+  "proj2032": [
+   1277,
+   323
+  ]
+ },
+ {
+  "sp": "Parasitologi Klinik",
+  "java_need": 315,
+  "java_have": 14,
+  "java_gap": 301,
+  "java_fill": 4,
+  "nat_need": 565,
+  "nat_have": 23,
+  "per": {
+   "JAKARTA": [
+    28,
+    7
+   ],
+   "JAWA BARAT": [
+    131,
+    2
+   ],
+   "JAWA TENGAH": [
+    69,
+    2
+   ],
+   "YOGYAKARTA": [
+    13,
+    0
+   ],
+   "JAWA TIMUR": [
+    56,
+    3
+   ],
+   "BANTEN": [
+    18,
+    0
+   ]
+  },
+  "proj2026": [
+   565,
+   54
+  ],
+  "proj2030": [
+   748,
+   74
+  ],
+  "proj2032": [
+   860,
+   84
+  ]
+ },
+ {
+  "sp": "Kedokteran Fisik dan Rehabilitasi",
+  "java_need": 1089,
+  "java_have": 831,
+  "java_gap": 258,
+  "java_fill": 76,
+  "nat_need": 1728,
+  "nat_have": 1247,
+  "per": {
+   "JAKARTA": [
+    93,
+    171
+   ],
+   "JAWA BARAT": [
+    393,
+    200
+   ],
+   "JAWA TENGAH": [
+    236,
+    149
+   ],
+   "YOGYAKARTA": [
+    19,
+    26
+   ],
+   "JAWA TIMUR": [
+    272,
+    221
+   ],
+   "BANTEN": [
+    76,
+    64
+   ]
+  },
+  "proj2026": [
+   1728,
+   1323
+  ],
+  "proj2030": [
+   2329,
+   1613
+  ],
+  "proj2032": [
+   2703,
+   1752
+  ]
+ },
+ {
+  "sp": "Mata",
+  "java_need": 1769,
+  "java_have": 1519,
+  "java_gap": 250,
+  "java_fill": 86,
+  "nat_need": 3164,
+  "nat_have": 2540,
+  "per": {
+   "JAKARTA": [
+    121,
+    315
+   ],
+   "JAWA BARAT": [
+    567,
+    364
+   ],
+   "JAWA TENGAH": [
+    427,
+    283
+   ],
+   "YOGYAKARTA": [
+    42,
+    61
+   ],
+   "JAWA TIMUR": [
+    472,
+    382
+   ],
+   "BANTEN": [
+    140,
+    114
+   ]
+  },
+  "proj2026": [
+   3164,
+   2839
+  ],
+  "proj2030": [
+   3297,
+   3360
+  ],
+  "proj2032": [
+   3358,
+   3610
+  ]
+ },
+ {
+  "sp": "Urologi",
+  "java_need": 717,
+  "java_have": 477,
+  "java_gap": 240,
+  "java_fill": 67,
+  "nat_need": 1234,
+  "nat_have": 675,
+  "per": {
+   "JAKARTA": [
+    72,
+    101
+   ],
+   "JAWA BARAT": [
+    227,
+    117
+   ],
+   "JAWA TENGAH": [
+    168,
+    75
+   ],
+   "YOGYAKARTA": [
+    28,
+    17
+   ],
+   "JAWA TIMUR": [
+    171,
+    121
+   ],
+   "BANTEN": [
+    51,
+    46
+   ]
+  },
+  "proj2026": [
+   1234,
+   760
+  ],
+  "proj2030": [
+   1560,
+   919
+  ],
+  "proj2032": [
+   1767,
+   995
+  ]
+ },
+ {
+  "sp": "Neurologi",
+  "java_need": 1752,
+  "java_have": 1548,
+  "java_gap": 204,
+  "java_fill": 88,
+  "nat_need": 2987,
+  "nat_have": 2587,
+  "per": {
+   "JAKARTA": [
+    258,
+    317
+   ],
+   "JAWA BARAT": [
+    615,
+    351
+   ],
+   "JAWA TENGAH": [
+    373,
+    317
+   ],
+   "YOGYAKARTA": [
+    54,
+    78
+   ],
+   "JAWA TIMUR": [
+    314,
+    374
+   ],
+   "BANTEN": [
+    138,
+    111
+   ]
+  },
+  "proj2026": [
+   2987,
+   2938
+  ],
+  "proj2030": [
+   3715,
+   3587
+  ],
+  "proj2032": [
+   4239,
+   3897
+  ]
+ },
+ {
+  "sp": "Telinga Hidung Tenggorok Kepala Leher",
+  "java_need": 1252,
+  "java_have": 1070,
+  "java_gap": 182,
+  "java_fill": 85,
+  "nat_need": 2284,
+  "nat_have": 1959,
+  "per": {
+   "JAKARTA": [
+    106,
+    235
+   ],
+   "JAWA BARAT": [
+    401,
+    281
+   ],
+   "JAWA TENGAH": [
+    306,
+    188
+   ],
+   "YOGYAKARTA": [
+    51,
+    56
+   ],
+   "JAWA TIMUR": [
+    236,
+    228
+   ],
+   "BANTEN": [
+    152,
+    82
+   ]
+  },
+  "proj2026": [
+   2284,
+   2393
+  ],
+  "proj2030": [
+   2651,
+   3114
+  ],
+  "proj2032": [
+   2858,
+   3517
+  ]
+ },
+ {
+  "sp": "Bedah Saraf",
+  "java_need": 476,
+  "java_have": 304,
+  "java_gap": 172,
+  "java_fill": 64,
+  "nat_need": 900,
+  "nat_have": 448,
+  "per": {
+   "JAKARTA": [
+    56,
+    86
+   ],
+   "JAWA BARAT": [
+    131,
+    75
+   ],
+   "JAWA TENGAH": [
+    104,
+    39
+   ],
+   "YOGYAKARTA": [
+    11,
+    7
+   ],
+   "JAWA TIMUR": [
+    114,
+    63
+   ],
+   "BANTEN": [
+    60,
+    34
+   ]
+  },
+  "proj2026": [
+   900,
+   637
+  ],
+  "proj2030": [
+   1120,
+   810
+  ],
+  "proj2032": [
+   1274,
+   893
+  ]
+ },
+ {
+  "sp": "Kedokteran Nuklir",
+  "java_need": 179,
+  "java_have": 34,
+  "java_gap": 145,
+  "java_fill": 19,
+  "nat_need": 280,
+  "nat_have": 53,
+  "per": {
+   "JAKARTA": [
+    15,
+    11
+   ],
+   "JAWA BARAT": [
+    56,
+    12
+   ],
+   "JAWA TENGAH": [
+    44,
+    4
+   ],
+   "YOGYAKARTA": [
+    6,
+    1
+   ],
+   "JAWA TIMUR": [
+    43,
+    4
+   ],
+   "BANTEN": [
+    15,
+    2
+   ]
+  },
+  "proj2026": [
+   280,
+   73
+  ],
+  "proj2030": [
+   305,
+   92
+  ],
+  "proj2032": [
+   325,
+   101
+  ]
+ },
+ {
+  "sp": "Bedah Plastik",
+  "java_need": 323,
+  "java_have": 202,
+  "java_gap": 121,
+  "java_fill": 63,
+  "nat_need": 548,
+  "nat_have": 282,
+  "per": {
+   "JAKARTA": [
+    27,
+    94
+   ],
+   "JAWA BARAT": [
+    134,
+    33
+   ],
+   "JAWA TENGAH": [
+    66,
+    7
+   ],
+   "YOGYAKARTA": [
+    12,
+    4
+   ],
+   "JAWA TIMUR": [
+    59,
+    41
+   ],
+   "BANTEN": [
+    25,
+    23
+   ]
+  },
+  "proj2026": [
+   548,
+   443
+  ],
+  "proj2030": [
+   583,
+   623
+  ],
+  "proj2032": [
+   604,
+   723
+  ]
+ },
+ {
+  "sp": "Andrologi",
+  "java_need": 171,
+  "java_have": 67,
+  "java_gap": 104,
+  "java_fill": 39,
+  "nat_need": 298,
+  "nat_have": 89,
+  "per": {
+   "JAKARTA": [
+    29,
+    18
+   ],
+   "JAWA BARAT": [
+    37,
+    6
+   ],
+   "JAWA TENGAH": [
+    50,
+    8
+   ],
+   "YOGYAKARTA": [
+    6,
+    2
+   ],
+   "JAWA TIMUR": [
+    37,
+    30
+   ],
+   "BANTEN": [
+    12,
+    3
+   ]
+  },
+  "proj2026": [
+   298,
+   106
+  ],
+  "proj2030": [
+   376,
+   138
+  ],
+  "proj2032": [
+   426,
+   154
+  ]
+ },
+ {
+  "sp": "Onkologi Radiasi",
+  "java_need": 211,
+  "java_have": 116,
+  "java_gap": 95,
+  "java_fill": 55,
+  "nat_need": 353,
+  "nat_have": 171,
+  "per": {
+   "JAKARTA": [
+    13,
+    45
+   ],
+   "JAWA BARAT": [
+    56,
+    17
+   ],
+   "JAWA TENGAH": [
+    58,
+    18
+   ],
+   "YOGYAKARTA": [
+    7,
+    8
+   ],
+   "JAWA TIMUR": [
+    57,
+    22
+   ],
+   "BANTEN": [
+    20,
+    6
+   ]
+  },
+  "proj2026": [
+   353,
+   184
+  ],
+  "proj2030": [
+   374,
+   258
+  ],
+  "proj2032": [
+   384,
+   304
+  ]
+ },
+ {
+  "sp": "Dermatologi, Venereologi, dan Estetika",
+  "java_need": 1139,
+  "java_have": 1482,
+  "java_gap": -343,
+  "java_fill": 130,
+  "nat_need": 3525,
+  "nat_have": 2306,
+  "per": {
+   "JAKARTA": [
+    213,
+    444
+   ],
+   "JAWA BARAT": [
+    182,
+    326
+   ],
+   "JAWA TENGAH": [
+    258,
+    215
+   ],
+   "YOGYAKARTA": [
+    67,
+    69
+   ],
+   "JAWA TIMUR": [
+    208,
+    305
+   ],
+   "BANTEN": [
+    211,
+    123
+   ]
+  },
+  "proj2026": [
+   3525,
+   2543
+  ],
+  "proj2030": [
+   4457,
+   2933
+  ],
+  "proj2032": [
+   5039,
+   3120
+  ]
+ },
+ {
+  "sp": "Obstetri dan Ginekologi",
+  "java_need": 2411,
+  "java_have": 2877,
+  "java_gap": -466,
+  "java_fill": 119,
+  "nat_need": 4819,
+  "nat_have": 5017,
+  "per": {
+   "JAKARTA": [
+    147,
+    577
+   ],
+   "JAWA BARAT": [
+    820,
+    806
+   ],
+   "JAWA TENGAH": [
+    596,
+    480
+   ],
+   "YOGYAKARTA": [
+    52,
+    105
+   ],
+   "JAWA TIMUR": [
+    598,
+    605
+   ],
+   "BANTEN": [
+    198,
+    304
+   ]
+  },
+  "proj2026": [
+   4819,
+   5289
+  ],
+  "proj2030": [
+   5306,
+   5918
+  ],
+  "proj2032": [
+   5554,
+   6218
+  ]
+ }
+]
