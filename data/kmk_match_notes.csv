@@ -1,0 +1,61 @@
+kmk_key,kmk_name,sirs_kode,sirs_name,evidence
+Sumatera Utara|3,Rumah Sakit Umum Daerah dr. M. Thomsen Nias,1201016,RS Umum Daerah dr. M. Thomsen Nias,Same hospital; name or kab/kota label differs slightly (SIRS lists it under Kota Gunungsitoli)
+Sumatera Utara|29,Rumah Sakit Pratama Kab. Nias Barat,1225013,RS Pratama Lologolu Soguna Ba Zato,Only RS Pratama owned by Pemkab Nias Barat in SIRS
+Sumatera Barat|1,Rumah Sakit Umum Pusat Dr. M. Djamil Padang,1371010,RSUP Dr. M. Djamil,Same hospital; name or kab/kota label differs slightly
+Sumatera Barat|6,Rumah Sakit Umum Daerah Padang Pariaman,1306056,RS Umum Daerah Muslim Kasim,Only Pemkab general RSUD in Padang Pariaman in SIRS (RSUD Muslim Kasim)
+Sumatera Barat|7,Rumah Sakit Umum Daerah dr. Achmad Darwis,1308010,RS Umum Daerah dr. Achmad Darwis,Same hospital; name or kab/kota label differs slightly
+Sumatera Barat|15,Rumah Sakit Umum Daerah Kabupaten Kepulauan Mentawai,1301010,RS Umum Daerah Kep. Mentawai,Same hospital; name or kab/kota label differs slightly
+Sumatera Barat|16,Rumah Sakit Umum Daerah Muara Labuh,1303012,RS Umum Daerah Solok Selatan,RSUD Muara Labuh is the class C RSUD of Solok Selatan; SIRS lists it as RSUD Solok Selatan
+Sumatera Barat|23,Rumah Sakit Umum Daerah Pariaman,1306015,"RS Umum Daerah Prof H Muhammad Yamin, SH","Renamed RSUD Prof. H. Muhammad Yamin SH (Nov 2024), provincial hospital in Pariaman"
+Riau|1,Rumah Sakit Umum Pusat Pekanbaru,1471415,RS Kemenkes Pekanbaru,Kemenkes RSUP Pekanbaru (under construction 2025-2026); SIRS: RS Kemenkes Pekanbaru
+Sumatera Selatan|2,Rumah Sakit Umum Pusat Dr. Rivai Abdullah Banyuasin,1671072,RS Umum Pusat Dr. Rivai Abdullah,Same hospital; name or kab/kota label differs slightly
+Kepulauan Bangka Belitung|7,Rumah Sakit Umum Daerah Kab. Bangka Selatan,1905024,RS Umum Daerah Junjung Besaoh,Main RSUD of Bangka Selatan (class C): RSUD Junjung Besaoh
+Lampung|4,Rumah Sakit Umum Daerah Sukadana,1804011,RS KH Ahmad Hanafiah,RSUD Sukadana renamed RSUD KH Ahmad Hanafiah
+Lampung|6,Rumah Sakit Umum Daerah Mayjend. HM. Ryacudu Kotabumi,1806013,RS Umum Daerah May Jen HM Ryacudu,Same hospital; name or kab/kota label differs slightly
+Banten|3,Rumah Sakit Umum Daerah Kabupaten Tangerang,3603010,RS Umum Daerah Kabupaten Tangerang,Regency hospital (not the Kota Tangerang one)
+Banten|8,Rumah Sakit Umum Daerah Kota Tangerang,3671208,RS Umum Daerah Kota Tangerang,City hospital (not the Kabupaten Tangerang one)
+Daerah Khusus Jakarta|1,Rumah Sakit Umum Pusat Nasional Dr. Cipto Mangunkusumo Jakarta,3173014,RSUPN Dr. Cipto Mangunkusumo,Same hospital; name or kab/kota label differs slightly
+Daerah Khusus Jakarta|2,Rumah Sakit Umum Pusat Fatmawati Jakarta,3171012,RSUP Fatmawati,Same hospital; name or kab/kota label differs slightly
+Jawa Barat|2,Rumah Sakit Umum Daerah Al Ihsan Provinsi Jawa Barat,3204086,RS Umum Daerah Welas Asih Provinsi Jawa Barat,RSUD Al Ihsan renamed RSUD Welas Asih (2025)
+Jawa Barat|3,Rumah Sakit Umum Daerah Cibinong,3201046,RS Umum Daerah Bakti Pajajaran,"RSUD Cibinong renamed RSUD Bakti Pajajaran (Bupati Bogor, 2025)"
+Jawa Barat|9,Rumah Sakit Umum Daerah Singaparna Medika Citrautama,3206023,RS Umum Daerah KHZ Musthafa Kabupaten Tasikmalaya,RSUD SMC renamed RSUD KHZ Musthafa (Perbup Tasikmalaya 34/2024)
+Jawa Barat|10,Rumah Sakit Umum Daerah Sumedang,3211015,RS Umum Daerah Umar Wirahadikusumah,RSUD Sumedang renamed RSUD Umar Wirahadikusumah (Aug 2024)
+Jawa Tengah|1,Rumah Sakit Umum Pusat Dr. Kariadi Semarang,3374010,RS Umum Pusat Dr. Kariadi,Same hospital; name or kab/kota label differs slightly
+Jawa Tengah|25,Rumah Sakit Daerah K.R.M.T. Wongsonegoro Kota Semarang,3374342,RS Daerah KRMT Wongsonegoro,Same hospital; name or kab/kota label differs slightly
+Jawa Tengah|34,Rumah Sakit Umum Daerah Djojonegoro Temanggung,3323013,RS Umum Daerah Kabupaten Temanggung,RSUD Djojonegoro is the RSUD of Kabupaten Temanggung
+DI Yogyakarta|1,Rumah Sakit Umum Pusat Dr. Sardjito Yogyakarta,3404015,RSUP Dr. Sardjito,Same hospital; name or kab/kota label differs slightly
+Jawa Timur|6,RS Umum Daerah Dr. Iskak Tulungagung,3504012,RS Umum Daerah Dr. Iskak,Same hospital; name or kab/kota label differs slightly
+Jawa Timur|11,Rumah Sakit Umum Daerah Dr. Soebandi,3509010,RS Umum Daerah Dr. Soebandi Jember,Same hospital; name or kab/kota label differs slightly
+Bali|2,Rumah Sakit Umum Daerah Bali Mandara Provinsi Bali,5171220,RS Umum Daerah Bali Mandara Provinsi Bali,"Same hospital; name or kab/kota label differs slightly (general hospital, not RS Mata Bali Mandara)"
+Nusa Tenggara Barat|5,Rumah Sakit Umum Daerah Praya Kabupaten Lombok Tengah,5202011,RS Umum Daerah Praya,Same hospital; name or kab/kota label differs slightly
+Nusa Tenggara Barat|7,Rumah Sakit Umum Daerah Kota Bima,5272005,RS Umum Daerah Kota Bima,City hospital (not the Kabupaten Bima one)
+Nusa Tenggara Barat|9,Rumah Sakit Umum Bima,5206015,RS Umum Daerah Bima,Regency hospital RSUD Bima (not the Kota Bima one)
+Nusa Tenggara Timur|1,Rumah Sakit Umum Pusat dr. Ben Mboi Kupang,5303056,RS Umum Pusat dr. Ben Mboi,Same hospital; name or kab/kota label differs slightly
+Nusa Tenggara Timur|2,Rumah Sakit Umum Daerah Prof. DR. W. Z. Johannes Kupang,5371011,RS Umum Prof. Dr. WZ Johanes,Same hospital; name or kab/kota label differs slightly
+Nusa Tenggara Timur|4,Rumah Sakit Umum Daerah Umbu Rara Meha Waingapu,5302023,RS Umum Daerah Waingapu,RSUD Umbu Rara Meha is RSUD Waingapu
+Nusa Tenggara Timur|13,Rumah Sakit Umum Daerah Ruteng,5313015,RS Umum Daerah Ruteng,Same hospital; name or kab/kota label differs slightly
+Nusa Tenggara Timur|14,Rumah Sakit Umum Daerah Komodo,5315003,RS Umum Daerah Komodo,Same hospital; name or kab/kota label differs slightly
+Kalimantan Barat|2,Rumah Sakit Umum Daerah Dr. Rubini Mempawah,6104014,RS Umum Daerah Dr. Rubini Mempawah,Same hospital; name or kab/kota label differs slightly
+Kalimantan Barat|15,Rumah Sakit Umum Daerah Kabupaten Kubu Raya,6112003,RS Umum Daerah Tuan Besar Syarif Idrus,"RSUD Kubu Raya: RSUD Tuan Besar Syarif Idrus (Kemenkes, 2025)"
+Kalimantan Tengah|4,Rumah Sakit Umum Daerah Dr. H. Soemarno Sosroaatmodjo Kab. Kapuas,6203015,RS Umum Daerah Dr. H. Soemarno Sosroaatmojo,Same hospital; name or kab/kota label differs slightly
+Kalimantan Tengah|10,Rumah Sakit Umum Daerah Kabupaten Lamandau,6207012,RS Umum Daerah Gusti Abdul Gani,Only Pemkab RSUD in Lamandau in SIRS (RSUD Gusti Abdul Gani)
+Kalimantan Tengah|11,Rumah Sakit Umum Daerah Sukamara,6207033,RS Umum Daerah Nawawi Mahmuda,"RSUD Sukamara, named after first regent Nawawi Mahmuda (Perbup 2025)"
+Kalimantan Timur|1,Rumah Sakit Umum Pusat IKN,6409048,RS Umum Pusat Ibu Kota Nusantara,SIRS: RS Umum Pusat Ibu Kota Nusantara
+Sulawesi Utara|3,Rumah Sakit Umum Daerah ODSK Provinsi Sulawesi Utara,7171103,RS Umum Daerah ODSK,"Same hospital; name or kab/kota label differs slightly (general hospital, not RS Mata Provinsi)"
+Sulawesi Utara|5,Rumah Sakit Umum Daerah Kota Bitung,7172048,RS Umum Daerah Kota Bitung,Same hospital; name or kab/kota label differs slightly
+Sulawesi Utara|6,Rumah Sakit Umum Datoe Binangkang,7101013,RS Umum Datoe Binangkang,Same hospital; name or kab/kota label differs slightly
+Gorontalo|3,Rumah Sakit Umum Daerah Tani dan Nelayan,7501043,RS Umum Daerah drg. Clara Gobel,RSUD Tani dan Nelayan Boalemo became RSUD drg. Clara Gobel (Perbup Boalemo 9/2025)
+Sulawesi Tengah|1,Rumah Sakit Umum Daerah Undata Palu,7271014,RS Umum Daerah Undata Provinsi Sulawesi Tengah,RSUD Undata is the Sulawesi Tengah provincial hospital
+Sulawesi Tengah|3,Rumah Sakit Umum Daerah Kabupaten Banggai,7202015,RS Umum Daerah Luwuk,Main RSUD of Kabupaten Banggai is RSUD Luwuk (not RSUD Banggai in Banggai Laut)
+Sulawesi Selatan|3,Rumah Sakit Umum Pusat Makassar,7371453,RS Umum Pusat Makassar,Same hospital; name or kab/kota label differs slightly
+Sulawesi Selatan|7,Rumah Sakit Umum Daerah Syekh Yusuf,7306046,RS Umum Daerah Syehk Yusuf Gowa,Same hospital; name or kab/kota label differs slightly
+Sulawesi Selatan|15,Rumah Sakit Umum Daerah Daya Kota Makassar,7371395,RS Umum Daerah Daya Kota Makassar,Same hospital; name or kab/kota label differs slightly
+Sulawesi Tenggara|2,Rumah Sakit Umum Daerah Bahteramas Provinsi Sulawesi Tenggara,7471011,RS Bahteramas Provinsi Sultra,Same hospital; name or kab/kota label differs slightly
+Sulawesi Tenggara|10,Rumah Sakit Umum Daerah Kota Kendari,7471092,RS Umum Daerah Kota Kendari,Same hospital; name or kab/kota label differs slightly
+Papua|1,Rumah Sakit Umum Pusat Jayapura,9271081,RS Umum Pusat Jayapura,Kemenkes RSUP Jayapura
+Papua|2,Rumah Sakit Umum Daerah Jayapura,9271012,RS Umum Jayapura,"RSUD Jayapura (Dok II), listed in SIRS as RS Umum Jayapura"
+Papua|3,Rumah Sakit Umum Daerah Abepura,9271023,RS Umum Abepura,Same hospital; name or kab/kota label differs slightly
+Papua|10,Rumah Sakit Umum Daerah Rumah Rodo Fabo,,,Not in SIRS: no hospital listed for Waropen
+Papua Tengah|6,Rumah Sakit Umum Daerah Kabupaten Dogiyai,9234003,RS Umum Daerah Pratama Dogiyai,Same hospital; name or kab/kota label differs slightly
+Papua Tengah|8,Rumah Sakit Umum Daerah Pratama Waghete,9236003,RS Umum Daerah Deiyai,Waghete is the capital of Deiyai; SIRS: RSUD Deiyai
+Papua Selatan|4,Rumah Sakit Umum Daerah Boven Digoel,9213039,RS Umum Daerah Boven Digoel,Same hospital; name or kab/kota label differs slightly (not the mobile RS Bergerak)

@@ -16,7 +16,7 @@ import dreams_match
 import kmk_match
 from regions import kab_key, kab_match, province_key
 from scoring import BANDS, FLOOR, band_index, required_for, score_pair
-from specialties import NAMES, is_doctor_specialist, normalize
+from specialties import NAMES, NAMES_ID, is_doctor_specialist, normalize
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SIRS = os.path.join(HERE, "data", "hospitals_sirs.json")
@@ -168,13 +168,14 @@ def main():
             kmk_by_hospital[m["sirs_kode"]] = {"tiers": m["tiers"], "page": m["halaman_pdf"], "nama": m["nama_rs"]}
 
     groups = peer_groups(hospitals)
-    reason_table, reason_index = [], {}
+    reason_table, reason_table_id, reason_index = [], [], {}
 
-    def rid(text):
-        if text not in reason_index:
-            reason_index[text] = len(reason_table)
-            reason_table.append(text)
-        return reason_index[text]
+    def rid(en, id_):
+        if en not in reason_index:
+            reason_index[en] = len(reason_table)
+            reason_table.append(en)
+            reason_table_id.append(id_)
+        return reason_index[en]
 
     out_h = []
     label_counts = Counter()
@@ -188,11 +189,11 @@ def main():
                            peer_median=g["medians"][s], kab_total=kab["totals"].get(s, 0) if kab else 0,
                            density=density.get(h["kab_id"], {}).get(s) if kab else None,
                            national_median=national_median[s], kab_name=kab["kab_kota"] if kab else h["kab_kota"],
-                           band_label=g["band"], peer_label=h["kind"])
+                           band_label=g["band"], peer_label=h["kind"], peer_count=g["size"])
             label_counts[r["label"]] += 1
             # Compact row: specialty, n, peer median, A, B, C, D, total, label, reason ids, KMK service
             scores.append([si, r["n"], g["medians"][s], r["A"], r["B"], r["C"], r["D"], r["total"],
-                           LABELS.index(r["label"]), [rid(x) for x in r["reasons"]],
+                           LABELS.index(r["label"]), [rid(en, id_) for en, id_ in zip(r["reasons"], r["reasons_id"])],
                            f"{r['b_service'][0]}|{r['b_service'][1]}" if r["b_service"] else None])
         out_h.append({
             "id": h["kode"], "name": h["nama"], "prov": h["provinsi"], "kab": h["kab_kota"], "kab_id": h["kab_id"],
@@ -228,11 +229,12 @@ def main():
         "meta": {"built": time.strftime("%Y-%m-%d %H:%M"), "sirs_downloaded": data["meta"]["downloaded"],
                  "population_source": "Dukcapil Kemendagri (AGR_VISUAL_KAB_FIX), total "
                                       f"{sum(k['population'] for k in kabs.values()):,}"},
-        "specialties": [{"code": s, "name": NAMES[s], "floor": s in FLOOR} for s in SPECIALTIES],
+        "specialties": [{"code": s, "name": NAMES[s], "name_id": NAMES_ID.get(s, NAMES[s]), "floor": s in FLOOR} for s in SPECIALTIES],
         "national_median": [round(national_median[s], 4) for s in SPECIALTIES],
         "kabs": [{"id": k["id"], "prov": k["provinsi"], "kab": k["kab_kota"], "pop": k["population"],
                   "hospitals": k["hospitals"], "totals": [k["totals"].get(s, 0) for s in SPECIALTIES]} for k in kabs.values()],
         "reasons": reason_table,
+        "reasons_id": reason_table_id,
         "hospitals": out_h,
         "quality": quality,
     }

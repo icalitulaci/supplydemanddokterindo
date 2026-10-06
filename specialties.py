@@ -36,6 +36,28 @@ DOCTOR = {
 }
 
 
+# Indonesian specialty names (dashboard) and doctor nouns (reason sentences)
+NAMES_ID = {
+    "Sp.PD": "Penyakit dalam", "Sp.A": "Anak", "Sp.OG": "Kebidanan & kandungan", "Sp.B": "Bedah umum",
+    "Sp.An": "Anestesi", "Sp.Rad": "Radiologi", "Sp.PK": "Patologi klinik", "Sp.PA": "Patologi anatomi",
+    "Sp.JP": "Jantung & pembuluh darah", "Sp.BTKV": "Bedah toraks & kardiovaskular", "Sp.N": "Saraf (neurologi)",
+    "Sp.BS": "Bedah saraf", "Sp.KFR": "Rehabilitasi medik", "Sp.U": "Urologi", "Sp.Onk.Rad": "Onkologi radiasi",
+    "Sp.KN": "Kedokteran nuklir", "Sp.BA": "Bedah anak", "Sp.M": "Mata", "Sp.THT-KL": "THT",
+    "Sp.OT": "Ortopedi & traumatologi", "Sp.P": "Paru", "Sp.DVE": "Kulit & kelamin", "Sp.KJ": "Kejiwaan",
+    "Sp.GK": "Gizi klinik", "Sp.BP": "Bedah plastik", "Sp.MK": "Mikrobiologi klinik", "Sp.F": "Forensik",
+    "Sp.Ak": "Akupunktur medik", "Sp.OK": "Kedokteran okupasi", "Sp.And": "Andrologi", "Sp.EM": "Emergensi",
+    "Sp.KO": "Kedokteran olahraga", "Sp.KKLP": "Kedokteran keluarga", "Sp.FK": "Farmakologi klinik",
+    "Sp.KP": "Kedokteran penerbangan", "Sp.ParK": "Parasitologi klinik", "Sp.KL": "Kedokteran kelautan",
+}
+DOCTOR_ID = {code: "dokter spesialis " + name.lower().replace(" & ", " dan ") for code, name in NAMES_ID.items()}
+DOCTOR_ID.update({"Sp.OG": "dokter spesialis kandungan (obgyn)", "Sp.N": "dokter spesialis saraf",
+                  "Sp.JP": "dokter spesialis jantung", "Sp.B": "dokter spesialis bedah"})
+
+
+def doctor_id(code):
+    return f"{DOCTOR_ID[code]} ({code})" if code in DOCTOR_ID else code
+
+
 def doctor(code):
     return f"{DOCTOR[code]} ({code})" if code in DOCTOR else code
 

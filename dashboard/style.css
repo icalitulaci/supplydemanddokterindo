@@ -25,14 +25,22 @@
   --font-data: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
   color-scheme: light;
 }
+/* Theme: "Follow my computer" uses the OS setting; Settings can force light or dark via data-theme. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #0e1615; --panel: #151f1d; --ink: #e2ebe8; --muted: #93a59f; --line: #283633;
     --accent: #4fc2ad; --accent-soft: #19332e; --high: #e5634d; --high-soft: #3a1f1a;
     --mod: #e6aa3a; --mod-soft: #3a2e17; --low: #6f8a83; --low-soft: #1e2a28; --approx: #a68cf0;
     --kA: #9b6fd0; --kB: #4f8fdc; --kC: #3fbfae; --kD: #e08a45; --kDP: #ecb987; --kX: #8a8f8d;
     color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+    --bg: #0e1615; --panel: #151f1d; --ink: #e2ebe8; --muted: #93a59f; --line: #283633;
+    --accent: #4fc2ad; --accent-soft: #19332e; --high: #e5634d; --high-soft: #3a1f1a;
+    --mod: #e6aa3a; --mod-soft: #3a2e17; --low: #6f8a83; --low-soft: #1e2a28; --approx: #a68cf0;
+    --kA: #9b6fd0; --kB: #4f8fdc; --kC: #3fbfae; --kD: #e08a45; --kDP: #ecb987; --kX: #8a8f8d;
+    color-scheme: dark;
 }
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
@@ -53,9 +61,9 @@ button, input, select { font: inherit; color: inherit; }
 
 main { display: grid; grid-template-rows: auto 1fr; min-width: 0; min-height: 0; }
 .filters { display: flex; flex-wrap: wrap; gap: 8px 10px; align-items: end; padding: 10px 16px; background: var(--panel); border-bottom: 1px solid var(--line); }
-.filters label { display: grid; gap: 3px; font-size: 11px; font-weight: 600; color: var(--muted); letter-spacing: 0.03em; }
-.filters input, .filters select { font-size: 13px; font-weight: 400; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; min-width: 0; max-width: 210px; }
-.filters input { width: 190px; }
+.filters > label { display: grid; gap: 3px; font-size: 11px; font-weight: 600; color: var(--muted); letter-spacing: 0.03em; }
+#f-q { font-size: 13px; font-weight: 400; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; min-width: 0; max-width: 210px; }
+#f-q { width: 190px; }
 button { cursor: pointer; border-radius: 6px; border: 1px solid var(--accent); background: var(--accent); color: var(--panel); padding: 6px 12px; font-size: 13px; font-weight: 600; }
 button.ghost { background: transparent; color: var(--accent); }
 button:disabled { opacity: 0.5; cursor: default; }
@@ -131,6 +139,14 @@ tr.click:hover td { background: var(--accent-soft); }
 td.r, th.r { text-align: right; }
 td.reasons { color: var(--muted); font-size: 12.5px; min-width: 260px; }
 td.reasons div + div { margin-top: 2px; }
+td.need-2 { background: var(--high-soft); color: var(--high); font-weight: 700; }
+td.need-1 { background: var(--mod-soft); color: var(--mod); font-weight: 600; }
+td.need-0 { color: var(--muted); }
+.col-hl { outline: 2px solid var(--accent); outline-offset: -2px; }
+.matrix { max-height: calc(100vh - 260px); overflow: auto; }
+.matrix th, .matrix td { padding: 6px 8px; }
+.matrix td.sticky { position: sticky; left: 0; background: var(--panel); min-width: 220px; z-index: 1; }
+.matrix tr.click:hover td.sticky { background: var(--accent-soft); }
 .cell-zero { background: var(--high-soft); color: var(--high); font-weight: 600; }
 .cell-half { background: var(--mod-soft); }
 .cell-below { background: var(--low-soft); }
@@ -157,3 +173,24 @@ tr.spot input[type="text"] { display: block; width: 220px; margin-bottom: 4px; }
   .bar-row { grid-template-columns: 130px 1fr 44px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+
+/* Multi-select filter dropdowns */
+.filters .f { display: grid; gap: 3px; font-size: 11px; font-weight: 600; color: var(--muted); letter-spacing: 0.03em; position: relative; }
+.ms-btn { font-size: 13px; font-weight: 400; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 6px 26px 6px 8px; min-width: 120px; max-width: 210px; text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; position: relative; }
+.ms-btn::after { content: "▾"; position: absolute; right: 8px; color: var(--muted); }
+.ms-btn.active { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.ms-pop { position: absolute; top: 100%; left: 0; z-index: 1200; margin-top: 4px; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 8px 24px rgb(0 0 0 / 0.16); width: max(240px, 100%); max-width: min(360px, 90vw); display: grid; gap: 6px; padding: 8px; font-weight: 400; letter-spacing: 0; }
+.ms-pop input[type="search"] { font-size: 13px; border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; background: var(--bg); color: var(--ink); width: 100%; }
+.ms-actions { display: flex; gap: 6px; justify-content: space-between; align-items: center; color: var(--muted); font-size: 12px; }
+.ms-actions button { padding: 2px 8px; font-size: 12px; }
+.ms-list { max-height: 280px; overflow-y: auto; display: grid; }
+.ms-list input[type="checkbox"] { flex: none; width: 16px; height: 16px; margin: 0; accent-color: var(--accent); }
+.ms-pop.right { left: auto; right: 0; }
+.ms-list label { display: flex; gap: 8px; align-items: center; padding: 4px 6px; border-radius: 4px; font-size: 13px; color: var(--ink); cursor: pointer; }
+.ms-list label:hover { background: var(--accent-soft); }
+
+/* Settings */
+.settings { display: grid; gap: 18px; max-width: 560px; }
+.settings fieldset { border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; background: var(--panel); display: grid; gap: 8px; }
+.settings legend { font-weight: 700; padding: 0 4px; }
+.settings label { display: flex; gap: 8px; align-items: center; cursor: pointer; }
